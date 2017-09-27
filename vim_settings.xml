@@ -5800,11 +5800,11 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1506509383381">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="27" />
-        <mark key="^" line="40" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1506510294104">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="70" />
+        <mark key="." line="37" column="70" />
+        <mark key="^" line="37" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/StakeException.java" timestamp="1506326324745">
         <mark key="[" line="6" column="45" />
@@ -6190,11 +6190,10 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1506510027607">
-        <mark key="[" line="66" column="47" />
-        <mark key="]" line="69" column="4" />
-        <mark key="." line="69" column="4" />
-        <mark key="^" line="69" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1506510358575">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/web/CoinAdminController.java" timestamp="1505717915265">
         <mark key="[" line="19" column="14" />
@@ -6631,34 +6630,34 @@
         <text encoding="base64">U3Rha2Ugc3Rha2UgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBpbnQgb2RkcyA9IHN0YWtlLmhpdChudW1iZXJzKTsKICAgICAgaWYgKG9kZHMgPiAwKSB7CiAgICAgICAgSW50ZWdlciBpZCA9IGVudHJ5LmdldEtleSgpOwogICAgICAgIHJlc3VsdC5wdXQoaWQsIG5ldyBTdGFrZVJlc3VsdChpZCwgb2Rkcywgc3Rha2UudG9TdHJpbmcoKSkpOwogICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBDdXJyZW50Tm8oKS5nZXRObygpKTsKICAgIERhdGUgdGltZSA9IG5ldyBEYXRlKCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZVV0aWxzLmZvcm1hdERhdGUodGltZSwgInl5eXlNTWRkSEhtbSIpKTsKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGFrZVN0b3JlLnJlYWQobm8pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluZm8ucHV0KGdhbWUuKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGFrZVN0b3JlLnJlYWQobm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluZm8ucHV0QWxsKGdhbWUuZ2V0U3Rha2VJbmZvKG5vKSk7Cg==</text>
+        <text encoding="base64">ICAgIGluZm8ucHV0KGdhbWUuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1hcDxPYmplY3QsIEludGVnZXI+IGluZm8gPSBuZXcgSGFzaE1hcDw+KCk7CiAgICBpbmZvLnB1dEFsbChnYW1lLmdldFN0YWtlSW5mbyhubykpOwogICAgaW5mby5wdXQoZ2FtZS4pOwo=</text>
+        <text encoding="base64">ICAgIGluZm8ucHV0QWxsKGdhbWUuZ2V0U3Rha2VJbmZvKG5vKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxPYmplY3QsIEludGVnZXI+IGluZm8gPSBuZXcgSGFzaE1hcDw+KCk7CiAgICBpbmZvLnB1dEFsbChnYW1lLmdldFN0YWtlSW5mbyhubykpOwogICAgaW5mby5wdXQoZ2FtZS4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnYW1lLmdldFN0YWtlSW5mbyhubyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBidWlsZGVyLnB1dCgxLCAxMDApLnB1dCgzLCAzMDApLnB1dCg2LCAxMDApLnB1dCg4LCAyNTApLnB1dCgiY291bnQiLCAxMCkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBnYW1lLmdldFN0YWtlSW5mbyhubyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
