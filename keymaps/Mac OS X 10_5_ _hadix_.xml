@@ -1,0 +1,97 @@
+<keymap version="1" name="Mac OS X 10.5+ (hadix)" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta m" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="ConvertJavaToKotlin" />
+  <action id="EditorCutLineEnd" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="MavenHelper.QuickRunMavenGoal" />
+  <action id="MavenHelper.QuickRunRootMavenGoal" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="PopupHector" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleMethodBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
+</keymap>

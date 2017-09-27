@@ -1,0 +1,16 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>DocGroup.setPathPattern (com.meizu.life.support.core)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPathPattern").withParameters("java.lang.String").definedInClass("com.meizu.life.support.core.DocGroup"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>DocGroup.setPathPattern (com.meizu.modularize.doc)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPathPattern").withParameters("java.lang.String").definedInClass("com.meizu.modularize.doc.DocGroup"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>property/@value</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd")))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/40fa6519_configuration_1_3.dtd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/d86d6899_ibatis-3-config.dtd" />
+    <resource url="http://maven.apache.org/plugins/maven-archetype-plugin/archetype/1.0.0" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/370f6210_archetype-1.0.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/a8440932_archetype-descriptor-1.0.0.xsd" />
+    <resource url="http://mybatis.org/schema/mybatis-spring.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/86250fb8_mybatis-spring.xsd" />
+    <ignored-resource url="http://www.eclipse.org/jetty/configure_9_0.dtd" />
+  </component>
+</application>
