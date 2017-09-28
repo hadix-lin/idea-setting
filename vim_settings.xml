@@ -144,11 +144,11 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/application.properties" timestamp="1506062624106">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/application.properties" timestamp="1506601576053">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/DiceResult.java" timestamp="1506483844986">
         <mark key="[" line="27" column="1" />
@@ -227,6 +227,12 @@
         <mark key="]" line="13" column="7" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/PayRequest.java" timestamp="1506596190587">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/src/main/resources/application.properties" timestamp="1502263243596">
         <mark key="[" line="7" column="30" />
@@ -606,6 +612,12 @@
         <mark key="^" line="218" column="59" />
         <mark key="." line="218" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/OrderPayStore.java" timestamp="1506601032738">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-test/src/main/resources/com/meizu/life/support/test/spring-test-web.xml" timestamp="1492700277539">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="26" />
@@ -756,7 +768,7 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1506591883700">
+      <file name="/dummy.sql" timestamp="1506601044839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleScan.java" timestamp="1497026345321">
@@ -843,11 +855,11 @@
         <mark key="^" line="59" column="20" />
         <mark key="." line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-container/pom.xml" timestamp="1505293496469">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="59" column="10" />
-        <mark key="^" line="59" column="10" />
-        <mark key="." line="59" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-container/pom.xml" timestamp="1506600167857">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/spring/UpdateRedisTask.java" timestamp="1493966445887">
         <mark key="[" line="7" column="15" />
@@ -933,6 +945,12 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/dao/mapper/RecordMapper.java" timestamp="1506600886779">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/ctx/CouponContext.java" timestamp="1504163465677">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="17" />
@@ -1002,6 +1020,9 @@
         <mark key="^" line="18" column="40" />
         <mark key="." line="18" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" timestamp="1506600554291">
+        <mark key="'" line="292" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/CouponMsgCode.java" timestamp="1499998088220">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="50" />
@@ -1055,6 +1076,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/CouponMapper.java" timestamp="1506583148133">
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-exception/src/main/java/com/meizu/life/exception/RateLimitException.java" timestamp="1504688080392">
         <mark key="[" line="14" column="1" />
@@ -1476,8 +1504,8 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" timestamp="1506567860798">
-        <mark key="'" line="132" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" timestamp="1506595106273">
+        <mark key="'" line="180" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/src/main/resources/application.yml" timestamp="1501485297361">
         <mark key="[" line="14" column="20" />
@@ -2454,7 +2482,8 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/model/Order.java" timestamp="1506332140916">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/model/Order.java" timestamp="1506595954062">
+        <mark key="'" line="11" column="13" />
         <mark key="[" line="70" column="9" />
         <mark key="]" line="70" column="8" />
         <mark key="^" line="70" column="8" />
@@ -2886,7 +2915,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/web/CouponAuthController.java" timestamp="1506590223774">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/web/CouponAuthController.java" timestamp="1506599509729">
         <mark key="[" line="50" column="3" />
         <mark key="]" line="50" column="2" />
         <mark key="^" line="50" column="2" />
@@ -3645,7 +3674,8 @@
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" timestamp="1506588166059">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" timestamp="1506600113662">
+        <mark key="'" line="61" column="60" />
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="46" />
         <mark key="^" line="37" column="46" />
@@ -3813,11 +3843,16 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebMvcConfigurer.java" timestamp="1506592669043">
-        <mark key="[" line="49" column="54" />
-        <mark key="]" line="49" column="53" />
-        <mark key="." line="49" column="53" />
-        <mark key="^" line="49" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1506599403501">
+        <mark key="[" line="98" column="27" />
+        <mark key="]" line="99" column="17" />
+        <mark key="." line="99" column="17" />
+        <mark key="^" line="99" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebMvcConfigurer.java" timestamp="1506595059346">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-dao/src/main/java/com/meizu/life/user/dao/impl/UserCouponDaoImpl.java" timestamp="1503998623007">
         <mark key="[" line="6" column="0" />
@@ -4041,7 +4076,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506592855649">
+      <file name="/Dummy.txt" timestamp="1506594823789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -4094,6 +4129,12 @@
         <mark key="]" line="13" column="22" />
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/StakeRecord.java" timestamp="1506599320993">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-mybatis/src/main/java/com/meizu/life/support/mybatis/DataSourceFactoryBean.java" timestamp="1495703337308">
         <mark key="[" line="81" column="44" />
@@ -4179,11 +4220,10 @@
         <mark key="^" line="12" column="64" />
         <mark key="." line="12" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/MergePayBuilder.java" timestamp="1506588372809">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="25" />
-        <mark key="^" line="35" column="25" />
-        <mark key="." line="35" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/MergePayBuilder.java" timestamp="1506595991763">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-config/src/main/java/com/meizu/life/config/ConfigBuilder.java" timestamp="1494587753412">
         <mark key="[" line="83" column="0" />
@@ -4221,6 +4261,14 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" timestamp="1506587779000">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="41" />
+        <mark key="^" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.11.RELEASE/spring-aop-4.3.11.RELEASE-sources.jar!/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.java" timestamp="1506597674565" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demoa/src/main/java/com/meizu/life/luckbuy/AService.java" timestamp="1492675513122">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="15" />
@@ -4311,7 +4359,6 @@
         <mark key="^" line="35" column="34" />
         <mark key="." line="35" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" timestamp="1506592795807" />
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/activity/service/GeneralCouponService.java" timestamp="1492084726495">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="19" />
@@ -4443,6 +4490,13 @@
         <mark key="]" line="5" column="35" />
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" timestamp="1506601415412">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="9" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="79" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-goods/src/main/java/cn/flyme/venice/goods/GoodsModuleConfiguration.java" timestamp="1505115778009">
         <mark key="[" line="2" column="7" />
@@ -5062,6 +5116,12 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/utils/PayUtils.java" timestamp="1506600643475">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/web/vo/AllPartakeInfo.java" timestamp="1502675576237">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -5098,7 +5158,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1506591562566">
+      <file name="/a.sql" timestamp="1506601051168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/ctx/RedisContext.java" timestamp="1492484826326">
@@ -5767,11 +5827,11 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1506592855640">
+      <file name="/fragment.java" timestamp="1506597742509">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/stake/sum/SumStake.java" timestamp="1505983680477">
         <mark key="[" line="20" column="41" />
@@ -5917,11 +5977,10 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1506510294104">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="70" />
-        <mark key="." line="37" column="70" />
-        <mark key="^" line="37" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1506599048694">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/StakeException.java" timestamp="1506326324745">
         <mark key="[" line="6" column="45" />
@@ -6036,6 +6095,18 @@
         <mark key="]" line="151" column="89" />
         <mark key="^" line="151" column="89" />
         <mark key="." line="151" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" timestamp="1506583402555">
+        <mark key="'" line="118" column="14" />
+        <mark key="[" line="210" column="8" />
+        <mark key="]" line="211" column="1" />
+        <mark key="." line="211" column="1" />
+        <mark key="^" line="211" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/pom.xml" timestamp="1506595187532">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demob/src/main/java/com/meizu/life/demob/web/HelloController.java" timestamp="1492685903236">
         <mark key="[" line="20" column="35" />
@@ -6157,7 +6228,7 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-web/src/main/java/com/meizu/life/support/web/ctx/WebContext.java" timestamp="1506592759317">
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-web/src/main/java/com/meizu/life/support/web/ctx/WebContext.java" timestamp="1506594684860">
         <mark key="[" line="88" column="25" />
         <mark key="]" line="88" column="24" />
         <mark key="^" line="88" column="24" />
@@ -6313,10 +6384,12 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1506592056679">
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1506598457050">
+        <mark key="'" line="69" column="2" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/web/CoinAdminController.java" timestamp="1505717915265">
         <mark key="[" line="19" column="14" />
@@ -6498,11 +6571,18 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console.sql" timestamp="1506589355971">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console.sql" timestamp="1506601102085">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="33" />
+        <mark key="^" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponServiceImpl.java" timestamp="1506584231742">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="162" column="64" />
+        <mark key="]" line="162" column="60" />
+        <mark key="^" line="162" column="60" />
+        <mark key="." line="162" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/java/com/meizu/life/coupon/dao/TestServiceContext.java" timestamp="1492741393446">
         <mark key="[" line="11" column="8" />
@@ -6594,6 +6674,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console_5.sql" timestamp="1506601396381">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="15" />
+        <mark key="^" line="60" column="15" />
+        <mark key="." line="60" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/dao/mapper/UserAccountMapper.java" timestamp="1493201542410">
         <mark key="[" line="53" column="93" />
         <mark key="]" line="53" column="96" />
@@ -6632,24 +6718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/model/Record.java" />
-      <jump line="34" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/model/Record.java" />
-      <jump line="36" column="13" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-doc/src/main/java/com/meizu/modularize/doc/DocAutoConfiguration.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-doc/src/main/java/com/meizu/modularize/doc/DocAutoConfiguration.java" />
-      <jump line="7" column="39" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-parent/pom.xml" />
-      <jump line="591" column="12" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-parent/pom.xml" />
-      <jump line="179" column="35" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-parent/pom.xml" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/ExchangeGoods.java" />
-      <jump line="11" column="38" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/ExchangeGoods.java" />
-      <jump line="60" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/ExchangeGoods.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/ExchangeGoods.java" />
-      <jump line="50" column="22" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/ExchangeGoodsAdminController.java" />
-      <jump line="14" column="30" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/ExchangeGoods.java" />
-      <jump line="74" column="15" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/service/impl/ExchangeGoodsServiceImpl.java" />
-      <jump line="67" column="13" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/service/impl/ExchangeGoodsServiceImpl.java" />
-      <jump line="112" column="38" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/service/impl/ExchangeGoodsServiceImpl.java" />
-      <jump line="4" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.7.RELEASE/spring-boot-dependencies-1.5.7.RELEASE.pom" />
-      <jump line="10" column="7" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/AllSameStake.java" />
       <jump line="22" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/stake/StakeGroup.java" />
       <jump line="37" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/stake/FixNumberStake.java" />
       <jump line="5" column="1" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/stake/FixNumberStake.java" />
@@ -6732,6 +6800,24 @@
       <jump line="89" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" />
       <jump line="427" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" />
       <jump line="299" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" />
+      <jump line="64" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" />
+      <jump line="77" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" />
+      <jump line="409" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
+      <jump line="444" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
+      <jump line="180" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/model/Order.java" />
+      <jump line="69" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
+      <jump line="61" column="60" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" />
+      <jump line="292" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" />
+      <jump line="71" column="16" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="51" column="79" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="77" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="85" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="38" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="79" column="9" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/resources/mybatis/cn/flyme/venice/pay/PayOrder.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6747,49 +6833,49 @@
         <text>&quot;com.meizu.media.life&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>validator</text>
+        <text encoding="base64">PHNlbGVjdA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgLyoqIOeUn+aIkOWPkei1t+aUr+S7mOeahOWunuS9k+S/oeaBryAqLwogIHByaXZhdGUgUGF5SW5mbyBidWlsZFBheUluZm8oU3RyaW5nIG9yZGVySWQsIFN0cmluZyByZXN1bHQpIHsKICAgIFBheUluZm8gcGF5SW5mbyA9IG5ldyBQYXlJbmZvKCk7CiAgICBwYXlJbmZvLnNldE9yZGVySWQob3JkZXJJZCk7CiAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhyZXN1bHQpKSB7CiAgICAgIGlmIChTdHJpbmdVdGlscy5lcXVhbHNJZ25vcmVDYXNlKFBheUNvbnN0YW50cy5TVUNDRVNTX1JFU1VMVCwgcmVzdWx0KSkgewogICAgICAgIHBheUluZm8uc2V0UGF5Q29tcGxldGUodHJ1ZSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcGF5SW5mby5zZXRQYXlJbmZvKHJlc3VsdCk7CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBwYXlJbmZvOwogIH0K</text>
+      <register name="0" type="4">
+        <text>resultType=&quot;cn.flyme.venice.pay.model.PayOrder&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzID0gYmVhbi50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">c2Rr5pSv5LuY5ZCI5L2c5pa5a2V5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXlSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXlSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgIHRyeXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheVJlcXVlc3Quc2V0U2lnbihidWlsZFBheVJlcXVlc3RTaWduKHBheVJlcXVlc3QpKTsK</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZygidGVzdF92YWxpZGF0ZS5kbyIpCiAgcHVibGljIHZvaWQgdGVzdFZhbGlkYXRlKEBWYWxpZGF0ZWQgU3Rha2VSZWNvcmQgcmVjb3JkKSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBidWlsZFBheUluZm8ocGF5UmVxdWVzdC5nZXRPcmRlcklkKCksIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICBATWluKDUwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgbG9jaygKICAgICAgQEFwaUlnbm9yZSBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInBlcl91c2VySWQiKSBMb25nIHVzZXJJZCwKICAgICAgQEFwaVBhcmFtKCLorr7lpIfmoIfor4YiKSBATm90QmxhbmsgU3RyaW5nIGRldmljZUlkKSB7fQoKICBwdWJsaWMgdm9pZCB1bmxvY2soCiAgICAgIEBBcGlJZ25vcmUgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwZXJfdXNlcklkIikgTG9uZyB1c2VySWQsCiAgICAgIEBBcGlQYXJhbSgi6K6+5aSH5qCH6K+GIikgQE5vdEJsYW5rIFN0cmluZyBkZXZpY2VJZCkge30K</text>
+        <text encoding="base64">ICBATm90TnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3Rha2VSZWNvcmQgcmVjb3JkMSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgQXBwbGljYXRpb25Db250ZXh0IGN0eDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAVmFsaWRhdGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>validator</last-search>
+      <last-search encoding="base64">PHNlbGVjdA==</last-search>
       <last-offset />
-      <last-pattern>validator</last-pattern>
+      <last-pattern encoding="base64">PHNlbGVjdA==</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -6797,10 +6883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stringutils</entry>
-        <entry>test</entry>
-        <entry>redis</entry>
-        <entry>tablerules</entry>
         <entry>iml</entry>
         <entry>docinfo</entry>
         <entry>msgcode</entry>
@@ -6817,6 +6899,10 @@
         <entry>query</entry>
         <entry>owner</entry>
         <entry>validator</entry>
+        <entry>getvali</entry>
+        <entry>validat</entry>
+        <entry>select</entry>
+        <entry encoding="base64">PHNlbGVjdA==</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
