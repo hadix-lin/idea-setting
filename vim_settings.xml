@@ -1468,6 +1468,9 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" timestamp="1506567860798">
+        <mark key="'" line="132" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/src/main/resources/application.yml" timestamp="1501485297361">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="19" />
@@ -3724,11 +3727,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebMvcConfigurer.java" timestamp="1505291233640">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="21" />
-        <mark key="." line="62" column="21" />
-        <mark key="^" line="62" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebMvcConfigurer.java" timestamp="1506567810377">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-dao/src/main/java/com/meizu/life/user/dao/impl/UserCouponDaoImpl.java" timestamp="1503998623007">
         <mark key="[" line="6" column="0" />
@@ -3946,7 +3949,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506493671221">
+      <file name="/Dummy.txt" timestamp="1506567774570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -4150,6 +4153,7 @@
         <mark key="^" line="170" column="3" />
         <mark key="." line="136" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.11.RELEASE/spring-webmvc-4.3.11.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" timestamp="1506567909939" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/autoconfigure/kiev/KievAutoConfiguration.java" timestamp="1495382022016">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="24" column="7" />
@@ -6509,7 +6513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="62" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.12/druid-1.0.12-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
       <jump line="954" column="19" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.12/druid-1.0.12-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
       <jump line="956" column="29" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.12/druid-1.0.12-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
       <jump line="960" column="34" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.12/druid-1.0.12-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
@@ -6609,6 +6612,7 @@
       <jump line="80" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="134" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
+      <jump line="132" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6624,7 +6628,7 @@
         <text>, @ApiParam(&quot;场次编号&quot;) @NotBlank Long no</text>
       </register>
       <register name="/" type="4">
-        <text>typehandlers</text>
+        <text>valida</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3Rha2Ugc3Rha2UgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBpbnQgb2RkcyA9IHN0YWtlLmhpdChudW1iZXJzKTsKICAgICAgaWYgKG9kZHMgPiAwKSB7CiAgICAgICAgSW50ZWdlciBpZCA9IGVudHJ5LmdldEtleSgpOwogICAgICAgIHJlc3VsdC5wdXQoaWQsIG5ldyBTdGFrZVJlc3VsdChpZCwgb2Rkcywgc3Rha2UudG9TdHJpbmcoKSkpOwogICAgICB9</text>
@@ -6664,9 +6668,9 @@
       </register>
     </registers>
     <search>
-      <last-search>typehandlers</last-search>
+      <last-search>valida</last-search>
       <last-offset />
-      <last-pattern>typehandlers</last-pattern>
+      <last-pattern>valida</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -6674,8 +6678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>meizu-kiev</entry>
-        <entry>taurus</entry>
         <entry>life</entry>
         <entry>luckbuy</entry>
         <entry>stringutils</entry>
@@ -6694,6 +6696,8 @@
         <entry>curl</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>typehandlers</entry>
+        <entry>validator</entry>
+        <entry>valida</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
