@@ -2789,6 +2789,12 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/model/Batch.java" timestamp="1506675214058">
+        <mark key="[" line="161" column="1" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/create-table.sql" timestamp="1506493906055">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="31" column="504" />
@@ -3113,6 +3119,12 @@
         <mark key="]" line="22" column="23" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" timestamp="1506675082920">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-pay/src/main/resources/mybatis/PayOrder.xml" timestamp="1503283645263">
         <mark key="[" line="112" column="55" />
@@ -6857,31 +6869,31 @@
         <text>resultType=&quot;cn.flyme.venice.pay.model.PayOrder&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWtlU3RvcmUucG9wVXNlcigpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFBheUFwaS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFBheUFwaS4K</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IE5vU3VjaFBhZGRpbmdFeGNlcHRpb24sIEJhZFBhZGRpbmdFeGNlcHRpb24sIEludmFsaWRBbGdvcml0aG1QYXJhbWV0ZXJFeGNlcHRpb24sCiAgICAgICAgICBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24sIElsbGVnYWxCbG9ja1NpemVFeGNlcHRpb24sIFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24sCiAgICAgICAgICBJbnZhbGlkS2V5RXhjZXB0aW9u</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90TnVsbDsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YWtlU3RvcmUucG9wVXNlcigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFBheUFwaS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFBheUFwaS4K</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IE5vU3VjaFBhZGRpbmdFeGNlcHRpb24sIEJhZFBhZGRpbmdFeGNlcHRpb24sIEludmFsaWRBbGdvcml0aG1QYXJhbWV0ZXJFeGNlcHRpb24sCiAgICAgICAgICBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24sIElsbGVnYWxCbG9ja1NpemVFeGNlcHRpb24sIFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24sCiAgICAgICAgICBJbnZhbGlkS2V5RXhjZXB0aW9u</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
