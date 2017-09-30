@@ -12,6 +12,7 @@
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="scc" type="PLAIN_TEXT" />
       <mapping ext="props" type="Properties" />
+      <mapping pattern="userStakeRecord" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
