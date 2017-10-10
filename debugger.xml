@@ -64,7 +64,7 @@
     </filter>
     <filter>
       <option name="PATTERN" value="org.springframework.aop.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
     </filter>
   </component>
   <component name="XDebuggerSettings">
