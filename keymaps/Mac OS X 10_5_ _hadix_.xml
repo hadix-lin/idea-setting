@@ -68,6 +68,9 @@
   <action id="ShowColorPicker">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="ShowReformatFileDialog" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
