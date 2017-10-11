@@ -475,7 +475,7 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/service/impl/PayH5Component.java" timestamp="1507633733069">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/service/impl/PayH5Component.java" timestamp="1507687546141">
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="12" />
         <mark key="^" line="69" column="12" />
@@ -3335,6 +3335,12 @@
         <mark key="^" line="72" column="20" />
         <mark key="." line="72" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/tool/TableDefinitionScannerAndCreator.java" timestamp="1507688169668">
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="66" />
+        <mark key="^" line="52" column="66" />
+        <mark key="." line="52" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/web/CouponActivityAuthController.java" timestamp="1500947987645">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="53" />
@@ -6098,7 +6104,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507637143480">
+      <file name="/fragment.java" timestamp="1507687849149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -7121,44 +7127,34 @@
         <text>KEY_PREFIX_STAKE +</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNldEJlYW5GYWN0b3J5KEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5KSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICB0aGlzLmJlYW5GYWN0b3J5ID0gYmVhbkZhY3Rvcnk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0b0JpbmFyeShTdHJpbmcga2V5KSB7CiAgICB0cnkgewogICAgICByZXR1cm4gKEtFWV9QUkVGSVhfU1RBS0UgKyBrZXkpLmdldEJ5dGVzKCJJU08tODg1OS0xIik7CiAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICByZXR1cm4gbmV3IGJ5dGVbMF07CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNldEJlYW5GYWN0b3J5KEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5KSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICB0aGlzLmJlYW5GYWN0b3J5ID0gYmVhbkZhY3Rvcnk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IGJhc2VQYWNrYWdlcyA9IE1vZHVsZUF1dG9Db25maWd1cmF0aW9uUGFja2FnZXMuZ2V0KGJlYW5GYWN0b3J5KTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-   * 签名字符串
-   *
-   * @param base 需要签名的字符串
-   * @param key 密钥
-   * @param input_charset 编码格式
-   * @return 签名结果
-   */
-  public static String sign(String base, String key, String input_charset) {
-    return DigestUtils.md5Hex(getContentBytes(mixKeyAndBase(base, key), input_charset));
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiog562+5ZCN5Z+65Liy5ZKMa2V55re35reG566X5rOV77yM5Yqg5aSn56C06Kej5aSN5p2C5bqmICovCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZVJ1bGVCYXNlUGFja2FnZXMuYWRkKGJhc2VQYWNrYWdlICsgIi4qKi5kYW8ubWFwcGVyIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKiog562+5ZCN5Z+65Liy5ZKMa2V55re35reG566X5rOV77yM5Yqg5aSn56C06Kej5aSN5p2C5bqmICovCiAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIG1peEtleUFuZEJhc2UoU3RyaW5nIGJhc2UsIFN0cmluZyBrZXksIFN0cmluZyBmb3JtYXQpIHsKICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KGZvcm1hdCwgYmFzZSwga2V5KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChTdHJpbmcgYmFzZVBhY2thZ2UgOiBiYXNlUGFja2FnZXMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgYnl0ZVtdIGdldENvbnRlbnRCeXRlcyhTdHJpbmcgY29udGVudCwgU3RyaW5nIGNoYXJzZXQpIHsKICAgIGlmIChjaGFyc2V0ID09IG51bGwgfHwgIiIuZXF1YWxzKGNoYXJzZXQpKSB7CiAgICAgIHJldHVybiBjb250ZW50LmdldEJ5dGVzKCk7CiAgICB9CiAgICB0cnkgewogICAgICByZXR1cm4gY29udGVudC5nZXRCeXRlcyhjaGFyc2V0KTsKICAgIH0gY2F0Y2ggKFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiTUQ1562+5ZCN6L+H56iL5Lit5Ye6546w6ZSZ6K+vLOaMh+WumueahOe8lueggembhuS4jeWvuSzmgqjnm67liY3mjIflrprnmoTnvJbnoIHpm4bmmK86IiArIGNoYXJzZXQpOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IHRhYmxlUnVsZUJhc2VQYWNrYWdlcyA9IG5ldyBBcnJheUxpc3Q8PihiYXNlUGFja2FnZXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBTdHJpbmcgc2lnbihTdHJpbmcgYmFzZSwgU3RyaW5nIGtleSkgewogICAgcmV0dXJuIHNpZ24oYmFzZSwga2V5LCAidXRmLTgiKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
