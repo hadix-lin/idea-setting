@@ -108,6 +108,7 @@
         <mark key="^" line="46" column="42" />
         <mark key="." line="46" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/MergePayAsyncNotify.java" timestamp="1507616820849" />
       <file name="$USER_HOME$/Documents/Projects/live/.editorconfig" timestamp="1496736437667">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="12" />
@@ -799,6 +800,7 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meizu/yard/yard-client/5.2.2-RC06/yard-client-5.2.2-RC06-sources.jar!/com/meizu/yard/client/internal/DefaultConfigProcess.java" timestamp="1507692763147" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/DbProperties.java" timestamp="1497345961363">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -2682,11 +2684,11 @@
         <mark key="^" line="29" column="39" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/tables/record.sql" timestamp="1505877137713">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/tables/record.sql" timestamp="1507692269720">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/resources/tables/diceRecord.sql" timestamp="1507636099413">
         <mark key="[" line="13" column="21" />
@@ -2805,8 +2807,8 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1505206940811">
-        <mark key="[" line="39" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1507693480119">
+        <mark key="[" line="54" column="25" />
         <mark key="]" line="41" column="25" />
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
@@ -2841,11 +2843,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/tool/CreateTableTool.java" timestamp="1507690380425">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/tool/CreateTableTool.java" timestamp="1507693521685">
+        <mark key="[" line="58" column="70" />
+        <mark key="]" line="54" column="13" />
+        <mark key="^" line="54" column="13" />
+        <mark key="." line="54" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/service/CouponPayTradeListener.java" timestamp="1506310986497">
         <mark key="[" line="20" column="18" />
@@ -5755,6 +5757,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/WareModuleConfiguration.java" timestamp="1507693067341">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="29" />
+        <mark key="^" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/web/WebTest.java" timestamp="1497240820097">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="6" column="15" />
@@ -6104,7 +6112,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507687849149">
+      <file name="/fragment.java" timestamp="1507692562730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -7124,37 +7132,37 @@
         <text>notblank</text>
       </register>
       <register name="0" type="4">
-        <text>KEY_PREFIX_STAKE +</text>
+        <text>CREATE TABLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljVGFibGVOYW1lID0gU3RyaW5nVXRpbHMuc3Vic3RyaW5nQmV0d2VlbigiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA+PSA0KSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhlY3V0ZVNxbChzcWxMaXN0KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChvdXRwdXQgPT0gbnVsbCkgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChhcmdzLmxlbmd0aCA+PSA0KSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHNldEJlYW5GYWN0b3J5KEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5KSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICB0aGlzLmJlYW5GYWN0b3J5ID0gYmVhbkZhY3Rvcnk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
