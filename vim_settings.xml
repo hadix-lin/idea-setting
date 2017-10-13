@@ -2344,6 +2344,12 @@
         <mark key="^" line="40" column="12" />
         <mark key="." line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/MergePayMsgCode.java" timestamp="1507875840205">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demo/src/main/java/com/meizu/life/luckbuy/mybatis/MybtisRedisCache.java" timestamp="1493905325332">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="13" column="19" />
@@ -3453,8 +3459,12 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CoinStrategy.java" timestamp="1507861809672">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CoinStrategy.java" timestamp="1507875945114">
         <mark key="'" line="42" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-web/src/main/java/com/meizu/life/support/web/WebContext.java" timestamp="1494526625025">
         <mark key="[" line="42" column="58" />
@@ -3847,12 +3857,12 @@
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" timestamp="1507861840365">
-        <mark key="'" line="42" column="34" />
-        <mark key="[" line="28" column="79" />
-        <mark key="]" line="28" column="78" />
-        <mark key="^" line="28" column="78" />
-        <mark key="." line="28" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" timestamp="1507875929860">
+        <mark key="'" line="45" column="34" />
+        <mark key="[" line="73" column="93" />
+        <mark key="]" line="73" column="122" />
+        <mark key="^" line="73" column="122" />
+        <mark key="." line="73" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/dao/mapper/TableRuleContext.java" timestamp="1495619283305">
         <mark key="[" line="17" column="5" />
@@ -7141,34 +7151,34 @@
         <text>CREATE TABLE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIOmBjeWOhuavj+S4queUqOaIt+eahOaKleazqOihqOi/m+ihjOWMuemFjQogICAgd2hpbGUgKHRydWUpIHsKICAgICAgYm9vbGVhbiBoYXNOZXh0ID0KICAgICAgaWYgKCFoYXNOZXh0KSB7CiAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YWtlU3RvcmUucG9wVXNlcigKICAgICAgICAgICAgICBubywKICAgICAgICAgICAgICBuZXcgRnVuY3Rpb248TG9uZywgQm9vbGVhbj4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGFwcGx5KExvbmcgdXNlcklkKSB7CiAgICAgICAgICAgICAgICAgIFVzZXJTdGFrZVJlY29yZCB1c3I7CiAgICAgICAgICAgICAgICAgIGxvbmcgcGF5b2ZmOwogICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHVzciA9IGNyZWF0ZVVzZXJTdGFrZVJlY29yZCh1c2VySWQsIG5vLCBzdGFrZVJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgcGF5b2ZmID0gdXNlclRyYW5zYWN0aW9uLnNhdmVBbmRPcGVyYXRlVXNlckNvaW4odXNyKTsKICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgICLkv53lrZjnlKjmiLfmipXms6jorrDlvZXlj5HnlJ/plJnor68sdXNlcklkPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgdXNlcklkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIsIG5vPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgbm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiwgc3Rha2VSZXN1bHQ9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBzdGFrZVJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgZSk7CiAgICAgICAgICAgICAgICAgICAgLy8g5Ye66ZSZ55qE55So5oi355u05o6l5Lii5byDLOS4jemHjeivlemBv+WFjeaXoOe6v+W+queOrwogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAvLyDntK/orqHlnLrmrKHnm4jkuo8KICAgICAgICAgICAgICAgICAgZGljZVJlY29yZC5wYXlvZmYocGF5b2ZmKTsKICAgICAgICAgICAgICAgICAgZGljZVJlY29yZC5hZGRBbW91bnQodXNyLmdldFRvdGFsQW1vdW50KCkpOwogICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIC8vIOmBjeWOhuavj+S4queUqOaIt+eahOaKleazqOihqOi/m+ihjOWMuemFjQogICAgd2hpbGUgKHRydWUpIHsKICAgICAgYm9vbGVhbiBoYXNOZXh0ID0KICAgICAgaWYgKCFoYXNOZXh0KSB7CiAgICAgICAgYnJlYWs7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQ2xvc2VhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YWtlU3RvcmUucG9wVXNlcigKICAgICAgICAgICAgICBubywKICAgICAgICAgICAgICBuZXcgRnVuY3Rpb248TG9uZywgQm9vbGVhbj4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBCb29sZWFuIGFwcGx5KExvbmcgdXNlcklkKSB7CiAgICAgICAgICAgICAgICAgIFVzZXJTdGFrZVJlY29yZCB1c3I7CiAgICAgICAgICAgICAgICAgIGxvbmcgcGF5b2ZmOwogICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHVzciA9IGNyZWF0ZVVzZXJTdGFrZVJlY29yZCh1c2VySWQsIG5vLCBzdGFrZVJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgcGF5b2ZmID0gdXNlclRyYW5zYWN0aW9uLnNhdmVBbmRPcGVyYXRlVXNlckNvaW4odXNyKTsKICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgICLkv53lrZjnlKjmiLfmipXms6jorrDlvZXlj5HnlJ/plJnor68sdXNlcklkPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgdXNlcklkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIsIG5vPSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgbm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiwgc3Rha2VSZXN1bHQ9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBzdGFrZVJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgZSk7CiAgICAgICAgICAgICAgICAgICAgLy8g5Ye66ZSZ55qE55So5oi355u05o6l5Lii5byDLOS4jemHjeivlemBv+WFjeaXoOe6v+W+queOrwogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAvLyDntK/orqHlnLrmrKHnm4jkuo8KICAgICAgICAgICAgICAgICAgZGljZVJlY29yZC5wYXlvZmYocGF5b2ZmKTsKICAgICAgICAgICAgICAgICAgZGljZVJlY29yZC5hZGRBbW91bnQodXNyLmdldFRvdGFsQW1vdW50KCkpOwogICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQ2xvc2VhYmxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
