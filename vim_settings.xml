@@ -156,9 +156,9 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/application.properties" timestamp="1506601576053">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/application.properties" timestamp="1507887063775">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="63" />
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
@@ -3762,11 +3762,11 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-data/src/main/java/com/meizu/life/data/meituan/poi/ShopPullTask.java" timestamp="1507881982000">
-        <mark key="[" line="91" column="47" />
-        <mark key="]" line="91" column="46" />
-        <mark key="^" line="91" column="46" />
-        <mark key="." line="91" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-data/src/main/java/com/meizu/life/data/meituan/poi/ShopPullTask.java" timestamp="1507886372527">
+        <mark key="[" line="83" column="35" />
+        <mark key="]" line="83" column="34" />
+        <mark key="^" line="83" column="34" />
+        <mark key="." line="83" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-test/pom.xml" timestamp="1495765762891">
         <mark key="[" line="36" column="10" />
@@ -7055,7 +7055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessOrderMapper.xml" />
       <jump line="247" column="31" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessOrderMapper.xml" />
       <jump line="12" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessOrderMapper.xml" />
       <jump line="26" column="82" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessOrderMapper.xml" />
@@ -7155,6 +7154,7 @@
       <jump line="42" column="34" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayServiceImpl.java" />
       <jump line="44" column="14" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CoinStrategy.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CoinStrategy.java" />
+      <jump line="81" column="11" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebAutoConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7172,8 +7172,8 @@
       <register name="/" type="4">
         <text>notblank</text>
       </register>
-      <register name="0" type="4">
-        <text>http://api.union.meituan.com/apipage/tencent/map.xml</text>
+      <register name="0" type="2">
+        <text encoding="base64">d2ViLmZpbHRlci5jb3JzLmFsbG93ZWQtb3JpZ2lucz0ubWVpenUuY29tLC5mbHltZS5jbiwubXpyZXMuY29tCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly9odHRwOi8vYXBpLnVuaW9uLm1laXR1YW4uY29tL2FwaXBhZ2UvdGVuY2VudC9tYXAueG1sCi8vaHR0cDovL2FwaS51bmlvbi5tZWl0dWFuLmNvbS9hcGlwYWdlL3RlbmNlbnQvMS54bWwKLy9odHRwOi8vYXBpLnVuaW9uLm1laXR1YW4uY29tL2FwaXBhZ2UvdGVuY2VudC8lcy54bWwK</text>
