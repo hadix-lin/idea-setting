@@ -4222,7 +4222,6 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/entity/ContentType.java" timestamp="1508124293947" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.json" timestamp="1500277947038">
         <mark key="[" line="12459" column="6" />
         <mark key="]" line="12459" column="5" />
@@ -4349,7 +4348,6 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/web/multipart/support/MultipartFilter.java" timestamp="1508126595373" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-support-core/src/main/java/com/meizu/life/support/core/Booter.java" timestamp="1495004456351">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="41" />
@@ -4710,7 +4708,6 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/client/utils/URLEncodedUtils.java" timestamp="1508124166737" />
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/java/com/meizu/life/coupon/dao/impl/OrderDaoImplTest.java" timestamp="1492741320602">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="29" />
@@ -5419,7 +5416,6 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC15/utils-weblogin-1.5.0-RC15-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" timestamp="1508124406951" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-redis/src/main/resources/application-module.properties" timestamp="1497784253983">
         <mark key="[" line="0" column="102" />
         <mark key="]" line="0" column="60" />
@@ -5522,8 +5518,8 @@
         <mark key="^" line="45" column="46" />
         <mark key="." line="45" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/dao/mapper/UserMapper.java" timestamp="1508123126426">
-        <mark key="[" line="16" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/dao/mapper/UserMapper.java" timestamp="1508138772238">
+        <mark key="[" line="15" column="103" />
         <mark key="]" line="16" column="46" />
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
@@ -6985,7 +6981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="27" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessOrderMapper.xml" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/model/Order.java" />
       <jump line="152" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/model/Order.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/model/Order.java" />
@@ -7085,6 +7080,7 @@
       <jump line="10" column="13" filename="$USER_HOME$/Documents/Projects/venice/venice-goods/src/main/java/cn/flyme/venice/goods/dao/model/Category.java" />
       <jump line="41" column="48" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="40" column="13" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebAutoConfiguration.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/resources/mybatis/cn/flyme/venice/ware/AreaMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
