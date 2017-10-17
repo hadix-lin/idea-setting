@@ -673,11 +673,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/UserTransactionImpl.java" timestamp="1508230284967">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="32" column="24" />
-        <mark key="." line="32" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/UserTransactionImpl.java" timestamp="1508233036205">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="22" />
+        <mark key="^" line="49" column="22" />
+        <mark key="." line="49" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-test/src/main/resources/com/meizu/life/support/test/spring-test-web.xml" timestamp="1492700277539">
         <mark key="[" line="9" column="41" />
@@ -2466,11 +2466,6 @@
         <mark key="]" line="16" column="27" />
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/java/cn/flyme/venice/nav/model/Banner.java" timestamp="1508221636470">
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-web/src/main/java/com/meizu/life/support/web/WebRespBodyAdvice.java" timestamp="1494661579864">
         <mark key="[" line="50" column="41" />
@@ -6736,6 +6731,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1508233130330">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/handler/impl/FeedbackHandlerImpl.java" timestamp="1504697785537">
         <mark key="[" line="102" column="19" />
         <mark key="]" line="102" column="22" />
@@ -7222,34 +7222,34 @@
         <text encoding="base64">ICAgIEBBcGlQYXJhbSgi55So5oi3SUQiKSBATm90TnVsbCBMb25nIHVzZXJJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlci4K</text>
+        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlci4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hJZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hJZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKHF1ZXJ5LmdldE93bmVyKCkpKSB7CiAgICAgIGJhdGNoSWRzID0gZ2V0QmF0Y2hJZHNCeU93bmVyKHF1ZXJ5LmdldE93bmVyKCkpOwogICAgICBpZiAoYmF0Y2hJZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
