@@ -1104,6 +1104,12 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAdminController.java" timestamp="1508311727748">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/spring/AllowConcurrentUpdateRedisCache.java" timestamp="1494210705368">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="40" />
@@ -4537,6 +4543,12 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" timestamp="1508147252283">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demoa/src/main/java/com/meizu/life/luckbuy/AService.java" timestamp="1492675513122">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="15" />
@@ -6738,7 +6750,8 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1508233130330">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1508311763361">
+        <mark key="'" line="49" column="15" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -7108,7 +7121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/DiceRecord.java" />
       <jump line="184" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CashStrategy.java" />
       <jump line="20" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/PayConfig.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/PayConfig.java" />
@@ -7208,6 +7220,7 @@
       <jump line="106" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="76" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="147" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
+      <jump line="49" column="15" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7229,34 +7242,34 @@
         <text encoding="base64">ICAgIEBBcGlQYXJhbSgi55So5oi3SUQiKSBATm90TnVsbCBMb25nIHVzZXJJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXQK</text>
+        <text encoding="base64">ICBMaXN0PFVzZXJTdGFrZVJlY29yZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlci4K</text>
+        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
