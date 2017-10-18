@@ -114,6 +114,13 @@
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/BatchDao.java" timestamp="1508147797869">
         <mark key="[" line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" timestamp="1508298186187">
+        <mark key="'" line="147" column="10" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e2da94d-d30c-4420-954a-b1823f0c60fb/console_2.sql" timestamp="1503045351582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -4326,7 +4333,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508224735524">
+      <file name="/Dummy.txt" timestamp="1508298216316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -6196,7 +6203,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1508128513290">
+      <file name="/fragment.java" timestamp="1508298216308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -7101,9 +7108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="43" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/dao/mapper/UserStakeRecordMapper.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/DiceRecord.java" />
       <jump line="184" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/strategy/CashStrategy.java" />
       <jump line="20" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/PayConfig.java" />
@@ -7201,6 +7205,9 @@
       <jump line="233" column="52" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
       <jump line="21" column="43" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
+      <jump line="106" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
+      <jump line="76" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
+      <jump line="147" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7222,31 +7229,31 @@
         <text encoding="base64">ICAgIEBBcGlQYXJhbSgi55So5oi3SUQiKSBATm90TnVsbCBMb25nIHVzZXJJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
+        <text encoding="base64">ICAgIDxsIG5hbWU9ImRlYnVnIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlci4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHF1ZXJ5Lgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hJZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlci4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
