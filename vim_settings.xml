@@ -2175,11 +2175,10 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/Dice.java" timestamp="1505975635127">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="11" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/Dice.java" timestamp="1508380305342">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom" timestamp="1505283203118">
         <mark key="[" line="1760" column="39" />
@@ -5494,9 +5493,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1508229489069">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/ctx/RedisContext.java" timestamp="1492484826326">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="50" />
@@ -7251,7 +7247,7 @@
         <text encoding="base64">ICAgIEBBcGlQYXJhbSgi55So5oi3SUQiKSBATm90TnVsbCBMb25nIHVzZXJJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgaW50IGdldFJhbmRvbSgpewogICAgcmV0dXJuIHJhbmRvbS5pZCgpCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -7260,25 +7256,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKEN1cnJlbnROby5nZXRDdXJyZW50Tm8oKSA+IG5vKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKEN1cnJlbnROby5nZXRDdXJyZW50Tm8oKSA+IG5vKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEN1cnJlbnRObyBjdXJyZW50Tm8gPSBuZXcgQ3VycmVudE5vKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGVsc2UgewoKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIChnZXRObygpKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENhbGVuZGFyLmdldEluc3RhbmNlKCkuc2V0VGltZUluTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
