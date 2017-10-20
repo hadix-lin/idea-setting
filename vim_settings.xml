@@ -224,11 +224,11 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="15" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd0d36d2-09cf-49f6-8696-46affb6f4b2c/console.sql" timestamp="1508224871077">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dd0d36d2-09cf-49f6-8696-46affb6f4b2c/console.sql" timestamp="1508488170253">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/service/CoinPayTradeListener.java" timestamp="1499324092261">
         <mark key="[" line="48" column="51" />
@@ -837,6 +837,9 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1508487121506">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleScan.java" timestamp="1497026345321">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="15" column="10" />
@@ -1168,12 +1171,12 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/CouponMapper.java" timestamp="1508224569356">
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/CouponMapper.java" timestamp="1508487604425">
         <mark key="'" line="46" column="17" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="43" />
+        <mark key="^" line="70" column="43" />
+        <mark key="." line="70" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-exception/src/main/java/com/meizu/life/exception/RateLimitException.java" timestamp="1504688080392">
         <mark key="[" line="14" column="1" />
@@ -2010,7 +2013,7 @@
         <mark key="^" line="9" column="60" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-exception/src/main/java/com/meizu/modularize/exception/TopMsgCode.java" timestamp="1507880058989">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-exception/src/main/java/com/meizu/modularize/exception/TopMsgCode.java" timestamp="1508488981312">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="14" />
         <mark key="^" line="21" column="14" />
@@ -2910,6 +2913,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponAdminController.java" timestamp="1508487621104">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/resources/META-INF/spring.factories" timestamp="1505115732244">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="41" />
@@ -3073,11 +3082,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1508466069584">
-        <mark key="[" line="46" column="1" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1508488302863">
+        <mark key="[" line="64" column="61" />
+        <mark key="]" line="64" column="46" />
+        <mark key="." line="64" column="46" />
+        <mark key="^" line="64" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1506587923022">
         <mark key="[" line="64" column="44" />
@@ -3674,6 +3683,9 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508488322010">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/order/service/impl/prefixhandler/FlowHandlerImpl.java" timestamp="1494234275666">
         <mark key="[" line="93" column="39" />
         <mark key="]" line="93" column="39" />
@@ -3811,11 +3823,6 @@
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiForFlymeStoreController.java" timestamp="1508469311525">
-        <mark key="]" line="47" column="52" />
-        <mark key="^" line="47" column="52" />
-        <mark key="." line="47" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/PreparedListener.java" timestamp="1497606934155">
         <mark key="[" line="20" column="1" />
@@ -4561,9 +4568,6 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" timestamp="1508464461560">
-        <mark key="'" line="132" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demoa/src/main/java/com/meizu/life/luckbuy/AService.java" timestamp="1492675513122">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="15" />
@@ -4666,11 +4670,11 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/impl/CouponDaoImpl.java" timestamp="1508227487254">
-        <mark key="[" line="123" column="86" />
-        <mark key="]" line="123" column="85" />
-        <mark key="." line="123" column="85" />
-        <mark key="^" line="123" column="85" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/impl/CouponDaoImpl.java" timestamp="1508487782258">
+        <mark key="[" line="174" column="30" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/main/java/com/meizu/life/support/core/LifeConfig2.java" timestamp="1503907151415">
         <mark key="[" line="7" column="24" />
@@ -5603,11 +5607,11 @@
         <mark key="." line="31" column="12" />
         <mark key="^" line="31" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/job/PayOrderLogRecoveryJob.java" timestamp="1508470041798">
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="35" column="71" />
-        <mark key="^" line="35" column="71" />
-        <mark key="." line="35" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/job/PayOrderLogRecoveryJob.java" timestamp="1508489095003">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/movie/rest/CinemaController.java" timestamp="1491811772456">
         <mark key="[" line="65" column="32" />
@@ -5771,11 +5775,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/CouponDao.java" timestamp="1508144616445">
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="37" column="71" />
-        <mark key="^" line="37" column="71" />
-        <mark key="." line="37" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/CouponDao.java" timestamp="1508487653134">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -6522,12 +6526,11 @@
         <mark key="^" line="151" column="89" />
         <mark key="." line="151" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" timestamp="1508465872302">
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" timestamp="1508488395435">
         <mark key="'" line="26" column="20" />
-        <mark key="[" line="242" column="27" />
-        <mark key="]" line="254" column="13" />
-        <mark key="^" line="254" column="13" />
-        <mark key="." line="254" column="13" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demob/src/main/java/com/meizu/life/demob/web/HelloController.java" timestamp="1492685903236">
         <mark key="[" line="20" column="35" />
@@ -7028,6 +7031,12 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-cache/src/main/java/com/meizu/modularize/cache/mybatis/MybatisRedisCachePrecondition.java" timestamp="1508487210080">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/activity/service/core/ActivityMqProducer.java" timestamp="1504166857092">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="38" />
@@ -7268,52 +7277,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, String originTransactionNO</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChydW5uaW5nSm9iU3RvcmUucmVhZCgpID4gMCkgewogICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihESUNFX1JFU1VMVF9KT0JfTk9UX0NPTVBMRVRFKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJjb3Vwb24udHJhbnNhY3Rpb25OTyAhPSBudWxsIj4KICAgICAgLEZUUkFOU0FDVElPTl9OTyA9ICN7Y291cG9uLnRyYW5zYWN0aW9uTk99CiAgICA8L2lmPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGVsc2UgewoKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb3Vwb24uc2V0VHJhbnNhY3Rpb25OTyh0cmFuc2FjdGlvbk5PKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvbmcgY3VycmVudE5vID0gQ3VycmVudE5vLmdldEN1cnJlbnRObygpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVubmluZ0pvYlN0b3JlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZS5zaGFrZURpY2UoY3VycmVudE5vKTsK</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJjb3Vwb24udHJhbnNhY3Rpb25OTyAhPSBudWxsIj4KICAgICAgQU5EIEZUUkFOU0FDVElPTl9OTyA9ICN7Y291cG9uLnRyYW5zYWN0aW9uTk99CiAgICA8L2lmPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>new RejectedExecutionHandler() {
-              @Override
-              public void rejectedExecution(Runnable r, ThreadPoolExecutor executor) {
-                try {
-                  executor.getQueue().put(r);
-                } catch (InterruptedException e) {
-                  log.error(&quot;线程中断,无法添加任务&quot;, e);
-                }
-              }
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">U0VMRUNUCiAgQy5GSUQsIEMuRkNPREUsIEMuRkJBVENISUQsIEMuRkVYUElSRURfVElNRSwgQy5GVVNFUiwgQy5GU1RBVFVTLCBDLkZQT1NUVElNRSwgQy5GQ09OU1VNRV9USU1FLAogIEMuRkFUVEFDSCwgQy5GQkFUQ0hfQVRUQUNILCBCLkZJRCAgICAgICAgICBCX0ZJRCwgQi5GUlVMRSBCX0ZSVUxFLCBCLkZOQU1FIEJfRk5BTUUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEIuRkFNT1VOVCAgICAgIEJfQU1PVU5ULCBCLkZNSU5fQU1PVU5UIEJfRk1JTl9BTU9VTlQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEIuRkFDVElWRV9USU1FIEJfRkFDVElWRV9USU1FLCBCLkZTVEFUVVMgQl9GU1RBVFVTLCBCLkZUWVBFIEJfRlRZUEUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEIuRkRFU0MgICAgICAgIEJfRkRFU0MsIEIuRkVYUElSRURfVElNRSBCX0ZFWFBJUkVEX1RJTUUKRlJPTSBUX0NPVVBPTl8zIEMgSU5ORVIgSk9JTiBUX0NPVVBPTl9CQVRDSCBCIE9OIEMuRkJBVENISUQgPSBCLkZJRApXSEVSRSBDLkZVU0VSID0gNTA5MjIwMyBBTkQgQy5GU1RBVFVTIElOICgyKQpHUk9VUCBCWSBDLkZCQVRDSElECk9SREVSIEJZIEMuRlBPU1RUSU1FIERFU0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
+        <text encoding="base64">TElNSVQgMjAgT0ZGU0VUIDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
