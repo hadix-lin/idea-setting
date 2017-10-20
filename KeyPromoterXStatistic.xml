@@ -76,7 +76,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>301</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -225,7 +225,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -248,7 +248,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Editor">
