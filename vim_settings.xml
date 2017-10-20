@@ -1933,6 +1933,12 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/java/cn/flyme/venice/nav/service/impl/GameGuessConfigLoader.java" timestamp="1508407444188">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-utils/src/main/java/com/meizu/life/support/utils/BeanUtils.java" timestamp="1495182434421">
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="21" />
@@ -3062,11 +3068,10 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1507530202397">
-        <mark key="[" line="107" column="26" />
-        <mark key="]" line="107" column="25" />
-        <mark key="^" line="107" column="25" />
-        <mark key="." line="107" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1508464507959">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1506587923022">
         <mark key="[" line="64" column="44" />
@@ -4549,6 +4554,9 @@
         <mark key="]" line="35" column="13" />
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" timestamp="1508464461560">
+        <mark key="'" line="132" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demoa/src/main/java/com/meizu/life/luckbuy/AService.java" timestamp="1492675513122">
         <mark key="[" line="5" column="27" />
@@ -7129,7 +7137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/target/classes/cn/flyme/venice/pay/PayConfig.class" />
       <jump line="141" column="18" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
@@ -7229,6 +7236,7 @@
       <jump line="77" column="22" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/DiceRecord.java" />
       <jump line="46" column="9" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayCoinServiceImpl.java" />
       <jump line="27" column="28" filename="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/mybatis/cn/flyme/venice/user/RecordMapper.xml" />
+      <jump line="132" column="4" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7244,31 +7252,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>channel</text>
+        <text>froz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsaWRhdGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpY2VSZWNvcmQuc2V0Tm8obm8pOwogICAgZGljZVJlY29yZC5zZXRUb3RhbEFtb3VudChzdGFrZVN0b3JlLnJlYWRUb3RhbEFtb3VudChubykpOwogICAgZGljZVJlY29yZC5zZXROdW1iZXJzKG51bWJlcnMpOwogICAgZGljZVJlY29yZC5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIGRpY2VSZWNvcmQuc2V0SGl0cyhzdGFrZVJlc3VsdC5rZXlTZXQoKSk7CiAgICBzYXZlKGRpY2VSZWNvcmQpOwo=</text>
+        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJPUkRFUl9JTkZPIiBwcm9wZXJ0eT0ib3JkZXJJbmZvIiB0eXBlSGFuZGxlcj0ic3RvcmVBc0pzb24iLz4K</text>
+        <text encoding="base64">ICAgIGRpY2VSZWNvcmQuc2V0Tm8obm8pOwogICAgZGljZVJlY29yZC5zZXRUb3RhbEFtb3VudChzdGFrZVN0b3JlLnJlYWRUb3RhbEFtb3VudChubykpOwogICAgZGljZVJlY29yZC5zZXROdW1iZXJzKG51bWJlcnMpOwogICAgZGljZVJlY29yZC5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIGRpY2VSZWNvcmQuc2V0SGl0cyhzdGFrZVJlc3VsdC5rZXlTZXQoKSk7CiAgICBzYXZlKGRpY2VSZWNvcmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJPUkRFUl9JTkZPIiBwcm9wZXJ0eT0ib3JkZXJJbmZvIiB0eXBlSGFuZGxlcj0ic3RvcmVBc0pzb24iLz4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
@@ -7277,16 +7285,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>channel</last-search>
+      <last-search>froz</last-search>
       <last-offset />
-      <last-pattern>channel</last-pattern>
+      <last-pattern>froz</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7294,7 +7302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>job</entry>
         <entry>curl</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>typehandlers</entry>
@@ -7314,6 +7321,7 @@
         <entry>notblank</entry>
         <entry>batchId</entry>
         <entry>channel</entry>
+        <entry>froz</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
