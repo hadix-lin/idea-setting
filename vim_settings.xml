@@ -3068,10 +3068,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1508465170087">
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponOrderServiceImpl.java" timestamp="1508466069584">
+        <mark key="[" line="46" column="1" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1506587923022">
         <mark key="[" line="64" column="44" />
@@ -6509,8 +6510,8 @@
         <mark key="^" line="151" column="89" />
         <mark key="." line="151" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" timestamp="1508228762883">
-        <mark key="'" line="233" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" timestamp="1508465872302">
+        <mark key="'" line="26" column="20" />
         <mark key="[" line="242" column="27" />
         <mark key="]" line="254" column="13" />
         <mark key="^" line="254" column="13" />
@@ -7222,7 +7223,6 @@
       <jump line="239" column="65" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
       <jump line="255" column="16" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
       <jump line="18" column="41" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
-      <jump line="26" column="18" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
       <jump line="116" column="22" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/model/Coupon.java" />
       <jump line="233" column="52" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
@@ -7237,6 +7237,7 @@
       <jump line="46" column="9" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayCoinServiceImpl.java" />
       <jump line="27" column="28" filename="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/mybatis/cn/flyme/venice/user/RecordMapper.xml" />
       <jump line="132" column="4" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/CouponMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7252,7 +7253,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>froz</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsaWRhdGVkCg==</text>
@@ -7267,34 +7268,34 @@
         <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpY2VSZWNvcmQuc2V0Tm8obm8pOwogICAgZGljZVJlY29yZC5zZXRUb3RhbEFtb3VudChzdGFrZVN0b3JlLnJlYWRUb3RhbEFtb3VudChubykpOwogICAgZGljZVJlY29yZC5zZXROdW1iZXJzKG51bWJlcnMpOwogICAgZGljZVJlY29yZC5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIGRpY2VSZWNvcmQuc2V0SGl0cyhzdGFrZVJlc3VsdC5rZXlTZXQoKSk7CiAgICBzYXZlKGRpY2VSZWNvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRpY2VSZWNvcmQuc2V0Tm8obm8pOwogICAgZGljZVJlY29yZC5zZXRUb3RhbEFtb3VudChzdGFrZVN0b3JlLnJlYWRUb3RhbEFtb3VudChubykpOwogICAgZGljZVJlY29yZC5zZXROdW1iZXJzKG51bWJlcnMpOwogICAgZGljZVJlY29yZC5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIGRpY2VSZWNvcmQuc2V0SGl0cyhzdGFrZVJlc3VsdC5rZXlTZXQoKSk7CiAgICBzYXZlKGRpY2VSZWNvcmQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJPUkRFUl9JTkZPIiBwcm9wZXJ0eT0ib3JkZXJJbmZvIiB0eXBlSGFuZGxlcj0ic3RvcmVBc0pzb24iLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJPUkRFUl9JTkZPIiBwcm9wZXJ0eT0ib3JkZXJJbmZvIiB0eXBlSGFuZGxlcj0ic3RvcmVBc0pzb24iLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmZseW1lLnZlbmljZS51c2VyLm1vZGVsLlJlY29yZC5PcmRlckluZm87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>froz</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>froz</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7302,7 +7303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>curl</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>typehandlers</entry>
         <entry>valida</entry>
@@ -7322,6 +7322,7 @@
         <entry>batchId</entry>
         <entry>channel</entry>
         <entry>froz</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
