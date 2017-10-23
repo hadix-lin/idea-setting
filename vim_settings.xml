@@ -3660,7 +3660,7 @@
         <mark key="." line="40" column="21" />
         <mark key="^" line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/service/impl/GameGuessServiceImpl.java" timestamp="1508744131662">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/service/impl/GameGuessServiceImpl.java" timestamp="1508744901879">
         <mark key="[" line="58" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/autoconfigure/web/WebMvcConfigurer.java" timestamp="1495377304924">
@@ -3710,6 +3710,9 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508489764925">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/order/service/impl/prefixhandler/FlowHandlerImpl.java" timestamp="1494234275666">
         <mark key="[" line="93" column="39" />
@@ -5140,7 +5143,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/StakeMsgCode.java" timestamp="1508740915012">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/StakeMsgCode.java" timestamp="1508744921205">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="23" />
         <mark key="." line="35" column="23" />
@@ -5547,6 +5550,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1508489857815">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/ctx/RedisContext.java" timestamp="1492484826326">
         <mark key="[" line="22" column="36" />
@@ -6873,12 +6879,12 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1508743271360">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="101" column="21" />
-        <mark key="]" line="101" column="20" />
-        <mark key="^" line="101" column="20" />
-        <mark key="." line="101" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1508745228574">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/web/CoinAdminController.java" timestamp="1505717915265">
         <mark key="[" line="19" column="14" />
@@ -7330,37 +7336,37 @@
         <text>record</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgaWQ7CgogIEBBcGlNb2RlbFByb3BlcnR5KCLlnLrmrKHluo/lj7ciKQogIHByaXZhdGUgbG9uZyBubzsKCiAgQEFwaU1vZGVsUHJvcGVydHkoIueUqOaIt2lkIikKICBwcml2YXRlIGxvbmcgdXNlcklkOwoKICBAQXBpTW9kZWxQcm9wZXJ0eSgi5LiL5rOo5oC76YeR6aKdIikKICBwcml2YXRlIGxvbmcgdG90YWxBbW91bnQ7CgogIEBBcGlNb2RlbFByb3BlcnR5KCLkuIvms6jorrDlvZUiKQogIEBKc29uVmlldygpCiAgcHJpdmF0ZSBMaXN0PFN0YWtlUmVjb3JkPiBzdGFrZUluZm87CgogIHByaXZhdGUgbG9uZyBjcmVhdGVUaW1lOwoKICBwdWJsaWMgbG9uZyBnZXRQYXlvZmYoKSB7CiAgICBpZiAoc3Rha2VJbmZvID09IG51bGwpIHsKICAgICAgcmV0dXJuIDA7CiAgICB9CiAgICBsb25nIHBheW9mZiA9IDA7CiAgICBmb3IgKFN0YWtlUmVjb3JkIHN0YWtlUmVjb3JkIDogc3Rha2VJbmZvKSB7CiAgICAgIHBheW9mZiArPSBzdGFrZVJlY29yZC5nZXRBbW91bnQoKSAqIHN0YWtlUmVjb3JkLmdldFJlc3VsdCgpLmdldE9kZHMoKTsKICAgIH0KICAgIHJldHVybiBwYXlvZmY7CiAgfQo=</text>
+        <text encoding="base64">ICBAQXBpUmVzcG9uc2VzKHsKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMSwgbWVzc2FnZSA9ICLotoXov4fkuIvms6jml7bpl7QiKSwKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMiwgbWVzc2FnZSA9ICLlvIDlpZbku7vliqHlsJrmnKrnu5PmnZ8iKSwKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMywgbWVzc2FnZSA9ICLlnKjlhbbku5borr7lpIfkuIrlkIzml7bkuIvms6giKQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAQXBpUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7CiAgICAgIEN1cnJlbnRObyBjdXJyZW50ID0gbmV3IEN1cnJlbnRObygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7CiAgICAgIEN1cnJlbnRObyBjdXJyZW50ID0gbmV3IEN1cnJlbnRObygpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChydW5uaW5nSm9iU3RvcmUucmVhZCgpID4gMCkgewogICAgICB0aHJvdyBuZXcgV2ViRXhjZXB0aW9uKERJQ0VfUkVTVUxUX0pPQl9OT1RfQ09NUExFVEUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSIiCg==</text>
+        <text encoding="base64">ICAgIGlmIChydW5uaW5nSm9iU3RvcmUucmVhZCgpID4gMCkgewogICAgICB0aHJvdyBuZXcgV2ViRXhjZXB0aW9uKERJQ0VfUkVTVUxUX0pPQl9OT1RfQ09NUExFVEUpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vwb24uc2V0VHJhbnNhY3Rpb25OTyh0cmFuc2FjdGlvbk5PKTsK</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vwb24uc2V0VHJhbnNhY3Rpb25OTyh0cmFuc2FjdGlvbk5PKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
