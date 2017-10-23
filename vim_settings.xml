@@ -2206,6 +2206,11 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/Dice.java" timestamp="1508380305342">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom" timestamp="1505283203118">
         <mark key="[" line="1760" column="39" />
         <mark key="]" line="1760" column="38" />
@@ -3852,6 +3857,11 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiForFlymeStoreController.java" timestamp="1508747818597">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/PreparedListener.java" timestamp="1497606934155">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="0" />
@@ -4841,6 +4851,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-all/src/test/java/com/meizu/life/TestMain.java" timestamp="1508748058375">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="77" />
+        <mark key="." line="17" column="77" />
+        <mark key="^" line="17" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/service/UserAccountService.java" timestamp="1493131228131">
         <mark key="[" line="5" column="36" />
@@ -5915,11 +5931,11 @@
         <mark key="^" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebResp.java" timestamp="1505291559938">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebResp.java" timestamp="1508747332782">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="39" column="1" />
+        <mark key="^" line="39" column="1" />
+        <mark key="." line="39" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/resources/tables/record.sql" timestamp="1505717144076">
         <mark key="[" line="14" column="2" />
@@ -7336,37 +7352,37 @@
         <text>record</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQXBpUmVzcG9uc2VzKHsKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMSwgbWVzc2FnZSA9ICLotoXov4fkuIvms6jml7bpl7QiKSwKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMiwgbWVzc2FnZSA9ICLlvIDlpZbku7vliqHlsJrmnKrnu5PmnZ8iKSwKICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMDIwMywgbWVzc2FnZSA9ICLlnKjlhbbku5borr7lpIfkuIrlkIzml7bkuIvms6giKQogIH0pCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICBTdHJpbmcgY29kZSA9ICJGRzdqditsK2VqcHU1S09SVW4waHNRPT0iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQXBpUmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICBTdHJpbmcgY29kZSA9ICJGRzdqditsK2VqcHU1S09SVW4waHNRPT0iOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7Cg==</text>
+        <text encoding="base64">ICBAQXBpUmVzcG9uc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7CiAgICAgIEN1cnJlbnRObyBjdXJyZW50ID0gbmV3IEN1cnJlbnRObygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChydW5uaW5nSm9iU3RvcmUucmVhZCgpID4gMCkgewogICAgICB0aHJvdyBuZXcgV2ViRXhjZXB0aW9uKERJQ0VfUkVTVUxUX0pPQl9OT1RfQ09NUExFVEUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSIiCg==</text>
+        <text encoding="base64">ICAgIGlmIChzdGFrZVN0b3JlLnJlYWRVc2VySW1laSgpKSB7CiAgICAgIEN1cnJlbnRObyBjdXJyZW50ID0gbmV3IEN1cnJlbnRObygpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vwb24uc2V0VHJhbnNhY3Rpb25OTyh0cmFuc2FjdGlvbk5PKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
