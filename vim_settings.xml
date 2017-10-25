@@ -2302,6 +2302,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-goods/src/main/java/cn/flyme/venice/goods/GoodsMsgCode.java" timestamp="1508917324130">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-config/src/main/java/com/meizu/life/config/source/YardConfigSource.java" timestamp="1497604225081">
         <mark key="[" line="74" column="43" />
         <mark key="]" line="75" column="10" />
@@ -5704,6 +5709,12 @@
         <mark key="^" line="155" column="2" />
         <mark key="." line="155" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/ExceptionAdvice.java" timestamp="1508915798882">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console_6.sql" timestamp="1506652334313">
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="18" />
@@ -6173,11 +6184,11 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/UserAddress.java" timestamp="1508914743742">
-        <mark key="[" line="76" column="41" />
-        <mark key="]" line="76" column="39" />
-        <mark key="^" line="76" column="39" />
-        <mark key="." line="76" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/UserAddress.java" timestamp="1508916922524">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="15" />
+        <mark key="^" line="76" column="15" />
+        <mark key="." line="76" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/.editorconfig" timestamp="1499058198019">
         <mark key="[" line="5" column="13" />
@@ -7370,34 +7381,34 @@
         <text encoding="base64">ICBAU2VsZWN0KCJTRUxFQ1QgKiBGUk9NIFRfRElDRV9SRUNPUkQgV0hFUkUgTk89I3tub30iKQogIEBSZXN1bHRNYXAoImRpY2VSZWNvcmQiKQogIERpY2VSZWNvcmQgZ2V0QnlObyhsb25nIG5vKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAUmVzdWx0TWFwKCJkaWNlUmVjb3JkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAU2VsZWN0KCJTRUxFQ1QgKiBGUk9NIFRfRElDRV9SRUNPUkQgV0hFUkUgTk8gI3tub30iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAUmVzdWx0TWFwKCJkaWNlUmVjb3JkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx3aGVyZT4KICAgICAgTk8gSU4KICAgICAgPGZvcmVhY2ggY29sbGVjdGlvbj0ibm9zIiBpdGVtPSJubyIgb3Blbj0iKCIgY2xvc2U9IikiIHNlcGFyYXRvcj0iLCI+CiAgICAgICAgI3tub30KICAgICAgPC9mb3JlYWNoPgogICAgPC93aGVyZT4K</text>
+        <text encoding="base64">ICBAU2VsZWN0KCJTRUxFQ1QgKiBGUk9NIFRfRElDRV9SRUNPUkQgV0hFUkUgTk8gI3tub30iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSBtYXBwZXIgUFVCTElDICItLy9teWJhdGlzLm9yZy8vRFREIE1hcHBlciAzLjAvL0VOIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgdXNlclN0YWtlUmVjb3JkTWFwcGVyLmZpbmQocXVlcnksIHBhZ2UpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFF1ZXJ5IHF1ZXJ5ID0gbmV3IFF1ZXJ5KCk7CiAgICBxdWVyeS5zZXRVc2VySWQodXNlcklkKTsKICAgIHF1ZXJ5LnNldE5vKG5vKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDx3aGVyZT4KICAgICAgTk8gSU4KICAgICAgPGZvcmVhY2ggY29sbGVjdGlvbj0ibm9zIiBpdGVtPSJubyIgb3Blbj0iKCIgY2xvc2U9IikiIHNlcGFyYXRvcj0iLCI+CiAgICAgICAgI3tub30KICAgICAgPC9mb3JlYWNoPgogICAgPC93aGVyZT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSBtYXBwZXIgUFVCTElDICItLy9teWJhdGlzLm9yZy8vRFREIE1hcHBlciAzLjAvL0VOIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAogICAgdXNlclN0YWtlUmVjb3JkTWFwcGVyLmZpbmQocXVlcnksIHBhZ2UpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8U3Rha2VSZWNvcmQ+Cg==</text>
+        <text encoding="base64">ICAgIFF1ZXJ5IHF1ZXJ5ID0gbmV3IFF1ZXJ5KCk7CiAgICBxdWVyeS5zZXRVc2VySWQodXNlcklkKTsKICAgIHF1ZXJ5LnNldE5vKG5vKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
