@@ -27,7 +27,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1508829188585">
+      <file name="/a.dummy" timestamp="1508919027010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/web/CouponActivityUnauthController.java" timestamp="1501033210037">
@@ -849,6 +849,7 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC15/utils-weblogin-1.5.0-RC15-sources.jar!/com/meizu/utils/weblogin/core/filter/AndroidUserinfoRequestWrapper.java" timestamp="1508919686653" />
       <file name="/dummy.sql" timestamp="1508829583860">
         <mark key="[" line="0" column="0" />
       </file>
@@ -953,6 +954,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1508919840728">
+        <mark key="'" line="3238" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-container/src/main/java/com/meizu/life/support/container/ctx/ContainerContext.java" timestamp="1492699582721">
         <mark key="[" line="13" column="17" />
@@ -2056,11 +2060,10 @@
         <mark key="^" line="9" column="60" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-exception/src/main/java/com/meizu/modularize/exception/TopMsgCode.java" timestamp="1508490308538">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-exception/src/main/java/com/meizu/modularize/exception/TopMsgCode.java" timestamp="1508918794184">
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-test/src/main/java/com/meizu/life/test/container/Context.java" timestamp="1492594405805">
         <mark key="[" line="24" column="17" />
@@ -5709,11 +5712,12 @@
         <mark key="^" line="155" column="2" />
         <mark key="." line="155" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/ExceptionAdvice.java" timestamp="1508915798882">
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="23" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="56" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/ExceptionAdvice.java" timestamp="1508919564743">
+        <mark key="'" line="114" column="15" />
+        <mark key="[" line="109" column="78" />
+        <mark key="]" line="109" column="77" />
+        <mark key="." line="109" column="77" />
+        <mark key="^" line="109" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console_6.sql" timestamp="1506652334313">
         <mark key="[" line="41" column="21" />
@@ -7260,19 +7264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="4" column="6" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/FixNumberStake.java" />
-      <jump line="28" column="15" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/FixNumberStake.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/FixNumberStake.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
-      <jump line="145" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayH5Api.java" />
-      <jump line="205" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayH5Api.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayH5Api.java" />
-      <jump line="85" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayApi.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayH5Api.java" />
-      <jump line="83" column="8" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/http/PayApi.java" />
-      <jump line="45" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/utils/IndPayPartnerSignHelper.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/utils/IndPayPartnerSignHelper.java" />
       <jump line="70" column="12" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/utils/IndPayPartnerSignHelper.java" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/utils/IndPayPartnerSignHelper.java" />
@@ -7360,6 +7351,19 @@
       <jump line="61" column="31" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="63" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="79" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
+      <jump line="114" column="15" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/ExceptionAdvice.java" />
+      <jump line="118" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="123" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="164" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="203" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="204" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3226" column="65" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3229" column="65" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3233" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3234" column="55" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3235" column="53" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3237" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+      <jump line="3238" column="42" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7372,52 +7376,54 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IENsYXNzTm90Rm91bmRFeGNlcHRpb24=</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>enum</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAU2VsZWN0KCJTRUxFQ1QgKiBGUk9NIFRfRElDRV9SRUNPUkQgV0hFUkUgTk89I3tub30iKQogIEBSZXN1bHRNYXAoImRpY2VSZWNvcmQiKQogIERpY2VSZWNvcmQgZ2V0QnlObyhsb25nIG5vKTsK</text>
+      <register name="0" type="4">
+        <text>Class.forName(StringUtils.substringBeforeLast(msgCodeClassName, &quot;.&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTXNnQ29kZSBjb2RlID0gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICBjb2RlID0KICAgICAgICAgICAgRW51bS52YWx1ZU9mKAogICAgICAgICAgICAgICAgIENsYXNzLmZvck5hbWUoU3RyaW5nVXRpbHMuc3Vic3RyaW5nQmVmb3JlTGFzdChtc2dDb2RlQ2xhc3NOYW1lLCAiLiIpKSksCiAgICAgICAgICAgICAgICBlbnVtTmFtZSk7CiAgICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAUmVzdWx0TWFwKCJkaWNlUmVjb3JkIikK</text>
+      <register name="3" type="4">
+        <text>else {
+      errorMsg = e.getMessage();
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU2VsZWN0KCJTRUxFQ1QgKiBGUk9NIFRfRElDRV9SRUNPUkQgV0hFUkUgTk8gI3tub30iKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNyZWF0ZVdlYlJlc3AoV0VCX0VSUk9SLCBudWxsKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx3aGVyZT4KICAgICAgTk8gSU4KICAgICAgPGZvcmVhY2ggY29sbGVjdGlvbj0ibm9zIiBpdGVtPSJubyIgb3Blbj0iKCIgY2xvc2U9IikiIHNlcGFyYXRvcj0iLCI+CiAgICAgICAgI3tub30KICAgICAgPC9mb3JlYWNoPgogICAgPC93aGVyZT4K</text>
+        <text encoding="base64">ICAgIGlmIChPTkxJTkUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSBtYXBwZXIgUFVCTElDICItLy9teWJhdGlzLm9yZy8vRFREIE1hcHBlciAzLjAvL0VOIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgdXNlclN0YWtlUmVjb3JkTWFwcGVyLmZpbmQocXVlcnksIHBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGVycm9yTXNnLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFF1ZXJ5IHF1ZXJ5ID0gbmV3IFF1ZXJ5KCk7CiAgICBxdWVyeS5zZXRVc2VySWQodXNlcklkKTsKICAgIHF1ZXJ5LnNldE5vKG5vKTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nQnVpbGRlciBlcnJvck1zZyA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7425,7 +7431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>typehandlers</entry>
         <entry>valida</entry>
         <entry>query</entry>
         <entry>owner</entry>
@@ -7445,6 +7450,7 @@
         <entry>froz</entry>
         <entry>update</entry>
         <entry>record</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
