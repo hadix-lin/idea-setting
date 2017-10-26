@@ -2048,6 +2048,11 @@
         <mark key="." line="67" column="45" />
         <mark key="^" line="67" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/GameSixProperties.java" timestamp="1508924411161">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim/src/com/maddyhome/idea/vim/im/SystemInputSource.java" timestamp="1490936177305">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2955,11 +2960,10 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509006438577">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509009583901">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/CoinService.java" timestamp="1506394459906">
         <mark key="[" line="9" column="28" />
@@ -4351,11 +4355,11 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/resources/mybatis/cn/flyme/venice/game/six/DiceRecordMapper.xml" timestamp="1509007028793">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
-        <mark key="^" line="19" column="40" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/resources/mybatis/cn/flyme/venice/game/six/DiceRecordMapper.xml" timestamp="1509009157120">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/nuomi/dao/NuomiApiDao.java" timestamp="1491038648791">
         <mark key="[" line="62" column="9" />
@@ -6935,6 +6939,12 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/resources/mybatis/cn/flyme/venice/game/guess/GameGuessMapper.xml" timestamp="1509010094718">
+        <mark key="[" line="357" column="53" />
+        <mark key="]" line="357" column="51" />
+        <mark key="." line="357" column="51" />
+        <mark key="^" line="357" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1509003721883">
         <mark key="'" line="90" column="22" />
         <mark key="[" line="92" column="36" />
@@ -7401,34 +7411,34 @@
         <text encoding="base64">ICAgICAgLy8g57Sv6K6h6LWU5LuY57uZ55So5oi355qE6YeR6aKdCiAgICAgIC8vIOi1lOeOh+S4uuS6huS/neaMgeaVtOaVsCzlnKjlrprkuYnnmoTml7blgJnpg73kuZjku6XkuoYxMAogICAgICAvLyDmiYDku6XlnKjorqHnrpfotZTku5jph5Hpop3nmoTml7blgJnpnIDopoHpmaTku6UxMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBsb25nIGdldFBheW9mZihVc2VyU3Rha2VSZWNvcmQgdXNyKSB7CiAgICBsb25nIHBheW9mZiA9IDA7CiAgICBmb3IgKFVzZXJTdGFrZVJlY29yZC5TdGFrZVJlY29yZCBzciA6IHVzci5nZXRTdGFrZUluZm8oKSkgewogICAgICAvLyDntK/orqHotZTku5jnu5nnlKjmiLfnmoTph5Hpop0KICAgICAgLy8g6LWU546H5Li65LqG5L+d5oyB5pW05pWwLOWcqOWumuS5ieeahOaXtuWAmemDveS5mOS7peS6hjEwCiAgICAgIC8vIOaJgOS7peWcqOiuoeeul+i1lOS7mOmHkemineeahOaXtuWAmemcgOimgemZpOS7pTEwCiAgICAgIHBheW9mZiArPSBzci5nZXRBbW91bnQoKSAqIHNyLmdldFJlc3VsdCgpLmdldE9kZHMoKSAvIDEwOwogICAgfQogICAgcmV0dXJuIHBheW9mZjsKICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgIDxpZiB0ZXN0PSJvcGVuSW5mbyAhPSBudWxsIiA+CiAgICAgICAgT1BFTl9JTkZPID0gI3tvcGVuSW5mbyxqZGJjVHlwZT1MT05HVkFSQ0hBUix0eXBlSGFuZGxlcj1zdG9yZUFzSnNvbn0sCj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3NDb3VudCsrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2Nlc3NDb3VudCsrOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICA8IS0tPGxvZ2dlciBuYW1lPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZSI+LS0+CiAgPCEtLTxsZXZlbCB2YWx1ZT0iREVCVUciLz4tLT4KICA8IS0tPC9sb2dnZXI+LS0+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0YWtlR3JvdXAuZ2V0Cg==</text>
+        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBsb25nIGdldFBheW9mZihVc2VyU3Rha2VSZWNvcmQgdXNyKSB7CiAgICBsb25nIHBheW9mZiA9IDA7CiAgICBmb3IgKFVzZXJTdGFrZVJlY29yZC5TdGFrZVJlY29yZCBzciA6IHVzci5nZXRTdGFrZUluZm8oKSkgewogICAgICAvLyDntK/orqHotZTku5jnu5nnlKjmiLfnmoTph5Hpop0KICAgICAgLy8g6LWU546H5Li65LqG5L+d5oyB5pW05pWwLOWcqOWumuS5ieeahOaXtuWAmemDveS5mOS7peS6hjEwCiAgICAgIC8vIOaJgOS7peWcqOiuoeeul+i1lOS7mOmHkemineeahOaXtuWAmemcgOimgemZpOS7pTEwCiAgICAgIHBheW9mZiArPSBzci5nZXRBbW91bnQoKSAqIHNyLmdldFJlc3VsdCgpLmdldE9kZHMoKSAvIDEwOwogICAgfQogICAgcmV0dXJuIHBheW9mZjsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBzdGFrZUluZm8gPSBzdGFrZVN0b3JlLnJlYWQoc3Rha2VSZWNvcmQuZ2V0Tm8oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NDb3VudCsrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXNnQ29kZUVudW07Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2Nlc3NDb3VudCsrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKE9wdGlvbmFsPE1zZ0NvZGU+KSBFbnVtcy5nZXRJZlByZXNlbnQoZW51bUNsYXNzLCBlbnVtTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0YWtlR3JvdXAuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
