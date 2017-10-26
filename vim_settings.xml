@@ -575,12 +575,12 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/dao/mapper/DiceRecordMapper.java" timestamp="1508831270531">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/dao/mapper/DiceRecordMapper.java" timestamp="1509001437753">
         <mark key="'" line="41" column="61" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="43" column="1" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="43" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/LifeErrorCode.java" timestamp="1504697899447">
         <mark key="[" line="17" column="37" />
@@ -2112,6 +2112,13 @@
         <mark key="]" line="20" column="61" />
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/dao/model/GameGuessVo.java" timestamp="1509001490065">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/MergePayModuleConfiguration.java" timestamp="1506588467676">
         <mark key="[" line="22" column="7" />
@@ -7247,8 +7254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/resources/mybatis/cn/flyme/venice/ware/AreaMapper.xml" />
-      <jump line="73" column="53" filename="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/service/OrderPayCoinServiceImpl.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponApiController.java" />
       <jump line="19" column="24" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/CouponMapper.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
@@ -7347,6 +7352,8 @@
       <jump line="72" column="33" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="73" column="38" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="154" column="33" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/dao/model/GameGuessVo.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/dao/model/GameGuessVo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
