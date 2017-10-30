@@ -27,6 +27,9 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="/a.dummy" timestamp="1509349277227">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/web/CouponActivityUnauthController.java" timestamp="1501033210037">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="13" />
@@ -2425,6 +2428,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/mybatis/cn/flyme/venice/user/UserMapper.xml" timestamp="1509097823762">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/resources/mybatis/RecordMapper.xml" timestamp="1505294783019">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="40" column="12" />
@@ -2916,6 +2924,11 @@
         <mark key="]" line="39" column="34" />
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509009583901">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/CoinService.java" timestamp="1506394459906">
         <mark key="[" line="9" column="28" />
@@ -4377,7 +4390,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509346513130">
+      <file name="/Dummy.txt" timestamp="1509349770728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -6284,7 +6297,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1509345556245">
+      <file name="/fragment.java" timestamp="1509349277233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/src/main/java/com/meizu/life/support/utils/config/ConfigScannerConfigurer.java" timestamp="1492572772938">
@@ -6419,11 +6432,10 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1509347646140">
-        <mark key="[" line="79" column="87" />
-        <mark key="]" line="79" column="86" />
-        <mark key="^" line="79" column="86" />
-        <mark key="." line="79" column="86" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1509349326840">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-dao/src/main/java/com/meizu/life/activity/dao/mapper/RewardMapper.java" timestamp="1507530094497">
         <mark key="[" line="45" column="0" />
@@ -7031,6 +7043,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/SimpleDiceRecord.java" timestamp="1509349301837">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/java/com/meizu/life/coupon/dao/TestServiceContext.java" timestamp="1492741393446">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="27" />
@@ -7316,69 +7333,34 @@
         <text encoding="base64">QERhdGEKcHVibGljIGNsYXNzIERpY2VSZWNvcmQgewoKICBAQXBpTW9kZWxQcm9wZXJ0eSgi5Zy65qyh5bqP5Y+3IikKICBATm90QmxhbmsKICBwcml2YXRlIExvbmcgbm87CgogIEBBcGlNb2RlbFByb3BlcnR5KCLpqrDlrZDnu5PmnpwiKQogIEBOb3ROdWxsCiAgQE5vdEVtcHR5CiAgcHJpdmF0ZSBpbnRbXSBudW1iZXJzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24sIEluc3RhbnRpYXRpb25FeGNlcHRpb24gewogICAgU2ltcGxlRGljZVJlY29yZCBzaW1wbGVEaWNlUmVjb3JkID0gU2ltcGxlRGljZVJlY29yZC5jbGFzcy5uZXdJbnN0YW5jZSgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJzaW1wbGVEaWNlUmVjb3JkID0gIiArIHNpbXBsZURpY2VSZWNvcmQpOwogIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
+        <text encoding="base64">QERhdGEKcHVibGljIGNsYXNzIFNpbXBsZURpY2VSZWNvcmQgewoKICBAQXBpTW9kZWxQcm9wZXJ0eSgi5Zy65qyh5bqP5Y+3IikKICBwcml2YXRlIExvbmcgbm87CgogIEBBcGlNb2RlbFByb3BlcnR5KCLpqrDlrZDnu5PmnpwiKQogIHByaXZhdGUgaW50W10gbnVtYmVyczsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gbnVtYmVyczsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAY29uc3RyCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJwYWdlICE9IG51bGwiPgogICAgICBMSU1JVCAje3BhZ2Uub2Zmc2V0fSwje3BhZ2Uuc2l6ZX0KICAgIDwvaWY+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>DROP TABLE IF EXISTS T_DICE_RECORD;
-CREATE TABLE T_DICE_RECORD (
-  ID           BIGINT PRIMARY KEY AUTO_INCREMENT,
-  NO           BIGINT       NOT NULL
-  COMMENT '场次编号',
-  NUMBERS      VARCHAR(20)  NOT NULL
-  COMMENT '三个骰子的结果',
-  HITS         VARCHAR(200) NOT NULL
-  COMMENT '命中的注点ID集合',
-  TOTAL_AMOUNT BIGINT       NOT NULL
-  COMMENT '投注总金额',
-  PAYOFF       BIGINT       NOT NULL
-  COMMENT '赔付给用户的总金额',
-  USER_COUNT   BIGINT       NOT NULL
-  COMMENT '投注用户数',
-  CREATE_TIME  BIGINT,
-  UNIQUE INDEX IDX_NO (NO),
-  INDEX IDX_CREATE_TIME (CREATE_TIME DESC)
-)
-  COMMENT = '骰子记录';
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_0;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_1;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_2;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_3;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_4;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_5;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_6;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_7;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_8;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_9;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_10;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_11;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_12;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_13;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_14;
-DROP TABLE IF EXISTS T_USER_STAKE_RECORD_15;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
