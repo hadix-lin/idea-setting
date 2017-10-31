@@ -1191,11 +1191,10 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixWebSocketHandler.java" timestamp="1509420863408">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixWebSocketHandler.java" timestamp="1509420865557">
         <mark key="[" line="9" column="100" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/CouponMapper.java" timestamp="1508487604425">
         <mark key="'" line="46" column="17" />
@@ -2474,6 +2473,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/resources/mybatis/cn/flyme/venice/user/UserMapper.xml" timestamp="1509097823762">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/resources/mybatis/RecordMapper.xml" timestamp="1505294783019">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="40" column="12" />
@@ -2965,6 +2969,11 @@
         <mark key="]" line="39" column="34" />
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509009583901">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/CoinService.java" timestamp="1506394459906">
         <mark key="[" line="9" column="28" />
@@ -6501,6 +6510,11 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1509349326840">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-dao/src/main/java/com/meizu/life/activity/dao/mapper/RewardMapper.java" timestamp="1507530094497">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -7122,6 +7136,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/SimpleDiceRecord.java" timestamp="1509349301837">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/java/com/meizu/life/coupon/dao/TestServiceContext.java" timestamp="1492741393446">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="27" />
@@ -7412,29 +7431,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2Vic29ja2V0PC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2Vic29ja2V0PC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2Vic29ja2V0PC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdG9yU2VydmVyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy53YXJuKCJqZXR0eS1qbXjliJ3lp4vljJblpLHotKUiLCBlKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdG9yU2VydmVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy53YXJuKCJqZXR0eS1qbXjliJ3lp4vljJblpLHotKUiLCBlKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
