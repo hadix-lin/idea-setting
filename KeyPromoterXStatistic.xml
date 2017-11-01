@@ -233,7 +233,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -256,7 +256,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Editor">
@@ -581,7 +581,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>206</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'life-web' application">
