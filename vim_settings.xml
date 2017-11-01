@@ -1034,7 +1034,8 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/BatchAdminController.java" timestamp="1509522442944">
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/BatchAdminController.java" timestamp="1509529179443">
+        <mark key="'" line="105" column="2" />
         <mark key="[" line="112" column="18" />
         <mark key="]" line="112" column="17" />
         <mark key="^" line="112" column="17" />
@@ -1112,12 +1113,12 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" timestamp="1509522721570">
-        <mark key="'" line="114" column="4" />
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="45" column="73" />
-        <mark key="^" line="45" column="73" />
-        <mark key="." line="45" column="73" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" timestamp="1509529209341">
+        <mark key="'" line="34" column="38" />
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="46" />
+        <mark key="^" line="33" column="46" />
+        <mark key="." line="33" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAdminController.java" timestamp="1509097920028">
         <mark key="[" line="51" column="7" />
@@ -3425,12 +3426,12 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" timestamp="1509518812324">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="2" />
-        <mark key="." line="46" column="2" />
-        <mark key="^" line="46" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" timestamp="1509528905747">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="60" column="29" />
+        <mark key="^" line="60" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-pay/src/main/resources/mybatis/PayOrder.xml" timestamp="1503283645263">
         <mark key="[" line="112" column="55" />
@@ -7295,9 +7296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="51" column="15" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="52" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="77" column="18" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="89" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="4" column="43" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
@@ -7395,6 +7393,9 @@
       <jump line="96" column="45" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="56" column="38" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/StakeGroup.java" />
       <jump line="155" column="42" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
+      <jump line="105" column="2" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/BatchAdminController.java" />
+      <jump line="33" column="63" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
+      <jump line="34" column="38" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7410,49 +7411,49 @@
         <text>and no= 201710141728</text>
       </register>
       <register name="/" type="4">
-        <text>SET fstatus</text>
+        <text>batc\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8wIEFERCBUSVRMRSBWQVJDSEFSKDIwMCkgTlVMTCBDT01NRU5UICfnroDljZXmj4/ov7Dkv6Hmga8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoc3Rha2VJbmZvLG5ldyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3Rha2U+IGVudHJ5IDogQUxMLmVudHJ5U2V0KCkpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpICsgIiAtPiAiICsgZW50cnkuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3Rha2U+IGVudHJ5IDogQUxMLmVudHJ5U2V0KCkpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpICsgIiAtPiAiICsgZW50cnkuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBUSVRMRSAgICAgICBWQVJDSEFSKDIwMCkgTlVMTAogIENPTU1FTlQgJ+eugOWNleeahOaPj+i/sOS/oeaBrycsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBUSVRMRSAgICAgICBWQVJDSEFSKDIwMCkgTlVMTAogIENPTU1FTlQgJ+eugOWNleeahOaPj+i/sOS/oeaBrycsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SET fstatus</last-search>
+      <last-search>batc\.</last-search>
       <last-offset />
-      <last-pattern>SET fstatus</last-pattern>
+      <last-pattern>batc\.</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7460,9 +7461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry encoding="base64">PHNlbGVjdA==</entry>
-        <entry>ipregin</entry>
         <entry>chanel</entry>
         <entry>notify</entry>
         <entry>pay_info</entry>
@@ -7480,6 +7478,9 @@
         <entry>find</entry>
         <entry>fstatus</entry>
         <entry>SET fstatus</entry>
+        <entry>save</entry>
+        <entry>batc.</entry>
+        <entry>batc\.</entry>
       </history-search>
       <history-cmd>
         <entry>unmap</entry>
