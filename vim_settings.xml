@@ -5803,11 +5803,11 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/model/Record.java" timestamp="1509522796566">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/model/Record.java" timestamp="1509527954063">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/resources/mybatis/cn/flyme/venice/ware/ExchangeGoodsMapper.xml" timestamp="1506478638437">
         <mark key="[" line="19" column="11" />
@@ -6956,12 +6956,12 @@
         <mark key="." line="357" column="51" />
         <mark key="^" line="357" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1509523780661">
-        <mark key="'" line="96" column="45" />
-        <mark key="[" line="156" column="1" />
-        <mark key="]" line="156" column="0" />
-        <mark key="^" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1509528077008">
+        <mark key="'" line="158" column="42" />
+        <mark key="[" line="141" column="34" />
+        <mark key="]" line="142" column="36" />
+        <mark key="." line="142" column="36" />
+        <mark key="^" line="142" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/web/CoinAdminController.java" timestamp="1505717915265">
         <mark key="[" line="19" column="14" />
@@ -7295,7 +7295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="51" column="15" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="52" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
@@ -7395,6 +7394,7 @@
       <jump line="27" column="57" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/StakeGroup.java" />
       <jump line="96" column="45" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="56" column="38" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/StakeGroup.java" />
+      <jump line="155" column="42" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7416,34 +7416,34 @@
         <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8wIEFERCBUSVRMRSBWQVJDSEFSKDIwMCkgTlVMTCBDT01NRU5UICfnroDljZXmj4/ov7Dkv6Hmga8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3Rha2U+IGVudHJ5IDogQUxMLmVudHJ5U2V0KCkpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpICsgIiAtPiAiICsgZW50cnkuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3Rha2U+IGVudHJ5IDogQUxMLmVudHJ5U2V0KCkpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpICsgIiAtPiAiICsgZW50cnkuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRCBBREQgVElUTEUgVkFSQ0hBUigyMDApIE5VTEwgQ09NTUVOVCAn566A5Y2V5o+P6L+w5L+h5oGvJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBUSVRMRSAgICAgICBWQVJDSEFSKDIwMCkgTlVMTAogIENPTU1FTlQgJ+eugOWNleeahOaPj+i/sOS/oeaBrycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUSVRMRSAgICAgICBWQVJDSEFSKDIwMCkgTlVMTAogIENPTU1FTlQgJ+eugOWNleeahOaPj+i/sOS/oeaBrycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGxvbmcgaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGxvbmcgaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
