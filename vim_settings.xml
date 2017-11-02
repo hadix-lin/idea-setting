@@ -111,11 +111,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" timestamp="1509521061380">
-        <mark key="[" line="156" column="20" />
-        <mark key="]" line="156" column="19" />
-        <mark key="." line="156" column="19" />
-        <mark key="^" line="156" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" timestamp="1509589163026">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e2da94d-d30c-4420-954a-b1823f0c60fb/console_2.sql" timestamp="1503045351582">
         <mark key="[" line="0" column="0" />
@@ -3402,7 +3403,7 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/UserTransaction.java" timestamp="1508405499282">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/UserTransaction.java" timestamp="1509589735698">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="7" />
         <mark key="^" line="12" column="7" />
@@ -6915,11 +6916,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1509530067126">
-        <mark key="[" line="186" column="5" />
-        <mark key="]" line="186" column="4" />
-        <mark key="^" line="186" column="4" />
-        <mark key="." line="186" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1509589129674">
+        <mark key="[" line="150" column="23" />
+        <mark key="]" line="150" column="22" />
+        <mark key="^" line="150" column="22" />
+        <mark key="." line="150" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/handler/impl/FeedbackHandlerImpl.java" timestamp="1504697785537">
         <mark key="[" line="102" column="19" />
@@ -7302,8 +7303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="18" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="89" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="4" column="43" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="5" column="47" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="92" column="3" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
@@ -7402,6 +7401,8 @@
       <jump line="105" column="2" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/web/BatchAdminController.java" />
       <jump line="33" column="63" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
       <jump line="34" column="38" filename="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/resources/coupon-mybatis/BatchMapper.xml" />
+      <jump line="160" column="25" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
