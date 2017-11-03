@@ -5193,11 +5193,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/ModuloTableShardingAlgorithm.java" timestamp="1509615813908">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="56" column="1" />
-        <mark key="^" line="56" column="1" />
-        <mark key="." line="56" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/ModuloTableShardingAlgorithm.java" timestamp="1509674089329">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-task/src/main/java/com/meizu/life/support/task/ctx/TaskContext.java" timestamp="1489480492113">
         <mark key="[" line="15" column="14" />
@@ -7233,7 +7234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/BeanUtils.java" />
       <jump line="81" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
@@ -7333,6 +7333,7 @@
       <jump line="138" column="17" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="79" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/model/UserStakeRecord.java" />
       <jump line="44" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAdminController.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/sharding/ModuloTableShardingAlgorithm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7348,7 +7349,7 @@
         <text>and no= 201710141728</text>
       </register>
       <register name="/" type="4">
-        <text>batc\.</text>
+        <text>actualtab</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8wIEFERCBCSVpfTkFNRSBWQVJDSEFSKDQ1KSBOVUxMIENPTU1FTlQgJ+S4muWKoeWQjeensCc7Cg==</text>
@@ -7384,13 +7385,13 @@
         <text encoding="base64">ICBMaXN0PFVzZXI+IGdldEJ5VXNlcklkKEBQYXJhbSgiaWRzIikgbG9uZy4uLiBpZHMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set incsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>batc\.</last-search>
+      <last-search>actualtab</last-search>
       <last-offset />
-      <last-pattern>batc\.</last-pattern>
+      <last-pattern>actualtab</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7398,7 +7399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chanel</entry>
         <entry>notify</entry>
         <entry>pay_info</entry>
         <entry>payinfo</entry>
@@ -7418,10 +7418,9 @@
         <entry>save</entry>
         <entry>batc.</entry>
         <entry>batc\.</entry>
+        <entry>actualtab</entry>
       </history-search>
       <history-cmd>
-        <entry>unmap</entry>
-        <entry>set nohls</entry>
         <entry>hls</entry>
         <entry>set nu</entry>
         <entry>nonu</entry>
@@ -7440,6 +7439,8 @@
         <entry>action AceAction</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>set incsearch</entry>
+        <entry>set iskeyword?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
