@@ -701,11 +701,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/boot-java.sh" timestamp="1506324889904">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/boot-java.sh" timestamp="1509960806946">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/LifeModuleConfiguration.java" timestamp="1504608842097">
         <mark key="[" line="19" column="61" />
@@ -1155,11 +1155,11 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/jvm.ini" timestamp="1509958651313">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/jvm.ini" timestamp="1509959745242">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-config/src/main/java/com/meizu/life/config/source/YardConfigSource.java" timestamp="1492413549848">
         <mark key="[" line="64" column="5" />
@@ -2989,7 +2989,8 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509615350063">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" timestamp="1509960289981">
+        <mark key="'" line="53" column="32" />
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="31" />
         <mark key="^" line="53" column="31" />
@@ -4596,11 +4597,11 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/meizu-archetype-modularize/src/main/resources/archetype-resources/boot-java.sh" timestamp="1506324922707">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/meizu-archetype-modularize/src/main/resources/archetype-resources/boot-java.sh" timestamp="1509960516977">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+        <mark key="." line="41" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/sharding/ModuloTableShardingAlgorithm.java" timestamp="1493128692463">
         <mark key="[" line="20" column="100" />
@@ -7362,7 +7363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="203" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="204" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="3226" column="65" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
@@ -7462,6 +7462,7 @@
       <jump line="85" column="28" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="118" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="116" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
+      <jump line="53" column="32" filename="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7483,37 +7484,37 @@
         <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9VU0VSX0lEX0NSRUFURV9USU1FIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMCAoVVNFUl9JRCwgQ1JFQVRFX1RJTUUgREVTQyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZXhjbHVzaW9ucz4K</text>
+        <text encoding="base64">LVhYOitVc2VDTVNDb21wYWN0QXRGdWxsQ29sbGVjdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPm9yZy5lY2xpcHNlLmpldHR5LndlYnNvY2tldDwvZ3JvdXBJZD4KICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
+        <text encoding="base64">ICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxqZXR0eS52ZXJzaW9uPjguMS4yMi52MjAxNjA5MjI8L2pldHR5LnZlcnNpb24+CiAgICA8amV0dHktanNwLnZlcnNpb24+Mi4yLjAudjIwMTExMjAxMTE1ODwvamV0dHktanNwLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPm9yZy5lY2xpcHNlLmpldHR5LndlYnNvY2tldDwvZ3JvdXBJZD4KICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxqZXR0eS52ZXJzaW9uPjguMS4yMi52MjAxNjA5MjI8L2pldHR5LnZlcnNpb24+CiAgICA8amV0dHktanNwLnZlcnNpb24+Mi4yLjAudjIwMTExMjAxMTE1ODwvamV0dHktanNwLnZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+CiAgPC9wcm9wZXJ0aWVzPg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+CiAgPC9wcm9wZXJ0aWVzPg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWcuaXNFbmFibGVMb2NhbE5ldExpbWl0T25BZG1pbigpKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>set incsearch</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -7565,10 +7566,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>action AceLineAction</entry>
         <entry>action AceAction</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>set incsearch</entry>
         <entry>set iskeyword?</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
