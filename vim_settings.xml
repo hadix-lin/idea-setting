@@ -4274,6 +4274,13 @@
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/AdminControlInterceptor.java" timestamp="1509936407666">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-dao/src/main/java/com/meizu/life/user/dao/impl/UserCouponDaoImpl.java" timestamp="1503998623007">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -7375,7 +7382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="176" column="34" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="63" column="11" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
       <jump line="79" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
@@ -7475,6 +7481,7 @@
       <jump line="136" column="13" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebAutoConfiguration.java" />
       <jump line="379" column="13" filename="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/Cookie.java" />
       <jump line="535" column="0" filename="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/Cookie.java" />
+      <jump line="9" column="13" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/AdminControlInterceptor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7496,34 +7503,34 @@
         <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9VU0VSX0lEX0NSRUFURV9USU1FIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMCAoVVNFUl9JRCwgQ1JFQVRFX1RJTUUgREVTQyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIGlmKHJlbW90ZUFkZHIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlY29yZCByID0gbmV3IFJlY29yZCgpOwogICAgQmVhblV0aWxzLmNvcHkociwgcmVjb3JkKTsKICAgIHIuc2V0SWQoc2VxdWVuY2UubmV4dElkKCkpOwogICAgci5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIHIuc2V0T3BlcmF0aW9uVHlwZShSRUNIQVJHRSk7CiAgICByTWFwcGVyLnNhdmUocik7CiAgICByZWNvcmQuc2V0SWQoci5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LmdldFJlcXVlc3RVUkkoKS5zdGFydHNXaXRoKCIvYWRtaW4iKSkgewogICAgICByZXR1cm4gc3VwZXIucHJlSGFuZGxlKHJlcXVlc3QsIHJlc3BvbnNlLCBoYW5kbGVyKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlY29yZC5zZXRJZChyLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIuc2V0T3JkZXJJZChyZWNvcmQuZ2V0T3JkZXJJZCgpKTsK</text>
+        <text encoding="base64">ICAgIFJlY29yZCByID0gbmV3IFJlY29yZCgpOwogICAgQmVhblV0aWxzLmNvcHkociwgcmVjb3JkKTsKICAgIHIuc2V0SWQoc2VxdWVuY2UubmV4dElkKCkpOwogICAgci5zZXRDcmVhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgIHIuc2V0T3BlcmF0aW9uVHlwZShSRUNIQVJHRSk7CiAgICByTWFwcGVyLnNhdmUocik7CiAgICByZWNvcmQuc2V0SWQoci5nZXRJZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHIuc2V0QW1vdW50KGFtb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgIHJlY29yZC5zZXRJZChyLmdldElkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHIuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHIuc2V0T3JkZXJJZChyZWNvcmQuZ2V0T3JkZXJJZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ1JFQVRFX1RJTUUgPCAK</text>
+        <text encoding="base64">ICAgIHIuc2V0QW1vdW50KGFtb3VudCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRAogIEFERCBDSEFOTkVMIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5rig6YGTJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8wCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzEKICBBREQgQ0hBTk5FTCBWQVJDSEFSKDQ1KSBOVUxMCkNPTU1FTlQgJ+a4oOmBkyc7CkFMVEVSIFRBQkxFIFRfQ09JTl9SRUNPUkRfMgogIEFERCBDSEFOTkVMIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5rig6YGTJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8zCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzQKICBBREQgQ0hBTk5FTCBWQVJDSEFSKDQ1KSBOVUxMCkNPTU1FTlQgJ+a4oOmBkyc7CkFMVEVSIFRBQkxFIFRfQ09JTl9SRUNPUkRfNQogIEFERCBDSEFOTkVMIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5rig6YGTJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF82CiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzcKICBBREQgQ0hBTk5FTCBWQVJDSEFSKDQ1KSBOVUxMCkNPTU1FTlQgJ+a4oOmBkyc7CkFMVEVSIFRBQkxFIFRfQ09JTl9SRUNPUkRfOAogIEFERCBDSEFOTkVMIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5rig6YGTJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF85CiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzEwCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzExCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzEyCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzEzCiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzE0CiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzE1CiAgQUREIENIQU5ORUwgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfmuKDpgZMnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JECiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8wCiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8xCiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8yCiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8zCiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF80CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF81CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF82CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF83CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF84CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF85CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8xMAogIEFERCBCSVpfTkFNRSBWQVJDSEFSKDQ1KSBOVUxMCkNPTU1FTlQgJ+S4muWKoeWQjeensCc7CkFMVEVSIFRBQkxFIFRfQ09JTl9SRUNPUkRfMTEKICBBREQgQklaX05BTUUgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfkuJrliqHlkI3np7AnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzEyCiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsKQUxURVIgVEFCTEUgVF9DT0lOX1JFQ09SRF8xMwogIEFERCBCSVpfTkFNRSBWQVJDSEFSKDQ1KSBOVUxMCkNPTU1FTlQgJ+S4muWKoeWQjeensCc7CkFMVEVSIFRBQkxFIFRfQ09JTl9SRUNPUkRfMTQKICBBREQgQklaX05BTUUgVkFSQ0hBUig0NSkgTlVMTApDT01NRU5UICfkuJrliqHlkI3np7AnOwpBTFRFUiBUQUJMRSBUX0NPSU5fUkVDT1JEXzE1CiAgQUREIEJJWl9OQU1FIFZBUkNIQVIoNDUpIE5VTEwKQ09NTUVOVCAn5Lia5Yqh5ZCN56ewJzsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHIuc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ1JFQVRFX1RJTUUgPCAK</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
