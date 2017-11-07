@@ -1385,6 +1385,7 @@
         <mark key="^" line="20" column="46" />
         <mark key="." line="20" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/model/vo/GoodsOrderListVO.java" timestamp="1510021462288" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-common/pom.xml" timestamp="1501751749000">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="14" column="1" />
@@ -5368,6 +5369,12 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-coupon/src/main/java/cn/flyme/venice/coupon/http/CouponApi.java" timestamp="1510021719413">
+        <mark key="[" line="323" column="7" />
+        <mark key="]" line="323" column="6" />
+        <mark key="^" line="323" column="6" />
+        <mark key="." line="323" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/dao/LotteryApi.java" timestamp="1496220678206">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="23" />
@@ -6240,11 +6247,11 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" timestamp="1508141350519">
-        <mark key="[" line="105" column="27" />
-        <mark key="]" line="105" column="26" />
-        <mark key="^" line="105" column="26" />
-        <mark key="." line="105" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" timestamp="1510021519300">
+        <mark key="[" line="200" column="24" />
+        <mark key="]" line="200" column="23" />
+        <mark key="^" line="200" column="23" />
+        <mark key="." line="200" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-web/src/main/java/com/meizu/life/support/container/ScanResultHandler.java" timestamp="1492399971737">
         <mark key="[" line="6" column="3" />
@@ -6625,6 +6632,7 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/service/impl/UserAddressServiceImpl.java" timestamp="1510021708755" />
       <file name="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/PayModuleConfiguration.java" timestamp="1506067970909">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
@@ -7363,8 +7371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
-      <jump line="204" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="3226" column="65" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="3229" column="65" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
       <jump line="3233" column="21" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
@@ -7463,6 +7469,8 @@
       <jump line="118" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="116" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="53" column="32" filename="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7478,7 +7486,7 @@
         <text>666投注获赔:&quot; + usr.getNo()</text>
       </register>
       <register name="/" type="4">
-        <text>actualtab</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9VU0VSX0lEX0NSRUFURV9USU1FIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMCAoVVNFUl9JRCwgQ1JFQVRFX1RJTUUgREVTQyk7Cg==</text>
@@ -7518,9 +7526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>actualtab</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>actualtab</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -7528,7 +7536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notify</entry>
         <entry>pay_info</entry>
         <entry>payinfo</entry>
         <entry>notblank</entry>
@@ -7548,6 +7555,7 @@
         <entry>batc.</entry>
         <entry>batc\.</entry>
         <entry>actualtab</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>hls</entry>
