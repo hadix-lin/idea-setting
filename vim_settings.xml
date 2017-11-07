@@ -114,12 +114,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" timestamp="1509603916385">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" timestamp="1510051116403">
         <mark key="'" line="138" column="17" />
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-        <mark key="^" line="28" column="2" />
+        <mark key="[" line="158" column="14" />
+        <mark key="]" line="158" column="14" />
+        <mark key="." line="158" column="14" />
+        <mark key="^" line="158" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e2da94d-d30c-4420-954a-b1823f0c60fb/console_2.sql" timestamp="1503045351582">
         <mark key="[" line="0" column="0" />
@@ -1843,7 +1843,7 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/pom.xml" timestamp="1510044355660">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/pom.xml" timestamp="1510051351582">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="13" column="1" />
         <mark key="." line="13" column="1" />
@@ -4337,6 +4337,7 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="/GameSixServiceImpl.java" timestamp="1510051219537" />
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/service/CouponService.java" timestamp="1499915742393">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -4529,7 +4530,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510050080701">
+      <file name="/Dummy.txt" timestamp="1510051352214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -5727,9 +5728,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1510043655849">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/jooq.xml" timestamp="1508750039316">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="16" />
@@ -6617,12 +6615,9 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1510048847541">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1510051304518">
         <mark key="'" line="44" column="45" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="75" column="86" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="67" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-dao/src/main/java/com/meizu/life/activity/dao/mapper/RewardMapper.java" timestamp="1507530094497">
         <mark key="[" line="45" column="0" />
@@ -7030,12 +7025,12 @@
         <mark key="." line="12" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-jmx/9.4.7.v20170914/jetty-jmx-9.4.7.v20170914-sources.jar!/org/eclipse/jetty/jmx/ConnectorServer.java" timestamp="1510035922113" />
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1510048560337">
-        <mark key="'" line="113" column="24" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="107" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1510051262164">
+        <mark key="'" line="109" column="24" />
+        <mark key="[" line="116" column="44" />
+        <mark key="]" line="116" column="43" />
+        <mark key="." line="116" column="43" />
+        <mark key="^" line="116" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/handler/impl/FeedbackHandlerImpl.java" timestamp="1504697785537">
         <mark key="[" line="102" column="19" />
@@ -7339,11 +7334,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/GameSixService.java" timestamp="1510048549812">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/GameSixService.java" timestamp="1510051244359">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/ShakeDiceTask.java" timestamp="1507795364622">
         <mark key="[" line="45" column="37" />
@@ -7551,8 +7546,8 @@
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9QSE9ORSBPTiBUX1VTRVIgKFBIT05FKTsKQ1JFQVRFIElOREVYIElEWF9VU0VSX05BTUUgT04gVF9VU0VSIChVU0VSX05BTUUpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRCAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzAgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8xIChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMiAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzMgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF80IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfNSAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzYgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF83IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfOCAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzkgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8xMCAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzExIChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMTIgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8xMyAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzE0IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMTUgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8xNiAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzE3IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMTggKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8xOSAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzIwIChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMjEgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8yMiAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzIzIChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMjQgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8yNSAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzI2IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMjcgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8yOCAoQ0hBTk5FTCk7CkNSRUFURSBJTkRFWCBJRFhfQ0hBTk5FTCBPTiBUX1VTRVJfU1RBS0VfUkVDT1JEXzI5IChDSEFOTkVMKTsKQ1JFQVRFIElOREVYIElEWF9DSEFOTkVMIE9OIFRfVVNFUl9TVEFLRV9SRUNPUkRfMzAgKENIQU5ORUwpOwpDUkVBVEUgSU5ERVggSURYX0NIQU5ORUwgT04gVF9VU0VSX1NUQUtFX1JFQ09SRF8zMSAoQ0hBTk5FTCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">QnVpbGRlcjxPYmplY3QsIEludGVnZXI+IGJ1aWxkZXIgPSBJbW11dGFibGVNYXAuYnVpbGRlcigpOwogICAgYnVpbGRlci5wdXRBbGwoZ2FtZS5nZXRTdGFrZUluZm8obm8pKS5wdXQoImNvdW50IiwgKGludCkgQ2FsY3VsYXRlVXRpbHMuZ2V0V2luQmVhbnNOdW0oKSk7CiAgICByZXR1cm4gYnVpbGRlci5idWlsZCgpOw==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -7561,25 +7556,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGFrZUluZm87Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YWtlSW5mby5wdXQoImNvdW50IiwgKGludCkgQ2FsY3VsYXRlVXRpbHMuZ2V0V2luQmVhbnNOdW0oKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdGFrZUluZm87Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0YWtlSW5mby5wdXQoImNvdW50IiwgKGludCkgQ2FsY3VsYXRlVXRpbHMuZ2V0V2luQmVhbnNOdW0oKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxPYmplY3QsIEludGVnZXI+IHN0YWtlSW5mbyA9IGdhbWUuZ2V0U3Rha2VJbmZvKG5vKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIucHV0QWxsKHN0YWtlU3RvcmUucmVhZChubykpOwo=</text>
+        <text encoding="base64">ICAgIE1hcDxPYmplY3QsIEludGVnZXI+IHN0YWtlSW5mbyA9IGdhbWUuZ2V0U3Rha2VJbmZvKG5vKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJ1aWxkZXI8T2JqZWN0LCBJbnRlZ2VyPiBidWlsZGVyID0gSW1tdXRhYmxlTWFwLmJ1aWxkZXIoKTsKICAgIGJ1aWxkZXIucHV0QWxsKHN0YWtlU3RvcmUucmVhZChubykpOwogICAgcmV0dXJuIGJ1aWxkZXIuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIucHV0QWxsKHN0YWtlU3RvcmUucmVhZChubykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

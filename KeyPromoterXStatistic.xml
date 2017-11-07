@@ -76,7 +76,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>348</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -445,7 +445,7 @@
         <Item>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
