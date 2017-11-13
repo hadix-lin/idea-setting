@@ -1608,7 +1608,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510557645359">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510570447491">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="39" />
         <mark key="^" line="4" column="39" />
@@ -4457,7 +4457,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510563916467">
+      <file name="/Dummy.txt" timestamp="1510569955364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -4649,11 +4649,10 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-parent/pom.xml" timestamp="1510109315879">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="34" column="14" />
-        <mark key="." line="34" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-parent/pom.xml" timestamp="1510569931250">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-mybatis-starter/src/main/resources/config/application.properties" timestamp="1495161287725">
         <mark key="[" line="0" column="100" />
@@ -4786,6 +4785,12 @@
         <mark key="]" line="20" column="19" />
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.8.RELEASE/spring-boot-starter-parent-1.5.8.RELEASE.pom" timestamp="1510569885622">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-utils/src/main/java/com/meizu/life/utils/core/PBECodeMsgCode.java" timestamp="1504690558122">
         <mark key="[" line="8" column="0" />
@@ -5099,6 +5104,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/worker/DatabaseWorkerIdGenerator.java" timestamp="1510557024663">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-auth/src/main/java/com/meizu/life/support/auth/ProductionProfile.java" timestamp="1503913615655">
         <mark key="[" line="79" column="28" />
         <mark key="]" line="79" column="46" />
@@ -5200,6 +5210,12 @@
         <mark key="]" line="14" column="22" />
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.8.RELEASE/spring-boot-dependencies-1.5.8.RELEASE.pom" timestamp="1510569886430">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/dao/mapper.java" timestamp="1493700983680">
         <mark key="[" line="5" column="23" />
@@ -6910,6 +6926,11 @@
         <mark key="^" line="47" column="28" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-parent/pom.xml" timestamp="1510569954402">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/job/JobStatusStore.java" timestamp="1508470390672">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="18" />
@@ -7501,34 +7522,34 @@
         <text>IdWorkerType.COUPON_ORDER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4zLjU8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlOwo=</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICogPHA+5o+P6L+w77ya5YiG5biD5byP6Ieq5aKe6ZW/SUQKICoKICogPHA+CiAqCiAqIDxwcmU+CiAqICAgICBUd2l0dGVy55qEIFNub3dmbGFrZeOAgEpBVkHlrp7njrDmlrnmoYgKICogPC9wcmU+CiAqCiAqIDxwPuaguOW/g+S7o+eggeS4uuWFtklkV29ya2Vy6L+Z5Liq57G75a6e546w77yM5YW25Y6f55CG57uT5p6E5aaC5LiL77yM5oiR5YiG5Yir55So5LiA5LiqMOihqOekuuS4gOS9je+8jOeUqOKAlOWIhuWJsuW8gOmDqOWIhueahOS9nOeUqO+8miAxfHwwLS0tMDAwMDAwMDAwMCAwMDAwMDAwMDAwIDAwMDAwMDAwMDAKICogMDAwMDAwMDAwMCAwIC0tLSAwMDAwMCAtLS0wMDAwMCAtLS0wMDAwMDAwMDAwMDAg5Zyo5LiK6Z2i55qE5a2X56ym5Liy5Lit77yM56ys5LiA5L2N5Li65pyq5L2/55So77yI5a6e6ZmF5LiK5Lmf5Y+v5L2c5Li6bG9uZ+eahOespuWPt+S9je+8ie+8jOaOpeS4i+adpeeahDQx5L2N5Li65q+r56eS57qn5pe26Ze077yMCiAqIOeEtuWQjjXkvY1kYXRhY2VudGVy5qCH6K+G5L2N77yMNeS9jeacuuWZqElE77yI5bm25LiN566X5qCH6K+G56ym77yM5a6e6ZmF5piv5Li657q/56iL5qCH6K+G77yJ77yMIOeEtuWQjjEy5L2N6K+l5q+r56eS5YaF55qE5b2T5YmN5q+r56eS5YaF55qE6K6h5pWw77yM5Yqg6LW35p2l5Yia5aW9NjTkvY3vvIzkuLrkuIDkuKpMb25n5Z6L44CCCiAqIOi/meagt+eahOWlveWkhOaYr++8jOaVtOS9k+S4iuaMieeFp+aXtumXtOiHquWinuaOkuW6j++8jOW5tuS4lOaVtOS4quWIhuW4g+W8j+ezu+e7n+WGheS4jeS8muS6p+eUn0lE56Kw5pKe77yI55SxZGF0YWNlbnRlcuWSjOacuuWZqElE5L2c5Yy65YiG77yJ77yMCiAqIOW5tuS4lOaViOeOh+i+g+mrmO+8jOe7j+a1i+ivle+8jHNub3dmbGFrZeavj+enkuiDveWkn+S6p+eUnzI25LiHSUTlt6blj7PvvIzlrozlhajmu6HotrPpnIDopoHjgIIKICoKICogPHA+NTLkvY1JRCAoMzgo5q+r56eSKSs1KOacuuWZqElEKSszKOS4muWKoee8lueggSkrNijph43lpI3ntK/liqApKSDmoLnmja7orqHnrpcg5L2N5pWw5L+d6K+BNTLkuKrnmoTml7blgJksIOavq+enkuWAvOWPquiDveaUr+aMgeWIsDjlubQ=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB8IChkYXRhY2VudGVySWQgPDwgZGF0YWNlbnRlcklkU2hpZnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogQHBhcmFtIHdvcmtlcklkIOW3peS9nOacuuWZqElECiAgICogQHBhcmFtIGRhdGFjZW50ZXJJZCDluo/liJflj7cKICAgKi8KICBwdWJsaWMgSWRXb3JrZXIobG9uZyB3b3JrZXJJZCwgbG9uZyBkYXRhY2VudGVySWQpIHsKICAgIGlmICh3b3JrZXJJZCA+IG1heFdvcmtlcklkIHx8IHdvcmtlcklkIDwgMCkgewogICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgIFN0cmluZy5mb3JtYXQoIndvcmtlciBJZCBjYW4ndCBiZSBncmVhdGVyIHRoYW4gJWQgb3IgbGVzcyB0aGFuIDAiLCBtYXhXb3JrZXJJZCkpOwogICAgfQogICAgaWYgKGRhdGFjZW50ZXJJZCA+IG1heERhdGFjZW50ZXJJZCB8fCBkYXRhY2VudGVySWQgPCAwKSB7CiAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgU3RyaW5nLmZvcm1hdCgiZGF0YWNlbnRlciBJZCBjYW4ndCBiZSBncmVhdGVyIHRoYW4gJWQgb3IgbGVzcyB0aGFuIDAiLCBtYXhEYXRhY2VudGVySWQpKTsKICAgIH0KICAgIHRoaXMud29ya2VySWQgPSB3b3JrZXJJZDsKICAgIHRoaXMuZGF0YWNlbnRlcklkID0gZGF0YWNlbnRlcklkOwogIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICogPHA+5o+P6L+w77ya5YiG5biD5byP6Ieq5aKe6ZW/SUQKICoKICogPHA+CiAqCiAqIDxwcmU+CiAqICAgICBUd2l0dGVy55qEIFNub3dmbGFrZeOAgEpBVkHlrp7njrDmlrnmoYgKICogPC9wcmU+CiAqCiAqIDxwPuaguOW/g+S7o+eggeS4uuWFtklkV29ya2Vy6L+Z5Liq57G75a6e546w77yM5YW25Y6f55CG57uT5p6E5aaC5LiL77yM5oiR5YiG5Yir55So5LiA5LiqMOihqOekuuS4gOS9je+8jOeUqOKAlOWIhuWJsuW8gOmDqOWIhueahOS9nOeUqO+8miAxfHwwLS0tMDAwMDAwMDAwMCAwMDAwMDAwMDAwIDAwMDAwMDAwMDAKICogMDAwMDAwMDAwMCAwIC0tLSAwMDAwMCAtLS0wMDAwMCAtLS0wMDAwMDAwMDAwMDAg5Zyo5LiK6Z2i55qE5a2X56ym5Liy5Lit77yM56ys5LiA5L2N5Li65pyq5L2/55So77yI5a6e6ZmF5LiK5Lmf5Y+v5L2c5Li6bG9uZ+eahOespuWPt+S9je+8ie+8jOaOpeS4i+adpeeahDQx5L2N5Li65q+r56eS57qn5pe26Ze077yMCiAqIOeEtuWQjjXkvY1kYXRhY2VudGVy5qCH6K+G5L2N77yMNeS9jeacuuWZqElE77yI5bm25LiN566X5qCH6K+G56ym77yM5a6e6ZmF5piv5Li657q/56iL5qCH6K+G77yJ77yMIOeEtuWQjjEy5L2N6K+l5q+r56eS5YaF55qE5b2T5YmN5q+r56eS5YaF55qE6K6h5pWw77yM5Yqg6LW35p2l5Yia5aW9NjTkvY3vvIzkuLrkuIDkuKpMb25n5Z6L44CCCiAqIOi/meagt+eahOWlveWkhOaYr++8jOaVtOS9k+S4iuaMieeFp+aXtumXtOiHquWinuaOkuW6j++8jOW5tuS4lOaVtOS4quWIhuW4g+W8j+ezu+e7n+WGheS4jeS8muS6p+eUn0lE56Kw5pKe77yI55SxZGF0YWNlbnRlcuWSjOacuuWZqElE5L2c5Yy65YiG77yJ77yMCiAqIOW5tuS4lOaViOeOh+i+g+mrmO+8jOe7j+a1i+ivle+8jHNub3dmbGFrZeavj+enkuiDveWkn+S6p+eUnzI25LiHSUTlt6blj7PvvIzlrozlhajmu6HotrPpnIDopoHjgIIKICoKICogPHA+NTLkvY1JRCAoMzgo5q+r56eSKSs1KOacuuWZqElEKSszKOS4muWKoee8lueggSkrNijph43lpI3ntK/liqApKSDmoLnmja7orqHnrpcg5L2N5pWw5L+d6K+BNTLkuKrnmoTml7blgJksIOavq+enkuWAvOWPquiDveaUr+aMgeWIsDjlubQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDmlbDmja7moIfor4ZpZOmDqOWIhgogIHByaXZhdGUgZmluYWwgbG9uZyBkYXRhY2VudGVySWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB8IChkYXRhY2VudGVySWQgPDwgZGF0YWNlbnRlcklkU2hpZnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
