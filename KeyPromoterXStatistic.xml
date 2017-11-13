@@ -552,6 +552,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'venice-test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'venice-test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Submit">
         <Item>
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
