@@ -21,6 +21,9 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="/a.dummy" timestamp="1510572385556">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/web/CouponActivityUnauthController.java" timestamp="1501033210037">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="13" />
@@ -699,7 +702,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/pom.xml" timestamp="1510563889456">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/pom.xml" timestamp="1510574075332">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
@@ -764,6 +767,9 @@
         <mark key="]" line="81" column="17" />
         <mark key="^" line="81" column="17" />
         <mark key="." line="81" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/DatabaseWorkerIdGenerator.java" timestamp="1510544136292">
+        <mark key="[" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/activity/rest/handler/impl/ActivityConfigHandlerImpl.java" timestamp="1494235886153">
         <mark key="[" line="32" column="35" />
@@ -849,7 +855,7 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1510563837585">
+      <file name="/dummy.sql" timestamp="1510573724362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleScan.java" timestamp="1497026345321">
@@ -984,11 +990,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/DatabaseWorkerIdGenerator.java" timestamp="1510563556353">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/DatabaseWorkerIdGenerator.java" timestamp="1510573073094">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1496309999828">
         <mark key="[" line="9" column="1" />
@@ -1098,6 +1104,7 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
+      <file name="/IdWorker.java" timestamp="1510571802677" />
       <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/java/cn/flyme/venice/nav/service/impl/OperationServiceImpl.java" timestamp="1508225332169">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -1608,11 +1615,11 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510570447491">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510574609774">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/startup/DefaultYardEnvironmentPostProcessor.java" timestamp="1505376446497">
         <mark key="[" line="51" column="51" />
@@ -1806,6 +1813,7 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="36" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/pom.xml" timestamp="1510574097014" />
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/main/java/com/meizu/life/support/core/LoadByContainerConfiguration.java" timestamp="1494149213392">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="24" />
@@ -2255,6 +2263,12 @@
         <mark key="]" line="32" column="2" />
         <mark key="." line="32" column="2" />
         <mark key="^" line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/dao/mapper/WorkerIdMapper.java" timestamp="1510573042928">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-config/src/main/java/com/meizu/life/config/ConfigInvokeHandler.java" timestamp="1492397724458">
         <mark key="[" line="91" column="0" />
@@ -3186,6 +3200,7 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/meizu/uc/uc-remote/2.4.5-RC18/uc-remote-2.4.5-RC18.jar!/config/spring-uc-stub.xml" timestamp="1510299236716" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-support-web/src/main/resources/META-INF/spring.factories" timestamp="1495008471948">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="2" column="0" />
@@ -3576,6 +3591,11 @@
         <mark key="." line="41" column="12" />
         <mark key="^" line="41" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/src/main/java/cn/flyme/venice/common/model/PushMessage.java" timestamp="1510302804449">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/pom.xml" timestamp="1506046731339">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="19" />
@@ -3605,11 +3625,6 @@
         <mark key="]" line="16" column="41" />
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-utils/src/main/java/com/meizu/life/support/utils/IdWorkerType.java" timestamp="1510563092744">
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/mybatis/RedisCache.java" timestamp="1493970495598">
         <mark key="[" line="11" column="0" />
@@ -3671,6 +3686,7 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="/pom.xml" timestamp="1510306767610" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/CouponRuleComponent.java" timestamp="1499080502005">
         <mark key="[" line="40" column="22" />
         <mark key="]" line="40" column="21" />
@@ -4457,7 +4473,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510569955364">
+      <file name="/Dummy.txt" timestamp="1510574100520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -5475,11 +5491,11 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/pom.xml" timestamp="1505199277355">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/pom.xml" timestamp="1510572524535">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/dao/mapper/OrderMapper.java" timestamp="1502935784700">
         <mark key="[" line="39" column="11" />
@@ -5535,11 +5551,10 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/NetworkUtils.java" timestamp="1496917264860">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/NetworkUtils.java" timestamp="1510574012833">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-auth/src/main/resources/META-INF/spring.factories" timestamp="1497256506444">
         <mark key="[" line="1" column="47" />
@@ -5667,7 +5682,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1510305088454">
+      <file name="/a.sql" timestamp="1510574722086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/jooq.xml" timestamp="1508750039316">
@@ -5694,7 +5709,7 @@
         <mark key="^" line="29" column="14" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/Sequence.java" timestamp="1510558998422">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/Sequence.java" timestamp="1510571835134">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="7" />
         <mark key="^" line="26" column="7" />
@@ -5741,6 +5756,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/commons/worker/DatabaseWorkerIdGenerator.java" timestamp="1510558849689">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-container/src/main/java/com/meizu/life/luckbuy/ContainerConfig.java" timestamp="1492673554625">
         <mark key="[" line="5" column="34" />
@@ -6020,6 +6040,9 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/DistributeWorkerIdGenerator.java" timestamp="1510543758064">
+        <mark key="[" line="2" column="23" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/68e606a4-f604-446a-9fd6-1933dc6b63b3/console_7.sql" timestamp="1499064643116">
         <mark key="[" line="44" column="16" />
         <mark key="]" line="44" column="13" />
@@ -6211,6 +6234,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/src/main/java/cn/flyme/venice/common/enums/MessageType.java" timestamp="1510217489405">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/package-info.java" timestamp="1492501140832">
         <mark key="[" line="4" column="80" />
@@ -6446,7 +6474,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1510560287232">
+      <file name="/fragment.java" timestamp="1510572476650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -6469,6 +6497,11 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/pom.xml" timestamp="1510557143041">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/resources/tables/user.sql" timestamp="1505719542632">
         <mark key="[" line="0" column="19" />
@@ -7513,7 +7546,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>WorkerIdGenerator workerIdGenerator</text>
+        <text>String uniqueName</text>
       </register>
       <register name="/" type="4">
         <text>rmi</text>
@@ -7522,34 +7555,34 @@
         <text>IdWorkerType.COUPON_ORDER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4zLjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBUX1dPUktFUl9JRDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci4K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgU29ja2V0RXhjZXB0aW9uIHsKICAgIEVudW1lcmF0aW9uPE5ldHdvcmtJbnRlcmZhY2U+IG5ldHdvcmtJbnRlcmZhY2VzID0gTmV0d29ya0ludGVyZmFjZS5nZXROZXR3b3JrSW50ZXJmYWNlcygpOwogICAgd2hpbGUgKG5ldHdvcmtJbnRlcmZhY2VzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgIE5ldHdvcmtJbnRlcmZhY2UgbmV0d29yayA9IG5ldHdvcmtJbnRlcmZhY2VzLm5leHRFbGVtZW50KCk7CiAgICAgIGlmIChuZXR3b3JrID09IG51bGwpIHsKICAgICAgICBjb250aW51ZTsKICAgICAgfQogICAgICBieXRlW10gbWFjID0gbmV0d29yay5nZXRIYXJkd2FyZUFkZHJlc3MoKTsKICAgICAgaWYgKG1hYyA9PSBudWxsIHx8IG1hYy5sZW5ndGggPT0gMCkgewogICAgICAgIGNvbnRpbnVlOwogICAgICB9CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibmV0d29yayA9ICIgKyBuZXR3b3JrKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkaXNwbGF5TmFtZSA9ICIgKyBuZXR3b3JrLmdldERpc3BsYXlOYW1lKCkpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSGV4LmVuY29kZUhleFN0cmluZyhtYWMpKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlOwo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gVF9XT1JLRVJfSUQgKElEKSBWQUxVRVMgKDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmlxdWVOYW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1bmlxdWVOYW1lID0gbnVsbDsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICogPHA+5o+P6L+w77ya5YiG5biD5byP6Ieq5aKe6ZW/SUQKICoKICogPHA+CiAqCiAqIDxwcmU+CiAqICAgICBUd2l0dGVy55qEIFNub3dmbGFrZeOAgEpBVkHlrp7njrDmlrnmoYgKICogPC9wcmU+CiAqCiAqIDxwPuaguOW/g+S7o+eggeS4uuWFtklkV29ya2Vy6L+Z5Liq57G75a6e546w77yM5YW25Y6f55CG57uT5p6E5aaC5LiL77yM5oiR5YiG5Yir55So5LiA5LiqMOihqOekuuS4gOS9je+8jOeUqOKAlOWIhuWJsuW8gOmDqOWIhueahOS9nOeUqO+8miAxfHwwLS0tMDAwMDAwMDAwMCAwMDAwMDAwMDAwIDAwMDAwMDAwMDAKICogMDAwMDAwMDAwMCAwIC0tLSAwMDAwMCAtLS0wMDAwMCAtLS0wMDAwMDAwMDAwMDAg5Zyo5LiK6Z2i55qE5a2X56ym5Liy5Lit77yM56ys5LiA5L2N5Li65pyq5L2/55So77yI5a6e6ZmF5LiK5Lmf5Y+v5L2c5Li6bG9uZ+eahOespuWPt+S9je+8ie+8jOaOpeS4i+adpeeahDQx5L2N5Li65q+r56eS57qn5pe26Ze077yMCiAqIOeEtuWQjjXkvY1kYXRhY2VudGVy5qCH6K+G5L2N77yMNeS9jeacuuWZqElE77yI5bm25LiN566X5qCH6K+G56ym77yM5a6e6ZmF5piv5Li657q/56iL5qCH6K+G77yJ77yMIOeEtuWQjjEy5L2N6K+l5q+r56eS5YaF55qE5b2T5YmN5q+r56eS5YaF55qE6K6h5pWw77yM5Yqg6LW35p2l5Yia5aW9NjTkvY3vvIzkuLrkuIDkuKpMb25n5Z6L44CCCiAqIOi/meagt+eahOWlveWkhOaYr++8jOaVtOS9k+S4iuaMieeFp+aXtumXtOiHquWinuaOkuW6j++8jOW5tuS4lOaVtOS4quWIhuW4g+W8j+ezu+e7n+WGheS4jeS8muS6p+eUn0lE56Kw5pKe77yI55SxZGF0YWNlbnRlcuWSjOacuuWZqElE5L2c5Yy65YiG77yJ77yMCiAqIOW5tuS4lOaViOeOh+i+g+mrmO+8jOe7j+a1i+ivle+8jHNub3dmbGFrZeavj+enkuiDveWkn+S6p+eUnzI25LiHSUTlt6blj7PvvIzlrozlhajmu6HotrPpnIDopoHjgIIKICoKICogPHA+NTLkvY1JRCAoMzgo5q+r56eSKSs1KOacuuWZqElEKSszKOS4muWKoee8lueggSkrNijph43lpI3ntK/liqApKSDmoLnmja7orqHnrpcg5L2N5pWw5L+d6K+BNTLkuKrnmoTml7blgJksIOavq+enkuWAvOWPquiDveaUr+aMgeWIsDjlubQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB8IChkYXRhY2VudGVySWQgPDwgZGF0YWNlbnRlcklkU2hpZnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
