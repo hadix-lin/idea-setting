@@ -990,7 +990,7 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/DatabaseWorkerIdGenerator.java" timestamp="1510573073094">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/DatabaseWorkerIdGenerator.java" timestamp="1510640178572">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
@@ -1615,7 +1615,7 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510631102222">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510639992392">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
@@ -1765,6 +1765,7 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/WorkerIdMapper.java" timestamp="1510640159400" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/StoreAsIdTypeHandler.java" timestamp="1508920562038">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="41" column="36" />
@@ -2264,7 +2265,7 @@
         <mark key="." line="32" column="2" />
         <mark key="^" line="32" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/dao/mapper/WorkerIdMapper.java" timestamp="1510625531591">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/common/worker/dao/mapper/WorkerIdMapper.java" timestamp="1510640166992">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="42" />
         <mark key="^" line="12" column="42" />
@@ -3303,11 +3304,11 @@
         <mark key="^" line="131" column="19" />
         <mark key="." line="131" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-utils/src/main/java/com/meizu/life/support/utils/IdWorker.java" timestamp="1510624350495">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-utils/src/main/java/com/meizu/life/support/utils/IdWorker.java" timestamp="1510640076199">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/meizu/life/life-support-web/1.1-SNAPSHOT/life-support-web-1.1-SNAPSHOT.pom" timestamp="1492676571057">
         <mark key="[" line="46" column="25" />
@@ -3596,11 +3597,6 @@
         <mark key="]" line="41" column="12" />
         <mark key="." line="41" column="12" />
         <mark key="^" line="41" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/src/main/java/cn/flyme/venice/common/model/PushMessage.java" timestamp="1510302804449">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/pom.xml" timestamp="1506046731339">
         <mark key="[" line="18" column="20" />
@@ -4748,11 +4744,11 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/DatabaseWorkerIdGenerator.java" timestamp="1510561291672">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/DatabaseWorkerIdGenerator.java" timestamp="1510640336921">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demob/src/main/java/com/meizu/life/demob/web/DocContext.java" timestamp="1492681351774">
         <mark key="[" line="11" column="13" />
@@ -5557,10 +5553,11 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/NetworkUtils.java" timestamp="1510574012833">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/NetworkUtils.java" timestamp="1510640502268">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-auth/src/main/resources/META-INF/spring.factories" timestamp="1497256506444">
         <mark key="[" line="1" column="47" />
@@ -5762,11 +5759,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/commons/worker/DatabaseWorkerIdGenerator.java" timestamp="1510558849689">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-container/src/main/java/com/meizu/life/luckbuy/ContainerConfig.java" timestamp="1492673554625">
         <mark key="[" line="5" column="34" />
@@ -6227,11 +6219,6 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/src/main/java/cn/flyme/venice/common/enums/MessageType.java" timestamp="1510217489405">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/package-info.java" timestamp="1492501140832">
         <mark key="[" line="4" column="80" />
         <mark key="]" line="6" column="69" />
@@ -6490,11 +6477,6 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-common/pom.xml" timestamp="1510557143041">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/resources/tables/user.sql" timestamp="1505719542632">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="18" />
@@ -6650,6 +6632,12 @@
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-dao-mybatis/pom.xml" timestamp="1510640326527">
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="120" column="30" />
+        <mark key="^" line="120" column="30" />
+        <mark key="." line="120" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-core/src/main/java/com/meizu/life/support/core/LifeContext.java" timestamp="1510560125181">
         <mark key="[" line="9" column="30" />
@@ -7538,7 +7526,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>String uniqueName</text>
+        <text encoding="base64">6KGoLOWPquacieS4gOihjOiusOW9lSzkuJTku4XmnInkuIDkuKrlrZfmrrU8Y29kZT5JRCBCSUdJTlQ8L2NvZGU+Lg==</text>
       </register>
       <register name="/" type="4">
         <text>rmi</text>
