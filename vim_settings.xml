@@ -5013,6 +5013,10 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/annotation/support/SimpAnnotationMethodMessageHandler.java" timestamp="1510813600639">
+        <mark key="[" line="86" column="13" />
+        <mark key="]" line="86" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-utils/src/main/java/com/meizu/life/utils/core/PBECodeMsgCode.java" timestamp="1504690558122">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="32" column="2" />
@@ -6841,11 +6845,8 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/GameWebSocketConfig.java" timestamp="1510812403662">
-        <mark key="[" line="12" column="81" />
-        <mark key="]" line="12" column="80" />
-        <mark key="." line="12" column="80" />
-        <mark key="^" line="12" column="80" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/GameWebSocketConfig.java" timestamp="1510813541428">
+        <mark key="[" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixUnauthController.java" timestamp="1510802245608">
         <mark key="[" line="56" column="25" />
@@ -7816,7 +7817,7 @@
         <text>rmi</text>
       </register>
       <register name="0" type="4">
-        <text>IdWorkerType.COUPON_ORDER</text>
+        <text>SimpAnnotationMethodMessageHandler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
