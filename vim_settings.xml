@@ -1094,12 +1094,12 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/test/java/cn/flyme/venice/ws/GameWebSocketTest.java" timestamp="1510889147486">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/test/java/cn/flyme/venice/ws/GameWebSocketTest.java" timestamp="1510901530369">
         <mark key="'" line="53" column="43" />
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="48" />
-        <mark key="^" line="31" column="48" />
-        <mark key="." line="31" column="48" />
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/CouponActivityServiceImpl.java" timestamp="1501050975330">
         <mark key="[" line="82" column="33" />
@@ -1209,6 +1209,7 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/handler/LoggingWebSocketHandlerDecorator.java" timestamp="1510901303084" />
       <file name="$USER_HOME$/Documents/Projects/live/life-exception/src/main/java/com/meizu/life/exception/RateLimitException.java" timestamp="1504688080392">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="0" />
@@ -3259,11 +3260,10 @@
         <mark key="^" line="36" column="66" />
         <mark key="." line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" timestamp="1510890265256">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" timestamp="1510901350987">
+        <mark key="[" line="83" column="93" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/pom.xml" timestamp="1504086542990">
         <mark key="[" line="11" column="36" />
@@ -7774,34 +7774,34 @@
         <text>MutableMessageHeaders</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAuKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">c2V0SGFuZHNoYWtlSGFuZGxlcigKICAgICAgICAgICAgbmV3IEhhbmRzaGFrZUhhbmRsZXIoKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gZG9IYW5kc2hha2UoCiAgICAgICAgICAgICAgICAgIFNlcnZlckh0dHBSZXF1ZXN0IHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgIFNlcnZlckh0dHBSZXNwb25zZSByZXNwb25zZSwKICAgICAgICAgICAgICAgICAgV2ViU29ja2V0SGFuZGxlciB3c0hhbmRsZXIsCiAgICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gYXR0cmlidXRlcykKICAgICAgICAgICAgICAgICAgdGhyb3dzIEhhbmRzaGFrZUZhaWx1cmVFeGNlcHRpb24gewoKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIGJvb2xlYW4gcHJlUmVjZWl2ZShNZXNzYWdlQ2hhbm5lbCBjaGFubmVsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJlUmVjZWl2ZSIpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgIH0KCiAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgIHB1YmxpYyBNZXNzYWdlPD8+IHBvc3RSZWNlaXZlKE1lc3NhZ2U8Pz4gbWVzc2FnZSwgTWVzc2FnZUNoYW5uZWwgY2hhbm5lbCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7CiAgICAgICAgICAgIHJldHVybiBtZXNzYWdlOwogICAgICAgICAgfQoKICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbigKICAgICAgICAgICAgICBNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyUmVjZWl2ZUNvbXBsZXRpb24iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lc3NhZ2UuZ2V0SGVhZGVycygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBTdHJpbmcoKGJ5dGVbXSkgbWVzc2FnZS5nZXRQYXlsb2FkKCkpKTsKICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c291dAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VudCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RvbXBIZWFkZXJBY2Nlc3Nvci4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlYWNjZXNzb3IK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyLmFmdGVyQ29ubmVjdGlvbkVzdGFibGlzaGVkKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhtZXNzYWdlLmdldEhlYWRlcnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyLmNvbmZpZ3VyZVdlYlNvY2tldFRyYW5zcG9ydChyZWdpc3RyYXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
