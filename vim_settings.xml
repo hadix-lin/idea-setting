@@ -552,6 +552,9 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/broker/DefaultSubscriptionRegistry.java" timestamp="1510890343337">
+        <mark key="'" line="523" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/LotteryApi.java" timestamp="1493711399499">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="11" column="35" />
@@ -3256,11 +3259,11 @@
         <mark key="^" line="36" column="66" />
         <mark key="." line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" timestamp="1510889861206">
-        <mark key="[" line="78" column="89" />
-        <mark key="]" line="78" column="88" />
-        <mark key="^" line="78" column="88" />
-        <mark key="." line="78" column="88" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" timestamp="1510890265256">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/pom.xml" timestamp="1504086542990">
         <mark key="[" line="11" column="36" />
@@ -3701,6 +3704,10 @@
         <mark key="]" line="18" column="19" />
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/support/MessageHeaderAccessor.java" timestamp="1510890270291">
+        <mark key="[" line="145" column="23" />
+        <mark key="]" line="145" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-web/src/main/java/com/meizu/life/support/web/WebContext.java" timestamp="1494526625025">
         <mark key="[" line="42" column="58" />
@@ -7646,7 +7653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-jmx/9.4.7.v20170914/jetty-jmx-9.4.7.v20170914-sources.jar!/org/eclipse/jetty/jmx/MBeanContainer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-job/pom.xml" />
       <jump line="54" column="16" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/pom.xml" />
       <jump line="70" column="8" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
@@ -7746,6 +7752,7 @@
       <jump line="20" column="60" filename="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/GameWebSocketConfig.java" />
       <jump line="39" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/messaging/WebSocketAnnotationMethodMessageHandler.java" />
       <jump line="135" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/user/UserDestinationMessageHandler.java" />
+      <jump line="523" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/broker/DefaultSubscriptionRegistry.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7764,37 +7771,37 @@
         <text>post</text>
       </register>
       <register name="0" type="4">
-        <text>SimpAnnotationMethodMessageHandler messageHandler</text>
+        <text>MutableMessageHeaders</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIGJvb2xlYW4gcHJlUmVjZWl2ZShNZXNzYWdlQ2hhbm5lbCBjaGFubmVsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJlUmVjZWl2ZSIpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgIH0KCiAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgIHB1YmxpYyBNZXNzYWdlPD8+IHBvc3RSZWNlaXZlKE1lc3NhZ2U8Pz4gbWVzc2FnZSwgTWVzc2FnZUNoYW5uZWwgY2hhbm5lbCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7CiAgICAgICAgICAgIHJldHVybiBtZXNzYWdlOwogICAgICAgICAgfQoKICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbigKICAgICAgICAgICAgICBNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyUmVjZWl2ZUNvbXBsZXRpb24iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lc3NhZ2UuZ2V0SGVhZGVycygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBTdHJpbmcoKGJ5dGVbXSkgbWVzc2FnZS5nZXRQYXlsb2FkKCkpKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291dAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIGJvb2xlYW4gcHJlUmVjZWl2ZShNZXNzYWdlQ2hhbm5lbCBjaGFubmVsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJlUmVjZWl2ZSIpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgIH0KCiAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgIHB1YmxpYyBNZXNzYWdlPD8+IHBvc3RSZWNlaXZlKE1lc3NhZ2U8Pz4gbWVzc2FnZSwgTWVzc2FnZUNoYW5uZWwgY2hhbm5lbCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7CiAgICAgICAgICAgIHJldHVybiBtZXNzYWdlOwogICAgICAgICAgfQoKICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJSZWNlaXZlQ29tcGxldGlvbigKICAgICAgICAgICAgICBNZXNzYWdlPD8+IG1lc3NhZ2UsIE1lc3NhZ2VDaGFubmVsIGNoYW5uZWwsIEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyUmVjZWl2ZUNvbXBsZXRpb24iKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lc3NhZ2UuZ2V0SGVhZGVycygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBTdHJpbmcoKGJ5dGVbXSkgbWVzc2FnZS5nZXRQYXlsb2FkKCkpKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7Cg==</text>
+        <text encoding="base64">c291dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBvc3RSZWNlaXZlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhtZXNzYWdlLmdldEhlYWRlcnMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhtZXNzYWdlLmdldEhlYWRlcnMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
