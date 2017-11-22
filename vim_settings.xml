@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1511248635526">
+      <file name="/a.dummy" timestamp="1511262064397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/web/CouponActivityUnauthController.java" timestamp="1501033210037">
@@ -580,9 +580,6 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/broker/DefaultSubscriptionRegistry.java" timestamp="1510890343337">
-        <mark key="'" line="523" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/LotteryApi.java" timestamp="1493711399499">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="11" column="35" />
@@ -708,9 +705,6 @@
         <mark key="]" line="19" column="52" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="3" column="1" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/adapter/AbstractWebSocketSession.java" timestamp="1511253535296">
-        <mark key="'" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/resources/mybatis/Order.xml" timestamp="1503282371315">
         <mark key="[" line="171" column="180" />
@@ -1165,11 +1159,11 @@
         <mark key="^" line="304" column="39" />
         <mark key="." line="304" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketExceptionAdvice.java" timestamp="1511171628673">
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="69" />
-        <mark key="." line="16" column="69" />
-        <mark key="^" line="16" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketExceptionAdvice.java" timestamp="1511262172450">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/CouponActivityServiceImpl.java" timestamp="1501050975330">
         <mark key="[" line="82" column="33" />
@@ -1829,6 +1823,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketMessage.java" timestamp="1511261485370">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Throwaway/thw/src/main/java/hadix/im/InputSourceSwitcher2.java" timestamp="1503486312305">
         <mark key="[" line="11" column="55" />
         <mark key="]" line="11" column="20" />
@@ -2372,9 +2372,6 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/user/UserDestinationMessageHandler.java" timestamp="1510884903285">
-        <mark key="'" line="135" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom" timestamp="1505283203118">
         <mark key="[" line="1760" column="39" />
         <mark key="]" line="1760" column="38" />
@@ -2542,6 +2539,11 @@
         <mark key="]" line="52" column="16" />
         <mark key="^" line="52" column="16" />
         <mark key="." line="52" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/RespToUserMessageMapping.java" timestamp="1511262744697">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-test/src/main/java/ServiceTestContext.java" timestamp="1492592510254">
         <mark key="[" line="7" column="14" />
@@ -2898,6 +2900,12 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/MessageTemplate.java" timestamp="1511261969380">
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/movie/nuomi/service/impl/ScheduleServiceImpl.java" timestamp="1491818050500">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="20" />
@@ -3030,9 +3038,6 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/AbstractMethodMessageHandler.java" timestamp="1510831322824">
-        <mark key="'" line="684" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/service/impl/PartakeServiceImpl.java" timestamp="1502355530544">
         <mark key="[" line="42" column="36" />
         <mark key="]" line="42" column="35" />
@@ -3056,9 +3061,6 @@
         <mark key="]" line="30" column="1" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC23/utils-weblogin-1.5.0-RC23-sources.jar!/com/meizu/utils/weblogin/core/filter/BrowserUserinfoRequestWrapper.java" timestamp="1511170291392">
-        <mark key="'" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-auth/src/main/java/com/meizu/life/support/auth/ctx/AuthContext.java" timestamp="1489906032868">
         <mark key="[" line="9" column="46" />
@@ -3250,9 +3252,6 @@
         <mark key="^" line="163" column="4" />
         <mark key="." line="163" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/meizu/uc/uc-unionlogin-client/1.0.0-RC08/uc-unionlogin-client-1.0.0-RC08-sources.jar!/com/meizu/uc/filter/UnionLoginFilter.java" timestamp="1510225384576">
-        <mark key="'" line="211" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/create-table.sql" timestamp="1506493906055">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="31" column="504" />
@@ -3410,11 +3409,11 @@
         <mark key="^" line="137" column="6" />
         <mark key="." line="137" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/resources/application.properties" timestamp="1511254799227">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/resources/application.properties" timestamp="1511315879850">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/pom.xml" timestamp="1504086542990">
         <mark key="[" line="11" column="36" />
@@ -3797,11 +3796,11 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/Module.java" timestamp="1497854380238">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="37" column="1" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/Module.java" timestamp="1511262407882">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/CoinMsgCode.java" timestamp="1506331620923">
         <mark key="[" line="8" column="16" />
@@ -4043,11 +4042,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/GreetingController.java" timestamp="1511259902201">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="38" column="1" />
-        <mark key="." line="38" column="1" />
-        <mark key="^" line="38" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/GreetingController.java" timestamp="1511262828035">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/order/service/impl/prefixhandler/FlowHandlerImpl.java" timestamp="1494234275666">
         <mark key="[" line="93" column="39" />
@@ -4482,9 +4481,6 @@
         <mark key="^" line="80" column="4" />
         <mark key="." line="80" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/MessageHandlerCustomizer.java" timestamp="1511159249343">
-        <mark key="'" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/service/impl/GoodsOrderPayTradeListener.java" timestamp="1507543389601">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="37" column="1" />
@@ -4680,12 +4676,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketAutoConfiguration.java" timestamp="1511254648217">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketAutoConfiguration.java" timestamp="1511262143014">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="52" />
-        <mark key="]" line="46" column="51" />
-        <mark key="^" line="46" column="51" />
-        <mark key="." line="46" column="51" />
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/test/java/com/meizu/life/scene/service/SceneServiceImplTest.java" timestamp="1489463451354">
         <mark key="[" line="79" column="55" />
@@ -4789,9 +4785,6 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/CloseStatus.java" timestamp="1510646224488">
-        <mark key="'" line="217" column="19" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.json" timestamp="1500277947038">
         <mark key="[" line="12459" column="6" />
         <mark key="]" line="12459" column="5" />
@@ -4834,17 +4827,16 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/converter/MappingJackson2MessageConverter.java" timestamp="1510832641992">
-        <mark key="'" line="86" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" timestamp="1510902964968">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-data/src/main/java/com/meizu/life/data/meituan/MeituanConstants.java" timestamp="1507881986756">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="89" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/RespToUser.java" timestamp="1511262534720">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/web/CoinAuthController.java" timestamp="1508314529335">
         <mark key="[" line="36" column="1" />
@@ -6069,6 +6061,12 @@
         <mark key="^" line="105" column="75" />
         <mark key="." line="105" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/ReqMessageMapping.java" timestamp="1511263063347">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/api/service/MessageServiceImpl.java" timestamp="1504696005674">
         <mark key="[" line="121" column="33" />
         <mark key="]" line="121" column="39" />
@@ -6122,9 +6120,6 @@
         <mark key="]" line="26" column="7" />
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="7" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/SimpMessagingTemplate.java" timestamp="1510820720907">
-        <mark key="'" line="150" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-doc-starter/src/main/java/com/meizu/modularize/doc/ApiParameterBuilder.java" timestamp="1495121878450">
         <mark key="[" line="33" column="37" />
@@ -6895,7 +6890,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1511170336237">
+      <file name="/fragment.java" timestamp="1511262064406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -7208,6 +7203,12 @@
         <mark key="." line="94" column="25" />
         <mark key="^" line="94" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/pom.xml" timestamp="1511315730709">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="80" column="26" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demob/src/main/java/com/meizu/life/demob/web/HelloController.java" timestamp="1492685903236">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="34" />
@@ -7310,6 +7311,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="169" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/annotation/SendToUser.java" timestamp="1511262546368" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/meizu-archetype-modularize/src/main/resources/META-INF/archetype-resources/pom.xml" timestamp="1502932945447">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -7394,6 +7396,12 @@
         <mark key="^" line="47" column="28" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-parent/pom.xml" timestamp="1511315759638">
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="33" />
+        <mark key="^" line="73" column="33" />
+        <mark key="." line="73" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/job/JobStatusStore.java" timestamp="1508470390672">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="18" />
@@ -7417,9 +7425,6 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java" timestamp="1510743283847">
-        <mark key="'" line="900" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-task/src/main/resources/spring-job.xml" timestamp="1504578758555">
         <mark key="[" line="33" column="22" />
@@ -7650,6 +7655,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="15" column="48" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/MessageMapping.java" timestamp="1511262453294">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="104" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-auth/src/main/java/com/meizu/life/support/auth/AuthConfig.java" timestamp="1492442086926">
         <mark key="[" line="8" column="0" />
@@ -8018,8 +8027,8 @@
       <register name="/" type="4">
         <text>trace</text>
       </register>
-      <register name="0" type="4">
-        <text>UserRegistryBroadcast</text>
+      <register name="0" type="2">
+        <text encoding="base64">CS8qKgoJICogRGVzdGluYXRpb24tYmFzZWQgbWFwcGluZyBleHByZXNzZWQgYnkgdGhpcyBhbm5vdGF0aW9uLgoJICogPHA+Rm9yIFNUT01QIG92ZXIgV2ViU29ja2V0IG1lc3NhZ2VzOiB0aGlzIGlzIHRoZSBkZXN0aW5hdGlvbiBvZiB0aGUKCSAqIFNUT01QIG1lc3NhZ2UgKGUuZy4ge0Bjb2RlICIvcG9zaXRpb25zIn0pLiBBbnQtc3R5bGUgcGF0aCBwYXR0ZXJucwoJICogKGUuZy4ge0Bjb2RlICIvcHJpY2Uuc3RvY2suKiJ9KSBhbmQgcGF0aCB0ZW1wbGF0ZSB2YXJpYWJsZXMgKGUuZy4KCSAqIDxjb2RlPiIvcHJpY2Uuc3RvY2sue3RpY2tlcn0iPC9jb2RlPikgYXJlIGFsc28gc3VwcG9ydGVkLgoJICovCglTdHJpbmdbXSB2YWx1ZSgpIGRlZmF1bHQge307Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -8027,29 +8036,46 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAU2VuZFRvVXNlcgo=</text>
+      <register name="2" type="4">
+        <text># 默认yard配置路径
+default.yard-config-path=venice/boot/V1.0
+# 度量平台过滤器的域名参数
+web.filter.taurusHorn.domain=venice.uwaterpark.com
+# 跨域支持访问的域名后缀列表
+web.filter.cors.allowed-origins=.meizu.com,.mzres.com,.uwaterpark.com
+# 应用名称(用于度量平台支持配置,kiev服务注册配置)
+core.app-name=venice
+# 应用的联系人电话
+core.phones=18665622950
+# servlet服务器的display-name,同web.xml的display-name
+server.display-name=venice
+# servlet服务器的端口
+server.port=8081
+# servlet服务器开放jmx的端口
+spring.jackson.default-property-inclusion=non_null
+spring.jackson.date-format=yyyy-MM-dd HH:mm:ss
+spring.jackson.time-zone=PRC</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHVibGljIFdlYlNvY2tldFJlc3AoV2ViUmVzcCByZXNwLCBTdHJpbmcgcmVzcEZvcikgewogICAgdGhpcy5yZXNwID0gcmVzcDsKICAgIHRoaXMucmVzcEZvciA9IHJlc3BGb3I7CiAgICB0aGlzLnR5cGUgPSBSRVNQX01FU1NBR0VfVFlQRTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYnNvY2tldDwvYXJ0aWZhY3RJZD4KICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxhcnRpZmFjdElkPnRvbWNhdC1lbWJlZC13ZWJzb2NrZXQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnRvbWNhdC5lbWJlZDwvZ3JvdXBJZD4KICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgPC9leGNsdXNpb25zPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmVyLmpldHR5LmpteC5ybWktcG9ydD04ODk5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VydmVyLmpldHR5LmpteC5ybWktaG9zdD1sb2NhbGhvc3QK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBPbmUgb3IgbW9yZSBkZXN0aW5hdGlvbnMgdG8gc2VuZCBhIG1lc3NhZ2UgdG8uCiAgICoKICAgKiA8cD5JZiBsZWZ0IHVuc3BlY2lmaWVkLCBhIGRlZmF1bHQgZGVzdGluYXRpb24gaXMgc2VsZWN0ZWQgYmFzZWQgb24gdGhlIGRlc3RpbmF0aW9uIG9mIHRoZSBpbnB1dAogICAqIG1lc3NhZ2UgYmVpbmcgaGFuZGxlZC4KICAgKgogICAqIEBzZWUgI3ZhbHVlCiAgICogQHNlZSBvcmcuc3ByaW5nZnJhbWV3b3JrLm1lc3NhZ2luZy5zaW1wLmFubm90YXRpb24uc3VwcG9ydC5TZW5kVG9NZXRob2RSZXR1cm5WYWx1ZUhhbmRsZXIKICAgKiBAc2luY2UgNC4yCiAgICovCiAgQEFsaWFzRm9yKGFubm90YXRpb24gPSBTZW5kVG9Vc2VyLmNsYXNzKQogIFN0cmluZ1tdIGRlc3RpbmF0aW9ucygpIGRlZmF1bHQge307</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgLnNldFVzZXJEZXN0aW5hdGlvbkJyb2FkY2FzdCgiL3F1ZXVlIikKICAgICAgICAuc2V0VXNlclJlZ2lzdHJ5QnJvYWRjYXN0KCIvdG9waWMiKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC47Cg==</text>
+        <text encoding="base64">ICBAUmVzcFRvVXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0U3lzdGVtUGFzc2NvZGUoImFkbWluMTIzIikK</text>
+        <text encoding="base64">ICBAUmVzcFRvVXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
