@@ -4016,11 +4016,11 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1a6be9c6-d19c-4e81-b7c4-ec678b4a56c1/console.sql" timestamp="1510625506746">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1a6be9c6-d19c-4e81-b7c4-ec678b4a56c1/console.sql" timestamp="1511767264571">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-common/src/main/resources/spring-kiev-client.xml" timestamp="1508127890723">
         <mark key="[" line="6" column="8" />
@@ -7244,6 +7244,13 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" timestamp="1511767751459">
+        <mark key="'" line="54" column="19" />
+        <mark key="[" line="143" column="58" />
+        <mark key="]" line="144" column="25" />
+        <mark key="." line="144" column="25" />
+        <mark key="^" line="144" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/Greeting.java" timestamp="1510843517979">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="0" />
@@ -7665,7 +7672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="24" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="53" column="32" filename="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/resources/log4j.xml" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/web/GoodsOrderAuthController.java" />
@@ -7765,6 +7771,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="40" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/adapter/AbstractWebSocketSession.java" />
       <jump line="140" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
