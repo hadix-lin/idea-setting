@@ -7363,11 +7363,11 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebCorsFilter.java" timestamp="1508136126933">
-        <mark key="[" line="54" column="33" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="54" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebCorsFilter.java" timestamp="1511785177228">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-web/src/main/java/com/meizu/life/support/web/ctx/WebContext.java" timestamp="1506594684860">
         <mark key="[" line="88" column="25" />
@@ -7617,11 +7617,11 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" timestamp="1511784313610">
-        <mark key="[" line="37" column="77" />
-        <mark key="]" line="37" column="77" />
-        <mark key="^" line="37" column="77" />
-        <mark key="." line="37" column="77" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" timestamp="1511785359919">
+        <mark key="[" line="37" column="1" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-kiev/pom.xml" timestamp="1497023536349">
         <mark key="[" line="13" column="0" />
@@ -8056,7 +8056,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>Stake.of(1, &quot;4&quot;, 4)</text>
+        <text>allowedOrigins.toArray(new String[0])</text>
       </register>
       <register name="/" type="4">
         <text>trace</text>
@@ -8064,36 +8064,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICBAQXBpT3BlcmF0aW9uKCLmn6Xor6LnlKjmiLfkuK3ms6jmg4XlhrUiKQogIEBHZXRNYXBwaW5nKCJ1c2VyX3N0YWtlX3Jlc3VsdC5kbyIpCiAgQFZhbGlkYXRlZAogIHB1YmxpYyBVc2VyU3Rha2VSZWNvcmQgaGl0UmVzdWx0KAogICAgICBAQXBpSWdub3JlIEBSZXF1ZXN0UGFyYW0oInBlcl91c2VySWQiKSBsb25nIHVzZXJJZCwgQEFwaVBhcmFtKCLlnLrmrKHnvJblj7ciKSBATm90TnVsbCBMb25nIG5vKSB7CiAgICByZXR1cm4gZ2FtZS5nZXRIaXRSZXN1bHQodXNlcklkLCBubykub3JFbHNlKG51bGwpOwogIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>);
-    registry.addEndpoint(</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBUX0NPSU5fUkVDT1JEXzMgd2hlcmUgVVNFUl9JRD03NjgxMzMxIEFORCBJRD0yNjA2NTE0NTM5Nzk5MDQ7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBhbGxvd2VkT3JpZ2lucyA9IGNvcnNGaWx0ZXIuZ2V0QWxsb3dlZE9yaWdpbnMoKTsKICAgIGlmIChhbGxvd2VkT3JpZ2lucyAhPSBudWxsICYmIGFsbG93ZWRPcmlnaW5zLmlzRW1wdHkoKSkgewogICAgICBhbGxvd2VkT3JpZ2lucyA9IG51bGw7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAUG9zdE1hcHBpbmcoInN0YWtlLmRvIikK</text>
+      <register name="3" type="4">
+        <text>);
+    registry.addEndpoint(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAQXBpT3BlcmF0aW9uKCLmn6Xor6LnlKjmiLfkuK3ms6jmg4XlhrUiKQogIEBHZXRNYXBwaW5nKCJ1c2VyX3N0YWtlX3Jlc3VsdC5kbyIpCiAgQFZhbGlkYXRlZAogIHB1YmxpYyBVc2VyU3Rha2VSZWNvcmQgaGl0UmVzdWx0KAogICAgICBAQXBpSWdub3JlIEBSZXF1ZXN0UGFyYW0oInBlcl91c2VySWQiKSBsb25nIHVzZXJJZCwgQEFwaVBhcmFtKCLlnLrmrKHnvJblj7ciKSBATm90TnVsbCBMb25nIG5vKSB7fQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBUX0NPSU5fUkVDT1JEXzMgd2hlcmUgVVNFUl9JRD03NjgxMzMxIEFORCBJRD0yNjA2NTE0NTM5Nzk5MDQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnYW1lLmdldEhpdFJlc3VsdCh1c2VySWQsIG5vKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICBAUG9zdE1hcHBpbmcoInN0YWtlLmRvIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdhbWUuY2xlYXJTdGFrZSh1c2VySWQpOwo=</text>
+        <text encoding="base64">ICBAQXBpT3BlcmF0aW9uKCLmn6Xor6LnlKjmiLfkuK3ms6jmg4XlhrUiKQogIEBHZXRNYXBwaW5nKCJ1c2VyX3N0YWtlX3Jlc3VsdC5kbyIpCiAgQFZhbGlkYXRlZAogIHB1YmxpYyBVc2VyU3Rha2VSZWNvcmQgaGl0UmVzdWx0KAogICAgICBAQXBpSWdub3JlIEBSZXF1ZXN0UGFyYW0oInBlcl91c2VySWQiKSBsb25nIHVzZXJJZCwgQEFwaVBhcmFtKCLlnLrmrKHnvJblj7ciKSBATm90TnVsbCBMb25nIG5vKSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydE5vdFN0YWtlT25PdGhlckRldmljZSh1c2VySWQsIGltZWkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBnYW1lLmdldEhpdFJlc3VsdCh1c2VySWQsIG5vKS5vckVsc2UobnVsbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEN1cnJlbnRObyB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGdhbWUuY2xlYXJTdGFrZSh1c2VySWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBTdGFrZVJlY29yZCByZWNvcmQgPSBuZXcgU3Rha2VSZWNvcmQoKTsKICAgIHJlY29yZC5zZXRVc2VySWQodXNlcklkKTsKICAgIHJlY29yZC5zZXRBbW91bnQoYW1vdW50KTsKICAgIHJlY29yZC5zZXRTdGFrZUlkKHN0YWtlSWQpOwogICAgcmVjb3JkLnNldENoYW5uZWwoY2hhbm5lbCk7CiAgICBnYW1lLnN0YWtlKHJlY29yZCk7CiAgICByZXR1cm4gcmVjb3JkLmdldE5vKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydE5vdFN0YWtlT25PdGhlckRldmljZSh1c2VySWQsIGltZWkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
