@@ -1853,12 +1853,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteUnauthController.java" timestamp="1511840710494">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteUnauthController.java" timestamp="1511857218987">
         <mark key="'" line="50" column="11" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="14" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="43" column="14" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-cache-starter/src/main/java/com/meizu/modularize/cache/mybatis/MybatisRedisCachePrecondition.java" timestamp="1495372569604">
         <mark key="[" line="13" column="12" />
@@ -3375,11 +3375,12 @@
         <mark key="." line="35" column="11" />
         <mark key="^" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" timestamp="1511840622385">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-        <mark key="^" line="32" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" timestamp="1511857275089">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1511852011504">
         <mark key="'" line="35" column="11" />
@@ -7582,10 +7583,10 @@
         <mark key="^" line="357" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1511855636572">
-        <mark key="[" line="166" column="20" />
-        <mark key="]" line="166" column="19" />
-        <mark key="." line="166" column="19" />
-        <mark key="^" line="166" column="19" />
+        <mark key="[" line="169" column="20" />
+        <mark key="]" line="169" column="19" />
+        <mark key="." line="169" column="19" />
+        <mark key="^" line="169" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-account/src/main/java/cn/flyme/venice/account/web/CoinAdminController.java" timestamp="1505717915265">
         <mark key="[" line="19" column="14" />
@@ -7969,8 +7970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="39" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/service/impl/PayServiceImpl.java" />
-      <jump line="99" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/service/impl/PayServiceImpl.java" />
       <jump line="100" column="2" filename="$USER_HOME$/Documents/Projects/venice/venice-pay/src/main/java/cn/flyme/venice/pay/service/impl/PayServiceImpl.java" />
       <jump line="217" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.12.RELEASE/spring-websocket-4.3.12.RELEASE-sources.jar!/org/springframework/web/socket/CloseStatus.java" />
       <jump line="67" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java" />
@@ -8069,6 +8068,8 @@
       <jump line="106" column="14" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
       <jump line="108" column="32" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="148" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
+      <jump line="57" column="27" filename="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
