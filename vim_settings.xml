@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/MergePayTradeWatcher.java" timestamp="1507556680230">
@@ -3381,12 +3381,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1511852011504">
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/CoinServiceImpl.java" timestamp="1511944892210">
         <mark key="'" line="35" column="11" />
-        <mark key="[" line="118" column="86" />
-        <mark key="]" line="117" column="15" />
-        <mark key="^" line="117" column="15" />
-        <mark key="." line="117" column="15" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-web/src/main/java/com/meizu/life/container/LifeContainerContext.java" timestamp="1494344072206">
         <mark key="[" line="18" column="42" />
@@ -4180,6 +4179,12 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/venice/venice-aggregator/pom.xml" timestamp="1511943794324">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleAutoConfiguration.java" timestamp="1496828945649">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -4863,7 +4868,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511936297554">
+      <file name="/Dummy.txt" timestamp="1511944045609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -8093,34 +8098,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29pblNlcnZpY2UudW5sb2NrKHVzci5nZXRVc2VySWQoKSwgdXNyLmdldFRvdGFsQW1vdW50KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTG9uZyBsb2NrQW1vdW50ID0gcmVkaXMuaW5jckJ5KGxvY2tLZXksIGFtb3VudCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMjA0LCBtZXNzYWdlID0gIuWPr+iDvei1lOS7mOmHkeminei2hei/h+WlluaxoOmZkCIpCg==</text>
+        <text encoding="base64">ICAgIFVzZXIgdWEgPSB1YU1hcHBlci5nZXRCeVVzZXJJZCh1c2VySWQpOwogICAgaWYgKHVhID09IG51bGwpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMjAzLCBtZXNzYWdlID0gIuWcqOWFtuS7luiuvuWkh+S4iuWQjOaXtuS4i+azqCIpLAo=</text>
+        <text encoding="base64">ICAgIGxvbmcgdXNlckFtb3VudCA9IHVhLmdldEFtb3VudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlSZXNwb25zZShjb2RlID0gMTIwMjAyLCBtZXNzYWdlID0gIuW8gOWlluS7u+WKoeWwmuacque7k+adnyIpLAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFtb3VudCA8PSB1c2VyQW1vdW50ICYmIGxvY2tBbW91bnQgPj0gYW1vdW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZGlzLnNyZW0odXNlckxpc3RLZXkobm8pLCBTdHJpbmcudmFsdWVPZih1c2VySWQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoSW50ZWdlciBhbW91bnQgOiBzdGFrZUluZm8udmFsdWVzKCkpIHsKICAgICAgdXNlckFtb3VudCAtPSBhbW91bnQ7CiAgICAgIGlmICh1c2VyQW1vdW50IDw9IDApIHsKICAgICAgICBnYW1lLmNsZWFyU3Rha2UodXNlcklkKTsKICAgICAgICB1c2VyQW1vdW50ID0gMDsKICAgICAgICBzdGFrZUluZm8gPSBudWxsOwogICAgICAgIGJyZWFrOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICA8L3BhcmVudD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2NrU3VjY2VzcykgewogICAgICBsb25nIHVzZXJBbW91bnQgPSBjb2luU2VydmljZS5xdWVyeUFtb3VudChzdGFrZVJlY29yZC5nZXRVc2VySWQoKSk7CiAgICB9CiAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gc3Rha2VJbmZvID0gc3Rha2VTdG9yZS5yZWFkKHN0YWtlUmVjb3JkLmdldFVzZXJJZCgpLCBzdGFrZVJlY29yZC5nZXRObygpKTsKICAgIGludCB0b3RhbEFtb3VudCA9IHN0YWtlSW5mby52YWx1ZXMoKS5zdHJlYW0oKS5tYXBUb0ludChJbnRlZ2VyOjppbnRWYWx1ZSkuc3VtKCk7CiAgICB0b3RhbEFtb3VudCArPSBzdGFrZVJlY29yZC5nZXRBbW91bnQoKTsK</text>
+        <text encoding="base64">ICAgIDxyZWxhdGl2ZVBhdGg+Li4vdmVuaWNlLXBhcmVudC9wb20ueG1sPC9yZWxhdGl2ZVBhdGg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZXQgPSByZWRpcy5nZXQobG9ja0tleSh1c2VySWQpKTsK</text>
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnZlbmljZS1wYXJlbnQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
