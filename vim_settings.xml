@@ -2426,7 +2426,7 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" timestamp="1512111173508">
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" timestamp="1512112576327">
         <mark key="'" line="25" column="58" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -7955,6 +7955,9 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolver.java" timestamp="1512112618701">
+        <mark key="'" line="100" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/dao/mapper/UserAccountMapper.java" timestamp="1493201542410">
         <mark key="[" line="53" column="93" />
         <mark key="]" line="53" column="96" />
@@ -7999,7 +8002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/user/UserDestinationMessageHandler.java" />
       <jump line="523" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/broker/DefaultSubscriptionRegistry.java" />
       <jump line="195" column="29" filename="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" />
       <jump line="205" column="0" filename="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" />
@@ -8099,6 +8101,7 @@
       <jump line="102" column="67" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="24" column="58" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
+      <jump line="100" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
