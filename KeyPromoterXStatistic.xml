@@ -60,7 +60,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'util'">
@@ -76,7 +76,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>520</Count>
+          <Count>521</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -426,6 +426,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>RunDashboard.Run</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'util'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -486,6 +494,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Boot'">
