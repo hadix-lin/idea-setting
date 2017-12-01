@@ -2426,12 +2426,12 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" timestamp="1512112576327">
-        <mark key="'" line="25" column="58" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="82" column="45" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" timestamp="1512115295116">
+        <mark key="'" line="26" column="58" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="121" column="39" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/PageReq.java" timestamp="1498803765315">
         <mark key="[" line="11" column="14" />
@@ -5257,7 +5257,8 @@
         <mark key="^" line="21" column="51" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" timestamp="1512095426466">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" timestamp="1512115348312">
+        <mark key="'" line="261" column="0" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="146" column="4" />
       </file>
@@ -6259,6 +6260,9 @@
         <mark key="]" line="106" column="34" />
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1512115773206">
+        <mark key="'" line="713" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/model/CouponRecord.java" timestamp="1499826188658">
         <mark key="[" line="62" column="0" />
@@ -8002,12 +8006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/simp/broker/DefaultSubscriptionRegistry.java" />
-      <jump line="195" column="29" filename="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" />
-      <jump line="205" column="0" filename="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/meizu/common/utils-weblogin/1.5.0-RC21/utils-weblogin-1.5.0-RC21-sources.jar!/com/meizu/utils/weblogin/core/filter/OAuthFilter2.java" />
-      <jump line="163" column="49" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-auth/src/main/java/com/meizu/modularize/auth/AuthAutoConfiguration.java" />
-      <jump line="109" column="43" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-auth/src/main/java/com/meizu/modularize/auth/AuthAutoConfiguration.java" />
       <jump line="38" column="5" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/Json.java" />
       <jump line="158" column="10" filename="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/WebSocketAutoConfiguration.java" />
@@ -8102,6 +8100,12 @@
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="24" column="58" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
       <jump line="100" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolver.java" />
+      <jump line="146" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
+      <jump line="252" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
+      <jump line="261" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
+      <jump line="265" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" />
+      <jump line="713" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8117,49 +8121,49 @@
         <text>(Map) this.converter.fromMessage(message, Map.class))</text>
       </register>
       <register name="/" type="4">
-        <text>validator</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8qKgoJICogU3BlY2lmeSBpZiB0aGUgZ2l2ZW4ge0Bjb2RlIHBheWxvYWR9IGlzIGVtcHR5LgoJICogQHBhcmFtIHBheWxvYWQgdGhlIHBheWxvYWQgdG8gY2hlY2sgKGNhbiBiZSB7QGNvZGUgbnVsbH0pCgkgKi8KCXByb3RlY3RlZCBib29sZWFuIGlzRW1wdHlQYXlsb2FkKE9iamVjdCBwYXlsb2FkKSB7CgkJaWYgKHBheWxvYWQgPT0gbnVsbCkgewoJCQlyZXR1cm4gdHJ1ZTsKCQl9CgkJZWxzZSBpZiAocGF5bG9hZCBpbnN0YW5jZW9mIGJ5dGVbXSkgewoJCQlyZXR1cm4gKChieXRlW10pIHBheWxvYWQpLmxlbmd0aCA9PSAwOwoJCX0KCQllbHNlIGlmIChwYXlsb2FkIGluc3RhbmNlb2YgU3RyaW5nKSB7CgkJCXJldHVybiAhU3RyaW5nVXRpbHMuaGFzVGV4dCgoU3RyaW5nKSBwYXlsb2FkKTsKCQl9CgkJZWxzZSB7CgkJCXJldHVybiBmYWxzZTsKCQl9Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHZhbGlkYXRlZEFubiAhPSBudWxsIHx8IGFubi5hbm5vdGF0aW9uVHlwZSgpLmdldFNpbXBsZU5hbWUoKS5zdGFydHNXaXRoKCJWYWxpZCIpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoT3B0aW9uYWw8TWFwPikgbWVzc2FnZS5nZXRIZWFkZXJzKCkuZ2V0T3JEZWZhdWx0KENBQ0hFX0tFWSwgT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoQW5ub3RhdGlvbiBhbm4gOiBwYXJhbWV0ZXIuZ2V0UGFyYW1ldGVyQW5ub3RhdGlvbnMoKSkgewogICAgICBWYWxpZGF0ZWQgdmFsaWRhdGVkQW5uID0gQW5ub3RhdGlvblV0aWxzLmdldEFubm90YXRpb24oYW5uLCBWYWxpZGF0ZWQuY2xhc3MpOwogICAgICBpZiAodmFsaWRhdGVkQW5uICE9IG51bGwgfHwgYW5uLmFubm90YXRpb25UeXBlKCkuZ2V0U2ltcGxlTmFtZSgpLnN0YXJ0c1dpdGgoIlZhbGlkIikpIHsKICAgICAgICBicmVhazsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTWVzc2FnZUhlYWRlckFjY2Vzc29yIG1oYSA9IE1lc3NhZ2VIZWFkZXJBY2Nlc3Nvci5nZXRNdXRhYmxlQWNjZXNzb3IobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoQW5ub3RhdGlvbiBhbm4gOiBwYXJhbWV0ZXIuZ2V0UGFyYW1ldGVyQW5ub3RhdGlvbnMoKSkgewogICAgICBWYWxpZGF0ZWQgdmFsaWRhdGVkQW5uID0gQW5ub3RhdGlvblV0aWxzLmdldEFubm90YXRpb24oYW5uLCBWYWxpZGF0ZWQuY2xhc3MpOwogICAgICBpZiAodmFsaWRhdGVkQW5uICE9IG51bGwgfHwgYW5uLmFubm90YXRpb25UeXBlKCkuZ2V0U2ltcGxlTmFtZSgpLnN0YXJ0c1dpdGgoIlZhbGlkIikpIHsKICAgICAgICBicmVhazsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBtZXNzYWdlLmdldEhlYWRlcnMoKS5wdXQoQ0FDSEVfS0VZLCBuYW1lVmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXIsIHZhbGlkYXRvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgaGludHMgPQogICAgICAgICAgICAodmFsaWRhdGVkQW5uICE9IG51bGwgPyB2YWxpZGF0ZWRBbm4udmFsdWUoKSA6IEFubm90YXRpb25VdGlscy5nZXRWYWx1ZShhbm4pKTsKICAgICAgICBPYmplY3RbXSB2YWxpZGF0aW9uSGludHMgPQogICAgICAgICAgICAoaGludHMgaW5zdGFuY2VvZiBPYmplY3RbXSA/IChPYmplY3RbXSkgaGludHMgOiBuZXcgT2JqZWN0W10ge2hpbnRzfSk7CiAgICAgICAgQmVhblByb3BlcnR5QmluZGluZ1Jlc3VsdCBiaW5kaW5nUmVzdWx0ID0KICAgICAgICAgICAgbmV3IEJlYW5Qcm9wZXJ0eUJpbmRpbmdSZXN1bHQodGFyZ2V0LCBnZXRQYXJhbWV0ZXJOYW1lKHBhcmFtZXRlcikpOwogICAgICAgIGlmICghT2JqZWN0VXRpbHMuaXNFbXB0eSh2YWxpZGF0aW9uSGludHMpICYmIHRoaXMudmFsaWRhdG9yIGluc3RhbmNlb2YgU21hcnRWYWxpZGF0b3IpIHsKICAgICAgICAgICgoU21hcnRWYWxpZGF0b3IpIHRoaXMudmFsaWRhdG9yKS52YWxpZGF0ZSh0YXJnZXQsIGJpbmRpbmdSZXN1bHQsIHZhbGlkYXRpb25IaW50cyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHRoaXMudmFsaWRhdG9yLnZhbGlkYXRlKHRhcmdldCwgYmluZGluZ1Jlc3VsdCk7CiAgICAgICAgfQogICAgICAgIGlmIChiaW5kaW5nUmVzdWx0Lmhhc0Vycm9ycygpKSB7CiAgICAgICAgICB0aHJvdyBuZXcgTWV0aG9kQXJndW1lbnROb3RWYWxpZEV4Y2VwdGlvbihtZXNzYWdlLCBwYXJhbWV0ZXIsIGJpbmRpbmdSZXN1bHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyZ3VtZW50UmVzb2x2ZXJzLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvQ29uZmlndXJlQWZ0ZXIoV2ViQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVBZnRlcihXZWJBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAoT3B0aW9uYWw8TWFwPikgbWVzc2FnZS5nZXRIZWFkZXJzKCkuZ2V0T3JEZWZhdWx0KENBQ0hFX0tFWSwgT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVBZnRlcihXZWJBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgTWVzc2FnZUhlYWRlckFjY2Vzc29yIG1oYSA9IE1lc3NhZ2VIZWFkZXJBY2Nlc3Nvci5nZXRNdXRhYmxlQWNjZXNzb3IobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVBZnRlcihXZWJBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBtZXNzYWdlLmdldEhlYWRlcnMoKS5wdXQoQ0FDSEVfS0VZLCBuYW1lVmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>validator</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>validator</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>copystatus</last-substitute>
       <last-dir>1</last-dir>
@@ -8167,7 +8171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query_batch.do</entry>
         <entry>find</entry>
         <entry>fstatus</entry>
         <entry>SET fstatus</entry>
@@ -8187,6 +8190,7 @@
         <entry>trace</entry>
         <entry>validat</entry>
         <entry>validator</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>hls</entry>
