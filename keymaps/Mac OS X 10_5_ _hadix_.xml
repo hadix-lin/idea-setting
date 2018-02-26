@@ -5,6 +5,9 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta m" />
   </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="CheckinProject" />
   <action id="ConvertJavaToKotlin" />
   <action id="EditorCutLineEnd" />
@@ -67,9 +70,6 @@
   </action>
   <action id="ShowColorPicker">
     <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
-  <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="ShowReformatFileDialog" />
   <action id="SplitVertically">
