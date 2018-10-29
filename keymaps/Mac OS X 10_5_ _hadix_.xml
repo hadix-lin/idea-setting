@@ -20,6 +20,9 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
