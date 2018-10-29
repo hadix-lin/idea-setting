@@ -192,6 +192,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
   </action>
+  <action id="CloseProjectsAction" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
@@ -457,6 +458,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="right" />
   </action>
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
@@ -493,7 +497,6 @@
   <action id="Graph.Faces.OpenSelectedPages" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="q" />
-    <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="h" />
@@ -668,6 +671,9 @@
   <action id="Synchronize" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleLineBreakpoint" />
