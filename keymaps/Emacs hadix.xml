@@ -464,7 +464,9 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="s" />
@@ -517,7 +519,9 @@
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="e" />
   </action>
   <action id="JumpToLastChange" />
-  <action id="JumpToLastWindow" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="l" />
+  </action>
   <action id="MaintenanceAction" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />

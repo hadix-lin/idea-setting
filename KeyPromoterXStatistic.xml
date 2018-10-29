@@ -76,7 +76,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>547</Count>
+          <Count>548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -84,7 +84,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -307,6 +307,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Quick Evaluate Expression">
+        <Item>
+          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
+          <Description>Quick Evaluate Expression</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reimport All Maven Projects">
         <Item>
           <IdeaActionID>Maven.Reimport</IdeaActionID>
@@ -509,7 +517,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -685,7 +693,7 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'⌃⌥V'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
