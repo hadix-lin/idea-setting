@@ -291,11 +291,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1540809713778">
-        <mark key="[" line="54" column="58" />
-        <mark key="]" line="54" column="58" />
-        <mark key="^" line="54" column="58" />
-        <mark key="." line="54" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1540866117092">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="26" />
+        <mark key="^" line="55" column="26" />
+        <mark key="." line="55" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-exception/src/main/java/com/meizu/life/support/exception/TopMsgCode.java" timestamp="1494329838048">
         <mark key="[" line="37" column="5" />
@@ -675,6 +675,11 @@
         <mark key="^" line="61" column="54" />
         <mark key="." line="61" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/pp-service-admin-adv-service/pom.xml" timestamp="1540866707408">
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/resources/application.properties" timestamp="1497414964007">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="19" />
@@ -890,6 +895,12 @@
         <mark key="]" line="83" column="30" />
         <mark key="^" line="83" column="30" />
         <mark key="." line="83" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/mybatisplus/PerformanceInterceptor.java" timestamp="1540865764211">
+        <mark key="[" line="145" column="46" />
+        <mark key="]" line="145" column="46" />
+        <mark key="^" line="145" column="46" />
+        <mark key="." line="145" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/ctx/NuomiConfig.java" timestamp="1492415984206">
         <mark key="[" line="12" column="4" />
@@ -2150,6 +2161,9 @@
         <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable/tddl-client-sdk-5.2.7-2--2018-08-stable-sources.jar!/com/taobao/tddl/common/jdbc/Parameters.java" timestamp="1540865261975">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/web/TestController.java" timestamp="1495789579137">
         <mark key="[" line="14" column="13" />
@@ -5184,11 +5198,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1540814291765">
-        <mark key="[" line="440" column="63" />
-        <mark key="]" line="440" column="62" />
-        <mark key="^" line="440" column="62" />
-        <mark key="." line="440" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1540865940115">
+        <mark key="[" line="105" column="42" />
+        <mark key="]" line="106" column="23" />
+        <mark key="^" line="106" column="23" />
+        <mark key="." line="106" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -7752,6 +7766,7 @@
         <mark key="." line="37" column="13" />
         <mark key="^" line="37" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ais/iceberg-doc-maven-plugin/1.0.0-SNAPSHOT/iceberg-doc-maven-plugin-1.0.0-SNAPSHOT.pom" timestamp="1540867085732" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/CouponModuleConfiguration.java" timestamp="1499760887016">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -8045,7 +8060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="32" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="148" column="4" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="57" column="27" filename="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" />
@@ -8145,6 +8159,7 @@
       <jump line="85" column="32" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/ContentTypeLinkRuleService.java" />
       <jump line="814" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/ContentTypeLinkRuleService.java" />
       <jump line="280" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/ContentTypeLinkRuleService.java" />
+      <jump line="19" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable/tddl-client-sdk-5.2.7-2--2018-08-stable-sources.jar!/com/taobao/tddl/common/jdbc/Parameters.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8166,34 +8181,34 @@
         <text encoding="base64">cHVibGljIGNsYXNzIEFwcCBleHRlbmRzIE1vZGVsIHsKCiAgICBAQ29sdW1uKG5hbWUgPSAibmFtZSIpCiAgICBwcml2YXRlIFN0cmluZyBuYW1lOwogICAgQENvbHVtbihuYW1lID0gInZlcnNpb25Db2RlIikKICAgIHByaXZhdGUgSW50ZWdlciB2ZXJzaW9uQ29kZTsKICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uTmFtZSIpCiAgICBwcml2YXRlIFN0cmluZyB2ZXJzaW9uTmFtZTsKICAgIEBDb2x1bW4obmFtZSA9ICJzdGF0dXMiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHN0YXR1czsgICAgCiAgICBAQ29sdW1uKG5hbWU9ImNvbW1lbnRfdG90YWwiKQogICAgcHJpdmF0ZSBpbnQgY29tbWVudFRvdGFsOwogICAgQENvbHVtbihuYW1lPSJhcHBfY2F0aWQiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIGFwcENhdGlkOwogICAgQENvbHVtbihuYW1lPSJidW5kbGVJZCIpCiAgICBwcml2YXRlIFN0cmluZyBwYWNrYWdlTmFtZTsKICAgIEBDb2x1bW4obmFtZT0ic2V0X2JvdHRvbSIpCiAgICBwcml2YXRlIGludCBzZXRCb3R0b207CiAgICBAQ29sdW1uKG5hbWU9ImVkaXRvcl9yZWNvbW1lbmQiKQogICAgcHJpdmF0ZSBTdHJpbmcgZWRpdG9yUmVjb21tZW5kOwogICAgQENvbHVtbihuYW1lID0gImZpbGVTaXplIikKICAgIHByaXZhdGUgU3RyaW5nIHNpemU7CglAQ29sdW1uKG5hbWU9ImxhdGVzdF92aWQiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHZlcnNpb25JZDsKCQoJQENvbHVtbihuYW1lID0gImFydHdvcmsiKQogICAgcHJpdmF0ZSBTdHJpbmcgYXJ0d29yazsKICAgIEBDb2x1bW4obmFtZSA9ICJhbGxWZXJTdGFyIikKICAgIHByaXZhdGUgRmxvYXQgc2NvcmU7CiAgICBAQ29sdW1uKG5hbWUgPSAidXBkYXRlRGF0ZSIpCiAgICBwcml2YXRlIERhdGUgdXBkYXRlRGF0ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU3VjY2VzcyA9IGFwcFNlcnZpY2UuY2hlY2tFeGlzdE9yT25saW5lKGFwcElkKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY2llcz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU3VjY2VzcyA9IGFwcFNlcnZpY2UuY2hlY2tFeGlzdE9yT25saW5lKGFwcElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uTmFtZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uQ29kZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJuYW1lIikK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uTmFtZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwcCB7Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uQ29kZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHbG9iYWxSZXN1bHQ8U3RyaW5nPiByZXRWYWwgPSBuZXcgR2xvYmFsUmVzdWx0PFN0cmluZz4oKTsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJuYW1lIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0VmFsOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFwcCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
