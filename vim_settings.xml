@@ -965,7 +965,7 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540817218156">
+      <file name="/dummy.sql" timestamp="1540885319949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleScan.java" timestamp="1497026345321">
@@ -3514,6 +3514,12 @@
         <mark key="^" line="63" column="6" />
         <mark key="." line="63" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/impl/RecommendSetApiImpl.java" timestamp="1540885270550">
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/web/CouponOrderAdminController.java" timestamp="1490167115979">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="48" />
@@ -4239,6 +4245,9 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/25pp_android.android_recommend_detail [admin-dev]" timestamp="1540885307202">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/activity/rest/GeneralCouponController.java" timestamp="1492071664491">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -4442,6 +4451,9 @@
         <mark key="]" line="5" column="1" />
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/impl/AbtestEngagementApiImpl.java" timestamp="1540884565785">
+        <mark key="'" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleAutoConfiguration.java" timestamp="1496828945649">
         <mark key="[" line="18" column="0" />
@@ -5124,12 +5136,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1540880772531">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="172" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1540885305318">
+        <mark key="'" line="91" column="13" />
+        <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
-        <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
+        <mark key="^" line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-pay/src/main/resources/tables/payOrder.sql" timestamp="1496722255170">
         <mark key="[" line="59" column="13" />
@@ -5501,11 +5513,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" timestamp="1540879928331">
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="32" />
-        <mark key="^" line="62" column="32" />
-        <mark key="." line="62" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" timestamp="1540884794839">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="96" column="57" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/org/eclipse/jetty/http/HttpMethod.java" timestamp="1505284913023">
         <mark key="[" line="40" column="0" />
@@ -5531,11 +5544,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1540883646942">
-        <mark key="[" line="111" column="55" />
-        <mark key="]" line="111" column="54" />
-        <mark key="^" line="111" column="54" />
-        <mark key="." line="111" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1540884516268">
+        <mark key="[" line="109" column="50" />
+        <mark key="]" line="485" column="51" />
+        <mark key="^" line="485" column="51" />
+        <mark key="." line="485" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -8298,6 +8311,9 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="/25pp_android.android_recommend_set_def [admin-dev]" timestamp="1540885319620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-test/src/main/java/com/meizu/life/luckbuy/test/LuckbuyTestContext.java" timestamp="1495787526642">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="12" />
@@ -8478,9 +8494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" />
-      <jump line="113" column="14" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="82" column="25" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="186" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="60" column="36" filename="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/java/cn/flyme/venice/game/roulette/web/RouletteAuthController.java" />
@@ -8578,6 +8591,9 @@
       <jump line="70" column="19" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/22.0/guava-22.0-sources.jar!/com/google/common/collect/Multimaps.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/AppOps.java" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/AppOps.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/impl/AbtestEngagementApiImpl.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" />
+      <jump line="91" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8599,7 +8615,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIEFwcCBleHRlbmRzIE1vZGVsIHsKCiAgICBAQ29sdW1uKG5hbWUgPSAibmFtZSIpCiAgICBwcml2YXRlIFN0cmluZyBuYW1lOwogICAgQENvbHVtbihuYW1lID0gInZlcnNpb25Db2RlIikKICAgIHByaXZhdGUgSW50ZWdlciB2ZXJzaW9uQ29kZTsKICAgIEBDb2x1bW4obmFtZSA9ICJ2ZXJzaW9uTmFtZSIpCiAgICBwcml2YXRlIFN0cmluZyB2ZXJzaW9uTmFtZTsKICAgIEBDb2x1bW4obmFtZSA9ICJzdGF0dXMiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHN0YXR1czsgICAgCiAgICBAQ29sdW1uKG5hbWU9ImNvbW1lbnRfdG90YWwiKQogICAgcHJpdmF0ZSBpbnQgY29tbWVudFRvdGFsOwogICAgQENvbHVtbihuYW1lPSJhcHBfY2F0aWQiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIGFwcENhdGlkOwogICAgQENvbHVtbihuYW1lPSJidW5kbGVJZCIpCiAgICBwcml2YXRlIFN0cmluZyBwYWNrYWdlTmFtZTsKICAgIEBDb2x1bW4obmFtZT0ic2V0X2JvdHRvbSIpCiAgICBwcml2YXRlIGludCBzZXRCb3R0b207CiAgICBAQ29sdW1uKG5hbWU9ImVkaXRvcl9yZWNvbW1lbmQiKQogICAgcHJpdmF0ZSBTdHJpbmcgZWRpdG9yUmVjb21tZW5kOwogICAgQENvbHVtbihuYW1lID0gImZpbGVTaXplIikKICAgIHByaXZhdGUgU3RyaW5nIHNpemU7CglAQ29sdW1uKG5hbWU9ImxhdGVzdF92aWQiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHZlcnNpb25JZDsKCQoJQENvbHVtbihuYW1lID0gImFydHdvcmsiKQogICAgcHJpdmF0ZSBTdHJpbmcgYXJ0d29yazsKICAgIEBDb2x1bW4obmFtZSA9ICJhbGxWZXJTdGFyIikKICAgIHByaXZhdGUgRmxvYXQgc2NvcmU7CiAgICBAQ29sdW1uKG5hbWUgPSAidXBkYXRlRGF0ZSIpCiAgICBwcml2YXRlIERhdGUgdXBkYXRlRGF0ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jQXBwRGFvLmdldE11bHRpQnlHYW1lSWQoYXBwSWQpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBhbmRyb2lkXwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -8608,25 +8624,25 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBhbmRyb2lkX2FwcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBY2Nlc3NvcnMoZmx1ZW50ID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5zZXRQcm9kdWN0VHlwZShyZXEuZ2V0UHJvZHVjdFR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+WmguaenGFidGVzdOWunumqjOS4i+ayoeaciea1i+ivleWImeWIoOmZpAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQgKyAiOiIgKyBwcm9kdWN0VHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtLnNldFByb2R1Y3RUeXBlKHJlcS5nZXRQcm9kdWN0VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhcHBPcHNTZXJ2aWNlLmRlbGV0ZSgKICAgICAgICAgICAgTG9uZy5wYXJzZUxvbmcoc3Vic3RyaW5nQWZ0ZXIoZXhwZXJpbWVudC5nZXROYW1lKCksICJhcHBfZGV0YWlsXyIpKSwKICAgICAgICAgICAgZW5nYWdlbWVudC5nZXRJZCgpKTsKICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBPcHNQbGF5VmlkZW8gdmlkZW8gPSBuZXcgQXBwT3BzUGxheVZpZGVvKCk7CiAgICAgICAgdmlkZW8uc2V0U2hvd01vcmUodHJ1ZSk7CiAgICAgICAgdmlkZW8uc2V0VGl0bGUoInRpdGxlIik7CiAgICAgICAgdmlkZW8uc2V0VmlkZW9JZExpc3QobmV3IGxvbmdbXXsxLCAyLCAzLCA0LCA1fSk7CiAgICAgICAgU3RyaW5nIGpzb24gPSBKU09OLnRvSlNPTlN0cmluZyh2aWRlbyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
