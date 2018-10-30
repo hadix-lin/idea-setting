@@ -30,6 +30,7 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
@@ -39,10 +40,10 @@
   <action id="MavenHelper.QuickRunMavenGoal" />
   <action id="MavenHelper.QuickRunRootMavenGoal" />
   <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="MoveElementLeft">
