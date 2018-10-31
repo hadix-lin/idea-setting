@@ -2472,8 +2472,8 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" timestamp="1540948978003">
-        <mark key="'" line="51" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" timestamp="1540951242953">
+        <mark key="'" line="50" column="19" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="16" />
         <mark key="^" line="69" column="16" />
@@ -4642,7 +4642,7 @@
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540948999677">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540950902472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-dao/src/main/java/com/meizu/life/user/dao/impl/UserCouponDaoImpl.java" timestamp="1503998623007">
@@ -8174,13 +8174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/ExceptionAdvice.java" />
-      <jump line="157" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java" />
-      <jump line="132" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java" />
-      <jump line="53" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java" />
-      <jump line="207" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java" />
-      <jump line="53" column="42" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
-      <jump line="153" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java" />
       <jump line="78" column="2" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
       <jump line="84" column="64" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="132" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
@@ -8274,6 +8267,13 @@
       <jump line="48" column="26" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/RecommendSetVo.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/RecommendSetVo.java" />
       <jump line="51" column="8" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="65" column="17" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="64" column="14" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="63" column="34" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="60" column="15" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="55" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="50" column="19" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8289,7 +8289,7 @@
         <text encoding="base64">cHVibGljIEdlbmVyYWxSZXNwb25zZTxJbnRlZ2VyPiBzYQ==</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text encoding="base64">XDxjb250ZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBOb3ROdWxsKGdyb3VwcyA9IFNhdmUuY2xhc3MpCg==</text>
@@ -8325,13 +8325,13 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>set nonumber</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search encoding="base64">XDxjb250ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZW50XD4=</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
       <last-dir>-1</last-dir>
@@ -8339,7 +8339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batc\.</entry>
         <entry>actualtab</entry>
         <entry>json</entry>
         <entry>rmi</entry>
@@ -8359,12 +8358,9 @@
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry>状态</entry>
         <entry>state</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu</entry>
-        <entry>nonu</entry>
-        <entry>set nonu</entry>
-        <entry>map list</entry>
         <entry>set hls</entry>
         <entry>nohls</entry>
         <entry encoding="base64">bm1hcCA8RXNjPiBpPEVzYz4=</entry>
@@ -8381,6 +8377,10 @@
         <entry>set iskeyword?</entry>
         <entry>wq</entry>
         <entry>121</entry>
+        <entry>help</entry>
+        <entry>set ruler</entry>
+        <entry>set number</entry>
+        <entry>set nonumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -8395,7 +8395,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -8407,7 +8407,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
