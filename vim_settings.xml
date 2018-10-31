@@ -111,11 +111,10 @@
         <mark key="^" line="46" column="42" />
         <mark key="." line="46" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/RecommendSetServiceImpl.java" timestamp="1540904808831">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-        <mark key="^" line="46" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/RecommendSetServiceImpl.java" timestamp="1540953258335">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/.editorconfig" timestamp="1496736437667">
         <mark key="[" line="5" column="13" />
@@ -686,6 +685,11 @@
         <mark key="]" line="61" column="54" />
         <mark key="^" line="61" column="54" />
         <mark key="." line="61" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/pp-service-admin-adv-service/pom.xml" timestamp="1540866707408">
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/resources/application.properties" timestamp="1497414964007">
         <mark key="[" line="0" column="38" />
@@ -4856,12 +4860,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1540948902932">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1540955447983">
         <mark key="'" line="91" column="13" />
-        <mark key="[" line="182" column="22" />
-        <mark key="]" line="188" column="8" />
-        <mark key="." line="188" column="8" />
-        <mark key="^" line="188" column="8" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-pay/src/main/resources/tables/payOrder.sql" timestamp="1496722255170">
         <mark key="[" line="59" column="13" />
@@ -5258,6 +5262,12 @@
         <mark key="]" line="5" column="42" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1540955409731">
+        <mark key="[" line="113" column="48" />
+        <mark key="]" line="114" column="40" />
+        <mark key="^" line="114" column="40" />
+        <mark key="." line="114" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -6287,6 +6297,9 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1540955172094">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/jooq.xml" timestamp="1508750039316">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="16" />
@@ -7121,7 +7134,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1540905031894">
+      <file name="/fragment.java" timestamp="1540955411950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -8174,7 +8187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="2" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
       <jump line="84" column="64" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="132" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" />
       <jump line="58" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" />
@@ -8274,6 +8286,7 @@
       <jump line="57" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
       <jump line="55" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
       <jump line="50" column="19" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/RecommendSetServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8295,34 +8308,34 @@
         <text encoding="base64">ICAgIEBOb3ROdWxsKGdyb3VwcyA9IFNhdmUuY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwbGFpbiAgKiBmcm9tIGFuZHJvaWRfYXBwX2RldGFpbF9vcHMgd2hlcmUgaWQ9MjQyODQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuayhncm91cHMgPSBTYXZlLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsKGdyb3VwcyA9IFNhdmUuY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFyYW1zID0gWzI2MjM0LCAyNjIyN10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmQuaW1hZ2VfdXJsLAo=</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuayhncm91cHMgPSBTYXZlLmNsYXNzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBWYWxpZGF0ZWQoUmVjb21tZW5kU2V0Vm8uU2F2ZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsKGdyb3VwcyA9IFNhdmUuY2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">cGFyYW1zID0gWzI2MjM0LCAyNjIyN10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2Y5bqU55So5LiT5Yy66YWN572uCiAgICAgKgogICAgICogQHBhcmFtIGFwcE9wc1ZvCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcmQuaW1hZ2VfdXJsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIEBWYWxpZGF0ZWQoUmVjb21tZW5kU2V0Vm8uU2F2ZS5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
