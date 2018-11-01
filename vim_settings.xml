@@ -9,6 +9,11 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/SyncVideoApi.java" timestamp="1541059371140">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/service/impl/OrderCoinPayServiceImpl.java" timestamp="1502870713665">
         <mark key="[" line="100" column="29" />
         <mark key="]" line="100" column="28" />
@@ -2461,11 +2466,11 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/recommend_detail.xml" timestamp="1540905684470">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/recommend_detail.xml" timestamp="1541058963120">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-config/src/main/java/com/meizu/life/config/ConfigInvokeHandler.java" timestamp="1492397724458">
         <mark key="[" line="91" column="0" />
@@ -3613,7 +3618,7 @@
         <mark key="^" line="131" column="19" />
         <mark key="." line="131" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/vo/app/SyncAppVO.java" timestamp="1541051866328">
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/vo/app/SyncAppVO.java" timestamp="1541053492280">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
@@ -3648,6 +3653,9 @@
         <mark key="]" line="196" column="34" />
         <mark key="." line="196" column="34" />
         <mark key="^" line="196" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/hotswap-agent.properties" timestamp="1541053679632">
+        <mark key="[" line="72" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/ModuleAutoConfigurationPackages.java" timestamp="1504248894305">
         <mark key="[" line="55" column="23" />
@@ -4474,6 +4482,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/sync_videoMapper.xml" timestamp="1541057366486">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="18" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="93" column="19" />
+        <mark key="." line="93" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/m-cloud/applian/src/main/java/com/mcloud/base/EncryptCodec.java" timestamp="1429802740662">
         <mark key="[" line="91" column="34" />
         <mark key="]" line="91" column="34" />
@@ -4861,12 +4876,8 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1540976058624">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1541057882173">
         <mark key="'" line="91" column="13" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-        <mark key="^" line="238" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-pay/src/main/resources/tables/payOrder.sql" timestamp="1496722255170">
         <mark key="[" line="59" column="13" />
@@ -5267,12 +5278,18 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541047250397">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="93" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541059538440">
+        <mark key="'" line="227" column="45" />
+        <mark key="[" line="265" column="45" />
+        <mark key="]" line="266" column="19" />
+        <mark key="." line="266" column="19" />
+        <mark key="^" line="266" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/request/SyncVideoQueryAllRequest.java" timestamp="1541057421711">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -5327,6 +5344,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/SyncVideoService.java" timestamp="1541055663590">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-support-cache/pom.xml" timestamp="1493911607463">
         <mark key="[" line="15" column="16" />
@@ -5700,11 +5723,11 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/SyncVideoServiceImpl.java" timestamp="1540803553881">
-        <mark key="[" line="61" column="41" />
-        <mark key="]" line="62" column="24" />
-        <mark key="^" line="62" column="24" />
-        <mark key="." line="62" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/SyncVideoServiceImpl.java" timestamp="1541059270556">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/model/Configurable.java" timestamp="1499239385652">
         <mark key="[" line="7" column="34" />
@@ -7137,7 +7160,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1540955411950">
+      <file name="/fragment.java" timestamp="1541056668021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -7184,10 +7207,6 @@
         <mark key="]" line="81" column="15" />
         <mark key="^" line="32" column="1" />
         <mark key="." line="81" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/SyncApp.java" timestamp="1540973722162">
-        <mark key="[" line="63" column="6" />
-        <mark key="]" line="63" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-auth-starter/pom.xml" timestamp="1496905340436">
         <mark key="[" line="15" column="16" />
@@ -8039,8 +8058,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/dao/SyncVideoDao.java" timestamp="1540803568747">
-        <mark key="[" line="14" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/dao/SyncVideoDao.java" timestamp="1541054903852">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="18" column="57" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/CouponServiceImpl.java" timestamp="1510562446398">
         <mark key="[" line="34" column="16" />
@@ -8194,15 +8216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" />
-      <jump line="45" column="25" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="28" column="66" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="93" column="44" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="42" column="46" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="102" column="67" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
-      <jump line="24" column="58" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/SimpleArgumentResolver.java" />
-      <jump line="100" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.12.RELEASE/spring-messaging-4.3.12.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolver.java" />
       <jump line="146" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
       <jump line="252" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/web/method/annotation/RequestParamMethodArgumentResolver.java" />
@@ -8293,7 +8306,16 @@
       <jump line="105" column="18" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" />
       <jump line="33" column="4" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" />
       <jump line="21" column="17" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/CardDataBiz.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="93" column="19" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/sync_videoMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/sync_videoMapper.xml" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/request/SyncVideoQueryAllRequest.java" />
+      <jump line="475" column="19" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="92" column="17" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="538" column="27" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="520" column="34" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="501" column="32" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="497" column="52" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="227" column="45" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8306,16 +8328,16 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50XD4=</text>
+        <text encoding="base64">XDxzcGVjaWFsU3BhY2VJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gYW5kcm9pZF9kaWN0IHdoZXJlIHR5cGU9MzIgYW5kIHR5cGVfbmFtZT0n5bqU55So54q25oCBJzsK</text>
+        <text encoding="base64">ICAgIEdlbmVyYWxSZXNwb25zZTxTeW5jVmlkZW9RdWVyeVJlc3BvbnNlPiBxdWVyeUJ5SWQoTG9uZyBpZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uaWTliJfooajmibnph4/ov5Tlm57op4bpopHkv6Hmga8KICAgICAqCiAgICAgKiBAcGFyYW0gaWQg6KeG6aKRaWTliJfooagKICAgICAqIEByZXR1cm4g5a+55bqU55qE6KeG6aKR5L+h5oGvCiAgICAgKi8KICAgIEdlbmVyYWxSZXNwb25zZTxQYWdlUmVzcG9uc2U8U3luY1ZpZGVvUXVlcnlSZXNwb25zZT4+IHF1ZXJ5QmF0Y2goTGlzdDxJbnRlZ2VyPiBpZCk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -8324,34 +8346,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFNwZWNpYWxTcGFjZUlkKExvbmcgc3BlY2lhbFNwYWNlSWQpIHsKICAgICAgICBBcHBEZXRhaWxPcHNTZXJ2aWNlSW1wbC5zcGVjaWFsU3BhY2VJZCA9IHNwZWNpYWxTcGFjZUlkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8U3luY1ZpZGVvPiBzZWxlY3QoTGlzdDxJbnRlZ2VyPiBpZHMpIHsKICAgICAgICByZXR1cm4gc3luY1ZpZGVvRGFvLnNlbGVjdExpc3QoQ29uZGl0aW9uLjxTeW5jVmlkZW8+bGFtYmRhKCkuaW4oU3luY1ZpZGVvOjpnZXRJZCwgaWRzKSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcHAuc3BlY2lhbC5jYXJkLnNwYWNlLmlkfSIpCg==</text>
+        <text encoding="base64">QFNlcmkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwT3BzRGFvIGRhbzsKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlUmVxdWVzdCBnZXRQYWdlKCkgewogICAgICAgIHJldHVybiBwYWdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhZ2UoUGFnZVJlcXVlc3QgcGFnZSkgewogICAgICAgIHRoaXMucGFnZSA9IHBhZ2U7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0VmlkZW9JZCgpIHsKICAgICAgICByZXR1cm4gdmlkZW9JZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRWaWRlb0lkKEludGVnZXIgdmlkZW9JZCkgewogICAgICAgIHRoaXMudmlkZW9JZCA9IHZpZGVvSWQ7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0QXBwSWQoKSB7CiAgICAgICAgcmV0dXJuIGFwcElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcElkKEludGVnZXIgYXBwSWQpIHsKICAgICAgICB0aGlzLmFwcElkID0gYXBwSWQ7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0U291cmNlVHlwZSgpIHsKICAgICAgICByZXR1cm4gc291cmNlVHlwZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTb3VyY2VUeXBlKEludGVnZXIgc291cmNlVHlwZSkgewogICAgICAgIHRoaXMuc291cmNlVHlwZSA9IHNvdXJjZVR5cGU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRUaXRsZSgpIHsKICAgICAgICByZXR1cm4gdGl0bGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgdGhpcy50aXRsZSA9IHRpdGxlOwogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlcSA9ICIgKyByZXEpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc29ydChDb21wYXJhdG9yLmNvbXBhcmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwT3BzRGFvIGRhbzsKICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlcSA9ICIgKyByZXEpOwo=</text>
+        <text encoding="base64">ICAgIFN5bmNWaWRlbyBzZWxlY3QoTG9uZyBpZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxzcGVjaWFsU3BhY2VJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzcGVjaWFsU3BhY2VJZFw+</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
       <last-dir>-1</last-dir>
@@ -8359,7 +8381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>actualtab</entry>
         <entry>json</entry>
         <entry>rmi</entry>
         <entry>returnvaluehandler</entry>
@@ -8379,6 +8400,7 @@
         <entry>状态</entry>
         <entry>state</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxzcGVjaWFsU3BhY2VJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
