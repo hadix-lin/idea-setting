@@ -5164,6 +5164,9 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/CardDataBiz.java" timestamp="1541046918777">
+        <mark key="'" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ws/src/main/java/cn/flyme/venice/ws/Resp.java" timestamp="1510812739846">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="31" />
@@ -5258,11 +5261,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541038690851">
-        <mark key="[" line="306" column="21" />
-        <mark key="]" line="399" column="67" />
-        <mark key="^" line="399" column="67" />
-        <mark key="." line="399" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541047250397">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="93" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -8184,8 +8188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" />
-      <jump line="53" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" />
       <jump line="172" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" />
       <jump line="45" column="25" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
       <jump line="28" column="66" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/WebSocketAutoConfiguration.java" />
@@ -8284,6 +8286,8 @@
       <jump line="100" column="4" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/AbtestEngagement.java" />
       <jump line="105" column="18" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" />
       <jump line="33" column="4" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" />
+      <jump line="21" column="17" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/CardDataBiz.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8296,7 +8300,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIEdlbmVyYWxSZXNwb25zZTxJbnRlZ2VyPiBzYQ==</text>
+        <text>Service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZW50XD4=</text>
@@ -8305,34 +8309,34 @@
         <text encoding="base64">ZGVsZXRlIGZyb20gYW5kcm9pZF9kaWN0IHdoZXJlIHR5cGU9MzIgYW5kIHR5cGVfbmFtZT0n5bqU55So54q25oCBJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBTkQgcmVzb3VyY2VfdHlwZSA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gYW5kcm9pZF9kaWN0IHdoZXJlIHR5cGU9MzIgYW5kIHR5cGVfbmFtZT0n5bqU55So54q25oCBJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFNwZWNpYWxTcGFjZUlkKExvbmcgc3BlY2lhbFNwYWNlSWQpIHsKICAgICAgICBBcHBEZXRhaWxPcHNTZXJ2aWNlSW1wbC5zcGVjaWFsU3BhY2VJZCA9IHNwZWNpYWxTcGFjZUlkOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcHAuc3BlY2lhbC5jYXJkLnNwYWNlLmlkfSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBidWNrZXQK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwT3BzRGFvIGRhbzsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlcSA9ICIgKyByZXEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBmbGFncwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXBwT3BzRGFvIGRhbzsKICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlcSA9ICIgKyByZXEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
