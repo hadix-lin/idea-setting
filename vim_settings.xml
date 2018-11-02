@@ -301,11 +301,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1540976663331">
-        <mark key="[" line="70" column="27" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="26" />
-        <mark key="." line="71" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1541147276188">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="10" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-exception/src/main/java/com/meizu/life/support/exception/TopMsgCode.java" timestamp="1494329838048">
         <mark key="[" line="37" column="5" />
@@ -811,11 +811,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.20.RELEASE/spring-context-4.3.20.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1541137572481">
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="71" column="13" />
-        <mark key="^" line="71" column="13" />
-        <mark key="." line="71" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.20.RELEASE/spring-context-4.3.20.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1541147098024">
+        <mark key="[" line="393" column="85" />
+        <mark key="]" line="393" column="84" />
+        <mark key="^" line="393" column="84" />
+        <mark key="." line="393" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-doc-starter/src/main/java/com/meizu/modularize/doc/DocAutoConfiguration.java" timestamp="1496995357691">
         <mark key="[" line="32" column="36" />
@@ -4981,12 +4981,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1541068428761">
-        <mark key="'" line="91" column="13" />
-        <mark key="[" line="126" column="13" />
-        <mark key="]" line="126" column="13" />
-        <mark key="^" line="126" column="13" />
-        <mark key="." line="126" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1541147246603">
+        <mark key="'" line="127" column="13" />
+        <mark key="[" line="281" column="35" />
+        <mark key="]" line="291" column="0" />
+        <mark key="^" line="291" column="12" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-pay/src/main/resources/tables/payOrder.sql" timestamp="1496722255170">
         <mark key="[" line="59" column="13" />
@@ -5376,8 +5376,8 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541059538440">
-        <mark key="'" line="227" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541146813968">
+        <mark key="'" line="562" column="0" />
         <mark key="[" line="265" column="45" />
         <mark key="]" line="266" column="19" />
         <mark key="." line="266" column="19" />
@@ -8350,8 +8350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="23" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/StakeStoreRedisImpl.java" />
-      <jump line="127" column="39" filename="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/impl/IncentiveServiceImpl.java" />
       <jump line="55" column="40" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="125" column="83" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
       <jump line="126" column="0" filename="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/service/impl/GameSixServiceImpl.java" />
@@ -8450,6 +8448,8 @@
       <jump line="65" column="56" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanRefreshCommand.java" />
       <jump line="39" column="92" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanDefinitionScannerAgent.java" />
       <jump line="73" column="12" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanDefinitionScannerAgent.java" />
+      <jump line="59" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
+      <jump line="562" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8471,34 +8471,34 @@
         <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InVwZGF0ZSIgcGFyYW1ldGVyVHlwZT0iY24udWMucHAuYWRtaW4ubW9kZWwuQWJ0ZXN0RW5nYWdlbWVudCI+CiAgICAgICAgdXBkYXRlIGFidGVzdF9lbmdhZ2VtZW50CiAgICAgICAgPHNldD4KICAgICAgICAgICAgZXhwZXJpbWVudF9pZCA9ICN7ZXhwZXJpbWVudElkfSwKICAgICAgICAgICAgbmFtZSA9ICN7bmFtZX0sCiAgICAgICAgICAgIGRlc2NyaXB0aW9uID0gI3tkZXNjcmlwdGlvbn0sCiAgICAgICAgICAgIGJ1Y2tldCA9ICN7YnVja2V0fSwKICAgICAgICAgICAgdmVyc2lvbl9jb2RlcyA9ICN7dmVyc2lvbkNvZGVzfSwKICAgICAgICAgICAgdXNlcl9pZHMgPSAje3VzZXJJZHN9LAogICAgICAgICAgICBwcm9kdWN0X3R5cGVzID0gI3twcm9kdWN0VHlwZXN9LAogICAgICAgICAgICBjaGFubmVscyA9ICN7Y2hhbm5lbHN9LAogICAgICAgICAgICBmbGFncyA9ICN7ZmxhZ3N9LAogICAgICAgICAgICBsaXN0X29yZGVyID0gI3tsaXN0T3JkZXJ9LAogICAgICAgICAgICBjcmVhdGVfdGltZSA9ICN7Y3JlYXRlVGltZX0sCiAgICAgICAgICAgIHVwZGF0ZV90aW1lID0gI3t1cGRhdGVUaW1lfSwKICAgICAgICA8L3NldD4KICAgICAgICB3aGVyZSBpZCA9ICN7aWR9CiAgICA8L3VwZGF0ZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxBYnRlc3RBcGkuY2xhc3MpCg==</text>
+        <text encoding="base64">TElNSVQgMCwxMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
+        <text encoding="base64">TElNSVQgMCwxMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TE9HR0VSLm9yZy5ob3Rzd2FwLmFnZW50LnBsdWdpbi5zcHJpbmcK</text>
+        <text encoding="base64">cGFyYW1zID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
+        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxBYnRlc3RBcGkuY2xhc3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gKHVybCA9PSBudWxsID8gZmluZFJlc291cmNlKG5hbWUpIDogdXJsKTsK</text>
+        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
+        <text encoding="base64">TE9HR0VSLm9yZy5ob3Rzd2FwLmFnZW50LnBsdWdpbi5zcHJpbmcK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhvdHN3YXBhZ2VudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aG90c3dhcC1hZ2VudC1wcm94eS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMy4wPC92ZXJzaW9uPgogICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aG90c3dhcC1hZ2VudC1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5ob3Rzd2FwYWdlbnQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQlyZXR1cm4gKHVybCA9PSBudWxsID8gZmluZFJlc291cmNlKG5hbWUpIDogdXJsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhvdHN3YXBhZ2VudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aG90c3dhcC1hZ2VudC1wcm94eS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMy4wPC92ZXJzaW9uPgogICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aG90c3dhcC1hZ2VudC1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5ob3Rzd2FwYWdlbnQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBBcHBEZXRhaWxPcHNBcGkuY2xhc3MsIGNsaWVudFRpbWVvdXQgPSAxMDAwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
