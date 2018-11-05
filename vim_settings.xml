@@ -9,11 +9,11 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/springfox.js" timestamp="1541414839323">
-        <mark key="[" line="93" column="17" />
-        <mark key="]" line="93" column="16" />
-        <mark key="." line="93" column="16" />
-        <mark key="^" line="93" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/springfox.js" timestamp="1541420437898">
+        <mark key="[" line="103" column="70" />
+        <mark key="]" line="103" column="69" />
+        <mark key="^" line="103" column="69" />
+        <mark key="." line="103" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/service/impl/OrderCoinPayServiceImpl.java" timestamp="1502870713665">
         <mark key="[" line="100" column="29" />
@@ -3235,11 +3235,11 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541414921440">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541418851020">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/CouponActivityTransactionImpl.java" timestamp="1499505824578">
         <mark key="[" line="15" column="2" />
@@ -7689,9 +7689,9 @@
         <mark key="^" line="120" column="30" />
         <mark key="." line="120" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/DocAutoConfiguration.java" timestamp="1541410649542">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/DocAutoConfiguration.java" timestamp="1541417233936">
         <mark key="'" line="40" column="13" />
-        <mark key="[" line="92" column="73" />
+        <mark key="[" line="114" column="69" />
         <mark key="]" line="93" column="82" />
         <mark key="." line="93" column="82" />
         <mark key="^" line="93" column="82" />
@@ -8577,7 +8577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/views/appops/list.html" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/views/appops/page.html" />
       <jump line="11" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/SyncApp.java" />
       <jump line="263" column="51" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/response/SyncVideoQueryResponse.java" />
@@ -8677,6 +8676,7 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/filter/OpBehaviorServerFilter.java" />
       <jump line="136" column="72" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/filter/OpBehaviorServerFilter.java" />
       <jump line="37" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/DocAutoConfiguration.java" />
+      <jump line="103" column="44" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/springfox.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8689,60 +8689,59 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>.headers()</text>
+        <text>req.parameters || {body: body};</text>
       </register>
       <register name="/" type="4">
-        <text>instances.put</text>
+        <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBpSW5mbyA9CiAgICAgICAgICAgICAgICBuZXcgQXBpSW5mbygKICAgICAgICAgICAgICAgICAgICBkb2NJbmZvLmdldFRpdGxlKCksCiAgICAgICAgICAgICAgICAgICAgZG9jSW5mby5nZXREZXNjcmlwdGlvbigpLAogICAgICAgICAgICAgICAgICAgIGRvY0luZm8uZ2V0VmVyc2lvbigpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIG5ldyBDb250YWN0KGRvY0luZm8uZ2V0Q29udGFjdCgpLCAiIiwgIiIpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFJlc3RUZW1wbGF0ZSByZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB1cmwgPSBVUkkocmVxLmNvbnRleHRVcmwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAUGF0aFZhcmlhYmxlIFN0cmluZyBwYXRoLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybC5wYXRoKCIvaHNmLXByb3h5IiArIHVybC5wYXRoKCkpOwogICAgICAgICAgICAgICAgcmVxLmNvbnRleHRVcmwgPSB1cmwudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAUmVxdWVzdEhlYWRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLy8gbGV0IGRlc2NyaXB0aW9uID0gcmVxLnNwZWMuaW5mby5kZXNjcmlwdGlvbjsgLy8gaWYgKGRlc2NyaXB0aW9uLnN0YXJ0c1dpdGgoImhzZi5odHRwLnBvcnQ9IikpIHsKICAgICAgICAgICAgICAgIC8vICAgICBsZXQgaHNmSHR0cFBvcnQgPSBkZXNjcmlwdGlvbi5zdWJzdHJpbmcoMTQsIGRlc2NyaXB0aW9uLmluZGV4T2YoIjxici8+IikpOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCB1cmwgPSBVUkkocmVxLmNvbnRleHRVcmwpOwogICAgICAgICAgICAgICAgLy8gICAgIHVybC5wb3J0KGhzZkh0dHBQb3J0KTsKICAgICAgICAgICAgICAgIC8vICAgICByZXEuY29udGV4dFVybCA9IHVybC50b1N0cmluZygpOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCBzcGVjSG9zdCA9IHJlcS5zcGVjLmhvc3Q7CiAgICAgICAgICAgICAgICAvLyAgICAgcmVxLnNwZWMuaG9zdCA9IHNwZWNIb3N0LnJlcGxhY2UoLzpcZCsvLCAnOicgKyBoc2ZIdHRwUG9ydCk7CiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwb3J0ID4wKQo=</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFJlc3RUZW1wbGF0ZSByZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZ0J1ZmZlciB1cmwgPSByZXEuZ2V0UmVxdWVzdFVSTCgpOwogICAgICAgIC8vVVJJIHVyaSA9IG5ldyBVUkkoImhhZGl4L21vZHVsYXJpemUvdXRpbHMvaHR0cCIsICJsb2NhbGhvc3QiLCBwb3J0LCBwYXRoLCBudWxsLCBudWxsKTsKICAgICAgICAvL1JlcXVlc3RFbnRpdHk8Pz4gcmVxID0gbmV3IFJlcXVlc3RFbnRpdHk8T2JqZWN0PigpCiAgICAgICAgLy9yZXN0LnBvc3RGb3JFbnRpdHkodXJpLCkK</text>
+        <text encoding="base64">ICAgICAgICBAUGF0aFZhcmlhYmxlIFN0cmluZyBwYXRoLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBAUmVxdWVzdEhlYWRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5jb21tb25zPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWxhbmczPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNxdWFyZXVwLm9raHR0cDM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm9raHR0cDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBpZihwb3J0ID4wKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
       </register>
     </registers>
     <search>
-      <last-search>instances.put</last-search>
+      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>instances.put</last-pattern>
+      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>valida</entry>
         <entry>uid</entry>
         <entry>userinfo</entry>
@@ -8762,6 +8761,7 @@
         <entry>agent</entry>
         <entry>Agent</entry>
         <entry>instances.put</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
