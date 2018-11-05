@@ -9,11 +9,11 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/springfox.js" timestamp="1541420437898">
-        <mark key="[" line="103" column="70" />
-        <mark key="]" line="103" column="69" />
-        <mark key="^" line="103" column="69" />
-        <mark key="." line="103" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/springfox.js" timestamp="1541424183894">
+        <mark key="[" line="134" column="32" />
+        <mark key="]" line="134" column="31" />
+        <mark key="^" line="134" column="31" />
+        <mark key="." line="134" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/service/impl/OrderCoinPayServiceImpl.java" timestamp="1502870713665">
         <mark key="[" line="100" column="29" />
@@ -3235,11 +3235,11 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541418851020">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541423624980">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/CouponActivityTransactionImpl.java" timestamp="1499505824578">
         <mark key="[" line="15" column="2" />
@@ -7473,7 +7473,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1541415144580">
+      <file name="/fragment.java" timestamp="1541422901551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -8689,7 +8689,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>req.parameters || {body: body};</text>
+        <text>/hsf-proxy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
@@ -8698,34 +8698,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBpSW5mbyA9CiAgICAgICAgICAgICAgICBuZXcgQXBpSW5mbygKICAgICAgICAgICAgICAgICAgICBkb2NJbmZvLmdldFRpdGxlKCksCiAgICAgICAgICAgICAgICAgICAgZG9jSW5mby5nZXREZXNjcmlwdGlvbigpLAogICAgICAgICAgICAgICAgICAgIGRvY0luZm8uZ2V0VmVyc2lvbigpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIG5ldyBDb250YWN0KGRvY0luZm8uZ2V0Q29udGFjdCgpLCAiIiwgIiIpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB1cmwgPSBVUkkocmVxLmNvbnRleHRVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbnVtZXJhdGlvbjxTdHJpbmc+IGhlYWRlck5hbWVzID0gcmVxLmdldEhlYWRlck5hbWVzKCk7CiAgICAgICAgd2hpbGUgKGhlYWRlck5hbWVzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgICAgICAgIFN0cmluZyBuYW1lID0gaGVhZGVyTmFtZXMubmV4dEVsZW1lbnQoKTsKICAgICAgICAgICAgYnVpbGRpbmdSZXEuaGVhZGVyKG5hbWUsIHJlcS5nZXRIZWFkZXIobmFtZSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybC5wYXRoKCIvaHNmLXByb3h5IiArIHVybC5wYXRoKCkpOwogICAgICAgICAgICAgICAgcmVxLmNvbnRleHRVcmwgPSB1cmwudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLy8gbGV0IGRlc2NyaXB0aW9uID0gcmVxLnNwZWMuaW5mby5kZXNjcmlwdGlvbjsgLy8gaWYgKGRlc2NyaXB0aW9uLnN0YXJ0c1dpdGgoImhzZi5odHRwLnBvcnQ9IikpIHsKICAgICAgICAgICAgICAgIC8vICAgICBsZXQgaHNmSHR0cFBvcnQgPSBkZXNjcmlwdGlvbi5zdWJzdHJpbmcoMTQsIGRlc2NyaXB0aW9uLmluZGV4T2YoIjxici8+IikpOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCB1cmwgPSBVUkkocmVxLmNvbnRleHRVcmwpOwogICAgICAgICAgICAgICAgLy8gICAgIHVybC5wb3J0KGhzZkh0dHBQb3J0KTsKICAgICAgICAgICAgICAgIC8vICAgICByZXEuY29udGV4dFVybCA9IHVybC50b1N0cmluZygpOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCBzcGVjSG9zdCA9IHJlcS5zcGVjLmhvc3Q7CiAgICAgICAgICAgICAgICAvLyAgICAgcmVxLnNwZWMuaG9zdCA9IHNwZWNIb3N0LnJlcGxhY2UoLzpcZCsvLCAnOicgKyBoc2ZIdHRwUG9ydCk7CiAgICAgICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVyaSA9ICIgKyB1cmkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFJlc3RUZW1wbGF0ZSByZXN0Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAUGF0aFZhcmlhYmxlIFN0cmluZyBwYXRoLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAUmVxdWVzdEhlYWRlcigpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyLnBhdGgocGF0aCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUmVxdWVzdCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUmVxdWVzdCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwb3J0ID4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUmVxdWVzdCkKICAgICAgICAgICAgY29uc29sZS5sb2cocmVxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
