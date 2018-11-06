@@ -902,11 +902,6 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/resources/META-INF/doc/swagger-ui.html" timestamp="1541493079521">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/swagger-ui/docs/usage/installation.md" timestamp="1541469905017">
         <mark key="[" line="47" column="59" />
         <mark key="]" line="47" column="57" />
@@ -1476,6 +1471,18 @@
         <mark key="]" line="210" column="50" />
         <mark key="^" line="210" column="50" />
         <mark key="." line="210" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/pom.xml" timestamp="1541500429143">
+        <mark key="[" line="121" column="36" />
+        <mark key="]" line="122" column="22" />
+        <mark key="^" line="122" column="22" />
+        <mark key="." line="122" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/visitor/VoidVisitor.java" timestamp="1541501437013">
+        <mark key="[" line="145" column="25" />
+        <mark key="]" line="145" column="24" />
+        <mark key="^" line="145" column="24" />
+        <mark key="." line="145" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-web/src/main/java/com/meizu/life/support/web/ExceptionAdvice.java" timestamp="1495094932261">
         <mark key="[" line="46" column="12" />
@@ -4281,11 +4288,6 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/DocInfo.java" timestamp="1541410372852">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/mybatis/RedisCache.java" timestamp="1493970495598">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -5456,11 +5458,6 @@
         <mark key="^" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/doc/src/main/java/doc/Custom.java" timestamp="1541250155329">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/m-cloud/applian/src/main/java/com/mcloud/base/BusinessLogger.java" timestamp="1429804077773">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="20" column="52" />
@@ -6387,16 +6384,18 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/CompilationUnit.java" timestamp="1541501614945">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/.editorconfig" timestamp="1505284745598">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/swagger-ui/src/core/components/try-it-out-button.jsx" timestamp="1541243404675">
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/web/DemoTest.java" timestamp="1497240811238">
         <mark key="[" line="5" column="17" />
@@ -6691,6 +6690,12 @@
         <mark key="]" line="54" column="51" />
         <mark key="^" line="54" column="51" />
         <mark key="." line="54" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/test/java/DocParser.java" timestamp="1541501693022">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="25" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/BatchMapper.java" timestamp="1500967497595">
         <mark key="[" line="24" column="19" />
@@ -7653,7 +7658,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1541489077983">
+      <file name="/fragment.java" timestamp="1541500555874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -8381,10 +8386,6 @@
         <mark key="." line="357" column="51" />
         <mark key="^" line="357" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/pom.xml" timestamp="1541492890756">
-        <mark key="'" line="65" column="0" />
-        <mark key="^" line="124" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1512376510188">
         <mark key="[" line="222" column="69" />
         <mark key="]" line="63" column="29" />
@@ -8765,7 +8766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="23" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="446" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="818" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/LinkValidator.java" />
@@ -8865,6 +8865,7 @@
       <jump line="132" column="0" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ParameterRequiredReader.java" />
       <jump line="82" column="47" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/CustomApiParameterBuilder.java" />
       <jump line="62" column="4" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/RecommendSetVo.java" />
+      <jump line="162" column="0" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/CompilationUnit.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8886,39 +8887,37 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcm9sbGJhY2soUGxhdGZvcm1UcmFuc2FjdGlvbk1hbmFnZXIgdHhNYW5hZ2VyLCBUcmFuc2FjdGlvblN0YXR1cyB0eFN0YXQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKChEZWZhdWx0VHJhbnNhY3Rpb25EZWZpbml0aW9uKXR4RGVmKS5zZXRQcm9wYWdhdGlvbkJlaGF2aW9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4uYWNjZXB0KG5ldyBWb2lkVmlzaXRvckFkYXB0ZXI8Vm9pZD4oKSB7fSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4uYWNjZXB0KG5ldyBWb2lkVmlzaXRvckFkYXB0ZXI8Vm9pZD4oKSB7fSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4uYWNjZXB0KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEphdmFkb2NDb21tZW50TWV0YU1vZGVsIG1ldGFNb2RlbCA9IG4uZ2V0TWV0YU1vZGVsKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihKU09OLnRvSlNPTlN0cmluZyhtZXRhTW9kZWwpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLnZpc2l0KG4sIGFyZyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3UudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKChEZWZhdWx0VHJhbnNhY3Rpb25EZWZpbml0aW9uKXR4RGVmKS5zZXRQcm9wYWdhdGlvbkJlaGF2aW9yKCk7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//提交事务
             if (!txStat.isCompleted()) {
                 txManager.commit(txStat);
             }</text>
-      </register>
-      <register name="3" type="4">
-        <text>finally {
-            commit(txManager, txStat);
-        }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IHJlc3VsdCA9IHJwY1Jlc3VsdC5nZXRBcHBSZXNwb25zZSgpOwogICAgICAgICAgICBpZiAoIShyZXN1bHQgaW5zdGFuY2VvZiBHZW5lcmFsUmVzcG9uc2UpKSB7CiAgICAgICAgICAgICAgICAvL+WHuueOsOW8guW4uOaDheWGtSwg5Zue5rua5LqL5YqhCiAgICAgICAgICAgICAgICByb2xsYmFjayh0eE1hbmFnZXIsIHR4U3RhdCk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0PiBoZWFkZXJzID0gaW52b2NhdGlvbi5nZXRSZXF1ZXN0UHJvcHMoKTsKICAgICAgICAgICAgT2JqZWN0IGlkID0gaGVhZGVycy5nZXQoIngtcHAtbG9nLWlkIik7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc0VtcHR5KGlkKSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWV0aG9kTmFtZSA9IGludm9jYXRpb24uZ2V0TWV0aG9kTmFtZSgpOwogICAgICAgIGlmICghY2FuTG9nKG1ldGhvZE5hbWUpKSB7CiAgICAgICAgICAgIC8v5LiN6ZyA6KaB6K6w5b2V5pel5b+XCiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYW5Mb2cobWV0aG9kTmFtZSkpIHsKICAgICAgICAgICAgICAgIC8v5LiN6ZyA6KaB6K6w5b2V5pel5b+XCiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/mj5DkuqTkuovliqEKICAgICAgICAgICAgaWYgKCF0eFN0YXQuaXNDb21wbGV0ZWQoKSkgewogICAgICAgICAgICAgICAgdHhNYW5hZ2VyLmNvbW1pdCh0eFN0YXQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
