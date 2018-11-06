@@ -2851,6 +2851,12 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="39" column="56" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1541472395800">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-support-redis/src/main/java/com/meizu/life/support/redis/RedisContext.java" timestamp="1495027033130">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="13" />
@@ -3247,11 +3253,11 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541423624980">
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="49" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/HsfRequestProxy.java" timestamp="1541472954737">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/CouponActivityTransactionImpl.java" timestamp="1499505824578">
         <mark key="[" line="15" column="2" />
@@ -6134,11 +6140,11 @@
         <mark key="^" line="34" column="14" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/swagger-ui/src/core/plugins/spec/actions.js" timestamp="1541470775510">
-        <mark key="[" line="449" column="66" />
-        <mark key="]" line="450" column="37" />
-        <mark key="." line="450" column="37" />
-        <mark key="^" line="450" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/swagger-ui/src/core/plugins/spec/actions.js" timestamp="1541472231358">
+        <mark key="[" line="399" column="50" />
+        <mark key="]" line="402" column="3" />
+        <mark key="^" line="402" column="3" />
+        <mark key="." line="402" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/test/java/com/meizu/life/activity/service/ZeroBuyAdminServiceImplTest.java" timestamp="1503991000383">
         <mark key="[" line="56" column="1" />
@@ -8132,6 +8138,12 @@
         <mark key="^" line="44" column="23" />
         <mark key="." line="44" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/swagger-ui/src/core/system.js" timestamp="1541471456529">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/handler/impl/FeedbackHandlerImpl.java" timestamp="1504697785537">
         <mark key="[" line="102" column="19" />
         <mark key="]" line="102" column="22" />
@@ -8691,34 +8703,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBpSW5mbyA9CiAgICAgICAgICAgICAgICBuZXcgQXBpSW5mbygKICAgICAgICAgICAgICAgICAgICBkb2NJbmZvLmdldFRpdGxlKCksCiAgICAgICAgICAgICAgICAgICAgZG9jSW5mby5nZXREZXNjcmlwdGlvbigpLAogICAgICAgICAgICAgICAgICAgIGRvY0luZm8uZ2V0VmVyc2lvbigpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIG5ldyBDb250YWN0KGRvY0luZm8uZ2V0Q29udGFjdCgpLCAiIiwgIiIpLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgICIiLAogICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtZXJhdGlvbjxTdHJpbmc+IGhlYWRlck5hbWVzID0gcmVxLmdldEhlYWRlck5hbWVzKCk7CiAgICAgICAgd2hpbGUgKGhlYWRlck5hbWVzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgICAgICAgIFN0cmluZyBuYW1lID0gaGVhZGVyTmFtZXMubmV4dEVsZW1lbnQoKTsKICAgICAgICAgICAgYnVpbGRpbmdSZXEuaGVhZGVyKG5hbWUsIHJlcS5nZXRIZWFkZXIobmFtZSkpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVyaSA9ICIgKyB1cmkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBFbnVtZXJhdGlvbjxTdHJpbmc+IGhlYWRlck5hbWVzID0gcmVxLmdldEhlYWRlck5hbWVzKCk7CiAgICAgICAgd2hpbGUgKGhlYWRlck5hbWVzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgICAgICAgIFN0cmluZyBuYW1lID0gaGVhZGVyTmFtZXMubmV4dEVsZW1lbnQoKTsKICAgICAgICAgICAgYnVpbGRpbmdSZXEuaGVhZGVyKG5hbWUsIHJlcS5nZXRIZWFkZXIobmFtZSkpOwogICAgICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyLnBhdGgocGF0aCk7Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVyaSA9ICIgKyB1cmkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
