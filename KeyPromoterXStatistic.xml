@@ -84,7 +84,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>643</Count>
+          <Count>645</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -328,7 +328,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">

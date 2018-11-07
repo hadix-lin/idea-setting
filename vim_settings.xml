@@ -1477,11 +1477,11 @@
         <mark key="^" line="210" column="50" />
         <mark key="." line="210" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/pom.xml" timestamp="1541569325169">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/pom.xml" timestamp="1541575100362">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/visitor/VoidVisitor.java" timestamp="1541501437013">
         <mark key="[" line="145" column="25" />
@@ -1633,12 +1633,8 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" timestamp="1541573463435">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="25" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" timestamp="1541575840111">
+        <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/CouponCodeController.java" timestamp="1504698155269">
         <mark key="[" line="187" column="74" />
@@ -3152,6 +3148,11 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/.gitignore" timestamp="1541575151429">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/job/jobStatusStore.java" timestamp="1508470114886">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="2" column="0" />
@@ -3199,6 +3200,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-doc-spring-boot-starter/src/main/java/cn/uc/pp/doc/DocAutoConfiguration.java" timestamp="1541575990823">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-roulette/src/main/resources/application-module.properties" timestamp="1512033420401">
         <mark key="[" line="21" column="11" />
@@ -4767,11 +4774,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/pom.xml" timestamp="1541573275058">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/pom.xml" timestamp="1541575896283">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="14" />
+        <mark key="^" line="68" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/m-cloud/applian/src/main/java/com/mcloud/base/EncryptCodec.java" timestamp="1429802740662">
         <mark key="[" line="91" column="34" />
@@ -8714,8 +8721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="7" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/LinkValidator.java" />
-      <jump line="150" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/LinkValidator.java" />
       <jump line="225" column="32" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/app/AppService.java" />
       <jump line="30" column="18" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/app/AppService.java" />
       <jump line="85" column="32" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/pp/service/ContentTypeLinkRuleService.java" />
@@ -8814,6 +8819,8 @@
       <jump line="125" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pom.xml" />
       <jump line="69" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" />
+      <jump line="71" column="21" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8826,7 +8833,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
@@ -8835,7 +8842,7 @@
         <text>http://docs.alibaba-inc.com/pages/viewpage.action?pageId=252891532</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9maWxlcz4gPHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD53aXRoLWRvYzwvaWQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -8844,25 +8851,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpeXVuLm9zczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmFsaXl1bi1zZGstb3NzPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi44LjM8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9jCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpeXVuLm9zczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmFsaXl1bi1zZGstb3NzPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi44LjM8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi5qYXZhcGFyc2VyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZhcGFyc2VyLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuNy4wPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
