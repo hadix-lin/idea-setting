@@ -5,7 +5,7 @@
         <Item>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Row">
@@ -92,7 +92,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>680</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -328,7 +328,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reimport All Maven Projects">
