@@ -16,6 +16,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cancel Running Statements">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Cancel Running Statements</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Change Signature...">
         <Item>
           <IdeaActionID>ChangeSignature</IdeaActionID>
@@ -84,7 +92,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>662</Count>
+          <Count>669</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -669,7 +677,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">

@@ -327,11 +327,11 @@
         <mark key="^" line="135" column="27" />
         <mark key="." line="135" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1541661971435">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51b98f55-8030-40c3-bc78-d4078ab3af16/console.sql" timestamp="1541665254584">
+        <mark key="[" line="84" column="11" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-exception/src/main/java/com/meizu/life/support/exception/TopMsgCode.java" timestamp="1494329838048">
         <mark key="[" line="37" column="5" />
@@ -549,6 +549,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/cn/uc/external/UploadFileService.java" timestamp="1541663962619" />
       <file name="$USER_HOME$/Documents/Projects/live/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/ModuloTableShardingAlgorithm.java" timestamp="1493001207001">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="9" />
@@ -2656,7 +2657,8 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" timestamp="1541494919374">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" timestamp="1541664316067">
+        <mark key="'" line="16" column="13" />
         <mark key="[" line="15" column="65" />
         <mark key="]" line="50" column="31" />
         <mark key="^" line="50" column="31" />
@@ -4721,9 +4723,6 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/AppDetailOpsService.java" timestamp="1541596297694">
-        <mark key="^" line="67" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Metamorphosis/metamorphosis-server/src/test/java/com/taobao/metamorphosis/server/store/FileMessageSetUnitTest.java" timestamp="1497323141819">
         <mark key="[" line="68" column="9" />
         <mark key="]" line="68" column="8" />
@@ -5033,7 +5032,11 @@
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541661984725" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541665210726">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-dao/src/main/java/com/meizu/life/user/dao/impl/UserCouponDaoImpl.java" timestamp="1503998623007">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -5472,6 +5475,13 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/filter/OpBehaviorServerFilter.java" timestamp="1541572102016">
+        <mark key="'" line="142" column="72" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/service/IncentiveService.java" timestamp="1510303188373">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="55" />
@@ -5634,6 +5644,13 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" timestamp="1541572035531">
+        <mark key="'" line="69" column="18" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="86" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/org/eclipse/jetty/http/HttpMethod.java" timestamp="1505284913023">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="18" column="3" />
@@ -5663,12 +5680,6 @@
         <mark key="]" line="5" column="42" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541596375561">
-        <mark key="'" line="565" column="0" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -8327,6 +8338,13 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json5" timestamp="1541664629152">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-model/src/main/java/com/meizu/life/core/enums/LifeEnum.java" timestamp="1490886850448">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="12" column="12" />
@@ -8434,6 +8452,13 @@
         <mark key="]" line="357" column="51" />
         <mark key="." line="357" column="51" />
         <mark key="^" line="357" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/pom.xml" timestamp="1541562482342">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/GameSixAuthController.java" timestamp="1512376510188">
         <mark key="[" line="222" column="69" />
@@ -8827,7 +8852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable/tddl-client-sdk-5.2.7-2--2018-08-stable-sources.jar!/com/taobao/tddl/common/jdbc/Parameters.java" />
       <jump line="70" column="19" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/22.0/guava-22.0-sources.jar!/com/google/common/collect/Multimaps.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/AppOps.java" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/AppOps.java" />
@@ -8837,7 +8861,6 @@
       <jump line="267" column="7" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="122" column="31" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="272" column="19" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
       <jump line="48" column="26" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/RecommendSetVo.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/RecommendSetVo.java" />
       <jump line="51" column="8" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
@@ -8927,6 +8950,8 @@
       <jump line="19" column="50" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-admin-common/src/main/java/cn/uc/pp/admin/api/impl/OpBehaviorLogApiImpl.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-admin-common/src/main/java/cn/uc/pp/admin/filter/OpBehaviorServerFilter.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-admin-common/src/main/java/cn/uc/pp/admin/biz/impl/OpBehaviorLogBizImpl.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" />
+      <jump line="106" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json5" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -8939,7 +8964,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>cn.uc.pp.common.spring.aware.</text>
+        <text>{&quot;videoIdList&quot;:[2077,2079,2114],&quot;showMore&quot;:true,&quot;title&quot;:&quot;玩法视频&quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
