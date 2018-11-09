@@ -1173,8 +1173,11 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/java/cn/uc/pp/admin/Application.java" timestamp="1541748217593">
-        <mark key="[" line="24" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/java/cn/uc/pp/admin/Application.java" timestamp="1541755881206">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/nuomi/model/BusinessTransaction.java" timestamp="1501210709340">
         <mark key="[" line="25" column="1" />
@@ -5278,6 +5281,11 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1541755997303">
+        <mark key="]" line="292" column="63" />
+        <mark key="^" line="292" column="63" />
+        <mark key="." line="292" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/doc/CustomApiExternalDocsParameterBuilder.java" timestamp="1541491270592">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="60" column="5" />
@@ -5326,7 +5334,7 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541681493236">
+      <file name="/Dummy.txt" timestamp="1541755895469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-data/src/main/java/com/meizu/life/data/meituan/MeituanConstants.java" timestamp="1507881986756">
@@ -5694,6 +5702,9 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1541756134368">
+        <mark key="'" line="296" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
@@ -8877,7 +8888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="17" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="538" column="27" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="520" column="34" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
       <jump line="501" column="32" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
@@ -8977,6 +8987,7 @@
       <jump line="120" column="15" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java" />
       <jump line="154" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.18.RELEASE/spring-context-4.3.18.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" />
       <jump line="54" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json5" />
+      <jump line="296" column="33" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
