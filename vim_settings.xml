@@ -357,11 +357,11 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/java/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.java" timestamp="1503486408305">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/java/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.java" timestamp="1541920458306">
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="88" column="26" />
+        <mark key="^" line="88" column="26" />
+        <mark key="." line="88" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/startup/ApplicationPreparedListener.java" timestamp="1497796108358">
         <mark key="[" line="44" column="58" />
@@ -2868,11 +2868,11 @@
         <mark key="." line="72" column="10" />
         <mark key="^" line="72" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1499737876127">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1541920672083">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-pay/src/main/java/com/meizu/life/luckbuy/pay/mq/PayMetaQServiceImpl.java" timestamp="1507533296388">
         <mark key="[" line="37" column="18" />
@@ -4037,6 +4037,12 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1541919508149">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-web/src/main/java/com/meizu/life/support/web/WebContext.java" timestamp="1494526625025">
         <mark key="[" line="42" column="58" />
         <mark key="]" line="42" column="57" />
@@ -4785,6 +4791,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/gradle.properties" timestamp="1541920538685">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/service/CouponService.java" timestamp="1499915742393">
         <mark key="[" line="55" column="0" />
@@ -8254,7 +8266,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdcPg==</text>
@@ -8262,35 +8274,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcm90ZWN0ZWQgYWJzdHJhY3QgU3RyaW5nIGdldFN0YWtlRGVzYyhJbnRlZ2VyIHN0YWtlSWQpIDt7CiAgICByZXR1cm4gU3Rha2VHcm91cC5nZXQoc3Rha2VJZCkudG9TdHJpbmcoKTsKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFN0cmluZ1tdIGF2YWlsYWJsZUlEcyA9IFRpbWVab25lLmdldEF2YWlsYWJsZUlEcygpOwogICAgZm9yIChTdHJpbmcgYXZhaWxhYmxlSUQgOiBhdmFpbGFibGVJRHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGF2YWlsYWJsZUlEKTsKICAgIH0KICAgIFRpbWVab25lIHR6ID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0eiA9ICIgKyB0eik7CgogICAgVGltZVpvbmUgdGltZVpvbmUgPSBUaW1lWm9uZS5nZXRUaW1lWm9uZSgiRXVyb3BlL01vc2NvdyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aW1lWm9uZSA9ICIgKyB0aW1lWm9uZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKFRpbWVab25lLmdldFRpbWVab25lKCJBbWVyaWNhL05ld19Zb3JrIikpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJnYW1lLnN0YWtlIikK</text>
+        <text encoding="base64">ICAgICAgICA8cD7lop7liqDlr7ltYWNPU+eahEFCQ+mUruebmOaUr+aMgQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgMS4xLjQ8YnIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgMS4xLjU8YnIvPgogICAgICAgIDxwPuWinuWKoOWvuW1hY09T55qEQUJD6ZSu55uY5pSv5oyBPGJyLz4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgRGljZVJlY29yZE1hcHBlciBkaWNlUmVjb3JkTWFwcGVyOwogIEBBdXRvd2lyZWQgcHJpdmF0ZSBTZXF1ZW5jZSBzZXE7CiAgQEF1dG93aXJlZCBwcml2YXRlIFVzZXJTdGFrZVJlY29yZE1hcHBlciB1c2VyU3Rha2VSZWNvcmRNYXBwZXI7CiAgQEF1dG93aXJlZCBwcml2YXRlIFJ1bm5pbmdKb2JTdG9yZSBydW5uaW5nSm9iU3RvcmU7CiAgQEF1dG93aXJlZCBwcml2YXRlIEdhbWVQcm9wZXJ0aWVzIGNvbmZpZzsKICBAQXV0b3dpcmVkIHByaXZhdGUgQ29pblNlcnZpY2UgY29pblNlcnZpY2U7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IFN0cmluZ1tdIGF2YWlsYWJsZUlEcyA9IFRpbWVab25lLmdldEF2YWlsYWJsZUlEcygpOwogICAgZm9yIChTdHJpbmcgYXZhaWxhYmxlSUQgOiBhdmFpbGFibGVJRHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGF2YWlsYWJsZUlEKTsKICAgIH0KICAgIFRpbWVab25lIHR6ID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0eiA9ICIgKyB0eik7CgogICAgVGltZVpvbmUgdGltZVpvbmUgPSBUaW1lWm9uZS5nZXRUaW1lWm9uZSgiRXVyb3BlL01vc2NvdyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aW1lWm9uZSA9ICIgKyB0aW1lWm9uZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKFRpbWVab25lLmdldFRpbWVab25lKCJBbWVyaWNhL05ld19Zb3JrIikpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJnYW1lLnN0YWtlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBHQU1FX1JPVUxFVFRFKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgRGljZVJlY29yZE1hcHBlciBkaWNlUmVjb3JkTWFwcGVyOwogIEBBdXRvd2lyZWQgcHJpdmF0ZSBTZXF1ZW5jZSBzZXE7CiAgQEF1dG93aXJlZCBwcml2YXRlIFVzZXJTdGFrZVJlY29yZE1hcHBlciB1c2VyU3Rha2VSZWNvcmRNYXBwZXI7CiAgQEF1dG93aXJlZCBwcml2YXRlIFJ1bm5pbmdKb2JTdG9yZSBydW5uaW5nSm9iU3RvcmU7CiAgQEF1dG93aXJlZCBwcml2YXRlIEdhbWVQcm9wZXJ0aWVzIGNvbmZpZzsKICBAQXV0b3dpcmVkIHByaXZhdGUgQ29pblNlcnZpY2UgY29pblNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
