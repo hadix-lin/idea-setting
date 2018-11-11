@@ -2664,6 +2664,12 @@
         <mark key="^" line="75" column="75" />
         <mark key="." line="89" column="64" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2016.3/fdb42db1447ad402d0476e6e0c5933ab5d56c992/ideaIC-2016.3/lib/jna-platform.jar!/com/sun/jna/platform/mac/XAttrUtil.class" timestamp="1541943558220">
+        <mark key="[" line="53" column="48" />
+        <mark key="]" line="53" column="47" />
+        <mark key="^" line="53" column="47" />
+        <mark key="." line="53" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-doc-autoconfigure/src/main/java/com/meizu/modularize/doc/DocBean.java" timestamp="1496908765864">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="23" />
@@ -4037,6 +4043,11 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/java/io/github/hadixlin/iss/win/WinInputSourceSwitcher.java" timestamp="1541943574315">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1541919508149">
         <mark key="[" line="29" column="33" />
         <mark key="]" line="30" column="1" />
@@ -5002,14 +5013,6 @@
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512387652558">
-        <mark key="e" line="0" column="0" />
-        <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-data/src/main/java/com/meizu/life/data/meituan/MeituanConstants.java" timestamp="1507881986756">
         <mark key="[" line="15" column="0" />
@@ -8281,28 +8284,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cD7lop7liqDlr7ltYWNPU+eahEFCQ+mUruebmOaUr+aMgQo=</text>
+        <text encoding="base64">ICAgICAgICBkZmpsc2RqZmxq5YCS57+75Lic5YWw5pS+5Yiw5LiJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgMS4xLjQ8YnIvPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgMS4xLjU8YnIvPgogICAgICAgIDxwPuWinuWKoOWvuW1hY09T55qEQUJD6ZSu55uY5pSv5oyBPGJyLz4K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IFN0cmluZ1tdIGF2YWlsYWJsZUlEcyA9IFRpbWVab25lLmdldEF2YWlsYWJsZUlEcygpOwogICAgZm9yIChTdHJpbmcgYXZhaWxhYmxlSUQgOiBhdmFpbGFibGVJRHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGF2YWlsYWJsZUlEKTsKICAgIH0KICAgIFRpbWVab25lIHR6ID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0eiA9ICIgKyB0eik7CgogICAgVGltZVpvbmUgdGltZVpvbmUgPSBUaW1lWm9uZS5nZXRUaW1lWm9uZSgiRXVyb3BlL01vc2NvdyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aW1lWm9uZSA9ICIgKyB0aW1lWm9uZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKFRpbWVab25lLmdldFRpbWVab25lKCJBbWVyaWNhL05ld19Zb3JrIikpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJnYW1lLnN0YWtlIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8cD7lop7liqDlr7ltYWNPU+eahEFCQ+mUruebmOaUr+aMgQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgMS4xLjQ8YnIvPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgMS4xLjU8YnIvPgogICAgICAgIDxwPuWinuWKoOWvuW1hY09T55qEQUJD6ZSu55uY5pSv5oyBPGJyLz4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IFN0cmluZ1tdIGF2YWlsYWJsZUlEcyA9IFRpbWVab25lLmdldEF2YWlsYWJsZUlEcygpOwogICAgZm9yIChTdHJpbmcgYXZhaWxhYmxlSUQgOiBhdmFpbGFibGVJRHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGF2YWlsYWJsZUlEKTsKICAgIH0KICAgIFRpbWVab25lIHR6ID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0eiA9ICIgKyB0eik7CgogICAgVGltZVpvbmUgdGltZVpvbmUgPSBUaW1lWm9uZS5nZXRUaW1lWm9uZSgiRXVyb3BlL01vc2NvdyIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aW1lWm9uZSA9ICIgKyB0aW1lWm9uZSk7CgogICAgU3lzdGVtLm91dC5wcmludGxuKFRpbWVab25lLmdldFRpbWVab25lKCJBbWVyaWNhL05ld19Zb3JrIikpOw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJnYW1lLnN0YWtlIikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgRGljZVJlY29yZE1hcHBlciBkaWNlUmVjb3JkTWFwcGVyOwogIEBBdXRvd2lyZWQgcHJpdmF0ZSBTZXF1ZW5jZSBzZXE7CiAgQEF1dG93aXJlZCBwcml2YXRlIFVzZXJTdGFrZVJlY29yZE1hcHBlciB1c2VyU3Rha2VSZWNvcmRNYXBwZXI7CiAgQEF1dG93aXJlZCBwcml2YXRlIFJ1bm5pbmdKb2JTdG9yZSBydW5uaW5nSm9iU3RvcmU7CiAgQEF1dG93aXJlZCBwcml2YXRlIEdhbWVQcm9wZXJ0aWVzIGNvbmZpZzsKICBAQXV0b3dpcmVkIHByaXZhdGUgQ29pblNlcnZpY2UgY29pblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
