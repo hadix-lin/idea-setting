@@ -1155,6 +1155,11 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542001569087">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/service/AwardRecordService.java" timestamp="1498467509682">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="11" />
@@ -3801,11 +3806,10 @@
         <mark key="." line="45" column="36" />
         <mark key="^" line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/Application.java" timestamp="1541993734409">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="65" />
-        <mark key="." line="31" column="66" />
-        <mark key="^" line="31" column="65" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/Application.java" timestamp="1542001425150">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-dao-mybatis/src/main/java/com/meizu/life/support/dao/mybatis/DataSourceContext.java" timestamp="1503913277637">
         <mark key="[" line="25" column="26" />
@@ -6841,13 +6845,6 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/admin-common/src/main/java/cn/uc/pp/admin/oplog/service/impl/OpBehaviorLogServiceImpl.java" timestamp="1541819246747">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="62" column="68" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/web/vo/AllPartakeInfo.java" timestamp="1502675576237">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -9052,8 +9049,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FyVmVyc2lvbiA9IFBhbmRvcmFVdGlscy5zYXJWZXJzaW9uKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIG5ldyBBcHBsaWNhdGlvbkxpc3RlbmVyPEFwcGxpY2F0aW9uRW52aXJvbm1lbnRQcmVwYXJlZEV2ZW50PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFwcGxpY2F0aW9uRXZlbnQoQXBwbGljYXRpb25FbnZpcm9ubWVudFByZXBhcmVkRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -9062,25 +9059,45 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGV4cGVjdGVkU2FyVmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPSBldmVudC5nZXRFbnZpcm9ubWVudCgpLmdldFJlcXVpcmVkUHJvcGVydHkoUEFORE9SQV9TQVJfVkVSU0lPTik7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzYXJWZXJzaW9uID0gUGFuZG9yYVV0aWxzLnNhclZlcnNpb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFPYmplY3RzLmVxdWFscyhleHBlY3RlZFNhclZlcnNpb24sIHNhclZlcnNpb24pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJleHBlY3RlZCBzYXIgdmVyc2lvbiBpcyBcIiIgKyBleHBlY3RlZFNhclZlcnNpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiXCIsIGJ1dCBsb2FkZWQgXCIiICsgc2FyVmVyc2lvbiArICJcIiIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGFuZG9yYVNhclZlcnNpb25DaGVja2VyKFN0cmluZyBiZWFuTmFtZSwgQ2xhc3M8Pz4gdGFyZ2V0Q2xhc3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZXRob2QgbWV0aG9kKSB7CiAgICAgICAgICAgIHN1cGVyKGJlYW5OYW1lLCB0YXJnZXRDbGFzcywgbWV0aG9kKTsKICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text># CMake
+cmake-build-debug/
+cmake-build-release/
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU3ByaW5nQXBwbGljYXRpb25CdWlsZGVyKCkubWFpbihBcHBsaWNhdGlvbi5jbGFzcykuYWRkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQQU5ET1JBX1NBUl9WRVJTSU9OID0gInBhbmRvcmEuc2FyLXZlcnNpb24iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZEFwcGxpY2F0aW9uTGlzdGVuZXIoY2hlY2tQYW5kb3JhU2FyVmVyc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZEFwcGxpY2F0aW9uTGlzdGVuZXIobmV3IFBhbmRvcmFTYXJWZXJzaW9uQ2hlY2tlcigpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbigpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIG5ldyBBcHBsaWNhdGlvbkxpc3RlbmVyPEFwcGxpY2F0aW9uRW52aXJvbm1lbnRQcmVwYXJlZEV2ZW50PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFwcGxpY2F0aW9uRXZlbnQoQXBwbGljYXRpb25FbnZpcm9ubWVudFByZXBhcmVkRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1BhbmRvcmFTYXJWZXJzaW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGV4cGVjdGVkU2FyVmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPSBldmVudC5nZXRFbnZpcm9ubWVudCgpLmdldFJlcXVpcmVkUHJvcGVydHkoUEFORE9SQV9TQVJfVkVSU0lPTik7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzYXJWZXJzaW9uID0gUGFuZG9yYVV0aWxzLnNhclZlcnNpb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFPYmplY3RzLmVxdWFscyhleHBlY3RlZFNhclZlcnNpb24sIHNhclZlcnNpb24pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJleHBlY3RlZCBzYXIgdmVyc2lvbiBpcyBcIiIgKyBleHBlY3RlZFNhclZlcnNpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiXCIsIGJ1dCBsb2FkZWQgXCIiICsgc2FyVmVyc2lvbiArICJcIiIpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
