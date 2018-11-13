@@ -1329,11 +1329,11 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/BaseModel.java" timestamp="1542010438075">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="11" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/BaseModel.java" timestamp="1542081463413">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/java/cn/flyme/venice/nav/service/impl/OperationServiceImpl.java" timestamp="1508225332169">
         <mark key="[" line="73" column="0" />
@@ -1670,6 +1670,12 @@
         <mark key="]" line="14" column="15" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/TaskType.java" timestamp="1542081449198">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/CouponCodeController.java" timestamp="1504698155269">
         <mark key="[" line="187" column="74" />
@@ -7104,6 +7110,13 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" timestamp="1542081452404">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/nuomi/dao/OnlineMovieDao.java" timestamp="1491384040695">
         <mark key="[" line="20" column="34" />
         <mark key="]" line="20" column="34" />
@@ -9195,34 +9208,34 @@
         <text>&quot;code=&quot; + code + &quot;的AppOpsType不存在&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBPcHNUeXBlLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VsZWN0KEFwcE9wczo6Z2V0SWQpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBPcHNUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VsZWN0KEFwcE9wczo6Z2V0SWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
