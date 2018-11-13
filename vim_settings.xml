@@ -1680,11 +1680,11 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/TaskType.java" timestamp="1542087711856">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/TaskType.java" timestamp="1542092217126">
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="95" column="4" />
+        <mark key="." line="95" column="4" />
+        <mark key="^" line="95" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/CouponCodeController.java" timestamp="1504698155269">
         <mark key="[" line="187" column="74" />
@@ -7115,12 +7115,12 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" timestamp="1542081452404">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="19" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" timestamp="1542092405172">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/nuomi/dao/OnlineMovieDao.java" timestamp="1491384040695">
         <mark key="[" line="20" column="34" />
@@ -7941,7 +7941,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1542012437365">
+      <file name="/fragment.java" timestamp="1542092010425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -9210,43 +9210,46 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9wPg==</text>
+        <text encoding="base64">QmFzZU1vZGVsPFRhc2tUeXBlPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jQXBwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;code=&quot; + code + &quot;的AppOpsType不存在&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBARW51bVZhbHVlCiAgICAgICAgcHVibGljIGZpbmFsIEludGVnZXIgY29kZTsKICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nIG5hbWU7CgogICAgICAgIFN0YXR1cyhJbnRlZ2VyIGNvZGUsIFN0cmluZyBuYW1lKSB7CiAgICAgICAgICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgICAgICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gbmFtZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBhdXRob3IgaGFkaXgKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIENvbnRlbnRUeXBlIGdldFNvdXJjZVR5cGUoKSB7CiAgICAgICAgcmV0dXJuIHNvdXJjZVR5cGU7CiAgICB9CgogICAgcHVibGljIENvbnRlbnRUeXBlIGdldFRhcmdldFR5cGUoKSB7CiAgICAgICAgcmV0dXJuIHRhcmdldFR5cGU7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNBbGxvd1JldXNlU291cmNlKCkgewogICAgICAgIHJldHVybiBhbGxvd1JldXNlU291cmNlOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzQWxsb3dNdWx0aUlzc3VlKCkgewogICAgICAgIHJldHVybiBhbGxvd011bHRpSXNzdWU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREZWZhdWx0VGl0bGUoKSB7CiAgICAgICAgcmV0dXJuIGRlZmF1bHRUaXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlZmF1bHREZXNjcmlwdGlvbigpIHsKICAgICAgICByZXR1cm4gZGVmYXVsdERlc2NyaXB0aW9uOwogICAgfQoKICAgIHB1YmxpYyBsb25nIGdldEV4cGlyZWRUaW1lT2Zmc2V0KCkgewogICAgICAgIHJldHVybiBleHBpcmVkVGltZU9mZnNldDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Lu75Yqh57G75Z6LCiAgICAgKi8KICAgIHB1YmxpYyBlbnVtIFR5cGUgewogICAgICAgIC8qKgogICAgICAgICAqIOWOn+WImwogICAgICAgICAqLwogICAgICAgIE9SSUdJTkFMLAogICAgICAgIC8qKgogICAgICAgICAqIOe/u+eJiAogICAgICAgICAqLwogICAgICAgIFJFUFVCTElTSDsKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;Status{&quot; +
+                &quot;code=&quot; + code +
+                &quot;, name='&quot; + name + '\'' +
+                '}';</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBPcHNUeXBlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdlbmVyYWxSdWxlID0gZ2VuZXJhbFJ1bGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VsZWN0KEFwcE9wczo6Z2V0SWQpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIGdlbmVyYWxSdWxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
