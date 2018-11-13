@@ -1197,11 +1197,11 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/java/cn/uc/pp/admin/Application.java" timestamp="1541990359512">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/java/cn/uc/pp/admin/Application.java" timestamp="1542080015299">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="21" column="43" />
-        <mark key="." line="21" column="43" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-movie-nuomi/src/main/java/com/meizu/life/movie/nuomi/model/BusinessTransaction.java" timestamp="1501210709340">
         <mark key="[" line="25" column="1" />
@@ -2724,6 +2724,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsVo.java" timestamp="1542080283600">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="55" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-config/src/main/java/com/meizu/life/config/ConfigInvokeHandler.java" timestamp="1492397724458">
         <mark key="[" line="91" column="0" />
@@ -5819,6 +5825,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1542080399742">
+        <mark key="[" line="191" column="32" />
+        <mark key="]" line="192" column="30" />
+        <mark key="." line="192" column="30" />
+        <mark key="^" line="192" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-ware/src/main/java/cn/flyme/venice/ware/mapper/ExchangeGoodsMapper.java" timestamp="1505876924930">
         <mark key="[" line="35" column="91" />
         <mark key="]" line="35" column="34" />
@@ -6767,6 +6779,12 @@
         <mark key="]" line="56" column="4" />
         <mark key="^" line="28" column="4" />
         <mark key="." line="56" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/vo/app/AppOpsType.java" timestamp="1542080163749">
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="77" column="23" />
+        <mark key="^" line="77" column="23" />
+        <mark key="." line="77" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demob/src/main/java/com/meizu/life/luckbuy/demob/DemobContext.java" timestamp="1492760561908">
         <mark key="[" line="10" column="31" />
@@ -9174,37 +9192,37 @@
         <text encoding="base64">XDxzeW5jQXBwXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>@ApiParam(&quot;任务Id&quot;) Long taskId</text>
+        <text>&quot;code=&quot; + code + &quot;的AppOpsType不存在&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHR5cGUgPT0gbnVsbCl7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5wYW5kb3JhLXRhaXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbiBzcHJpbmdBcHBsaWNhdGlvbiA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihBcHBsaWNhdGlvbi5jbGFzcyk7CiAgICAgICAgc3ByaW5nQXBwbGljYXRpb24uYWRkSW5pdGlhbGl6ZXJzKChHZW5lcmljQXBwbGljYXRpb25Db250ZXh0IGN0eCkgLT4KICAgICAgICAgICAgY3R4LnNldEFsbG93QmVhbkRlZmluaXRpb25PdmVycmlkaW5nKGN0eC5nZXRFbnZpcm9ubWVudCgpLmdldFByb3BlcnR5KAogICAgICAgICAgICAgICAgImNvcmUuYWxsb3ctYmVhbi1kZWZpbml0aW9uLW92ZXJyaWRpbmciLCBCb29sZWFuLmNsYXNzLCBmYWxzZSkpKTsKICAgICAgICBzcHJpbmdBcHBsaWNhdGlvbi5zZXRSZWdpc3RlclNodXRkb3duSG9vayh0cnVlKTsKICAgICAgICBzcHJpbmdBcHBsaWNhdGlvbi5ydW4oYXJncyk7CiAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKEFwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBPcHNUeXBlLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU3ByaW5nQXBwbGljYXRpb25CdWlsZGVyKEFwcGxpY2F0aW9uLmNsYXNzKQogICAgICAgICAgICAuaW5pdGlhbGl6ZXJzKChHZW5lcmljQXBwbGljYXRpb25Db250ZXh0IGN0eCkgLT4KICAgICAgICAgICAgICAgIGN0eC5zZXRBbGxvd0JlYW5EZWZpbml0aW9uT3ZlcnJpZGluZyhjdHguZ2V0RW52aXJvbm1lbnQoKS5nZXRQcm9wZXJ0eSgKICAgICAgICAgICAgICAgICAgICAiY29yZS5hbGxvdy1iZWFuLWRlZmluaXRpb24tb3ZlcnJpZGluZyIsIEJvb2xlYW4uY2xhc3MsIGZhbHNlKSkpCiAgICAgICAgICAgIC5yZWdpc3RlclNodXRkb3duSG9vayh0cnVlKQogICAgICAgICAgICAucnVuKGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2VsZWN0KEFwcE9wczo6Z2V0SWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1haW4oQXBwbGljYXRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY24udWMucHAub3Blbi5kYW8iIGxldmVsPSJkZWJ1ZyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJDT05TT0xFIi8+CiAgICA8L2xvZ2dlcj4K</text>
+        <text encoding="base64">QExhenkK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
