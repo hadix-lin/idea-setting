@@ -15,7 +15,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1542016848075">
+      <file name="/a.dummy" timestamp="1542116153594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4b3d7d86-a556-452f-819b-c60cc9ddabd8/console.sql" timestamp="1496302497547">
@@ -29,11 +29,6 @@
         <mark key="]" line="48" column="22" />
         <mark key="." line="48" column="22" />
         <mark key="^" line="48" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad706769-0c57-4796-867b-b7497c24cf6f/console.sql" timestamp="1542098424844">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-mybatis/src/main/java/com/meizu/life/support/mybatis/DataSourceContext.java" timestamp="1494217184132">
         <mark key="[" line="15" column="4" />
@@ -656,11 +651,11 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/BaseModel.java" timestamp="1542081473409">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/BaseModel.java" timestamp="1542116261758">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-nav/src/main/java/cn/flyme/venice/nav/service/impl/OperationServiceImpl.java" timestamp="1508225332169">
         <mark key="[" line="73" column="0" />
@@ -770,12 +765,12 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1542106753642">
-        <mark key="'" line="80" column="51" />
-        <mark key="[" line="30" column="92" />
-        <mark key="]" line="30" column="91" />
-        <mark key="^" line="30" column="91" />
-        <mark key="." line="30" column="91" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1542116601863">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/visitor/VoidVisitor.java" timestamp="1541501437013">
         <mark key="[" line="145" column="25" />
@@ -1623,11 +1618,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1542103321209">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/app_ops.xml" timestamp="1541572998922">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="49" column="8" />
@@ -1987,6 +1977,12 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/toolkit/support/Property.java" timestamp="1542113846955">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-support-utils/src/main/java/com/meizu/life/support/utils/IdWorker.java" timestamp="1510640076199">
         <mark key="[" line="2" column="1" />
@@ -3092,10 +3088,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1542103178689">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1542116627511">
+        <mark key="'" line="48" column="55" />
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b14cb6-a89d-4ef1-98a1-3a70ba73ef79/console_5.sql" timestamp="1506601396381">
         <mark key="[" line="60" column="16" />
@@ -3490,12 +3488,12 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" timestamp="1542110561115">
-        <mark key="'" line="149" column="24" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="170" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" timestamp="1542116264130">
+        <mark key="'" line="153" column="24" />
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/operation/service/impl/LinkUtils.java" timestamp="1501222990471">
         <mark key="[" line="34" column="16" />
@@ -3929,7 +3927,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1542110931084">
+      <file name="/fragment.java" timestamp="1542115289146">
         <mark key="i" line="0" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -3983,13 +3981,6 @@
         <mark key="]" line="16" column="25" />
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pointserver/point-start/src/test/java/com/uc/pp/point/BaseTest.java" timestamp="1542099442713">
-        <mark key="'" line="91" column="22" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/doc/src/main/java/hadix/modularize/utils/http/impl/apache/ApacheHttpRequest.java" timestamp="1541414245629">
         <mark key="[" line="51" column="38" />
@@ -5906,11 +5897,11 @@
         <mark key="^" line="214" column="66" />
         <mark key="." line="214" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/TaskService.java" timestamp="1542105905915">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/TaskService.java" timestamp="1542116568654">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/DbConfig.java" timestamp="1497345821687">
         <mark key="[" line="7" column="18" />
@@ -5942,11 +5933,11 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1542105683322">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="32" column="22" />
-        <mark key="^" line="32" column="22" />
-        <mark key="." line="32" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1542116541127">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+        <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/resources/test-context.properties" timestamp="1492414938296">
         <mark key="[" line="0" column="25" />
@@ -6971,11 +6962,11 @@
         <mark key="^" line="91" column="34" />
         <mark key="." line="91" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" timestamp="1542110658945">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="22" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" timestamp="1542115194128">
+        <mark key="[" line="32" column="74" />
+        <mark key="]" line="32" column="83" />
+        <mark key="." line="32" column="83" />
+        <mark key="^" line="32" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/dao/http/LotteryApiImpl.java" timestamp="1496220869675">
         <mark key="[" line="27" column="4" />
@@ -9201,12 +9192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="56" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanRefreshCommand.java" />
-      <jump line="39" column="92" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanDefinitionScannerAgent.java" />
-      <jump line="73" column="12" filename="$USER_HOME$/Downloads/HotswapAgent-RELEASE-1.3.0/plugin/hotswap-agent-spring-plugin/src/main/java/org/hotswap/agent/plugin/spring/scanner/ClassPathBeanDefinitionScannerAgent.java" />
-      <jump line="59" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
-      <jump line="562" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
-      <jump line="21" column="32" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-sources.jar!/com/alibaba/boot/hsf/annotation/HSFProvider.java" />
       <jump line="103" column="53" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/doc/src/main/java/doc/DocAutoConfiguration.java" />
       <jump line="92" column="2" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/doc/src/main/resources/META-INF/doc/hsf-plugin.js" />
       <jump line="123" column="60" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv-doc/doc/src/main/java/doc/CustomApiParameterBuilder.java" />
@@ -9301,6 +9286,12 @@
       <jump line="70" column="11" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.0.5/mybatis-plus-extension-3.0.5-sources.jar!/com/baomidou/mybatisplus/extension/plugins/pagination/Page.java" />
       <jump line="148" column="24" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" />
       <jump line="75" column="18" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/TaskType.java" />
+      <jump line="53" column="7" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
+      <jump line="9" column="26" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
+      <jump line="38" column="56" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
+      <jump line="48" column="55" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -9313,60 +9304,59 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>q.getpa</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jQXBwXD4=</text>
+        <text encoding="base64">XDx0YXNrSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrIHRhc2sgPSBuZXcgVGFzaygpLnNlbGVjdEJ5SWQodGFza0lkKTsKICAgICAgICBpZiAodGFzayA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIuS7u+WKoeS4jeWtmOWcqCx0YXNrSWQ9IiArIHRhc2tJZCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOiOt+WPlnVzZXJJZOWSjHVzZXJOYW1lCiAgICAgICAgTG9uZyB1c2VySWQgPSAwTDsKICAgICAgICBTdHJpbmcgdXNlck5hbWUgPSAiIjsKCiAgICAgICAgVGFzayB0YXNrID0gbmV3IFRhc2sodGFza0lkKTsKICAgICAgICB0YXNrID0gdGFzay5zZWxlY3RCeUlkKCk7CiAgICAgICAgYXNzZXJ0VGFza05vdE51bGwodGFzaywgdGFza0lkKTsKICAgICAgICBpZiAodGFzay5nZXRTdGF0dXMoKSAhPSBTdGF0dXMuVEFLRU4pIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi5Lu75Yqh54q25oCB5LiN5YWB6K646YeK5pS+LHN0YXR1cz0iICsgdGFzay5nZXRTdGF0dXMoKSk7CiAgICAgICAgfQogICAgICAgIGlmICghT2JqZWN0cy5lcXVhbHModXNlcklkLCB0YXNrLmdldFVzZXJJZCgpKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCLku7vliqHkuI3lsZ7kuo7lvZPliY3nmbvlvZXnlKjmiLcsdXNlck5hbWU9IiArIHVzZXJOYW1lKTsKICAgICAgICB9CiAgICAgICAgdGFzay5zZXRTdGF0dXMoU3RhdHVzLkNSRUFURUQpOwogICAgICAgIHRhc2suc2V0VXBkYXRlVGltZShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7CiAgICAgICAgdGFzay51cGRhdGVCeUlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uVmFsaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBATm90TnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuRXh0ZXJuYWxEb2NzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcC5jcmVhdGUobnVsbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBFeHRlcm5hbERvY3ModXJsPSJleC5tZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bTEgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIExvbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeW5jQXBwXD4=</last-search>
+      <last-search encoding="base64">XDx0YXNrSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jQXBwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrSWRcPg==</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validat</entry>
         <entry>validator</entry>
         <entry>validate</entry>
         <entry encoding="base64">XDxrZXlQcmVmaXhcPg==</entry>
@@ -9386,6 +9376,7 @@
         <entry encoding="base64">XDx1cGxvYWRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRGaWxlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxzeW5jQXBwXD4=</entry>
+        <entry encoding="base64">XDx0YXNrSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
