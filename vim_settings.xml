@@ -1898,11 +1898,11 @@
         <mark key="^" line="63" column="6" />
         <mark key="." line="63" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/cache/TairCacheConfig.java" timestamp="1542201184779">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/cache/TairCacheConfig.java" timestamp="1542247747638">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/mybatis/MybatisRedisCachePrecondition.java" timestamp="1494237733087">
         <mark key="[" line="10" column="3" />
@@ -7693,11 +7693,10 @@
         <mark key="^" line="64" column="70" />
         <mark key="." line="64" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/cache/TairCache.java" timestamp="1542194940898">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/cache/TairCache.java" timestamp="1542248286506">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.2/pp-service-common-ppcache-1.0.2-sources.jar!/cn/uc/pp/common/ppcache/TairCacheHandler.java" timestamp="1542199306751">
         <mark key="[" line="53" column="60" />
@@ -9549,7 +9548,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>(name = &quot;cacheManager&quot;)</text>
+        <text>import org.springframework.cache.annotation.Cacheable;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrSWRcPg==</text>
@@ -9558,34 +9557,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IFRJTUVPVVQgPSAxNTAwOwoKICAgIHByaXZhdGUgZmluYWwgaW50IENPTk5FQ1RJT05fVElNRU9VVCA9IDEwMDA7CgogICAgcHJpdmF0ZSBmaW5hbCBpbnQgTUFYX1RIUkVBRF9OVU1CRVIgPSAxMDI0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHBjYWNoZW1hbmFnZXIubG9hZGVyY2FjaGUuZW5hYmxlPXRydWUK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYWRkbm5vdGF0aW9uLkNhY2hlQ29uZmlnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY29uZmlnLmdldGthKQo=</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUoIiN7fSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHBjYWNoZW1hbmFnZXIubG9hZGVyY2FjaGUuZW5hYmxlPXRydWUK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAVmFsdWUoIiR7dGFpci5jb25maWdfc2VydmVyc30iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGFpclNlcnZlcnM7CgogICAgQFZhbHVlKCIke3RhaXIuY29uZmlnX2dyb3VwfSIpCiAgICBwcml2YXRlIFN0cmluZyB0YWlyR3JvdXA7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY29uZmlnLmdldGthKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvcy5jYWNoZS5DYWNoZUNvbmZpZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLlBQQ2FjaGVNYW5hZ2VyOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAVmFsdWUoIiR7dGFpci5jb25maWdfc2VydmVyc30iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGFpclNlcnZlcnM7CgogICAgQFZhbHVlKCIke3RhaXIuY29uZmlnX2dyb3VwfSIpCiAgICBwcml2YXRlIFN0cmluZyB0YWlyR3JvdXA7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvcy5jYWNoZS5DYWNoZUNvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLlBQQ2FjaGVNYW5hZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcHBsaWNhdGlvbi5jbGFzcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
