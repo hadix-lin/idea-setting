@@ -63,6 +63,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'InputSourceSwitcher2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'InputSourceSwitcher2'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'util'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -76,7 +84,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>547</Count>
+          <Count>557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -296,7 +304,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -442,6 +450,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HelloWorld'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'HelloWorld'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InputSourceSwitcher2'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'InputSourceSwitcher2'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WindowsInputSourceSwitcher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'WindowsInputSourceSwitcher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'util'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -485,6 +517,14 @@
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Source Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Split Vertically">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'⌃⌘L'</ShortCut>
+          <Description>Split Vertically</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
