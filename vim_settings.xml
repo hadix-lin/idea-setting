@@ -3830,12 +3830,9 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542596817219">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542601396769">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="30" />
+        <mark key="[" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -4161,7 +4158,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1542597127627">
+      <file name="/fragment.java" timestamp="1542602335078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/src/main/java/com/meizu/life/support/utils/config/ConfigScannerConfigurer.java" timestamp="1492572772938">
@@ -6016,6 +6013,9 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
       </file>
+      <file name="/application.properties" timestamp="1542601392565">
+        <mark key="[" line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/MergePayModuleConfiguration.java" timestamp="1506588467676">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
@@ -6136,11 +6136,11 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev.properties" timestamp="1542272900316">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev.properties" timestamp="1542601511964">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-config/src/main/java/com/meizu/life/config/ConfigInvokeHandler.java" timestamp="1492397724458">
         <mark key="[" line="91" column="0" />
@@ -7643,7 +7643,7 @@
         <mark key="." line="90" column="13" />
         <mark key="^" line="90" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542597127620">
+      <file name="/Dummy.txt" timestamp="1542602335086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/web/CoinAuthController.java" timestamp="1508314529335">
@@ -9851,34 +9851,34 @@
         <text encoding="base64">CUBQb2ludGN1dCgiZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiBAYW5ub3RhdGlvbihjb20uYWxpYmFiYS5ib290LmhzZi5hbm5vdGF0aW9uLkhTRlByb3ZpZGVyKSIpCglwcml2YXRlIHZvaWQgaHNmQXBpKCkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT1mYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgY29tLmFsaWJhYmEuYm9vdC5oc2YuYW5ub3RhdGlvbi5IU0ZQcm92aWRlcgo=</text>
+        <text encoding="base64">c3ByaW5nLmhzZi52ZXJzaW9uPTEuMC4wLkRBSUxZCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgY29tLmFsaWJhYmEuYm9vdC5oc2YuYW5ub3RhdGlvbi5IU0ZQcm92aWRlcgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBQb2ludGN1dCgiZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiBAYW5ub3RhdGlvbihjb20uYWxpYmFiYS5ib290LmhzZi5hbm5vdGF0aW9uLkhTRlByb3ZpZGVyKSIpCglwcml2YXRlIHZvaWQgaHNmQXBpKCkge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5wYW5kb3JhPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5wYW5kb3JhLWhzZi08L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBMYXp5Cg==</text>
+        <text encoding="base64">CUBQb2ludGN1dCgiZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiBAYW5ub3RhdGlvbihjb20uYWxpYmFiYS5ib290LmhzZi5hbm5vdGF0aW9uLkhTRlByb3ZpZGVyKSIpCglwcml2YXRlIHZvaWQgaHNmQXBpKCkge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBMYXp5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5wYW5kb3JhPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5wYW5kb3JhLWhzZi08L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
