@@ -3881,11 +3881,11 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1542608175619">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1542610066041">
+        <mark key="[" line="46" column="73" />
+        <mark key="]" line="46" column="72" />
+        <mark key="^" line="46" column="72" />
+        <mark key="." line="46" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebResp.java" timestamp="1510802297947">
         <mark key="[" line="10" column="14" />
@@ -4169,7 +4169,7 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1542608116528">
+      <file name="/fragment.java" timestamp="1542609883681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/src/main/java/com/meizu/life/support/utils/config/ConfigScannerConfigurer.java" timestamp="1492572772938">
@@ -4958,7 +4958,7 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/registry/RegistryInvocationHandler.java" timestamp="1542607960605" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/registry/RegistryInvocationHandler.java" timestamp="1542609317232" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-goods/src/main/java/com/meizu/life/luckbuy/goods/web/GoodsUnauthController.java" timestamp="1500522105983">
         <mark key="[" line="111" column="11" />
         <mark key="]" line="111" column="10" />
@@ -7651,7 +7651,7 @@
         <mark key="." line="90" column="13" />
         <mark key="^" line="90" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542608116536">
+      <file name="/Dummy.txt" timestamp="1542609883688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/web/CoinAuthController.java" timestamp="1508314529335">
@@ -9856,7 +9856,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>expiredTime != null</text>
+        <text>&quot;0.0.0.0&quot;.equals(host)</text>
       </register>
       <register name="/" type="4">
         <text>hsf</text>
