@@ -3835,9 +3835,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542601396769">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542613067769">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="17" column="30" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -3881,11 +3884,12 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1542610066041">
-        <mark key="[" line="46" column="73" />
-        <mark key="]" line="46" column="72" />
-        <mark key="^" line="46" column="72" />
-        <mark key="." line="46" column="72" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1542613034538">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebResp.java" timestamp="1510802297947">
         <mark key="[" line="10" column="14" />
@@ -6543,6 +6547,12 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.7--2018-08-stable/hsf-sdk-2.2.6.7--2018-08-stable-sources.jar!/com/taobao/hsf/rpc/generic/GenericInvocationAfterClientFilter.java" timestamp="1542610900389">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-merge-pay/src/main/java/cn/flyme/venice/merge/pay/trade/MergePayWatched.java" timestamp="1507616958349">
         <mark key="[" line="42" column="25" />
         <mark key="]" line="42" column="21" />
@@ -7768,6 +7778,12 @@
       <file name="/Interface.txt.ft" timestamp="1542087231165">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/resources/META-INF/doc/springfox.js" timestamp="1542612733603">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-six/src/main/java/cn/flyme/venice/game/six/web/UserRecord.java" timestamp="1508828897530">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="16" />
@@ -8835,13 +8851,6 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1542594207132">
-        <mark key="v" line="22" column="19" />
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/common/constant/NetErrorCodeConstant.java" timestamp="1542177458253">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="31" column="6" />
@@ -9744,8 +9753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json5" />
-      <jump line="960" column="57" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/AppDetailOpsController.java" />
       <jump line="422" column="57" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/AppDetailOpsController.java" />
       <jump line="135" column="37" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/AppDetailOpsController.java" />
       <jump line="30" column="37" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/GiftExchangeController.java" />
@@ -9844,6 +9851,8 @@
       <jump line="15" column="1" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="16" column="7" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="87" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
+      <jump line="83" column="29" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -9865,34 +9874,34 @@
         <text encoding="base64">CUBQb2ludGN1dCgiZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiBAYW5ub3RhdGlvbihjb20uYWxpYmFiYS5ib290LmhzZi5hbm5vdGF0aW9uLkhTRlByb3ZpZGVyKSIpCglwcml2YXRlIHZvaWQgaHNmQXBpKCkge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cmlCdWlsZGVyLmhvc3QoSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCkuZ2V0SG9zdEFkZHJlc3MoKSk7Cg==</text>
+        <text encoding="base64">CQlmb3IgKGludCBpID0gMDsgaSA8IGFyZ3NUeXBlc0luSnNvbi5zaXplKCk7IGkrKykgewoJCQkKCQl9CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmdbXSBhcmdzVHlwZXMgPSBhcmdzVHlwZXNJbkpzb24udG9BcnJheShuZXcgU3RyaW5nWzBdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJpQnVpbGRlci5ob3N0KEluZXRBZGRyZXNzLmdldExvY2FsSG9zdCgpLmdldEhvc3RBZGRyZXNzKCkpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgaW50ZXJmYWNlTmFtZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0YXNrLnNldEV4cGlyZWRUaW1lKGV4cGlyZWRUaW1lID4wCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuU3lzdGVtRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT1mYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3ByaW5nLmhzZi52ZXJzaW9uPTEuMC4wLkRBSUxZCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlIU0ZBcGlDb25zdW1lckJlYW4gY29uc3VtZXIgPSBuZXcgSFNGQXBpQ29uc3VtZXJCZWFuKCk7CgkJY29uc3VtZXIuc2V0SW50ZXJmYWNlTmFtZShpbnRlcmZhY2VOYW1lKTsKCQljb25zdW1lci5zZXRWZXJzaW9uKHZlcnNpb24pOwoJCWNvbnN1bWVyLnNldEdyb3VwKCJIU0YiKTsKCQljb25zdW1lci5zZXRHZW5lcmljKCJ0cnVlIik7CgkJY29uc3VtZXIuaW5pdCh0cnVlKTsKCgkJR2VuZXJpY1NlcnZpY2UgaW52b2tlciA9IChHZW5lcmljU2VydmljZSljb25zdW1lci5nZXRPYmplY3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgY29tLmFsaWJhYmEuYm9vdC5oc2YuYW5ub3RhdGlvbi5IU0ZQcm92aWRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXhlY3V0aW9uKHB1YmxpYyAqIGNuLnVjLnBwLi4qLmFwaS4uKiguLikpICIKCQkrICImJiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQljb25zdW1lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
