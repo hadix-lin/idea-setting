@@ -375,6 +375,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" timestamp="1542694497867">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/resources/coupon-mybatis/OrderMapper.xml" timestamp="1498706980334">
         <mark key="[" line="40" column="1" />
         <mark key="]" line="40" column="0" />
@@ -9950,34 +9956,34 @@
         <text encoding="base64">CQlUYXNrVHlwZSB0eXBlID0gVGFza1R5cGUuUkVQVUJMSVNIX0FSVElDTEU7CgkJRGlhbW9uZC5yZW1vdmUodHlwZS5uYW1lKCksIFRhc2tUeXBlLkdFTkVSQUxfUlVMRV9HUk9VUCk7CgkJU3RyaW5nIGNvbnRlbnQgPSAidGhlIHJ1bGUiOwoJCUdlbmVyYWxSZXNwb25zZTxCb29sZWFuPiByZXNwID0gYXBpLnNhdmVHZW5lcmFsUnVsZSh0eXBlLCBjb250ZW50KTsKCQlUZXN0VXRpbHMuYXNzZXJ0UmVzcFN1Y2Nlc3MocmVzcCk7CgkJYXNzZXJ0VHJ1ZShyZXNwLmdldFJldHVyblZhbHVlKCkpOwoJCVRocmVhZC5zbGVlcCgxMDAwKTsKCQlTdHJpbmcgY29uZmlnID0gRGlhbW9uZC5nZXRDb25maWcodHlwZS5uYW1lKCksIFRhc2tUeXBlLkdFTkVSQUxfUlVMRV9HUk9VUCwgNTAwMCk7CgkJYXNzZXJ0RXF1YWxzKGNvbnRlbnQsIGNvbmZpZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlxdWVyeS5zZXRQYWdlKHBhZ2UpOwo=</text>
+        <text encoding="base64">ICogQGF1dGhvciBqaWFuZ25hbi56am4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlQYWdlUmVxdWVzdCBwYWdlID0gbmV3IFBhZ2VSZXF1ZXN0KCkK</text>
+        <text encoding="base64">CQlxdWVyeS5zZXRQYWdlKHBhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlUYXNrIHRhc2sgPSBjcmVhdGVUYXNrKCk7Cg==</text>
+        <text encoding="base64">CQlQYWdlUmVxdWVzdCBwYWdlID0gbmV3IFBhZ2VSZXF1ZXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlHZW5lcmFsUmVzcG9uc2U8Qm9vbGVhbj4gcmVzcCA9IGFwaS5zYXZlR2VuZXJhbFJ1bGUodHlwZSwgY29udGVudCk7CgkJVGVzdFV0aWxzLmFzc2VydFJlc3BTdWNjZXNzKHJlc3ApOwoJCWFzc2VydFRydWUocmVzcC5nZXRSZXR1cm5WYWx1ZSgpKTsKCQlUaHJlYWQuc2xlZXAoMTAwMCk7CgkJU3RyaW5nIGNvbmZpZyA9IERpYW1vbmQuZ2V0Q29uZmlnKHR5cGUubmFtZSgpLCBUYXNrVHlwZS5HRU5FUkFMX1JVTEVfR1JPVVAsIDUwMDApOwo=</text>
+        <text encoding="base64">CQlUYXNrIHRhc2sgPSBjcmVhdGVUYXNrKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlEaWFtb25kLnJlbW92ZSh0eXBlLm5hbWUoKSwgVGFza1R5cGUuR0VORVJBTF9SVUxFX0dST1VQKTsK</text>
+        <text encoding="base64">CQlHZW5lcmFsUmVzcG9uc2U8Qm9vbGVhbj4gcmVzcCA9IGFwaS5zYXZlR2VuZXJhbFJ1bGUodHlwZSwgY29udGVudCk7CgkJVGVzdFV0aWxzLmFzc2VydFJlc3BTdWNjZXNzKHJlc3ApOwoJCWFzc2VydFRydWUocmVzcC5nZXRSZXR1cm5WYWx1ZSgpKTsKCQlUaHJlYWQuc2xlZXAoMTAwMCk7CgkJU3RyaW5nIGNvbmZpZyA9IERpYW1vbmQuZ2V0Q29uZmlnKHR5cGUubmFtZSgpLCBUYXNrVHlwZS5HRU5FUkFMX1JVTEVfR1JPVVAsIDUwMDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgY29udGVudCA9ICJ0aGUgcnVsZSI7Cg==</text>
+        <text encoding="base64">CQlEaWFtb25kLnJlbW92ZSh0eXBlLm5hbWUoKSwgVGFza1R5cGUuR0VORVJBTF9SVUxFX0dST1VQKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY29udGVudCA9ICJ0aGUgcnVsZSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlSZXF1ZXN0VXRpbC5zZXRVc2VySWQoMUwpOwoJCVJlcXVlc3RVdGlsLnNldFVzZXJuYW1lKCJ0ZXN0X3VzZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0YXNrID0gdGFzay5zZWxlY3RCeUlkKCk7CgkJYXNzZXJ0RXF1YWxzKFN0YXR1cy5UQUtFTiwgdGFzay5nZXRTdGF0dXMoKSk7CgkJYXNzZXJ0RXF1YWxzKFJlcXVlc3RVdGlsLmdldFVzZXJJZCgpLCB0YXNrLmdldFVzZXJJZCgpKTsKCQlhc3NlcnRFcXVhbHMoUmVxdWVzdFV0aWwuZ2V0VXNlcm5hbWUoKSwgdGFzay5nZXRVc2VyTmFtZSgpKTsK</text>
+        <text encoding="base64">CQlSZXF1ZXN0VXRpbC5zZXRVc2VySWQoMUwpOwoJCVJlcXVlc3RVdGlsLnNldFVzZXJuYW1lKCJ0ZXN0X3VzZXIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
