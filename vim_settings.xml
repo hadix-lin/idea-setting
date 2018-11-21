@@ -15,7 +15,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1542684803427">
+      <file name="/a.dummy" timestamp="1542790197212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4b3d7d86-a556-452f-819b-c60cc9ddabd8/console.sql" timestamp="1496302497547">
@@ -417,6 +417,12 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/monitor/ThreadStateInitializer.java" timestamp="1542789031708">
+        <mark key="[" line="25" column="67" />
+        <mark key="]" line="25" column="66" />
+        <mark key="^" line="25" column="66" />
+        <mark key="." line="25" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-takeaway/src/main/java/com/meizu/life/takeaway/service/impl/OrderServiceImpl.java" timestamp="1510563116013">
         <mark key="[" line="61" column="41" />
         <mark key="]" line="61" column="54" />
@@ -435,11 +441,23 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pointserver/point-start/src/test/java/com/uc/pp/point/hsf/withdrawService/WithdrawTest.java" timestamp="1542784654919">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-order/src/main/resources/mybatis/Order.xml" timestamp="1503282371315">
         <mark key="[" line="171" column="180" />
         <mark key="]" line="171" column="152" />
         <mark key="^" line="171" column="152" />
         <mark key="." line="171" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/utils/RequestContextUtil.java" timestamp="1542786525174">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modulize/websocket/AuthUserMethodArgumentResolver.java" timestamp="1511170242356">
         <mark key="[" line="21" column="14" />
@@ -738,8 +756,11 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/TestUtils.java" timestamp="1542703977206">
-        <mark key="[" line="41" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/TestUtils.java" timestamp="1542779601699">
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-demo/src/main/resources/mybatis/AreaMapper.xml" timestamp="1493110916067">
         <mark key="[" line="34" column="18" />
@@ -828,11 +849,12 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageResp.java" timestamp="1542176726836">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1542770936631">
-        <mark key="[" line="153" column="40" />
-        <mark key="]" line="153" column="78" />
-        <mark key="." line="153" column="78" />
-        <mark key="^" line="153" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1542788530005">
+        <mark key="'" line="168" column="21" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="70" column="2" />
+        <mark key="." line="70" column="2" />
+        <mark key="^" line="70" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/visitor/VoidVisitor.java" timestamp="1541501437013">
         <mark key="[" line="145" column="25" />
@@ -840,8 +862,8 @@
         <mark key="^" line="145" column="24" />
         <mark key="." line="145" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/MybatisPlusConfiguration.java" timestamp="1542447801927">
-        <mark key="[" line="15" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/MybatisPlusConfiguration.java" timestamp="1542791192316">
+        <mark key="[" line="40" column="15" />
         <mark key="]" line="15" column="32" />
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
@@ -1025,6 +1047,11 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" timestamp="1542786799939">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/tables/workerId.sql" timestamp="1510641442813">
         <mark key="[" line="5" column="18" />
@@ -1271,6 +1298,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/pom.xml" timestamp="1542786506551">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-config/src/main/java/com/meizu/life/config/source/PropertiesConfigSource.java" timestamp="1496497195434">
         <mark key="[" line="35" column="15" />
@@ -1662,8 +1694,8 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" timestamp="1542767331399">
-        <mark key="[" line="32" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" timestamp="1542779861565">
+        <mark key="[" line="35" column="31" />
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
@@ -1878,12 +1910,6 @@
         <mark key="^" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/hadix/modularize/core/Boot.java" timestamp="1542711278348">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/live3.0/life-coupon/src/main/java/com/meizu/life/coupon/dao/mapper/BatchMapper.java" timestamp="1508142318974">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="7" />
@@ -1902,11 +1928,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pointserver/point-start/src/test/java/com/uc/pp/point/HsfBaseTest.java" timestamp="1542099696806">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pointserver/point-start/src/test/java/com/uc/pp/point/HsfBaseTest.java" timestamp="1542784617661">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/main/java/com/meizu/life/support/core/StoreAsIdEnum.java" timestamp="1494173654359">
         <mark key="[" line="8" column="30" />
@@ -2076,11 +2102,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" timestamp="1542437424264">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" timestamp="1542782537510">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="44" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/service/impl/PartakeServiceImpl.java" timestamp="1499064719510">
         <mark key="[" line="48" column="16" />
@@ -2490,6 +2516,12 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/dao/JSONObjectTypeHandler.java" timestamp="1542789637410">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/utils/utils-weblogin/src/main/java/com/meizu/utils/weblogin/core/oauth/UserInfo.java" timestamp="1511164100483">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="21" />
@@ -2501,9 +2533,6 @@
         <mark key="]" line="164" column="29" />
         <mark key="^" line="164" column="29" />
         <mark key="." line="164" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" timestamp="1542708788839">
-        <mark key="'" line="178" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-service/src/main/java/com/meizu/life/order/service/impl/prefixhandler/VipHandlerImpl.java" timestamp="1504692248799">
         <mark key="[" line="82" column="74" />
@@ -2858,6 +2887,9 @@
         <mark key="]" line="134" column="6" />
         <mark key="^" line="134" column="6" />
         <mark key="." line="134" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/user/LogoutTest.java" timestamp="1542786199194">
+        <mark key="[" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-kiev/src/main/resources/com/meizu/modularize/kiev/spring-autoconfigure-kiev-server.xml" timestamp="1508127590069">
         <mark key="[" line="7" column="52" />
@@ -3402,6 +3434,9 @@
         <mark key="^" line="66" column="32" />
         <mark key="." line="66" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/user/CreateTest.java" timestamp="1542786098425">
+        <mark key="[" line="17" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-award/src/main/java/com/meizu/life/luckbuy/award/dao/mapper.java" timestamp="1493700983680">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="6" column="3" />
@@ -3654,6 +3689,9 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/OpLogConfig.java" timestamp="1542791070538">
+        <mark key="[" line="11" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/OpBehaviorInterceptor.java" timestamp="1542188333295">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="58" />
@@ -3726,7 +3764,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1542628561848">
+      <file name="/a.sql" timestamp="1542790870596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-redis/src/main/java/com/meizu/life/support/redis/ctx/RedisContext.java" timestamp="1492484826326">
@@ -3903,11 +3941,11 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542701998580">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1542789913854">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -3938,9 +3976,6 @@
         <mark key="]" line="47" column="14" />
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.2/pp-service-common-ppcache-1.0.2-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1542705034440">
-        <mark key="'" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-api/src/main/java/cn/uc/pp/admin/rest/OpBehaviorLogRestController.java" timestamp="1541584238668">
         <mark key="[" line="35" column="44" />
@@ -4242,8 +4277,11 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1542709383594">
+      <file name="/fragment.java" timestamp="1542791239523">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-utils/src/main/java/com/meizu/life/support/utils/config/ConfigScannerConfigurer.java" timestamp="1492572772938">
         <mark key="[" line="33" column="0" />
@@ -4269,12 +4307,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/EmailConfig.java" timestamp="1542355597586">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/EmailConfig.java" timestamp="1542789747373" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/impl/FreshCondition.java" timestamp="1499157261018">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -4683,6 +4716,12 @@
         <mark key="^" line="28" column="49" />
         <mark key="." line="28" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/user/LoginTest.java" timestamp="1542786211216">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/resources/application-module.properties" timestamp="1497950116555">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="20" />
@@ -4718,6 +4757,9 @@
         <mark key="]" line="19" column="1" />
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/user/EmailPatterTest.java" timestamp="1542786243216">
+        <mark key="[" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/application-dev.properties" timestamp="1541484781607">
         <mark key="[" line="2" column="0" />
@@ -5055,11 +5097,12 @@
         <mark key="^" line="69" column="12" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1542771972741">
-        <mark key="[" line="221" column="34" />
-        <mark key="]" line="221" column="34" />
-        <mark key="^" line="221" column="34" />
-        <mark key="." line="221" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1542788816529">
+        <mark key="'" line="266" column="0" />
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-container/src/main/java/com/meizu/life/luckbuy/container/LuckBuyInitializer.java" timestamp="1495787071932">
         <mark key="[" line="57" column="0" />
@@ -5150,6 +5193,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-devlocal.properties" timestamp="1542790976216">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/pom.xml" timestamp="1510574075332">
         <mark key="[" line="7" column="18" />
@@ -5288,6 +5337,9 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="/dummy.sql" timestamp="1542790876737">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-web/src/main/java/com/meizu/life/support/container/ComponentScanner.java" timestamp="1492400800417">
         <mark key="[" line="36" column="4" />
@@ -5517,6 +5569,11 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/pom.xml" timestamp="1542786711342">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-job-starter/pom.xml" timestamp="1496656445907">
         <mark key="[" line="23" column="51" />
         <mark key="]" line="24" column="19" />
@@ -5621,6 +5678,11 @@
         <mark key="]" line="20" column="46" />
         <mark key="^" line="20" column="46" />
         <mark key="." line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/OpBehaviorLogConfiguration.java" timestamp="1542790969397">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-common/pom.xml" timestamp="1501751749000">
         <mark key="[" line="13" column="39" />
@@ -5912,6 +5974,12 @@
         <mark key="]" line="109" column="46" />
         <mark key="." line="109" column="46" />
         <mark key="^" line="109" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/utils/AdminLoginUserUtil.java" timestamp="1542786540060">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable/tddl-client-sdk-5.2.7-2--2018-08-stable-sources.jar!/com/taobao/tddl/common/utils/extension/ExtensionLoader.java" timestamp="1542273092098">
         <mark key="[" line="221" column="74" />
@@ -6363,11 +6431,11 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1542768934888">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="38" />
-        <mark key="^" line="37" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1542788323985">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/test/resources/test-context.properties" timestamp="1492414938296">
         <mark key="[" line="0" column="25" />
@@ -6453,6 +6521,9 @@
         <mark key="." line="402" column="24" />
         <mark key="^" line="402" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/user/JsonTest.java" timestamp="1542786250640">
+        <mark key="[" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-goods/src/main/java/com/meizu/life/luckbuy/goods/GoodsProperties.java" timestamp="1502262443728">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="10" />
@@ -6507,11 +6578,11 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/ArticleService.java" timestamp="1542358454282">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/ArticleService.java" timestamp="1542784030340">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-order/src/main/java/com/meizu/life/luckbuy/order/model/AppAccess.java" timestamp="1499748078804">
         <mark key="[" line="11" column="22" />
@@ -6687,12 +6758,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" timestamp="1542772134451">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" timestamp="1542785648806">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="20" />
+        <mark key="^" line="91" column="20" />
+        <mark key="." line="91" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/use-case/src/main/java/com/meizu/modularize/UseCaseController.java" timestamp="1494929445057">
         <mark key="[" line="17" column="27" />
@@ -7510,11 +7581,11 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/user/ListTest.java" timestamp="1542265525961">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/user/ListTest.java" timestamp="1542786082006">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/PandoraSarVersionValidator.java" timestamp="1542168505822">
         <mark key="[" line="20" column="60" />
@@ -7723,6 +7794,9 @@
         <mark key="." line="36" column="78" />
         <mark key="^" line="36" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/service/impl/ArticleServiceImpl.java" timestamp="1542784358352">
+        <mark key="[" line="21" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/model/UserInfo.java" timestamp="1499355143859">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="31" column="23" />
@@ -7777,7 +7851,7 @@
         <mark key="." line="90" column="13" />
         <mark key="^" line="90" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542770676948">
+      <file name="/Dummy.txt" timestamp="1542791239527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-user/src/main/java/cn/flyme/venice/user/web/CoinAuthController.java" timestamp="1508314529335">
@@ -8062,12 +8136,12 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1542772548964">
-        <mark key="'" line="86" column="25" />
-        <mark key="[" line="108" column="29" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1542786035171">
+        <mark key="'" line="80" column="23" />
+        <mark key="[" line="98" column="94" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-all/src/main/java/com/meizu/life/user/rest/QiXiHotelActivityController.java" timestamp="1504748126209">
         <mark key="[" line="302" column="37" />
@@ -8116,13 +8190,6 @@
         <mark key="]" line="64" column="70" />
         <mark key="^" line="64" column="70" />
         <mark key="." line="64" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/cache/TairCache.java" timestamp="1542704498072">
-        <mark key="'" line="39" column="39" />
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="46" column="40" />
-        <mark key="." line="46" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.2/pp-service-common-ppcache-1.0.2-sources.jar!/cn/uc/pp/common/ppcache/TairCacheHandler.java" timestamp="1542199306751">
         <mark key="[" line="53" column="60" />
@@ -8279,6 +8346,12 @@
         <mark key="]" line="576" column="40" />
         <mark key="^" line="576" column="40" />
         <mark key="." line="576" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/filter/OpBehaviorInterceptor.java" timestamp="1542786763553">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="25" />
+        <mark key="^" line="37" column="25" />
+        <mark key="." line="37" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-game-guess/src/main/java/cn/flyme/venice/game/guess/web/GuessAuthController.java" timestamp="1509610051787">
         <mark key="[" line="159" column="50" />
@@ -8570,6 +8643,12 @@
         <mark key="]" line="12" column="14" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/ThreadPools.java" timestamp="1542783064512">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/com/meizu/modularize/utils/NetworkUtils.java" timestamp="1510640502268">
         <mark key="[" line="38" column="36" />
@@ -8937,6 +9016,12 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/utils/AdminUserUtil.java" timestamp="1542786546181">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/venice/venice-boot/src/main/java/cn/flyme/boot/ShardingTest.java" timestamp="1506074402806">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="32" />
@@ -8966,6 +9051,12 @@
         <mark key="]" line="46" column="3" />
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1542786701427">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="21" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/common/constant/NetErrorCodeConstant.java" timestamp="1542177458253">
         <mark key="[" line="31" column="7" />
@@ -9138,6 +9229,10 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiSupportConfiguration.java" timestamp="1542791216886">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/hadix/modularize/core/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1542711382820">
         <mark key="[" line="649" column="7" />
         <mark key="]" line="649" column="6" />
@@ -9177,12 +9272,11 @@
         <mark key="^" line="31" column="87" />
         <mark key="." line="31" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1542771956771">
-        <mark key="'" line="51" column="15" />
-        <mark key="[" line="115" column="32" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
-        <mark key="^" line="116" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1542790617951">
+        <mark key="[" line="155" column="35" />
+        <mark key="]" line="155" column="34" />
+        <mark key="^" line="155" column="34" />
+        <mark key="." line="155" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-coupon/src/main/java/com/meizu/life/coupon/service/impl/OrderTransaction.java" timestamp="1494920271865">
         <mark key="[" line="81" column="15" />
@@ -9373,7 +9467,7 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1542698253217">
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1542786658547">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="54" />
@@ -9826,12 +9920,6 @@
         <mark key="^" line="63" column="34" />
         <mark key="." line="63" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/AdminHsfConfig.java" timestamp="1542447857575">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hadix-test/src/main/java/Application.java" timestamp="1542617917126">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="6" column="21" />
@@ -9900,13 +9988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json5" />
-      <jump line="296" column="33" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/admin-common/src/main/java/cn/uc/pp/admin/oplog/service/impl/OpBehaviorLogServiceImpl.java" />
-      <jump line="158" column="11" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
-      <jump line="188" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
-      <jump line="18" column="35" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" />
       <jump line="36" column="26" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/Task.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/ArticleDraft.java" />
@@ -10000,6 +10081,13 @@
       <jump line="102" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
       <jump line="50" column="15" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
+      <jump line="62" column="23" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
+      <jump line="163" column="21" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
+      <jump line="33" column="43" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -10012,13 +10100,13 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>, null, null)</text>
+        <text>execution(* cn.uc.pp..*.admin..*.api..*(..))</text>
       </register>
       <register name="/" type="4">
         <text>hsf</text>
       </register>
-      <register name="0" type="4">
-        <text>new CreateTaskInfo(TaskType.ORIGINAL_ARTICLE, new long[] {1, 2}, &quot;原创文章&quot;, &quot;创作说明&quot;, null)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlTdHJpbmcganNvblRleHQgPSBycy5nZXRTdHJpbmcoY29sdW1uTmFtZSk7CgkJcmV0dXJuIEpTT04ucGFyc2VPYmplY3QoanNvblRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -10027,28 +10115,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGFzay5zZXRTdGF0dXMoU3RhdHVzLklTU1VFRCk7Cg==</text>
+        <text encoding="base64">CQlKU09OT2JqZWN0IGV4dCA9IG5ldyBKU09OT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdGFzay5zZXRVcGRhdGVUaW1lKGN1cnJlbnQpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGFzay5zZXRVcGRhdGVUaW1lKGN1cnJlbnQpOwo=</text>
+        <text encoding="base64">I+eUn+aViOeahHByb2ZpbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0YXNrLnNldGlzc3VlCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdGFzay5zZXRVc2VyTmFtZSh1c2VyLmdldFVzZXJuYW1lKCkpOwo=</text>
+        <text encoding="base64">CX0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGFzay5zZXQK</text>
+        <text encoding="base64">CQlyZXR1cm4ganNvblRleHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb25nW10gYXJ0aWNsZUlkcyA9IHsxTH07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvYmFyLnBhcnNlci5hc3QuZXhwcmVzc2lvbi5wcmltYXJ5LmZ1bmN0aW9uLmpzb24uSnNvbk9iamVjdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb25nW10gYXJ0aWNsZUlkcyA9IHsxTCwgMkx9OwoJCWFwaS5jcmVhdGVBcnRpY2xlVGFzayhuZXcgQ3JlYXRlVGFza0luZm8oVGFza1R5cGUuT1JJR0lOQUxfQVJUSUNMRSwgYXJ0aWNsZUlkcywgIuWOn+WIm+aWh+eroCIsICLliJvkvZzor7TmmI4iLCBudWxsKSk7CgkJaW50IGNvdW50ID0gdGFza01hcHBlci5zZWxlY3RDb3VudChDb25kaXRpb24uPFRhc2s+bGFtYmRhKCkuZXEoVGFzazo6Z2V0VHlwZSwgVGFza1R5cGUuT1JJR0lOQUxfQVJUSUNMRSkpOwoJCWFzc2VydEVxdWFscygyLCBjb3VudCk7Cg==</text>
+        <text encoding="base64">CQlAQXBpTW9kZWxQcm9wZXJ0eSgi5qCH562+IikKCQlwcml2YXRlIFN0cmluZyB0YWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
