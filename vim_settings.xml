@@ -2418,6 +2418,12 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/resources/application-module.properties" timestamp="1542717385651">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-web/src/main/java/com/meizu/life/container/ctx/LifeContainerContext.java" timestamp="1492586939883">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="41" />
@@ -10007,12 +10013,15 @@
         <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEdlbmVyYWxSZXNwb25zZTxTdHJpbmc+IGdldEdlbmVyYWxSdWxlKFRhc2tUeXBlIHR5cGUpIHsKCQlyZXR1cm4gR2VuZXJhbFJlc3BvbnNlLmNyZWF0ZSh0YXNrU2VydmljZS5nZXRHZW5lcmFsUnVsZSh0eXBlKSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGVyYQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>@SpringBootApplication(
   excludeName = {
     &quot;org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration&quot;,
@@ -10023,28 +10032,25 @@
     &quot;org.springframework.boot.autoconfigure.data.mongo.MongoDataAutoConfiguration&quot;
   })</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEdlbmVyYWxSZXNwb25zZTxTdHJpbmc+IGdldEdlbmVyYWxSdWxlKFRhc2tUeXBlIHR5cGUpIHsKCQlyZXR1cm4gCgl9Cgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJaW50IGNvdW50ID0gMDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>else {
 			return 0;
 		}</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJcmV0dXJuIGNvdW50Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJaW50IGNvdW50ID0gMDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJaW50IGNvdW50ID0gaW5mby5nZXRDb3VudCgpID4gMCA/IGluZm8uZ2V0Q291bnQoKSA6IDE7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy/kuIDmrKHlj6rog73liJvlu7rkuIDkuKrmlLnnqL/ku7vliqEK</text>
+        <text encoding="base64">CQkJaW50IGNvdW50ID0gaW5mby5nZXRDb3VudCgpID4gMCA/IGluZm8uZ2V0Q291bnQoKSA6IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
