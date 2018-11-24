@@ -116,7 +116,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1003</Count>
+          <Count>1005</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -623,7 +623,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'cn.uc.pp.cos.admin''</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'cn.uc.pp.cos.admin.user''">
