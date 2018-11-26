@@ -888,11 +888,11 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageResp.java" timestamp="1542176726836">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1543220584274">
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1543225272918">
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="46" />
+        <mark key="." line="99" column="46" />
+        <mark key="^" line="99" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/visitor/VoidVisitor.java" timestamp="1541501437013">
         <mark key="[" line="145" column="25" />
@@ -1038,7 +1038,7 @@
         <mark key="^" line="54" column="42" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1543223687758">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1543224371720">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="39" />
         <mark key="^" line="30" column="38" />
@@ -1504,6 +1504,11 @@
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" timestamp="1543225177353">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" timestamp="1540819234442">
         <mark key="[" line="199" column="30" />
@@ -4143,11 +4148,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543216853347">
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543224676700">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -7009,7 +7015,6 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/cos/base/BaseModel.java" timestamp="1543221008851" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/KeyModifyListener.java" timestamp="1497598134143">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="6" column="44" />
@@ -8853,11 +8858,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/user/api/UserApi.java" timestamp="1543222372567">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="37" column="2" />
-        <mark key="." line="37" column="2" />
-        <mark key="^" line="37" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/user/api/UserApi.java" timestamp="1543224494712">
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/venice/README.md" timestamp="1505114591315">
         <mark key="[" line="45" column="0" />
@@ -9065,6 +9070,13 @@
         <mark key="]" line="86" column="11" />
         <mark key="^" line="86" column="11" />
         <mark key="." line="86" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" timestamp="1543210670910">
+        <mark key="'" line="139" column="12" />
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/service/impl/CoinServiceImpl.java" timestamp="1496740891971">
         <mark key="[" line="86" column="9" />
@@ -10481,7 +10493,6 @@
       <jump line="23" column="30" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="28" column="19" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="54" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
-      <jump line="1" column="35" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="15" column="1" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="16" column="7" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="87" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
@@ -10555,6 +10566,7 @@
       <jump line="25" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" />
       <jump line="69" column="22" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/PageRequest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -10567,40 +10579,40 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>3.0.5</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>hsf</text>
+        <text>jmx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4wLjEwLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">CUBOb3ROdWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">CQlkcmFmdC5zZXRBcnRpY2xlSWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4wLjEwLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">c3ByaW5nLmpteC5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4wLjEwLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4wLjEwLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudmFsaWRhdGlvbi5hbm5vdGF0aW9uLlZhbGlkYXRlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QFZhbGlkYXRlZAo=</text>
@@ -10610,9 +10622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hsf</last-search>
+      <last-search>jmx</last-search>
       <last-offset />
-      <last-pattern>hsf</last-pattern>
+      <last-pattern>jmx</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
       <last-dir>1</last-dir>
@@ -10620,7 +10632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
         <entry encoding="base64">XDxrZXlQcmVmaXhcPg==</entry>
         <entry>do_stop</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
@@ -10640,6 +10651,7 @@
         <entry encoding="base64">XDxzeW5jQXBwXD4=</entry>
         <entry encoding="base64">XDx0YXNrSWRcPg==</entry>
         <entry>hsf</entry>
+        <entry>jmx</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
