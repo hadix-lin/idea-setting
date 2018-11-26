@@ -1272,10 +1272,10 @@
         <mark key="." line="11" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543204263030">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="16" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-core/src/main/java/com/meizu/life/support/core/config/ClassPathConfigScanner.java" timestamp="1494589812085">
         <mark key="[" line="88" column="38" />
@@ -1348,6 +1348,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/pom.xml" timestamp="1543212016646">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/life-config/src/main/java/com/meizu/life/config/source/PropertiesConfigSource.java" timestamp="1496497195434">
         <mark key="[" line="35" column="15" />
@@ -4082,11 +4088,11 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543203053947">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543211716931">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="72" column="6" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -8976,6 +8982,13 @@
         <mark key="^" line="86" column="11" />
         <mark key="." line="86" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" timestamp="1543210670910">
+        <mark key="'" line="139" column="12" />
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/service/impl/CoinServiceImpl.java" timestamp="1496740891971">
         <mark key="[" line="86" column="9" />
         <mark key="]" line="86" column="8" />
@@ -9484,8 +9497,11 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543204332745">
-        <mark key="[" line="27" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543212160176">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/web/CoinController.java" timestamp="1493256864946">
         <mark key="[" line="28" column="34" />
@@ -10356,7 +10372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/creator_open.sql" />
       <jump line="21" column="30" filename="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.2/pp-service-common-ppcache-1.0.2-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" />
       <jump line="42" column="28" filename="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.2/pp-service-common-ppcache-1.0.2-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-cache/src/main/java/com/meizu/modularize/cache/spring/RedisCache.java" />
@@ -10456,6 +10471,7 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="23" column="18" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -10477,7 +10493,7 @@
         <text>pandora-diamond-spring-boot-starter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kcG9pbnRzLmVuYWJsZWQK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1hY3R1YXRvci1hdXRvY29uZmlndXJlPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -10486,25 +10502,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnNyY0RpciAnc3JjL3Rlc3QvamF2YScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3Qgewo=</text>
+        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT10cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLnBvcnQ9ODA4Mgo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
