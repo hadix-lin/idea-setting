@@ -613,6 +613,12 @@
         <mark key="." line="36" column="18" />
         <mark key="^" line="36" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.6.RELEASE/spring-boot-actuator-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543204151000">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/dao/mapper/RecordMapper.java" timestamp="1502935551198">
         <mark key="[" line="35" column="43" />
         <mark key="]" line="35" column="40" />
@@ -1265,11 +1271,11 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543203300123">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543204263030">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-core/src/main/java/com/meizu/life/support/core/config/ClassPathConfigScanner.java" timestamp="1494589812085">
         <mark key="[" line="88" column="38" />
@@ -9478,6 +9484,9 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543204332745">
+        <mark key="[" line="27" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/web/CoinController.java" timestamp="1493256864946">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="21" column="40" />
@@ -10468,34 +10477,34 @@
         <text>pandora-diamond-spring-boot-starter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kcG9pbnRzLmVuYWJsZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT10cnVlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnNyY0RpciAnc3JjL3Rlc3QvamF2YScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3Qgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHAuYXBpLmludGVyY2VwdG9yLmVuYWJsZT10cnVlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX3Rlc3QuaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPG1vZHVsZSBmaWxldXJsPSJmaWxlOi8vJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBmaWxlcGF0aD0iJFBST0pFQ1RfRElSJC8uaWRlYS9tb2R1bGVzL2lkZWF2aW1fZXh0ZW5zaW9uX21haW4uaW1sIiBncm91cD0iaWRlYXZpbV9leHRlbnNpb24iIC8+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqYXZhLnNyY0RpciAnc3JjL3Rlc3QvamF2YScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRlc3Qgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nLmRpYW1vbmQuY2xvdWQucmVmcmVzaC5lbmFibGVkPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
