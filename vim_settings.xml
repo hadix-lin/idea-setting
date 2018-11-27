@@ -1827,11 +1827,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543284963103">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="30" column="2" />
-        <mark key="." line="30" column="2" />
-        <mark key="^" line="30" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543287086682">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1543029965398">
         <mark key="[" line="52" column="45" />
@@ -3661,6 +3661,12 @@
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/CompilationUnit.java" timestamp="1543287031977">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="87" column="43" />
+        <mark key="^" line="87" column="43" />
+        <mark key="." line="87" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-coin/src/main/java/com/meizu/life/luckbuy/coin/web/DemoTest.java" timestamp="1497240811238">
         <mark key="[" line="5" column="17" />
@@ -10462,7 +10468,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>System.out::println</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -10471,34 +10477,34 @@
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlSUENDb250ZXh0LmdldENsaWVudENvbnRleHQoKS4K</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHJhZnQuc2V0Q3JlYXRlVGltZShjdXJyZW50KTsK</text>
+        <text encoding="base64">CQkJCXN1cGVyLmRlZmF1bHRBY3Rpb24obiwgYXJnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">CQlSUENDb250ZXh0LmdldENsaWVudENvbnRleHQoKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZHJhZnQuc2V0Q3JlYXRlVGltZShjdXJyZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBOb3ROdWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkcmFmdC5zZXRBcnRpY2xlSWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
