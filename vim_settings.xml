@@ -1827,11 +1827,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543287086682">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="39" column="59" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="39" column="59" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543291428759">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="62" />
+        <mark key="." line="56" column="62" />
+        <mark key="^" line="56" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1543029965398">
         <mark key="[" line="52" column="45" />
@@ -2583,6 +2583,9 @@
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/resources/application-module.properties" timestamp="1543290473877">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy/luckbuy-coupon/src/main/java/com/meizu/life/luckbuy/coupon/service/UserIdStore.java" timestamp="1499243159808">
         <mark key="[" line="16" column="47" />
@@ -4088,12 +4091,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543224676700">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543290491889">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="23" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -9142,6 +9145,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-goods/src/main/resources/mybatis/TreasureIssueMapper.xml" timestamp="1502778773693">
         <mark key="[" line="155" column="3" />
         <mark key="]" line="155" column="2" />
@@ -10468,7 +10477,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>System.out::println</text>
+        <text encoding="base64">R2VuZXJhbFJlc3BvbnNlPEJvb2xlYW4+IA==</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -10477,34 +10486,34 @@
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQkJCW1ldGFNb2RlbC5nZXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">CQkJCW1ldGFNb2RlbC5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXN1cGVyLmRlZmF1bHRBY3Rpb24obiwgYXJnKTsK</text>
+        <text encoding="base64">CQkJLmZpbHRlcihwIC0+IHAuZW5kc1dpdGgoIi5qYXZhIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlSUENDb250ZXh0LmdldENsaWVudENvbnRleHQoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl1bml0LmFjY2VwdChuZXcgVm9pZFZpc2l0b3JXaXRoRGVmYXVsdHM8Vm9pZD4oKSB7CgkJCUBPdmVycmlkZQoJCQlwdWJsaWMgdm9pZCBkZWZhdWx0QWN0aW9uKE5vZGUgbiwgVm9pZCBhcmcpIHsKCQkJCVN5c3RlbS5vdXQucHJpbnRsbigpOwoJCQl9CgoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIHZvaWQgZGVmYXVsdEFjdGlvbihOb2RlTGlzdCBuLCBWb2lkIGFyZykgewoJCQkJU3lzdGVtLm91dC5wcmludGxuKG4pOwoJCQl9CgoJCX0sIG51bGwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHJhZnQuc2V0Q3JlYXRlVGltZShjdXJyZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">cGFja2FnZSBjbi51Yy5wcC5jb3Mub3Blbi50YXNrLmFwaTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBcGlPcGVyYXRpb24oIuaJuemHj+mihuWPluS7u+WKoSIpCglkZWZhdWx0IEdlbmVyYWxSZXNwb25zZTxJbnRlZ2VyPiBiYXRjaFRha2UoQEFwaVBhcmFtKCLku7vliqFJZCIpIEBOb3ROdWxsIExpc3Q8TG9uZz4gdGFza0lkcykgewoJCWludCBjb3VudCA9IDA7CgkJZm9yIChMb25nIHRhc2tJZCA6IHRhc2tJZHMpIHsKCQkJR2VuZXJhbFJlc3BvbnNlPEJvb2xlYW4+IHJlc3AgPSB0YWtlKHRhc2tJZCk7CgkJCWNvdW50ICs9IHJlc3AuaXNTdWNjZXNzKCkgPyAxIDogMDsKCQl9CgkJcmV0dXJuIEdlbmVyYWxSZXNwb25zZS5jcmVhdGUoY291bnQpOwoJfQoKCUBBcGlPcGVyYXRpb24oIumHiuaUvuS7u+WKoSIpCglHZW5lcmFsUmVzcG9uc2U8Qm9vbGVhbj4gcmVsZWFzZShAQXBpUGFyYW0odmFsdWUgPSAi5Lu75YqhSWQiKSBATm90TnVsbCBMb25nIHRhc2tJZCk7CgoJQEFwaU9wZXJhdGlvbigi5o+Q5Lqk5Lu75YqhIikKCUdlbmVyYWxSZXNwb25zZTxCb29sZWFuPiBzdWJtaXQoQEFwaVBhcmFtKCLku7vliqFJZCIpIEBOb3ROdWxsIExvbmcgdGFza0lkKTsKCglAQXBpT3BlcmF0aW9uKCLojrflj5bku7vliqHnmoTpgJrnlKjop4TliJkiKQoJR2VuZXJhbFJlc3BvbnNlPFN0cmluZz4gZ2V0R2VuZXJhbFJ1bGUoQEFwaVBhcmFtKCLku7vliqHnsbvlnosiKSBUYXNrVHlwZSB0eXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
