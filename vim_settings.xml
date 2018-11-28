@@ -1260,11 +1260,11 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="11" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543217970001">
-        <mark key="[" line="10" column="69" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="68" />
-        <mark key="^" line="10" column="68" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543383458788">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize/life-support-core/src/main/java/com/meizu/life/support/core/config/ClassPathConfigScanner.java" timestamp="1494589812085">
         <mark key="[" line="88" column="38" />
@@ -4097,12 +4097,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543381317977">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543383475098">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="80" column="43" />
-        <mark key="]" line="80" column="42" />
-        <mark key="." line="80" column="42" />
-        <mark key="^" line="80" column="42" />
+        <mark key="]" line="81" column="23" />
+        <mark key="." line="81" column="23" />
+        <mark key="^" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-core/src/test/java/com/meizu/life/support/core/ContainerContext.java" timestamp="1494220543451">
         <mark key="[" line="7" column="29" />
@@ -7101,11 +7101,11 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543381352093">
-        <mark key="[" line="2825" column="28" />
-        <mark key="]" line="2825" column="27" />
-        <mark key="^" line="2825" column="27" />
-        <mark key="." line="2825" column="27" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543383180653">
+        <mark key="[" line="2827" column="61" />
+        <mark key="]" line="2827" column="60" />
+        <mark key="^" line="2827" column="60" />
+        <mark key="." line="2827" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim/input-source-switcher/resources/META-INF/plugin.xml" timestamp="1490957556967">
         <mark key="[" line="27" column="8" />
@@ -10556,34 +10556,34 @@
         <text encoding="base64">CQlpbnQgY291bnQgPSAwOwoJCWZvciAoTG9uZyB0YXNrSWQgOiB0YXNrSWRzKSB7CgkJCUdlbmVyYWxSZXNwb25zZTxCb29sZWFuPiByZXNwID0gdGFrZSh0YXNrSWQpOwoJCQljb3VudCArPSByZXNwLmlzU3VjY2VzcygpID8gMSA6IDA7CgkJfQoJCXJldHVybiBHZW5lcmFsUmVzcG9uc2UuY3JlYXRlKGNvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLmFkbWluLmVuYWJsZWQ9dHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmh0dHBjbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNxdWFyZXVwLm9raHR0cDM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm9raHR0cDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuNS42PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImJhaWR1ID0gIiArIGJhaWR1KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlIdHRwCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLgo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmh0dHBjbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNxdWFyZXVwLm9raHR0cDM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm9raHR0cDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuNS42PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImJhaWR1ID0gIiArIGJhaWR1KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlIdHRwCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjbi51Yy5wcC5jb3Mub3Blbi5jYWNoZS5DYWNoZUNvbmZpZ3VyYXRpb24uVEFTS19DQUNIRV9QUkVGSVg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
