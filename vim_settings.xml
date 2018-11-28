@@ -2073,12 +2073,6 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/pom.xml" timestamp="1543234888248">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="50" column="38" />
-        <mark key="^" line="50" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/live/life-support-cache/src/main/java/com/meizu/life/luckbuy/support/cache/mybatis/MybatisRedisCachePrecondition.java" timestamp="1494237733087">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="11" column="9" />
@@ -2475,6 +2469,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/request/AppOpsRequest.java" timestamp="1543232767945" />
       <file name="$USER_HOME$/Documents/Projects/luckbuy-modularize/luckbuy-container/pom.xml" timestamp="1506046731339">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="19" />
@@ -2571,6 +2566,7 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-to-slf4j/2.10.0/log4j-to-slf4j-2.10.0-sources.jar!/org/apache/logging/slf4j/SLF4JLoggerContextFactory.java" timestamp="1543227107996" />
       <file name="$USER_HOME$/Documents/Projects/utils/utils-weblogin/src/main/java/com/meizu/utils/weblogin/core/oauth/UserInfo.java" timestamp="1511164100483">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="21" />
@@ -4110,12 +4106,7 @@
         <mark key="." line="36" column="40" />
         <mark key="^" line="36" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1543301409970">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="52" />
-        <mark key="." line="79" column="52" />
-        <mark key="^" line="79" column="52" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1543368444501" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-web/src/main/java/com/meizu/modularize/web/WebResp.java" timestamp="1510802297947">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="13" />
@@ -6888,6 +6879,7 @@
         <mark key="^" line="15" column="53" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/cos/base/BaseModel.java" timestamp="1543221008851" />
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/KeyModifyListener.java" timestamp="1497598134143">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="6" column="44" />
@@ -9072,6 +9064,7 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-models/1.5.20/swagger-models-1.5.20-sources.jar!/io/swagger/models/Swagger.java" timestamp="1543237165450" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1509523236391">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="26" />
@@ -9341,6 +9334,12 @@
         <mark key="]" line="41" column="13" />
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/Http.java" timestamp="1543368697936">
+        <mark key="[" line="32" column="57" />
+        <mark key="]" line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-mybatis/src/main/java/com/meizu/modularize/mybatis/StoreAsJsonTypeHandler.java" timestamp="1508397735832">
         <mark key="[" line="46" column="4" />
@@ -9738,7 +9737,7 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543220328357">
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543368575462">
         <mark key="[" line="42" column="13" />
         <mark key="]" line="42" column="13" />
         <mark key="." line="42" column="13" />
@@ -10427,38 +10426,38 @@
       <register name="/" type="4">
         <text>jmx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJQ29uZGl0aW9uLjxUYXNrPmxhbWJkYSgpCgkJCQkuZXEoVGFzazo6Z2V0VXNlcklkLCB1c2VySWQpCgkJCQkuaW4oVGFzazo6Z2V0U3RhdHVzLCBUQUtFTiwgUkVKRUNURUQpCgkJCQkuZ3QoVGFzazo6Z2V0RXhwaXJlZFRpbWUsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQo=</text>
+      <register name="0" type="4">
+        <text>&quot;没有找到Http实现,需要Apache HttpClient或OkHttp&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLgo=</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oImJhaWR1ID0gIiArIGJhaWR1KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlIdHRwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjbi51Yy5wcC5jb3Mub3Blbi5jYWNoZS5DYWNoZUNvbmZpZ3VyYXRpb24uVEFTS19DQUNIRV9QUkVGSVg7Cg==</text>
+        <text encoding="base64">CQkJLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIHRhc2tDb3VudCA9IHRhc2tNYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQltZXRob2QuZ2V0UmVjZWl2ZXJQYXJhbWV0ZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjbi51Yy5wcC5jb3Mub3Blbi5jYWNoZS5DYWNoZUNvbmZpZ3VyYXRpb24uVEFTS19DQUNIRV9QUkVGSVg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">CQlJbnRlZ2VyIHRhc2tDb3VudCA9IHRhc2tNYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLmZpbHRlcihEb2NQcmVkaWNhdGVzOjppc0FwaU9wZXJhdGlvbikK</text>
+        <text encoding="base64">CQltZXRob2QuZ2V0UmVjZWl2ZXJQYXJhbWV0ZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLmZsYXRNYXAodGQgLT4gdGQuZ2V0TWV0aG9kcygpLnN0cmVhbSgpKQo=</text>
+        <text encoding="base64">CQkJLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLm1hcChEb2NUeXBlUGFyc2VDb250ZXh0OjpvZikK</text>
+        <text encoding="base64">CQkJLmZpbHRlcihEb2NQcmVkaWNhdGVzOjppc0FwaU9wZXJhdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
