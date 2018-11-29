@@ -69,12 +69,6 @@
         <mark key="^" line="2" column="71" />
         <mark key="." line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/PageResponse.java" timestamp="1543455837352">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/service/impl/OpBehaviorLogServiceImpl.java" timestamp="1543461164266">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="17" />
@@ -91,11 +85,11 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/GlobalServiceException.java" timestamp="1543410738736">
-        <mark key="[" line="33" column="61" />
-        <mark key="]" line="34" column="2" />
-        <mark key="^" line="34" column="2" />
-        <mark key="." line="34" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/GlobalServiceException.java" timestamp="1543487966095">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+        <mark key="." line="23" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/ForbiddenException.java" timestamp="1543410845272" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543410514606">
@@ -151,6 +145,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/Throwaway.java" timestamp="1543301546989">
         <mark key="[" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" timestamp="1543488007071">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+        <mark key="." line="68" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageReq.java" timestamp="1542176714431">
         <mark key="[" line="11" column="20" />
@@ -296,6 +296,12 @@
         <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" timestamp="1543409022314" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/user/api/UserApi.java" timestamp="1543487932693">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="40" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="20" column="40" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/middleware/logger.core/0.2.5/logger.core-0.2.5-sources.jar!/com/taobao/middleware/logger/LoggerFactory.java" timestamp="1543395162113" />
       <file name="/dummy.sql" timestamp="1542867318427">
         <mark key="[" line="0" column="0" />
