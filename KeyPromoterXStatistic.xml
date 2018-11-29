@@ -5,7 +5,7 @@
         <Item>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Row">
@@ -14,6 +14,14 @@
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cancel Running Statements">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Cancel Running Statements</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -39,12 +47,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'⌃⌘↑'</ShortCut>
+          <Description>DDL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>14</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -60,14 +76,38 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'InputSourceSwitcher2'">
+      <Statistic Action="Debug 'Temp suite'">
         <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'InputSourceSwitcher2'</Description>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Temp suite'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Tests in 'cn.uc.pp.cos.admin.user''">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Tests in 'cn.uc.pp.cos.admin.user''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Tests in 'cn.uc.pp.cos.open''">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Tests in 'cn.uc.pp.cos.open''</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Tests in 'cn.uc.pp.cos.open.user''">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Tests in 'cn.uc.pp.cos.open.user''</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -84,7 +124,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>560</Count>
+          <Count>1054</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -92,7 +132,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -131,7 +171,7 @@
           <IdeaActionID>Debugger.EditArrayFilter</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -139,7 +179,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>32</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -179,7 +219,7 @@
           <IdeaActionID>DatabaseView.CopyDdlAction</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Generate DDL to Clipboard</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Console">
@@ -210,7 +250,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -218,6 +258,14 @@
           <ShortCut>'⌘+P'</ShortCut>
           <Description>In Project</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -228,20 +276,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Maven">
-        <Item>
-          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
-          <ShortCut>'⌃⇧⌘M'</ShortCut>
-          <Description>Maven</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Maven Projects">
         <Item>
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌘M'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>22</Count>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Column...">
@@ -257,7 +305,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>79</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -291,6 +339,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌃T, P' or '⌘P'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
@@ -307,12 +363,44 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Quick Evaluate Expression">
+        <Item>
+          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
+          <Description>Quick Evaluate Expression</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'cos-admin'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'cos-admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'cos-base'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'cos-base'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'cos-open'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'cos-open'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reimport All Maven Projects">
         <Item>
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>17</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -327,7 +415,7 @@
         <Item>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Remove</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Filter">
@@ -354,6 +442,30 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>UsageView.Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AdminTaskApiTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AdminTaskApiTest'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Application'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Application'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Boot'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -370,11 +482,43 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DocParse'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DocParse'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InputSourceSwitcher2'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'InputSourceSwitcher2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OpenTaskApiTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OpenTaskApiTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SampleTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SampleTest (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SampleTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SampleTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -386,12 +530,76 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TaskApiTest.createArticleTask'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TaskApiTest.createArticleTask'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Throwaway'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Throwaway'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'cn.uc.pp.cos.admin in cos-admin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'cn.uc.pp.cos.admin in cos-admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'cn.uc.pp.cos.admin.user in cos-admin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'cn.uc.pp.cos.admin.user in cos-admin'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'cos-modularized'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'cos-modularized'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'cos-start'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'cos-start'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'hadix-test-application'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'hadix-test-application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ideavim_extension [runIde]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ideavim_extension [runIde]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'input-source-switcher [runIde]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'input-source-switcher [runIde]'</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'luckbuy-container'">
@@ -400,6 +608,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'luckbuy-container'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'pp-admin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'pp-admin'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'util'">
@@ -439,7 +655,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>34</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -458,28 +674,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'HelloWorld'">
+      <Statistic Action="Run 'Tests in 'cn.uc.pp.cos.admin''">
         <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'HelloWorld'</Description>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'cn.uc.pp.cos.admin''</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'InputSourceSwitcher2'">
+      <Statistic Action="Run 'Tests in 'cn.uc.pp.cos.admin.user''">
         <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'InputSourceSwitcher2'</Description>
-          <Count>3</Count>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'cn.uc.pp.cos.admin.user''</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'WindowsInputSourceSwitcher'">
+      <Statistic Action="Run 'Tests in 'cn.uc.pp.cos.open''">
         <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'WindowsInputSourceSwitcher'</Description>
-          <Count>1</Count>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'cn.uc.pp.cos.open''</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'util'">
@@ -520,6 +736,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Visualisation...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Visualisation...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Source Editor">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
@@ -528,20 +752,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Split Vertically">
-        <Item>
-          <IdeaActionID>SplitVertically</IdeaActionID>
-          <ShortCut>'⌃⌘L'</ShortCut>
-          <Description>Split Vertically</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -549,7 +773,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>11</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -558,6 +782,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminTaskApiTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AdminTaskApiTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Application'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Boot'">
@@ -592,12 +832,52 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OpenTaskApiTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OpenTaskApiTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RedisTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RedisTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Throwaway'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Throwaway'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'cn.uc.pp.cos in cos-start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'cn.uc.pp.cos in cos-start'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'cos-modularized'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'cos-modularized'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'cos-start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'cos-start'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'create-table-tool'">
@@ -630,6 +910,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'luckbuy-container'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pp-admin'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pp-admin'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'util'">
@@ -669,7 +957,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -677,7 +965,15 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>24</Count>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -701,7 +997,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -709,7 +1005,23 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>3</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Vim Emulator">
+        <Item>
+          <IdeaActionID>VimPluginToggle</IdeaActionID>
+          <ShortCut>'⌃⌥V'</ShortCut>
+          <Description>Vim Emulator</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>UML.ZoomIn</IdeaActionID>
+          <ShortCut>'⌘+' or '⌘='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>

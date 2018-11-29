@@ -8,6 +8,14 @@
       <display-name>DocGroup.setPathPattern (com.meizu.modularize.doc)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPathPattern").withParameters("java.lang.String").definedInClass("com.meizu.modularize.doc.DocGroup"))]]></place>
     </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>OnClassLoadEvent.classNameRegexp (org.hotswap.agent.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("classNameRegexp").withParameters().definedInClass("org.hotswap.agent.annotation.OnClassLoadEvent")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Sql.value (org.springframework.test.context.jdbc)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.test.context.jdbc.Sql")]]></place>
+    </injection>
     <injection language="RegExp" injector-id="xml">
       <display-name>property/@value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd")))]]></place>
