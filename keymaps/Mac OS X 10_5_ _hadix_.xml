@@ -5,6 +5,9 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta m" />
   </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta m" />
+  </action>
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
@@ -73,7 +76,7 @@
   </action>
   <action id="ShowReformatFileDialog" />
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
