@@ -21,6 +21,7 @@
       <file name="/a.dummy" timestamp="1543222933821">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/f_1.0.0.0/creator_open.sql" timestamp="1543471963707" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/HsfApiConfiguration.java" timestamp="1542870106654">
         <mark key="[" line="15" column="34" />
       </file>
@@ -241,6 +242,12 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/app/spring/util/common/HSFProperties.java" timestamp="1543472345311">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" timestamp="1543460299092">
         <mark key="'" line="51" column="46" />
         <mark key="[" line="67" column="0" />
@@ -361,6 +368,13 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable-hsf-buc-bugfix/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-hsf-buc-bugfix-sources.jar!/com/alibaba/boot/hsf/HsfProperties.java" timestamp="1543472316243">
+        <mark key="'" line="179" column="27" />
+        <mark key="[" line="179" column="28" />
+        <mark key="]" line="179" column="27" />
+        <mark key="^" line="179" column="27" />
+        <mark key="." line="179" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542276025242">
         <mark key="[" line="204" column="0" />
       </file>
@@ -372,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/Http.java" />
       <jump line="88" column="27" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="23" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
       <jump line="28" column="25" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
@@ -472,6 +485,7 @@
       <jump line="88" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
       <jump line="51" column="46" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" />
       <jump line="80" column="10" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" />
+      <jump line="179" column="27" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable-hsf-buc-bugfix/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-hsf-buc-bugfix-sources.jar!/com/alibaba/boot/hsf/HsfProperties.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
