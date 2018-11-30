@@ -18,7 +18,7 @@
       <file name="/File Header.txt.ft" timestamp="1542087401092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1543222933821">
+      <file name="/a.dummy" timestamp="1543572562707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/HsfApiConfiguration.java" timestamp="1542870106654">
@@ -225,6 +225,12 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/UserConfig.java" timestamp="1543042939285">
         <mark key="[" line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1543572584606">
+        <mark key="[" line="63" column="102" />
+        <mark key="]" line="64" column="2" />
+        <mark key="^" line="64" column="2" />
+        <mark key="." line="64" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" timestamp="1543461038826">
         <mark key="'" line="76" column="10" />
         <mark key="[" line="25" column="28" />
@@ -316,6 +322,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfInvokeInterceptor.java" timestamp="1543572228688">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1543569958904">
         <mark key="[" line="179" column="77" />
         <mark key="]" line="179" column="77" />
@@ -336,9 +348,6 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" timestamp="1543564864383">
-        <mark key="'" line="67" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/user/api/UserApi.java" timestamp="1543487932693">
         <mark key="[" line="20" column="41" />
@@ -559,34 +568,36 @@
         <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ic3ByaW5nZm94LmRvY3VtZW50YXRpb24uc3ByaW5nLndlYi5yZWFkZXJzLnBhcmFtZXRlci5QYXJhbWV0ZXJEYXRhVHlwZVJlYWRlciIgbGV2ZWw9IkVSUk9SIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMb25nIGRyYWZ0SWQgPSB0YXNrLmdldERyYWZ0SWQoKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJaW50ZXJjZXB0b3IuYmVmb3JlKGludGVyZmFjZU5hbWUsIG1ldGhvZE5hbWUsIHZlcnNpb24sIGFyZ1R5cGVzLCBhcmdzVmFsdWVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlBcnRpY2xlRHJhZnQgc2F2ZWREcmFmdCA9IGRyYWZ0TWFwcGVyLnNlbGVjdEJ5SWQoZHJhZnRJZCk7CgkJaWYgKHNhdmVkRHJhZnQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKEhzZkludm9rZUludGVyY2VwdG9yIGludGVyY2VwdG9yIDogaW50ZXJjZXB0b3JzKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+
+	}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0YXNrLnNldFN0YXR1cyhTdGF0dXMuSVNTVUVEKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHRhc2suZ2V0VHlwZSgpID09IFRhc2tUeXBlLlJFUFVCTElTSF9BUlRJQ0xFKSB7CgkJCXJldHVybiAxOwoJCX0gZWxzZSB7CgkJCXRocm93IG5ldyBBcmd1bWVudEV4Y2VwdGlvbigi5LiN5pSv5oyB6K+l5Lu75Yqh57G75Z6L5rS+5Y+RIiwgInR5cGU9IiArIHRhc2suZ2V0VHlwZSgpKTsKCQl9</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlMb25nIGRyYWZ0SWQgPSB0YXNrLmdldERyYWZ0SWQoKTsKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGFzay51cGRhdGVCeUlkKCk7Cg==</text>
+        <text encoding="base64">CQlBcnRpY2xlRHJhZnQgc2F2ZWREcmFmdCA9IGRyYWZ0TWFwcGVyLnNlbGVjdEJ5SWQoZHJhZnRJZCk7CgkJaWYgKHNhdmVkRHJhZnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdGFzay51cGRhdGVCeUlkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
