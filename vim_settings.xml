@@ -33,6 +33,12 @@
       <file name="/Interface.txt.ft" timestamp="1542087231165">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/DocMethodParseContext.kt" timestamp="1543595586807">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1543369627257">
         <mark key="[" line="116" column="25" />
         <mark key="]" line="116" column="25" />
@@ -95,9 +101,6 @@
         <mark key="]" line="53" column="41" />
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1543369733929">
-        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/app_ops.xml" timestamp="1543234119633">
         <mark key="[" line="51" column="9" />
@@ -162,6 +165,12 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/HelloWorld.kt" timestamp="1543594983284">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/service/impl/ArticleServiceImpl.java" timestamp="1542784358352">
         <mark key="[" line="21" column="29" />
       </file>
@@ -179,6 +188,12 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/TaskApi.kt" timestamp="1543595531912">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageResp.java" timestamp="1542176726836">
         <mark key="[" line="12" column="21" />
@@ -206,6 +221,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1543396200765">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/DocTypeParseContext.kt" timestamp="1543595712985">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
@@ -264,6 +285,13 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageReq.java" timestamp="1542176714431">
         <mark key="[" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/DocParse.kt" timestamp="1543595839603">
+        <mark key="'" line="59" column="27" />
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/user/dao/UserMapper.java" timestamp="1542620860499">
         <mark key="[" line="9" column="3" />
       </file>
@@ -287,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="24" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/cache/LocalKafkaProducer.java" />
       <jump line="52" column="42" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/admin/pom.xml" />
       <jump line="176" column="31" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
       <jump line="160" column="39" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" />
@@ -387,6 +414,7 @@
       <jump line="127" column="24" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/expr/AnnotationExpr.java" />
       <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/expr/AnnotationExpr.java" />
       <jump line="175" column="67" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.8.0/javaparser-core-3.8.0-sources.jar!/com/github/javaparser/ast/body/CallableDeclaration.java" />
+      <jump line="63" column="27" filename="$USER_HOME$/Documents/Projects/common-doc/src/main/java/DocParse.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -399,7 +427,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>@ApiParam(&quot;任务Id&quot;) @NotNull</text>
+        <text>, options</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -408,34 +436,34 @@
         <text encoding="base64">CQlMaXN0PFN0YXR1cz4gc3RhdHVzTGlzdCA9IHEuZ2V0U3RhdHVzTGlzdCgpOwoJCXF1ZXJ5V3JhcHBlci5pbihUYXNrOjpnZXRTdGF0dXMsIHN0YXR1c0xpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8a290bGluLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQodHlwZSkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMudHlwZQogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8a290bGluLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJvamVjdC5uYW1lPWNyZWF0b3Itb3Blbi1zZXJ2ZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlMaXN0PFN0YXR1cz4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLmFkbWluLmVuYWJsZWQ9dHJ1ZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmh0dHBjbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJvamVjdC5uYW1lPWNyZWF0b3Itb3Blbi1zZXJ2ZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlMaXN0PFN0YXR1cz4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLmFkbWluLmVuYWJsZWQ9dHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
