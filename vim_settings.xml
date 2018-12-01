@@ -31,11 +31,6 @@
         <mark key="^" line="57" column="2" />
         <mark key="." line="57" column="66" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/ac/admin/android_management-adv-client/1.0.0-SNAPSHOT/android_management-adv-client-1.0.0-20181127.092230-4-sources.jar!/cn/uc/pp/ac/admin/article/request/ArticleAuditQueryAllRequest.java" timestamp="1543634973756">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewArticleQuery.java" timestamp="1543634163417">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="21" column="26" />
@@ -283,11 +278,11 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/UserConfig.java" timestamp="1543042939285">
         <mark key="[" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1543651244400">
-        <mark key="[" line="57" column="36" />
-        <mark key="]" line="57" column="25" />
-        <mark key="^" line="57" column="25" />
-        <mark key="." line="57" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestProxy.java" timestamp="1543652396512">
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="74" column="46" />
+        <mark key="^" line="74" column="46" />
+        <mark key="." line="74" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/api/ArticleApi.java" timestamp="1543632834432">
         <mark key="[" line="18" column="70" />
@@ -384,11 +379,8 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfInvokeInterceptor.java" timestamp="1543572228688">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfInvokeInterceptor.java" timestamp="1543652195567">
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1543569958904">
         <mark key="[" line="179" column="77" />
@@ -488,10 +480,11 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1543652612355" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542276025242">
         <mark key="[" line="204" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1543649961972">
+      <file name="/fragment.java" timestamp="1543652177215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -611,7 +604,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9pZj4=</text>
+        <text encoding="base64">CQlTdHJpbmcgaW50ZXJmYWNlTmFtZSwgU3RyaW5nIG1ldGhvZE5hbWUsIFN0cmluZyB2ZXJzaW9uLCBTdHJpbmdbXSBhcmdUeXBlcywgT2JqZWN0W10gYXJnVmFsdWVz</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -619,35 +612,39 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB0YXNrIHQgbGVmdCBqb2luIGFydGljbGVfZHJhZnQgYSBvbiB0LmRyYWZ0X2lkPWEuaWQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CS8vQEFwaU1vZGVsUHJvcGVydHkoIuadpea6kCIpCgkvL3ByaXZhdGUgSW50ZWdlciBzb3VyY2U7CgkvL0BBcGlNb2RlbFByb3BlcnR5KCLniKzlj5bml7bpl7QiKQoJLy9wcml2YXRlIExvbmcgY3JlYXRlVGltZTsK</text>
+      <register name="1" type="4">
+        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
+				hsfRequest.getVersion(),
+				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWU9Y3JlYXRvci1vcGVuLXNlcnZlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW50ZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2lmPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icS5pZCAhPSBudWxsIG9yIHEudGl0bGUgIT0gbnVsbCBvciBxLnRhZ0lkcyAhPSBudWxsIj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9IiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlwdWJsaWMgU3RyaW5nIGdldEludGVyZmFjZU5hbWUoKSB7CgkJCXJldHVybiBpbnRlcmZhY2VOYW1lOwoJCX0KCgkJcHVibGljIFN0cmluZyBnZXRNZXRob2ROYW1lKCkgewoJCQlyZXR1cm4gbWV0aG9kTmFtZTsKCQl9CgoJCXB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKCQkJcmV0dXJuIHZlcnNpb247CgkJfQoKCQlwdWJsaWMgU3RyaW5nW10gZ2V0QXJnVHlwZXMoKSB7CgkJCXJldHVybiBhcmdUeXBlczsKCQl9CgoJCXB1YmxpYyBPYmplY3RbXSBnZXRBcmdzVmFsdWVzKCkgewoJCQlyZXR1cm4gYXJnc1ZhbHVlczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(), hsfRequest.getVersion(),
+				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICA8c3FsIGlkPSJmaW5kQXBwT3BzIj4KICAgICAgICBGUk9NCiAgICAgICAgYW5kcm9pZF9hcHBfZGV0YWlsX29wcyBvcHMKICAgICAgICA8aWYgdGVzdD0icmVxLmFwcE5hbWUgIT0gbnVsbCI+CiAgICAgICAgICAgIExFRlQgSk9JTiBzeW5jX2FwcCBBUyBhcHAgT04gb3BzLmFwcF9pZCA9IGFwcC5hcHBfaWQKICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJyZXEuYWRJZCAhPSBudWxsIj4KICAgICAgICAgICAgTEVGVCBKT0lOIHY5X3Bvc3Rlcl9hcHBfcmVsIGFkUmVsIE9OIG9wcy5hcHBfaWQgPSBhZFJlbC5hcHBfaWQKICAgICAgICA8L2lmPgogICAgICAgIDx3aGVyZT4KICAgICAgICAgICAgb3BzLnN0YXR1cyA9IDEKICAgICAgICAgICAgQU5EIG9wcy5jb250ZW50IElTIE5PVCBOVUxMCiAgICAgICAgICAgIEFORCBvcHMuY29udGVudCAhPSAnJwogICAgICAgICAgICBBTkQgb3BzLmFidGVzdF9lbmdhZ2VtZW50X2lkIElTIE5VTEwKICAgICAgICAgICAgPGlmIHRlc3Q9InJlcS5wcm9kdWN0VHlwZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGFuZCBvcHMucHJvZHVjdF90eXBlID0gI3tyZXEucHJvZHVjdFR5cGV9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEuYXBwSWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBhbmQgb3BzLmFwcF9pZCA9ICN7cmVxLmFwcElkfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVxLmFwcE5hbWUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBhbmQgYXBwLmFwcF9uYW1lIGxpa2UgY29uY2F0KCclJywje3JlcS5hcHBOYW1lfSwnJScpCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEub3BlcmF0aW9uICE9IG51bGwiPgogICAgICAgICAgICAgICAgYW5kIG9wcy5vcGVyYXRpb24gPSAje3JlcS5vcGVyYXRpb259CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEuYWRJZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGFuZCBhZFJlbC5hZF9pZCA9ICN7cmVxLmFkSWR9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEudHlwZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGFuZCBvcHMudHlwZSA9ICN7cmVxLnR5cGV9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEub3BlcmF0ZVN0YXJ0VGltZSAhPSBudWxsIj4KICAgICAgICAgICAgICAgIGFuZCBvcHMudXBkYXRlX3RpbWUgPj0gI3tyZXEub3BlcmF0ZVN0YXJ0VGltZX0KICAgICAgICAgICAgICAgIDxpZiB0ZXN0PSJyZXEub3BlcmF0ZUVuZFRpbWUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAgICAgYW5kIG9wcy51cGRhdGVfdGltZSAmbHQ7ICN7cmVxLm9wZXJhdGVFbmRUaW1lfQogICAgICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPC9pZj4KICAgICAgICA8L3doZXJlPgogICAgPC9zcWw+CiAgICA8c2VsZWN0IGlkPSJmaW5kQXBwSWQiIHJlc3VsdFR5cGU9ImNuLnVjLnBwLmFkbWluLm1vZGVsLkFwcE9wcyRJbmRleCI+CiAgICAgICAgc2VsZWN0IG9wcy5hcHBfaWQsIG9wcy5wcm9kdWN0X3R5cGUKICAgICAgICA8aW5jbHVkZSByZWZpZD0iZmluZEFwcE9wcyIvPgogICAgICAgIEdST1VQIEJZIG9wcy5hcHBfaWQgLCBvcHMucHJvZHVjdF90eXBlCiAgICAgICAgT1JERVIgQlkgb3BzLnVwZGF0ZV90aW1lIERFU0MKICAgIDwvc2VsZWN0PgoKICAgIDxzZWxlY3QgaWQ9ImZpbmRPZmZsaW5lQXBwUmVsTGlzdCIgcmVzdWx0VHlwZT0iY24udWMucHAuYWRtaW4ubW9kZWwuQXBwT3BzIj4KICAgICAgICBzZWxlY3Qgb3BzLiogRlJPTSBhbmRyb2lkX2FwcF9kZXRhaWxfb3BzIEFTIG9wcwogICAgICAgIExFRlQgSk9JTiBzeW5jX2FwcCBBUyBhcHAgT04gb3BzLmFwcF9pZCA9IGFwcC5hcHBfaWQKICAgICAgICA8d2hlcmU+CiAgICAgICAgICAgIG9wcy50eXBlID0gMTIgYW5kIG9wcy5zdGF0dXMgPSAxIEFORCBvcHMuY29udGVudCBJUyBOT1QgTlVMTCBBTkQgb3BzLmNvbnRlbnQgIT0gJycKICAgICAgICAgICAgPGlmIHRlc3Q9InJlcS5zcmNQa2dOYW1lICE9IG51bGwiPgogICAgICAgICAgICAgICAgYW5kIGFwcC5wYWNrYWdlX25hbWUgPSAje3JlcS5zcmNQa2dOYW1lfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVxLmRlc1BrZ05hbWUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBhbmQgb3BzLmNvbnRlbnQgPSAje3JlcS5kZXNQa2dOYW1lfQogICAgICAgICAgICA8L2lmPgogICAgICAgIDwvd2hlcmU+CiAgICAgICAgb3JkZXIgYnkgb3BzLnVwZGF0ZV90aW1lIERFU0MKICAgIDwvc2VsZWN0Pg==</text>
+        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
+				hsfRequest.getVersion(), hsfRequest.getArgTypes(), hsfRequest.getArgsValues(</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
