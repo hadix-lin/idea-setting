@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/HsfApiConfiguration.java" timestamp="1542870106654">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1543650517979">
-        <mark key="'" line="52" column="47" />
-        <mark key="[" line="56" column="59" />
-        <mark key="]" line="57" column="2" />
-        <mark key="^" line="57" column="2" />
-        <mark key="." line="57" column="66" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1543662611597">
+        <mark key="'" line="51" column="47" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="^" line="274" column="55" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewArticleQuery.java" timestamp="1543634163417">
         <mark key="[" line="22" column="31" />
@@ -76,6 +76,12 @@
         <mark key="]" line="28" column="63" />
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/SubTask.java" timestamp="1543662595053">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
@@ -612,39 +618,37 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB0YXNrIHQgbGVmdCBqb2luIGFydGljbGVfZHJhZnQgYSBvbiB0LmRyYWZ0X2lkPWEuaWQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
-				hsfRequest.getVersion(),
-				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJTGlzdDw/IGV4dGVuZHMgVGFzaz4gdGFza3MgPSBuZXcgQXJyYXlMaXN0PFN1YlRhc2s+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+        <text encoding="base64">CQkJdGFza3MuYWRkKHRhc2spOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlwdWJsaWMgU3RyaW5nIGdldEludGVyZmFjZU5hbWUoKSB7CgkJCXJldHVybiBpbnRlcmZhY2VOYW1lOwoJCX0KCgkJcHVibGljIFN0cmluZyBnZXRNZXRob2ROYW1lKCkgewoJCQlyZXR1cm4gbWV0aG9kTmFtZTsKCQl9CgoJCXB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKCQkJcmV0dXJuIHZlcnNpb247CgkJfQoKCQlwdWJsaWMgU3RyaW5nW10gZ2V0QXJnVHlwZXMoKSB7CgkJCXJldHVybiBhcmdUeXBlczsKCQl9CgoJCXB1YmxpYyBPYmplY3RbXSBnZXRBcmdzVmFsdWVzKCkgewoJCQlyZXR1cm4gYXJnc1ZhbHVlczsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(), hsfRequest.getVersion(),
+      <register name="3" type="4">
+        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
+				hsfRequest.getVersion(),
 				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
       </register>
-      <register name="9" type="4">
-        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
-				hsfRequest.getVersion(), hsfRequest.getArgTypes(), hsfRequest.getArgsValues(</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlwdWJsaWMgU3RyaW5nIGdldEludGVyZmFjZU5hbWUoKSB7CgkJCXJldHVybiBpbnRlcmZhY2VOYW1lOwoJCX0KCgkJcHVibGljIFN0cmluZyBnZXRNZXRob2ROYW1lKCkgewoJCQlyZXR1cm4gbWV0aG9kTmFtZTsKCQl9CgoJCXB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKCQkJcmV0dXJuIHZlcnNpb247CgkJfQoKCQlwdWJsaWMgU3RyaW5nW10gZ2V0QXJnVHlwZXMoKSB7CgkJCXJldHVybiBhcmdUeXBlczsKCQl9CgoJCXB1YmxpYyBPYmplY3RbXSBnZXRBcmdzVmFsdWVzKCkgewoJCQlyZXR1cm4gYXJnc1ZhbHVlczsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
