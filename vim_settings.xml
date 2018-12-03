@@ -64,11 +64,11 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1543827802294">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="37" column="12" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1543832488142">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="^" line="47" column="13" />
+        <mark key="." line="47" column="13" />
       </file>
       <file name="/application.properties" timestamp="1542601392565">
         <mark key="[" line="17" column="30" />
@@ -298,11 +298,12 @@
         <mark key="^" line="33" column="98" />
         <mark key="." line="33" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1543829534269">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="35" column="51" />
-        <mark key="." line="35" column="51" />
-        <mark key="^" line="35" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1543832290534">
+        <mark key="'" line="30" column="35" />
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1543562576384">
         <mark key="[" line="116" column="25" />
@@ -611,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="11" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="33" column="11" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="114" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="77" column="53" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
@@ -711,6 +711,7 @@
       <jump line="521" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
       <jump line="349" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/Executable.java" />
       <jump line="254" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java" />
+      <jump line="30" column="35" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -728,40 +729,40 @@
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="4">
-        <text>concat('%',#{q.userName},'%')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aWYgdGVzdD0icS5zdGFydFRpbWUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZCB0LnN1Ym1pdF90aW1lID49ICN7cS5zdGFydFRpbWV9CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZiB0ZXN0PSJxLmVuZFRpbWUgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgdC5zdWJtaXRfdGltZSAmbHQ7ICN7cS5lbmRUaW1lfQogICAgICAgICAgICAgICAgICAgICAgICA8L2lmPgogICAgICAgICAgICAgICAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KCLmj5DkuqTkurrmmLXnp7AiKQoJcHJpdmF0ZSBTdHJpbmcgdXNlck5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhcGkgaWQ9IjQ0NCI+CiAgICAgICAgCiAgICA8L2FwaT4K</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KCLmj5DkuqTkurrmmLXnp7AiKQoJcHJpdmF0ZSBTdHJpbmcgdXNlck5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTGlzdDw/IGV4dGVuZHMgVGFzaz4gdGFza3MgPSBuZXcgQXJyYXlMaXN0PFN1YlRhc2s+KCk7Cg==</text>
+        <text encoding="base64">ICAgIDxhcGkgaWQ9IjQ0NCI+CiAgICAgICAgCiAgICA8L2FwaT4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQkJTGlzdDw/IGV4dGVuZHMgVGFzaz4gdGFza3MgPSBuZXcgQXJyYXlMaXN0PFN1YlRhc2s+KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJdGFza3MuYWRkKHRhc2spOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
 				hsfRequest.getVersion(),
 				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwdWJsaWMgU3RyaW5nIGdldEludGVyZmFjZU5hbWUoKSB7CgkJCXJldHVybiBpbnRlcmZhY2VOYW1lOwoJCX0KCgkJcHVibGljIFN0cmluZyBnZXRNZXRob2ROYW1lKCkgewoJCQlyZXR1cm4gbWV0aG9kTmFtZTsKCQl9CgoJCXB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKCQkJcmV0dXJuIHZlcnNpb247CgkJfQoKCQlwdWJsaWMgU3RyaW5nW10gZ2V0QXJnVHlwZXMoKSB7CgkJCXJldHVybiBhcmdUeXBlczsKCQl9CgoJCXB1YmxpYyBPYmplY3RbXSBnZXRBcmdzVmFsdWVzKCkgewoJCQlyZXR1cm4gYXJnc1ZhbHVlczsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
