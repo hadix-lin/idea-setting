@@ -82,7 +82,12 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/InterceptOrder.java" timestamp="1542679748562">
         <mark key="[" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/routes" timestamp="1543824351649" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/routes" timestamp="1543840991231">
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ParameterDataTypeReader.java" timestamp="1543544834123">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="19" />
@@ -216,11 +221,6 @@
       <file name="/HTML File.txt.ft" timestamp="1542087401058">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/favor/api/FavorApi.java" timestamp="1543819579107">
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/AuthIntercepter.java" timestamp="1542680774160">
         <mark key="[" line="6" column="28" />
       </file>
@@ -305,12 +305,12 @@
         <mark key="^" line="33" column="98" />
         <mark key="." line="33" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1543838733417">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1543842047388">
         <mark key="'" line="33" column="35" />
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1543562576384">
         <mark key="[" line="116" column="25" />
@@ -319,11 +319,6 @@
         <mark key="." line="116" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-utils/src/main/java/hadix/modularize/utils/NetworkUtils.java" timestamp="1543645490507" />
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543646812080">
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
@@ -404,6 +399,7 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1543841857679" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/SystemException.java" timestamp="1543411007011">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="26" column="2" />
@@ -522,11 +518,11 @@
         <mark key="^" line="107" column="27" />
         <mark key="." line="107" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1543818426099">
-        <mark key="[" line="113" column="38" />
-        <mark key="]" line="113" column="37" />
-        <mark key="^" line="113" column="37" />
-        <mark key="." line="113" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1543840973026">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="/Singleton.txt.ft" timestamp="1542087225765">
         <mark key="[" line="0" column="0" />
@@ -569,8 +565,11 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/api/dto/UserQuery.java" timestamp="1543038407664">
         <mark key="[" line="32" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b66f384-145c-4f65-b6f8-8d8c9eb18632/console.sql" timestamp="1543817095196">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b66f384-145c-4f65-b6f8-8d8c9eb18632/console.sql" timestamp="1543840635174">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="/package.json.txt.ft" timestamp="1542087222196">
         <mark key="[" line="0" column="0" />
@@ -731,45 +730,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9pZj4=</text>
+        <text>IDX_V9_APP_COLLECTION_UNIQUE_KEY</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgdGFnX2lkc2AgICAgICAgICAgIHZhcmNoYXIoNTAwKSAgICAgICAgICBERUZBVUxUIE5VTEwsCg==</text>
+        <text encoding="base64">ICBDT05TVFJBSU5UIFVLX1VTRVJfUkVTX0RBVEEgVU5JUVVFIChVU0VSX0lELCBSRVNfVFlQRSwgREFUQV9JRCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKCIiKQo=</text>
+        <text encoding="base64">ICBLRVkgSURYX1JFU19EQVRBIChSRVNfVFlQRSwgREFUQV9JRCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9ICkK</text>
+        <text encoding="base64">ICBLRVkgSURYX1JFU19EQVRBIChSRVNfVFlQRSwgREFUQV9JRCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDT05TVFJBSU5UIElEWF9WOV9BUFBfQ09MTEVDVElPTl9VTklRVUVfS0VZCiAgICBVTklRVUUgKFVURElELCBSRVNfVFlQRSwgREFUQV9JRCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KCLmj5DkuqTkurrmmLXnp7AiKQoJcHJpdmF0ZSBTdHJpbmcgdXNlck5hbWU7Cg==</text>
+        <text encoding="base64">ICBBQ0NPVU5UX1RZUEUgVElOWUlOVCgxKSBERUZBVUxUIDAgTlVMTCBDT01NRU5UICfotKblj7fnsbvlnosoMCwpJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxhcGkgaWQ9IjQ0NCI+CiAgICAgICAgCiAgICA8L2FwaT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTGlzdDw/IGV4dGVuZHMgVGFzaz4gdGFza3MgPSBuZXcgQXJyYXlMaXN0PFN1YlRhc2s+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGFza3MuYWRkKHRhc2spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>hsfRequest.getInterfaceName(), hsfRequest.getMethodName(),
-				hsfRequest.getVersion(),
-				hsfRequest.getArgTypes(), hsfRequest.getArgsValues()</text>
+      <register name="8" type="2">
+        <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9WOV9BUFBfQ09MTEVDVElPTl9VU0VSX0lECiAgT04gYDI1UFBfQU5EUk9JRF9ERVZgLkFORFJPSURfQVBQX0NPTExFQ1RJT04gKFVTRVJfSUQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmRvbWFpbi5IU0ZSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIElEWF9WOV9BUFBfQ09MTEVDVElPTl9EQVRBX0lECiAgT04gYDI1UFBfQU5EUk9JRF9ERVZgLkFORFJPSURfQVBQX0NPTExFQ1RJT04gKERBVEFfSUQpOwoKQ1JFQVRFIElOREVYIElEWF9WOV9BUFBfQ09MTEVDVElPTl9SRVNfVFlQRQogIE9OIGAyNVBQX0FORFJPSURfREVWYC5BTkRST0lEX0FQUF9DT0xMRUNUSU9OIChSRVNfVFlQRSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
