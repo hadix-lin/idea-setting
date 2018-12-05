@@ -258,10 +258,10 @@
         <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1543989971308">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="54" column="2" />
-        <mark key="." line="54" column="2" />
-        <mark key="^" line="54" column="2" />
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="51" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543559241560">
         <mark key="[" line="54" column="40" />
@@ -485,6 +485,13 @@
         <mark key="]" line="18" column="34" />
         <mark key="^" line="18" column="34" />
         <mark key="." line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" timestamp="1543991794337">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="118" column="69" />
+        <mark key="]" line="118" column="70" />
+        <mark key="^" line="118" column="70" />
+        <mark key="." line="118" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/UserConfig.java" timestamp="1543042939285">
         <mark key="[" line="19" column="22" />
@@ -793,7 +800,7 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542276025242">
         <mark key="[" line="204" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1543924635895">
+      <file name="/fragment.java" timestamp="1543991810481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -801,7 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" />
       <jump line="72" column="25" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="148" column="46" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" />
@@ -901,6 +907,7 @@
       <jump line="46" column="3" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/logback-spring.xml" />
       <jump line="17" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/pom.xml" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.6.RELEASE/spring-boot-actuator-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
