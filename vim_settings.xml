@@ -259,12 +259,12 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544078440098">
-        <mark key="'" line="92" column="3" />
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="48" column="24" />
-        <mark key="." line="48" column="24" />
-        <mark key="^" line="48" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544080440052">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="72" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543559241560">
         <mark key="[" line="54" column="40" />
@@ -872,11 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="52" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/core/Application.java" />
       <jump line="83" column="16" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="282" column="23" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" />
@@ -972,6 +967,11 @@
       <jump line="494" column="35" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
       <jump line="521" column="17" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
+      <jump line="72" column="5" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
+      <jump line="29" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
