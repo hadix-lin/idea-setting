@@ -89,11 +89,6 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/dao/MybatisPlusUtils.java" timestamp="1544006473343">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1544068440783">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="47" />
@@ -145,11 +140,6 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/UID.java" timestamp="1544079035415">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" timestamp="1543998081178">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="23" />
@@ -189,12 +179,12 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/define.conf" timestamp="1544150192062">
+      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/define.conf" timestamp="1544151874929">
         <mark key="'" line="19" column="23" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="47" />
+        <mark key="^" line="106" column="47" />
+        <mark key="." line="106" column="47" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1542087401058">
         <mark key="[" line="0" column="0" />
@@ -255,11 +245,6 @@
         <mark key="]" line="51" column="12" />
         <mark key="^" line="51" column="12" />
         <mark key="." line="51" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/pom.xml" timestamp="1543980486750">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.0.8.4-sources.jar!/cn/uc/pp/common/util/common/domain/ApiRequest.java" timestamp="1544005988399">
         <mark key="[" line="0" column="42" />
@@ -489,7 +474,8 @@
       <file name="/Class.txt.ft" timestamp="1542087230147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/app/utils/ApiWhiteList.java" timestamp="1544150474247">
+      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/app/utils/ApiWhiteList.java" timestamp="1544151577949">
+        <mark key="'" line="105" column="37" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
@@ -626,8 +612,9 @@
       <file name="/25pp_android.abtest_engagement [admin-test]" timestamp="1543571047357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544148002310">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544152354064">
         <mark key="'" line="184" column="15" />
+        <mark key="z" line="71" column="0" />
         <mark key="[" line="108" column="43" />
         <mark key="]" line="109" column="7" />
         <mark key="^" line="109" column="7" />
@@ -852,6 +839,12 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/application.conf" timestamp="1544151834688">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/user/api/UserApi.java" timestamp="1543487932693">
         <mark key="[" line="20" column="41" />
         <mark key="]" line="20" column="40" />
@@ -926,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
       <jump line="51" column="46" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" />
       <jump line="80" column="10" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" />
       <jump line="179" column="27" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable-hsf-buc-bugfix/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-hsf-buc-bugfix-sources.jar!/com/alibaba/boot/hsf/HsfProperties.java" />
@@ -1026,6 +1018,7 @@
       <jump line="98" column="36" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="170" column="15" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="19" column="23" filename="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/define.conf" />
+      <jump line="105" column="37" filename="$USER_HOME$/Documents/Projects/android-pp-proxy/app/utils/ApiWhiteList.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
