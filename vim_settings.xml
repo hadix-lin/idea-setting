@@ -22,11 +22,11 @@
         <mark key="." line="387" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/env/secret.properties" timestamp="1544065661255" />
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Cmd.java" timestamp="1544060050059">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="18" column="9" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="18" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Cmd.java" timestamp="1544411296790">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1544260888686">
         <mark key="[" line="0" column="0" />
@@ -61,11 +61,11 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Query.java" timestamp="1544060093167">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Query.java" timestamp="1544411235198">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/BizLogInterceptor.java" timestamp="1543566332068">
         <mark key="[" line="32" column="37" />
@@ -94,6 +94,11 @@
         <mark key="]" line="11" column="23" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/dao/MybatisPlusUtils.java" timestamp="1544006473343">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1544249666000">
         <mark key="[" line="21" column="44" />
@@ -146,17 +151,22 @@
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/UID.java" timestamp="1544411181197">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" timestamp="1543998081178">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="23" />
         <mark key="^" line="70" column="23" />
         <mark key="." line="70" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" timestamp="1544263236979">
-        <mark key="[" line="761" column="26" />
-        <mark key="]" line="761" column="25" />
-        <mark key="." line="761" column="25" />
-        <mark key="^" line="761" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" timestamp="1544411872270">
+        <mark key="[" line="518" column="19" />
+        <mark key="]" line="518" column="18" />
+        <mark key="." line="518" column="18" />
+        <mark key="^" line="518" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/GlobalServiceException.java" timestamp="1543559295001">
         <mark key="[" line="44" column="5" />
@@ -279,18 +289,23 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" timestamp="1544259571806">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="37" />
-        <mark key="." line="67" column="37" />
-        <mark key="^" line="67" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" timestamp="1544411389922">
+        <mark key="'" line="78" column="37" />
+        <mark key="[" line="66" column="35" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="66" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-model/pom.xml" timestamp="1544254501608">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Argument.java" timestamp="1544007419765">
         <mark key="[" line="12" column="21" />
@@ -542,11 +557,12 @@
         <mark key="^" line="69" column="13" />
         <mark key="." line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1544408921511">
-        <mark key="[" line="136" column="49" />
-        <mark key="]" line="137" column="15" />
-        <mark key="." line="137" column="15" />
-        <mark key="^" line="137" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1544411481697">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="120" column="39" />
+        <mark key="]" line="120" column="38" />
+        <mark key="." line="120" column="38" />
+        <mark key="^" line="120" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/InterceptOrder.java" timestamp="1542679748562">
         <mark key="[" line="16" column="53" />
@@ -904,10 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
-      <jump line="128" column="2" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
-      <jump line="67" column="26" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" />
-      <jump line="89" column="36" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring-dev.xml" />
       <jump line="90" column="6" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring-dev.xml" />
       <jump line="58" column="2" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" />
@@ -1004,6 +1016,10 @@
       <jump line="75" column="76" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
+      <jump line="14" column="42" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
+      <jump line="74" column="18" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
+      <jump line="79" column="37" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1016,7 +1032,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text encoding="base64">Q29uZGl0aW9uLjxXaXRoVXRkSWQ+bGFtYmRhKCkuZXEoV2l0aFV0ZElkOjpnZXRVdGRJZCwgdWlkLmdldFV0ZElkKCkp</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
@@ -1025,34 +1041,36 @@
         <text>needRemoveCache</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGFpZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y24udWMucHA8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBwLXNlcnZpY2UtY29tbW9uLXBwY2FjaGU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICB1dGQuc2V0U3RhdHVzKDApOwogICAgICAgIHV0ZC5zZXRVcGRhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Q29uZGl0aW9uLjxXaXRoVXRkSWQ+bGFtYmRhKCkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXRkSWQ6OmdldFV0ZElkLCB1dGQuZ2V0VXRkSWQoKSkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXRkSWQ6OmdldElkLCB1dGQuZ2V0SWQoKSk=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IENvbmRpdGlvbi48V2l0aFVzZXJJZD5sYW1iZGEoKQogICAgICAgICAgICAgICAgLmVxKFdpdGhVc2VySWQ6OmdldFVzZXJJZCwgdS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXNlcklkOjpnZXRJZCwgdS5nZXRJZCgpKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnZVJlc3BvbnNlPExvbmc+IGZvbGxvd0FwcHMgPSBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text>.eq(WithUserId::getUserId, u.getUserId())
+                .eq(WithUserId::getResType, u.getResType())
+                .eq(WithUserId::getDataId, u.getDataId()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiBhcHBJZHMgPSBmb2xsb3dBcHBzLnN0cmVhbSgpLm1hcChMb25nOjppbnRWYWx1ZSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGNvbnRlbnQgPSBwLmdldENvbnRlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y24udWMucHA8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBwLXNlcnZpY2UtY29tbW9uLXBwY2FjaGU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnAuc2V0TmV4dE9mZnNldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
