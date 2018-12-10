@@ -13,7 +13,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Running Statements">
@@ -37,6 +37,14 @@
           <ShortCut>'⌃⇧F4'</ShortCut>
           <Description>Close</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Table to...">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyTable</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Copy Table to...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -132,7 +140,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -265,7 +273,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -997,7 +1005,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
