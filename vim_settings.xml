@@ -427,6 +427,13 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.0-SNAPSHOT/common-parent-1.2.0-SNAPSHOT.pom" timestamp="1544172329985" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" timestamp="1544413632275">
+        <mark key="'" line="73" column="28" />
+        <mark key="[" line="523" column="41" />
+        <mark key="]" line="523" column="40" />
+        <mark key="." line="523" column="40" />
+        <mark key="^" line="523" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/service/impl/ArticleServiceImpl.java" timestamp="1543999268952">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="32" />
@@ -557,9 +564,9 @@
         <mark key="^" line="69" column="13" />
         <mark key="." line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1544411481697">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1544413552015">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="120" column="39" />
+        <mark key="[" line="123" column="42" />
         <mark key="]" line="120" column="38" />
         <mark key="." line="120" column="38" />
         <mark key="^" line="120" column="38" />
@@ -920,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="6" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring-dev.xml" />
       <jump line="58" column="2" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/ArticleDraft.java" />
       <jump line="18" column="43" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
@@ -1020,6 +1026,7 @@
       <jump line="74" column="18" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
       <jump line="79" column="37" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
+      <jump line="73" column="28" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1041,33 +1048,33 @@
         <text>needRemoveCache</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGFpZDsK</text>
+        <text encoding="base64">CQlTdHJpbmcgYWlkID0gSnNvblV0aWwuZ2V0U3RyaW5nKGpzb24sICJhaWQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQl1aWQuc2V0QWlkKGFpZCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGFpZDsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB1dGQuc2V0U3RhdHVzKDApOwogICAgICAgIHV0ZC5zZXRVcGRhdGVUaW1lKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Q29uZGl0aW9uLjxXaXRoVXRkSWQ+bGFtYmRhKCkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXRkSWQ6OmdldFV0ZElkLCB1dGQuZ2V0VXRkSWQoKSkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXRkSWQ6OmdldElkLCB1dGQuZ2V0SWQoKSk=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IENvbmRpdGlvbi48V2l0aFVzZXJJZD5sYW1iZGEoKQogICAgICAgICAgICAgICAgLmVxKFdpdGhVc2VySWQ6OmdldFVzZXJJZCwgdS5nZXRVc2VySWQoKSkKICAgICAgICAgICAgICAgIC5lcShXaXRoVXNlcklkOjpnZXRJZCwgdS5nZXRJZCgpKQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>.eq(WithUserId::getUserId, u.getUserId())
                 .eq(WithUserId::getResType, u.getResType())
                 .eq(WithUserId::getDataId, u.getDataId()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y24udWMucHA8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBwLXNlcnZpY2UtY29tbW9uLXBwY2FjaGU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
