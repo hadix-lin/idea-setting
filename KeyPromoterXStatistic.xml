@@ -132,7 +132,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1173</Count>
+          <Count>1184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -187,7 +187,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -512,6 +512,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OpenTaskApiTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PandoraSarVersionValidator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PandoraSarVersionValidator'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SampleTest (1)'">
