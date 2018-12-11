@@ -309,11 +309,11 @@
         <mark key="." line="66" column="37" />
         <mark key="^" line="66" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1544521524380">
-        <mark key="[" line="74" column="24" />
-        <mark key="]" line="73" column="19" />
-        <mark key="^" line="73" column="19" />
-        <mark key="." line="73" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1544529183200">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="19" />
+        <mark key="^" line="76" column="19" />
+        <mark key="." line="76" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
@@ -321,8 +321,8 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondPropertySourceLocator.java" timestamp="1544523007537">
-        <mark key="[" line="24" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondPropertySourceLocator.java" timestamp="1544529985338">
+        <mark key="[" line="30" column="54" />
         <mark key="]" line="43" column="8" />
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
@@ -516,7 +516,7 @@
       <file name="/dummy.sql" timestamp="1544514523284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544525703527">
+      <file name="/Dummy.txt" timestamp="1544529529285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
@@ -567,7 +567,7 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542276025242">
         <mark key="[" line="204" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544525703519">
+      <file name="/fragment.java" timestamp="1544529529279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -627,7 +627,7 @@
         <mark key="^" line="69" column="13" />
         <mark key="." line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/bootstrap.properties" timestamp="1544521514960">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/bootstrap.properties" timestamp="1544529175294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -826,6 +826,7 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.2.RELEASE/spring-cloud-context-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java" timestamp="1544530176356" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/TestUtils.java" timestamp="1543570031266">
         <mark key="[" line="26" column="38" />
       </file>
@@ -1166,34 +1167,34 @@
         <text encoding="base64">Y24udWMucHAuY29tbW9uLmJvb3QuZGlhbW9uZC5EaWFtb25kQXV0b0NvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLnRkZGwuCg==</text>
+        <text encoding="base64">cHAuZGlhbW9uZC5jb3M9YWRtaW4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5jb3JlLnRvb2xraXQuc3VwcG9ydC5Qcm9wZXJ0eTsK</text>
+        <text encoding="base64">c3ByaW5nLnRkZGwuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bXliYXRpcy1wbHVzLnZlcnNpb24+My4wLjU8L215YmF0aXMtcGx1cy52ZXJzaW9uPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5jb3JlLnRvb2xraXQuc3VwcG9ydC5Qcm9wZXJ0eTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bXliYXRpcy1wbHVzLnZlcnNpb24+My4wLjU8L215YmF0aXMtcGx1cy52ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRGlhbW9uZFByb3BlcnRpZXMgZGlhbW9uZFByb3BlcnRpZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBEaWFtb25kUHJvcGVydGllcygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRGlhbW9uZFByb3BlcnRpZXMgZGlhbW9uZFByb3BlcnRpZXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBEaWFtb25kUHJvcGVydGllcygpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4K</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHAuZGlhbW9uZC5jb3M9YWRtaW4K</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
+        <text encoding="base64">cHAuZGlhbW9uZC5jb3M9YWRtaW4K</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
