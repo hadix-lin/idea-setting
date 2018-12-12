@@ -90,13 +90,6 @@
       <file name="/user_behavior.user_behavior_follow_utd_id [user_behavior@11.3.166.67]" timestamp="1544514522931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" timestamp="1544593548474">
-        <mark key="'" line="1944" column="0" />
-        <mark key="[" line="1324" column="0" />
-        <mark key="]" line="1325" column="15" />
-        <mark key="." line="1325" column="15" />
-        <mark key="^" line="1325" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondProperties.java" timestamp="1544597941024">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -124,13 +117,6 @@
         <mark key="]" line="11" column="34" />
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.1.3.0-SNAPSHOT-sources.jar!/cn/uc/pp/common/util/constant/ErrorTypes.java" timestamp="1544607798472">
-        <mark key="'" line="36" column="32" />
-        <mark key="[" line="369" column="63" />
-        <mark key="]" line="369" column="62" />
-        <mark key="^" line="369" column="62" />
-        <mark key="." line="369" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1544495102429">
         <mark key="[" line="22" column="39" />
@@ -292,13 +278,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/ModuleAutoConfigurationPackages.java" timestamp="1544520840647">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="23" />
-        <mark key="." line="46" column="23" />
-        <mark key="^" line="46" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.0.8.4-sources.jar!/cn/uc/pp/common/util/common/domain/RequestJson.java" timestamp="1543822781664">
         <mark key="[" line="52" column="13" />
@@ -486,11 +465,11 @@
         <mark key="^" line="90" column="12" />
         <mark key="." line="90" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/ListTest.java" timestamp="1544612244369">
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="60" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="34" column="60" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/ListTest.java" timestamp="1544615698646">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="4" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1543219539241">
         <mark key="[" line="13" column="18" />
@@ -537,16 +516,17 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/BaseApi.java" timestamp="1543912352606">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1544614537120">
-        <mark key="[" line="107" column="29" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="107" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1544617752653">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="109" column="40" />
+        <mark key="]" line="109" column="39" />
+        <mark key="." line="109" column="39" />
+        <mark key="^" line="109" column="39" />
       </file>
       <file name="/dummy.sql" timestamp="1544609378972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544598319929">
+      <file name="/Dummy.txt" timestamp="1544615927860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
@@ -667,6 +647,10 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1544616977975">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="116" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/InterceptOrder.java" timestamp="1542679748562">
         <mark key="[" line="16" column="53" />
       </file>
@@ -754,12 +738,12 @@
       <file name="/25pp_android.abtest_engagement [admin-test]" timestamp="1543571047357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544610469825">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544615598868">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="223" column="13" />
-        <mark key="]" line="223" column="12" />
-        <mark key="." line="223" column="12" />
-        <mark key="^" line="223" column="12" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="49" />
+        <mark key="." line="67" column="49" />
+        <mark key="^" line="67" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/favor/AddTest.java" timestamp="1544605692137" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/startup/PandoraSarVersionValidator.java" timestamp="1544494627932">
@@ -1061,7 +1045,7 @@
         <mark key="^" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.6-SNAPSHOT/pp-service-common-ppcache-1.0.6-20181211.074101-4-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1544606864634" />
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.6-SNAPSHOT/pp-service-common-ppcache-1.0.6-20181211.074101-4-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1544617520259" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1543905166766">
         <mark key="[" line="244" column="31" />
         <mark key="]" line="244" column="30" />
@@ -1134,8 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.6.RELEASE/spring-boot-actuator-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" />
       <jump line="610" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" />
       <jump line="22" column="13" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" />
       <jump line="94" column="23" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
@@ -1234,6 +1216,8 @@
       <jump line="145" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="36" column="32" filename="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.1.3.0-SNAPSHOT-sources.jar!/cn/uc/pp/common/util/constant/ErrorTypes.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1255,34 +1239,34 @@
         <text encoding="base64">ICAgICAgICBMb25nIHVpZCA9IDEwMDAyNDRMOwogICAgICAgIFN0cmluZyB1dGRpZCA9ICI0MzQzMjQ1MzI0MjQzMjMiOwogICAgICAgIGludCBkYXRhSWQgPSAyMjc5OTsKICAgICAgICBSZXNUeXBlIHJlc1R5cGUgPSBSZXNUeXBlLkdBTUU7CiAgICAgICAgU3RyaW5nIHVzZXJUb2tlbiA9IFVzZXJUb2tlblV0aWwuZ2VuZXJhdGVVc2VyVG9rZW4odWlkKTsKICAgICAgICBTdHJpbmcgcmVxID0gUmVxdWVzdCgpCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInVzZXJUb2tlbiIsIHVzZXJUb2tlbikKICAgICAgICAgICAgLnNldERhdGFWYWx1ZSgiZGF0YUlkIiwgZGF0YUlkKQogICAgICAgICAgICAuc2V0RGF0YVZhbHVlKCJyZXNUeXBlIiwgcmVzVHlwZSkKICAgICAgICAgICAgLnNldEV4VmFsdWUoInV0ZGlkIiwgdXRkaWQpCiAgICAgICAgICAgIC5nZXRTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcmVzcCA9IHBvc3QocmVxKTsKICAgICAgICBKc29uQXNzZXJ0KHJlc3ApLmFzc2VydEVxdWFscygyMDAwMDAwLCAic3RhdGUuY29kZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQXNzZXJ0KHJlc3ApLmFzc2VydEVxdWFscygyMDAwMDAwLCAic3RhdGUuY29kZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQXNzZXJ0KHJlc3ApLmFzc2VydEVxdWFscygyMDAwMDAwLCAic3RhdGUuY29kZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXRkaWQgPSAicnl1ZXdvdmlvY2hrZiI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RSZW1vdmUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXRkaWQgPSAicnl1ZXdvdmlvY2hrZiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjbGFzcyI6ICJjbi51Yy5wcC5jb21tb24uYmFzZS5hcGkuR2VuZXJhbFJlc3BvbnNlIgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RSZW1vdmUoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
