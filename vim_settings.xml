@@ -186,6 +186,7 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/dev.properties" timestamp="1544691646041" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" timestamp="1544596857481">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="137" column="12" />
@@ -513,6 +514,12 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/basicData/NewAppBasicData.java" timestamp="1544690379643">
+        <mark key="[" line="265" column="24" />
+        <mark key="]" line="265" column="23" />
+        <mark key="^" line="265" column="23" />
+        <mark key="." line="265" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/enums/sort/AndroidCardGroupSortEnum.java" timestamp="1543455310886">
         <mark key="[" line="44" column="13" />
         <mark key="]" line="44" column="12" />
@@ -543,12 +550,11 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/BaseApi.java" timestamp="1543912352606">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1544689031670">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="104" column="78" />
-        <mark key="]" line="104" column="78" />
-        <mark key="." line="104" column="78" />
-        <mark key="^" line="104" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1544690943506">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1544685609025">
         <mark key="[" line="0" column="0" />
@@ -577,16 +583,17 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewArtcileQuery.java" timestamp="1543633487614">
         <mark key="[" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/PageRequest.java" timestamp="1544619390462">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/dto/FollowDto.java" timestamp="1543917814688">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="21" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/common/GroupDataSourceRouteHelper.java" timestamp="1544690780046">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="/package.json.txt.ft" timestamp="1542087222196">
         <mark key="[" line="0" column="0" />
@@ -764,11 +771,11 @@
         <mark key="^" line="38" column="17" />
         <mark key="." line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/userfollow/ListTest.java" timestamp="1544684836996">
-        <mark key="[" line="127" column="7" />
-        <mark key="]" line="127" column="6" />
-        <mark key="^" line="127" column="6" />
-        <mark key="." line="127" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/userfollow/ListTest.java" timestamp="1544691584071">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="159" column="7" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/pom.xml" timestamp="1543234888248">
         <mark key="[" line="47" column="21" />
@@ -1092,6 +1099,7 @@
         <mark key="^" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/userfollow/ListTest/testNoFollowApp_hsf_mock.properties" timestamp="1544691588036" />
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/pp-service-common-ppcache/1.0.6-SNAPSHOT/pp-service-common-ppcache-1.0.6-20181211.074101-4-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1544617520259" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1543905166766">
         <mark key="[" line="244" column="31" />
@@ -1289,37 +1297,37 @@
         <text>user_be</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5by65Yi25Yi35paw57yT5a2YCiAgICAgICAgICAgICAgICBSb3V0ZUhlbHBlci5leGVjdXRlQnlEQigiMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVxdWVzdCA9IFJlcXVlc3QoKS5zZXRFeFZhbHVlKCJhaWQiLCBhaWQpLnNldEV4VmFsdWUoInBvcyIsICJwcC9kZXRhaWwiKQogICAgICAgICAgICAuc2V0RXhWYWx1ZSgidXRkaWQiLCAiVk11OXVjREIwQW9EQUxTTVBKZnNST3F0Iikuc2V0Q2xpZW50VVVJRCh1dWlkKS5zZXRFeFZhbHVlKCJvc1ZlcnNpb24iLCAyMikKICAgICAgICAgICAgLnNldENsaWVudFZlcnNpb25Db2RlKDE3NTEpLnNldENsaWVudFZOYW1lKCI1LjcuMCIpLnNldEV4VmFsdWUoInByb2R1Y3RJZCIsIDIwMTEpCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInJlc1R5cGUiLCByZXNUeXBlKS5zZXREYXRhVmFsdWUoInBhZ2UiLCAxKS5zZXREYXRhVmFsdWUoImNvdW50IiwgMTApCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInVzZXJUb2tlbiIsIHVzZXJUb2tlbikuZ2V0U3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIHJlc3BvbnNlID0gdGhpcy5wb3N0KHJlcXVlc3QpOwogICAgICAgIEpzb25Bc3NlcnQocmVzcG9uc2UpLmFzc2VydEVxdWFsc1dpdGhGaWxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBkYXRlIDIwMTgtMTItMTMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZExvY2FsVXRpbC5yZW1vdmUoKQo=</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3Igemhhbmd6Zgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJvdXRlSGVscGVyLmV4ZWN1dGVCeURCKCJ0ZGRsX2dyb3VwXzAiKTsK</text>
+        <text encoding="base64">ICAgICAqIEBkYXRlIDIwMTgtMTItMTMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJvdXRlSGVscGVyLmV4ZWN1dGVCeURCKCJVU0VSQkVIQVZJT1JTRVJWSUNFXzE4MTI1MTM4X1VTRVJfQkVIQVZJT1JfMF9HUk9VUCIpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3Igemhhbmd6Zgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJvdXRlSGVscGVyLmV4ZWN1dGVCeURCKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBkYXRlIDIwMTgtMTItMTMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJvdXRlSGVscGVyLmV4ZWN1dGVCeURCKCJ0ZGRsX2dyb3VwXzAiKTsK</text>
+        <text encoding="base64">ICAgICAqIEBhdXRob3Igemhhbmd6Zgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldERhdGFWYWx1ZSgidXNlclRva2VuIiwgdXNlclRva2VuKS5nZXRTdHJpbmcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVxdWVzdCA9IFIK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
