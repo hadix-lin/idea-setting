@@ -33,7 +33,7 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1544610061726">
+      <file name="/a.dummy" timestamp="1544670267089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/f_1.0.0.0/creator_open.sql" timestamp="1543994872708">
@@ -200,7 +200,12 @@
         <mark key="^" line="56" column="27" />
         <mark key="." line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" timestamp="1544608134237" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" timestamp="1544670372903">
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="73" column="55" />
+        <mark key="." line="73" column="55" />
+        <mark key="^" line="73" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/ArgumentException.java" timestamp="1543410745855">
         <mark key="[" line="34" column="93" />
         <mark key="]" line="35" column="2" />
@@ -746,12 +751,12 @@
       <file name="/25pp_android.abtest_engagement [admin-test]" timestamp="1543571047357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544615598868">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="49" />
-        <mark key="." line="67" column="49" />
-        <mark key="^" line="67" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1544670415136">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/favor/AddTest.java" timestamp="1544605692137" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/startup/PandoraSarVersionValidator.java" timestamp="1544494627932">
@@ -1193,7 +1198,6 @@
       <jump line="246" column="14" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="242" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="221" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
-      <jump line="97" column="24" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="75" column="76" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
@@ -1226,6 +1230,7 @@
       <jump line="36" column="32" filename="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.1.3.0-SNAPSHOT-sources.jar!/cn/uc/pp/common/util/constant/ErrorTypes.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1238,43 +1243,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UGFnZVJlcXVlc3QgcGFnZSwg</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHVpZCA9IDEwMDAyNDRMOwogICAgICAgIFN0cmluZyB1dGRpZCA9ICI0MzQzMjQ1MzI0MjQzMjMiOwogICAgICAgIGludCBkYXRhSWQgPSAyMjc5OTsKICAgICAgICBSZXNUeXBlIHJlc1R5cGUgPSBSZXNUeXBlLkdBTUU7CiAgICAgICAgU3RyaW5nIHVzZXJUb2tlbiA9IFVzZXJUb2tlblV0aWwuZ2VuZXJhdGVVc2VyVG9rZW4odWlkKTsKICAgICAgICBTdHJpbmcgcmVxID0gUmVxdWVzdCgpCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInVzZXJUb2tlbiIsIHVzZXJUb2tlbikKICAgICAgICAgICAgLnNldERhdGFWYWx1ZSgiZGF0YUlkIiwgZGF0YUlkKQogICAgICAgICAgICAuc2V0RGF0YVZhbHVlKCJyZXNUeXBlIiwgcmVzVHlwZSkKICAgICAgICAgICAgLnNldEV4VmFsdWUoInV0ZGlkIiwgdXRkaWQpCiAgICAgICAgICAgIC5nZXRTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgcmVzcCA9IHBvc3QocmVxKTsKICAgICAgICBKc29uQXNzZXJ0KHJlc3ApLmFzc2VydEVxdWFscygyMDAwMDAwLCAic3RhdGUuY29kZSIpOwo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHByaXZhdGUgQXBwU2VydmljZSBhcHBTZXJ2aWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGl0ZUxpc3QuYWRkQWxsKGNwcEFwaVNldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZW5lcmFsUmVzcG9uc2U8TGlzdDxMb25nPj4gcmVzdWx0ID0gZm9sbG93U2VydmljZS5saXN0KHEsIHJlcS5nZXRDbGllbnQoKS5nZXRQcm9kdWN0SWQoKSk7CiAgICAgICAgaWYgKHJlc3VsdC5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICBMaXN0PExvbmc+IHAgPSByZXN1bHQuZ2V0UmV0dXJuVmFsdWUoKTsKICAgICAgICAgICAgTGlzdDxGb2xsb3dJdGVtPiBjb250ZW50ID0gZ2V0Q29udGVudChwLCBjbWQuZ2V0UmVzVHlwZSgpLCByZXEuZ2V0Q2xpZW50KCkuZ2V0UHJvZHVjdElkKCkpOwogICAgICAgICAgICBGb2xsb3dQYWdlIGZwID0gbmV3IEZvbGxvd1BhZ2UoKTsKICAgICAgICAgICAgZnAuc2V0Q29udGVudChjb250ZW50KTsKICAgICAgICAgICAgaWYgKGNvbnRlbnQuc2l6ZSgpID49IHBhZ2UuZ2V0UGFnZVNpemUoKSkgewogICAgICAgICAgICAgICAgZnAuc2V0TmV4dE9mZnNldChwYWdlLmdldE9mZnNldCgpICsgcGFnZS5nZXRQYWdlU2l6ZSgpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGZwLnNldE5leHRPZmZzZXQoLTEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBqc29uU3VjY2VzcyhmcCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIGpzb25FcnJvcihwYXJzZUludChyZXN1bHQuZ2V0UmV0dXJuQ29kZSgpKSwgIuiwg+eUqOWksei0pSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFnZVNpemUgPiAxKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAocGFnZU5vID4gMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9sbG93UGFnZSBmcCA9IG5ldyBGb2xsb3dQYWdlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZHVsZXMuY29yZS5tYWluLnJlc291cmNlLnNlcnZpY2UuQXBwU2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQXNzZXJ0KHJlc3ApLmFzc2VydEVxdWFscygyMDAwMDAwLCAic3RhdGUuY29kZSIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBwU2VydmljZSBhcHBTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
