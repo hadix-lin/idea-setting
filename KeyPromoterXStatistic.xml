@@ -132,7 +132,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1300</Count>
+          <Count>1301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -512,6 +512,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'InputSourceSwitcher2'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ListTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ListTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OpenTaskApiTest'">

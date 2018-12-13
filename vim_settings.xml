@@ -90,12 +90,12 @@
       <file name="/user_behavior.user_behavior_follow_utd_id [user_behavior@11.3.166.67]" timestamp="1544514522931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" timestamp="1544684923109">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" timestamp="1544695617625">
         <mark key="'" line="1296" column="39" />
-        <mark key="[" line="1326" column="70" />
-        <mark key="]" line="1327" column="30" />
-        <mark key="." line="1327" column="30" />
-        <mark key="^" line="1327" column="30" />
+        <mark key="[" line="1402" column="37" />
+        <mark key="]" line="1402" column="36" />
+        <mark key="." line="1402" column="36" />
+        <mark key="^" line="1402" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondProperties.java" timestamp="1544597941024">
         <mark key="[" line="21" column="0" />
@@ -191,7 +191,10 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/dev.properties" timestamp="1544691646041" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/dev.properties" timestamp="1544695202731">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" timestamp="1544596857481">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="137" column="12" />
@@ -221,11 +224,11 @@
         <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" timestamp="1544673208891">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="87" column="35" />
-        <mark key="]" line="87" column="17" />
-        <mark key="." line="87" column="17" />
-        <mark key="^" line="87" column="17" />
+        <mark key="'" line="419" column="0" />
+        <mark key="[" line="258" column="35" />
+        <mark key="]" line="258" column="17" />
+        <mark key="." line="258" column="17" />
+        <mark key="^" line="258" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/exception/ArgumentException.java" timestamp="1543410745855">
         <mark key="[" line="34" column="93" />
@@ -779,11 +782,11 @@
         <mark key="^" line="38" column="17" />
         <mark key="." line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/userfollow/ListTest.java" timestamp="1544693484863">
-        <mark key="[" line="194" column="68" />
-        <mark key="]" line="194" column="67" />
-        <mark key="^" line="194" column="67" />
-        <mark key="." line="194" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/userfollow/ListTest.java" timestamp="1544695497481">
+        <mark key="[" line="124" column="7" />
+        <mark key="]" line="115" column="80" />
+        <mark key="^" line="115" column="80" />
+        <mark key="." line="115" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/pom.xml" timestamp="1543234888248">
         <mark key="[" line="47" column="21" />
@@ -1297,8 +1300,8 @@
       <register name="/" type="4">
         <text>user_be</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVxdWVzdCA9IFJlcXVlc3QoKS5zZXRFeFZhbHVlKCJhaWQiLCBhaWQpLnNldEV4VmFsdWUoInBvcyIsICJwcC9kZXRhaWwiKQogICAgICAgICAgICAuc2V0RXhWYWx1ZSgidXRkaWQiLCAiVk11OXVjREIwQW9EQUxTTVBKZnNST3F0Iikuc2V0Q2xpZW50VVVJRCh1dWlkKS5zZXRFeFZhbHVlKCJvc1ZlcnNpb24iLCAyMikKICAgICAgICAgICAgLnNldENsaWVudFZlcnNpb25Db2RlKDE3NTEpLnNldENsaWVudFZOYW1lKCI1LjcuMCIpLnNldEV4VmFsdWUoInByb2R1Y3RJZCIsIDIwMTEpCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInJlc1R5cGUiLCByZXNUeXBlKS5zZXREYXRhVmFsdWUoInBhZ2UiLCAxKS5zZXREYXRhVmFsdWUoImNvdW50IiwgMTApCiAgICAgICAgICAgIC5zZXREYXRhVmFsdWUoInVzZXJUb2tlbiIsIHVzZXJUb2tlbikuZ2V0U3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIHJlc3BvbnNlID0gdGhpcy5wb3N0KHJlcXVlc3QpOwogICAgICAgIEpzb25Bc3NlcnQocmVzcG9uc2UpLmFzc2VydEVxdWFsc1dpdGhGaWxlKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>ppabc123456</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAyMjgxNiwKICAgICAgICAyMjgxNywKICAgICAgICAyMjgxOCwKICAgICAgICAyMjgxOSwKICAgICAgICAyMjgyMAo=</text>
