@@ -9,7 +9,7 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/resources/application-module.properties" timestamp="1544701721547">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/resources/application-module.properties" timestamp="1544703048743">
         <mark key="]" line="19" column="58" />
         <mark key="^" line="19" column="58" />
         <mark key="." line="19" column="58" />
@@ -102,6 +102,7 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/resources/META-INF/spring.factories" timestamp="1544703651521" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/dto/FollowQuery.java" timestamp="1543917516336">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="11" column="23" />
@@ -194,7 +195,7 @@
         <mark key="[" line="52" column="16" />
         <mark key="]" line="52" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" timestamp="1544596857481">
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" timestamp="1544703735411">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="137" column="12" />
         <mark key="]" line="137" column="11" />
@@ -482,11 +483,11 @@
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/AdminModuleConfiguration.java" timestamp="1543903886499">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/AdminModuleConfiguration.java" timestamp="1544703712757">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/TaskType.java" timestamp="1544523613991">
         <mark key="[" line="40" column="38" />
@@ -557,16 +558,10 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.1.1.1-sources.jar!/cn/uc/pp/common/api/BaseApi.java" timestamp="1543912352606">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1544690943506">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1544685609025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544685515102">
+      <file name="/Dummy.txt" timestamp="1544703475550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
@@ -623,7 +618,7 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/.gitignore" timestamp="1542276025242">
         <mark key="[" line="204" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544685515097">
+      <file name="/fragment.java" timestamp="1544703477409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1542087401092">
@@ -689,6 +684,12 @@
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/userfollow/ListTest/testUtdIdFollowedAppHasSecondPageNotEnough_hsf_mock.json" timestamp="1544704144062">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-boot-starter/3.0.5/mybatis-plus-boot-starter-3.0.5-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java" timestamp="1544251244651">
         <mark key="[" line="69" column="14" />
@@ -981,6 +982,7 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/core/CoreProperties.java" timestamp="1542962227462">
         <mark key="[" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1544703491575" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/resources/META-INF/spring.factories" timestamp="1544595420045">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="5" column="2" />
@@ -1173,6 +1175,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/AddTest/testWithUcid.properties" timestamp="1544609148790">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/userfollow/ListTest/testUtdIdFollowedAppHasTwoPage_hsf_mock.properties" timestamp="1544704176807">
+        <mark key="[" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/FollowConstants.java" timestamp="1544509494709">
         <mark key="[" line="6" column="34" />
