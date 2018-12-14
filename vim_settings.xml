@@ -114,6 +114,9 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/group/jdbc/TGroupPreparedStatement.java" timestamp="1544754937502">
+        <mark key="y" line="357" column="28" />
+      </file>
       <file name="/user_behavior.USER_BEHAVIOR_FOLLOW_USER_ID [user_behavior@11.3.166.67]" timestamp="1544433164738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -284,11 +287,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/test/java/SqlGenerator.java" timestamp="1544706605860">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/test/java/SqlGenerator.java" timestamp="1544754803354">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="^" line="31" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.0.8.4-sources.jar!/cn/uc/pp/common/util/common/domain/RequestJson.java" timestamp="1543822781664">
         <mark key="[" line="52" column="13" />
@@ -566,13 +569,14 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewArtcileQuery.java" timestamp="1543633487614">
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/logging/jdbc/BaseJdbcLogger.java" timestamp="1544755165186" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/dto/FollowDto.java" timestamp="1543917814688">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="21" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/common/GroupDataSourceRouteHelper.java" timestamp="1544690780046">
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/common/GroupDataSourceRouteHelper.java" timestamp="1544754430027">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="13" />
@@ -928,6 +932,7 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/TestUtils.java" timestamp="1543570031266">
         <mark key="[" line="26" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/logging/slf4j/Slf4jImpl.java" timestamp="1544755056353" />
       <file name="/Dummy.regexp" timestamp="1543632636480">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1125,6 +1130,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/api/dto/UserQuery.java" timestamp="1543038407664">
         <mark key="[" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/logback-spring.xml" timestamp="1544755367733">
+        <mark key="[" line="106" column="13" />
+        <mark key="]" line="107" column="3" />
+        <mark key="^" line="107" column="3" />
+        <mark key="." line="107" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.6.RELEASE/spring-boot-dependencies-2.0.6.RELEASE.pom" timestamp="1543369684055">
         <mark key="[" line="1435" column="46" />
