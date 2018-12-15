@@ -111,9 +111,6 @@
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1544757786571">
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/group/jdbc/TGroupPreparedStatement.java" timestamp="1544754937502">
-        <mark key="y" line="357" column="28" />
-      </file>
       <file name="/user_behavior.USER_BEHAVIOR_FOLLOW_USER_ID [user_behavior@11.3.166.67]" timestamp="1544433164738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,6 +186,12 @@
         <mark key="]" line="3" column="48" />
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/java/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.java" timestamp="1544846497251">
+        <mark key="[" line="64" column="13" />
+        <mark key="]" line="64" column="9" />
+        <mark key="^" line="64" column="9" />
+        <mark key="." line="64" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/model/UID.java" timestamp="1543916818924">
         <mark key="[" line="11" column="16" />
@@ -373,6 +376,12 @@
         <mark key="]" line="74" column="46" />
         <mark key="^" line="74" column="46" />
         <mark key="." line="74" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1544846792287">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/BootProperties.java" timestamp="1544520931872">
         <mark key="[" line="19" column="24" />
@@ -1111,6 +1120,13 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1544846884381">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/open/user/EmailPatterTest.java" timestamp="1542786243216">
         <mark key="[" line="12" column="45" />
       </file>
@@ -1173,8 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="9" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
       <jump line="72" column="4" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/constant/AdType.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/PageRequest.java" />
@@ -1273,6 +1287,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="1296" column="39" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" />
       <jump line="151" column="38" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/tddl-client-sdk/5.2.7-2--2018-08-stable-hsf-buc-bugfix/tddl-client-sdk-5.2.7-2--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/tddl/util/RouteHelper.java" />
+      <jump line="10" column="1" filename="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1285,7 +1301,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>!productId.equals(PPProductIds.WDJ)</text>
+        <text>switcher.switchToEnglish()</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
@@ -1294,35 +1310,39 @@
         <text encoding="base64">ICAgICAgICAgICAgdm8uc2V0Rm9sbG93ZWQobnVsbCk7CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hlci5yZXN0b3JlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hlci5yZXN0b3JlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY24udWMucHAudWJyLmZvbGxvdy5kYW8iIGxldmVsPSJkZWJ1ZyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJDT05TT0xFIi8+CiAgICA8L2xvZ2dlcj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hlci5zd2l0Y2hUb0VuZ2xpc2goKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIHx8ICl7CiAgICAgICAgICAgIHZvLnNldEZvbGxvd2VkKG51bGwpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>new RejectedExecutionHandler() {
+        @Override
+        public void rejectedExecution(Runnable r, ThreadPoolExecutor executor) {
+            
+        }
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ciAtPiB7CiAgICAgICAgVGhyZWFkIHRocmVhZCA9IG5ldyBUaHJlYWQociwgImlkZWF2aW1fZXh0ZW5zaW9uIik7CiAgICAgICAgdGhyZWFkLnNldERhZW1vbih0cnVlKTsKICAgICAgICB0aHJlYWQuc2V0UHJpb3JpdHkoVGhyZWFkLk1BWF9QUklPUklUWSk7CiAgICAgICAgcmV0dXJuIHRocmVhZDs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvZHVjdElkID09IG51bGwpIHsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkLmNoZWNrQWNjZXNzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkLmNoZWNrQWNjZXNzKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>client == null
-            ||</text>
+      <register name="9" type="2">
+        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
