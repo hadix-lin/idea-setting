@@ -127,14 +127,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>1323</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete Row">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
@@ -1061,7 +1053,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'life-web' application">
@@ -1114,6 +1106,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1342</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'venice-boot'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
