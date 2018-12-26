@@ -952,6 +952,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ideavim_extension [runIde]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ideavim_extension [runIde]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'input-source-switcher [runIde]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
