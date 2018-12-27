@@ -15,10 +15,6 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.6/mybatis-plus-core-3.0.6-sources.jar!/com/baomidou/mybatisplus/core/conditions/Condition.java" timestamp="1545895872783">
-        <mark key="[" line="71" column="15" />
-        <mark key="]" line="71" column="40" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/app/api/util/HSFApiProviderBean.java" timestamp="1543895663237">
         <mark key="[" line="387" column="31" />
         <mark key="]" line="387" column="30" />
@@ -69,6 +65,12 @@
         <mark key="]" line="14" column="34" />
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/AppDetailOpsController.java" timestamp="1545904822833">
+        <mark key="[" line="902" column="102" />
+        <mark key="]" line="902" column="101" />
+        <mark key="^" line="902" column="101" />
+        <mark key="." line="902" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/BizLogInterceptor.java" timestamp="1543566332068">
         <mark key="[" line="32" column="37" />
@@ -155,11 +157,11 @@
         <mark key="^" line="87" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewTask.java" timestamp="1545903920361">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="60" column="33" />
-        <mark key="^" line="60" column="33" />
-        <mark key="." line="60" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewTask.java" timestamp="1545905258587">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1543891221313">
         <mark key="[" line="621" column="16" />
@@ -353,19 +355,12 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1545903942874">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="6" column="80" />
-        <mark key="]" line="6" column="85" />
-        <mark key="." line="6" column="85" />
-        <mark key="^" line="6" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1545882765414">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="76" column="19" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1545905180895">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" timestamp="1544602507443">
         <mark key="[" line="31" column="15" />
@@ -609,7 +604,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545900915222">
+      <file name="/Dummy.txt" timestamp="1545905675816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
@@ -873,12 +868,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/pom.xml" timestamp="1543234888248">
         <mark key="[" line="47" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1544842864187">
-        <mark key="[" line="287" column="35" />
-        <mark key="]" line="287" column="34" />
-        <mark key="." line="287" column="34" />
-        <mark key="^" line="287" column="34" />
       </file>
       <file name="/25pp_android.abtest_engagement [admin-test]" timestamp="1543571047357">
         <mark key="[" line="0" column="0" />
@@ -1455,34 +1444,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBhLnRpdGxlIGxpa2UgY29uY2F0KCclJywje3EudGl0bGV9LCclJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBOb3RCbGFuayhncm91cHMgPSBTYXZlLmNsYXNzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBhLnRpdGxlIGxpa2UgY29uY2F0KCclJywje3EudGl0bGV9LCclJykK</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBhLnRpdGxlIGxpa2UgY29uY2F0KCclJywje3EudGl0bGV9LCclJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBleHQgPSBnZXRPckNyZWF0ZUV4dCh0YXNrKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0LnB1dCgib3V0Y29tZUlkIiwgb3V0Y29tZUlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICJvdXRjb21lSWQiOiAxMjgzOTQ3OTggLy/lrqHmoLjpgJrov4flkI7nlJ/miJDnmoTmlofnq6BpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBleHQgPSBnZXRPckNyZWF0ZUV4dCh0YXNrKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBBREQgQ09MVU1OIGBvdXRjb21lX2lkYCBiaWdpbnQoMjApIERFRkFVTFQgTlVMTCBDT01NRU5UICflrqHmoLjpgJrov4flkI7nmoTmlofnq6BpZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0LnB1dCgib3V0Y29tZUlkIiwgb3V0Y29tZUlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc2NDb2x1bW5zLmFkZAo=</text>
+        <text encoding="base64">ICJvdXRjb21lSWQiOiAxMjgzOTQ3OTggLy/lrqHmoLjpgJrov4flkI7nlJ/miJDnmoTmlofnq6BpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
