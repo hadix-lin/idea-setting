@@ -355,10 +355,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/job/DataComputeJob.java" timestamp="1545998584573">
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/job/DataComputeJob.java" timestamp="1546000212074">
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="62" column="16" />
+        <mark key="." line="62" column="16" />
+        <mark key="^" line="62" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondPropertySourceLocator.java" timestamp="1544539528884">
         <mark key="[" line="52" column="0" />
@@ -1034,6 +1035,12 @@
         <mark key="^" line="84" column="51" />
         <mark key="." line="84" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/DatasourceConfig.java" timestamp="1546000473504">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" timestamp="1544602927977">
         <mark key="[" line="106" column="17" />
         <mark key="]" line="106" column="16" />
@@ -1312,7 +1319,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>userInfo.expired()</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
