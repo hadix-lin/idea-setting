@@ -1109,7 +1109,8 @@
         <mark key="^" line="244" column="30" />
         <mark key="." line="244" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" timestamp="1545878505012">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" timestamp="1545986023485">
+        <mark key="'" line="95" column="44" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="^" line="96" column="0" />
@@ -1172,7 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="23" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/java/cn/uc/pp/ubr/follow/model/Follow.java" />
       <jump line="105" column="17" filename="$USER_HOME$/Documents/Projects/pp_server-dev/lib/ubr-base-1.0-SNAPSHOT.jar!/cn/uc/pp/ubr/follow/dto/FollowDto.class" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/lib/ubr-base-1.0-SNAPSHOT.jar!/cn/uc/pp/ubr/follow/dto/FollowDto.class" />
       <jump line="37" column="4" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
@@ -1272,6 +1272,7 @@
       <jump line="4" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" />
       <jump line="9" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/api/response/V9PosterSpaceQueryResponse.java" />
+      <jump line="95" column="44" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
