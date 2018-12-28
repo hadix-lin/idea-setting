@@ -355,8 +355,10 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/job/DataComputeJob.java" timestamp="1545994262315">
-        <mark key="[" line="39" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/job/DataComputeJob.java" timestamp="1545998584573">
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondPropertySourceLocator.java" timestamp="1544539528884">
         <mark key="[" line="52" column="0" />
@@ -1319,7 +1321,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBhLnRpdGxlIGxpa2UgY29uY2F0KCclJywje3EudGl0bGV9LCclJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQnVzaW5lc3NFeGNlcHRpb24oQXV0aENvZGVzLklOVkFMSURfVE9LRU5fS0VZLAogICAgICAgICAgICAgICAgICAgICAgICAicmVxdWVzdCBBdXRoZW50aWNhdGlvbiBmYWlsZWQuIHVzZXJUb2tlbiBleHBpcmVkLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkYXRhSW5mby5nZXREYXRhVHlwZSgpLmVxdWFscyhEYXRhVHlwZUVudW0uQVJUSUNMRS5nZXRUeXBlKCkpKSB7CiAgICAgICAgICAgICAgICAgICBBcnRpY2xlU2VydmljZSAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1328,10 +1330,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQnVzaW5lc3NFeGNlcHRpb24oQXV0aENvZGVzLklOVkFMSURfVE9LRU5fS0VZLAogICAgICAgICAgICAgICAgICAgICAgICAicmVxdWVzdCBBdXRoZW50aWNhdGlvbiBmYWlsZWQuIHVzZXJUb2tlbiBleHBpcmVkLiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIud2Fybigi6Ym05p2D5aSx6LSl77yMVG9rZW7otoXml7bvvIx1c2VyVG9rZW7vvJolcyIsIHVzZXJUb2tlbik7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJ1c2luZXNzRXhjZXB0aW9uKEF1dGhDb2Rlcy5JTlZBTElEX1RPS0VOX0tFWSwKICAgICAgICAgICAgICAgICAgICAgICAgInJlcXVlc3QgQXV0aGVudGljYXRpb24gZmFpbGVkLiB1c2VyVG9rZW4gZXhwaXJlZC4iKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQnVzaW5lc3NFeGNlcHRpb24oQXV0aENvZGVzLklOVkFMSURfVE9LRU5fS0VZLAogICAgICAgICAgICAgICAgICAgICAgICAicmVxdWVzdCBBdXRoZW50aWNhdGlvbiBmYWlsZWQuIHVzZXJUb2tlbiBleHBpcmVkLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRSZXZpZXdUaW1lKGN1cnJlbnRUaW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIud2Fybigi6Ym05p2D5aSx6LSl77yMVG9rZW7otoXml7bvvIx1c2VyVG9rZW7vvJolcyIsIHVzZXJUb2tlbik7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJ1c2luZXNzRXhjZXB0aW9uKEF1dGhDb2Rlcy5JTlZBTElEX1RPS0VOX0tFWSwKICAgICAgICAgICAgICAgICAgICAgICAgInJlcXVlc3QgQXV0aGVudGljYXRpb24gZmFpbGVkLiB1c2VyVG9rZW4gZXhwaXJlZC4iKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRSZXZpZXdUaW1lKGN1cnJlbnRUaW1lKTsK</text>
@@ -1340,13 +1342,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRSZXZpZXdUaW1lKGN1cnJlbnRUaW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBOb3RFbXB0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRSZXZpZXdUaW1lKGN1cnJlbnRUaW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBOb3RCbGFuayhncm91cHMgPSBTYXZlLmNsYXNzKQo=</text>
+        <text encoding="base64">CUBOb3RFbXB0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">CUBOb3RCbGFuayhncm91cHMgPSBTYXZlLmNsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
