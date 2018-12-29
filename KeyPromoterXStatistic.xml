@@ -323,6 +323,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="MyBatis Log Plugin">
+        <Item>
+          <IdeaActionID>TailMyBatisLog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘O'</ShortCut>
+          <Description>MyBatis Log Plugin</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Page">
         <Item>
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
