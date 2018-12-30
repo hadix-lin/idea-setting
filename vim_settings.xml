@@ -60,6 +60,12 @@
       <file name="/application.properties" timestamp="1542601392565">
         <mark key="[" line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/java/com/meizu/modularize/core/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1544460969391">
+        <mark key="[" line="52" column="45" />
+        <mark key="]" line="52" column="43" />
+        <mark key="." line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+      </file>
       <file name="/25pp_android.abtest_engagement [admin-dev]" timestamp="1542867305108">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +209,12 @@
         <mark key="]" line="189" column="45" />
         <mark key="." line="189" column="45" />
         <mark key="^" line="189" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-core/src/main/resources/META-INF/spring.factories" timestamp="1544449979143">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1542087401058">
         <mark key="[" line="0" column="0" />
@@ -436,34 +448,36 @@
         <text encoding="base64">CQlMaXN0PFN0YXR1cz4gc3RhdHVzTGlzdCA9IHEuZ2V0U3RhdHVzTGlzdCgpOwoJCXF1ZXJ5V3JhcHBlci5pbihUYXNrOjpnZXRTdGF0dXMsIHN0YXR1c0xpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodHlwZSkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMudHlwZQogICAgICAgIH0K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QERhdGEK</text>
+      <register name="2" type="4">
+        <text encoding="base64">KiB7QGxpbmsgRW52aXJvbm1lbnRQb3N0UHJvY2Vzc29yfSB0aGF0IGNvbmZpZ3VyZXMgdGhlIGNvbnRleHQgZW52aXJvbm1lbnQgYnkgbG9hZGluZyBwcm9wZXJ0aWVzCiAqIGZyb20gd2VsbCBrbm93biBmaWxlIGxvY2F0aW9ucy4gQnkgZGVmYXVsdCBwcm9wZXJ0aWVzIHdpbGwgYmUgbG9hZGVkIGZyb20KICogJ2FwcGxpY2F0aW9uLnByb3BlcnRpZXMnIGFuZC9vciAnYXBwbGljYXRpb24ueW1sJyBmaWxlcyBpbiB0aGUgZm9sbG93aW5nIGxvY2F0aW9uczoKICoKICogPHVsPgogKiAgIDxsaT5jbGFzc3BhdGg6CiAqICAgPGxpPmZpbGU6Li8KICogICA8bGk+Y2xhc3NwYXRoOmNvbmZpZy8KICogICA8bGk+ZmlsZTouL2NvbmZpZy86CiAqIDwvdWw+CiAqCiAqIDxwPkFsdGVybmF0aXZlIHNlYXJjaCBsb2NhdGlvbnMgYW5kIG5hbWVzIGNhbiBiZSBzcGVjaWZpZWQgdXNpbmcge0BsaW5rCiAqICNzZXRTZWFyY2hMb2NhdGlvbnMoU3RyaW5nKX0gYW5kIHtAbGluayAjc2V0U2VhcmNoTmFtZXMoU3RyaW5nKX0uCiAqCiAqIDxwPkFkZGl0aW9uYWwgZmlsZXMgd2lsbCBhbHNvIGJlIGxvYWRlZCBiYXNlZCBvbiBhY3RpdmUgcHJvZmlsZXMuIEZvciBleGFtcGxlIGlmIGEgJ3dlYicgcHJvZmlsZQogKiBpcyBhY3RpdmUgJ2FwcGxpY2F0aW9uLXdlYi5wcm9wZXJ0aWVzJyBhbmQgJ2FwcGxpY2F0aW9uLXdlYi55bWwnIHdpbGwgYmUgY29uc2lkZXJlZC4KICoKICogPHA+VGhlICdzcHJpbmcuY29uZmlnLm5hbWUnIHByb3BlcnR5IGNhbiBiZSB1c2VkIHRvIHNwZWNpZnkgYW4gYWx0ZXJuYXRpdmUgbmFtZSB0byBsb2FkIGFuZCB0aGUKICogJ3NwcmluZy5jb25maWcubG9jYXRpb24nIHByb3BlcnR5IGNhbiBiZSB1c2VkIHRvIHNwZWNpZnkgYWx0ZXJuYXRpdmUgc2VhcmNoIGxvY2F0aW9ucyBvciBzcGVjaWZpYwogKiBmaWxlcy4KICoKICogPHA+CiAqCiAqIEBhdXRob3IgRGF2ZSBTeWVyCiAqIEBhdXRob3IgUGhpbGxpcCBXZWJiCiAqIEBhdXRob3IgU3RlcGhhbmUgTmljb2xsCiAqIEBhdXRob3IgQW5keSBXaWxraW5zb24KICogQGF1dGhvciBFZGTDuiBNZWzDqW5kZXoKICogQGF1dGhvciBNYWRodXJhIEJoYXZl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8a290bGluLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>com.meizu.modularize.core.startup.ModulePropertySourceLoader=\
+com.meizu.modularize.core.startup.ModulePropertiesPropertySourceLoader,\
+com.meizu.modularize.core.startup.ModuleYamlPropertySourceLoader</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQodHlwZSkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMudHlwZQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvamVjdC5uYW1lPWNyZWF0b3Itb3Blbi1zZXJ2ZXIK</text>
+        <text encoding="base64">ICAgICAgICA8a290bGluLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PFN0YXR1cz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLmFkbWluLmVuYWJsZWQ9dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
