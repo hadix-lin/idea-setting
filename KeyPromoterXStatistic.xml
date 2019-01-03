@@ -284,6 +284,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <ShortCut>'⌃⇧⌘M'</ShortCut>
+          <Description>Maven</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven Projects">
         <Item>
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
@@ -313,7 +321,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>111</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -384,7 +392,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'cos-admin'">
@@ -735,7 +743,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>68</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
