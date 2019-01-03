@@ -213,6 +213,12 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/com/google/gson/JsonObject.class" timestamp="1546479818888">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/resources/META-INF/spring.factories" timestamp="1544250910926">
         <mark key="[" line="2" column="59" />
         <mark key="]" line="3" column="48" />
@@ -264,6 +270,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/define.conf" timestamp="1546070524523" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/dto/Query.java" timestamp="1543917744892">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="4" />
@@ -369,6 +376,13 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.2.0.0-sources.jar!/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546433957946">
+        <mark key="e" line="270" column="0" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
+        <mark key="^" line="270" column="0" />
+        <mark key="." line="270" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1543979823518">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="25" column="52" />
@@ -392,13 +406,6 @@
         <mark key="]" line="25" column="40" />
         <mark key="^" line="25" column="40" />
         <mark key="." line="25" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/job/DataComputeJob.java" timestamp="1546055081257">
-        <mark key="'" line="31" column="28" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="76" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/pom.xml" timestamp="1546427665759">
         <mark key="[" line="47" column="35" />
@@ -436,6 +443,7 @@
         <mark key="^" line="74" column="46" />
         <mark key="." line="74" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1546075150300" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/BootProperties.java" timestamp="1544520931872">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="20" column="6" />
@@ -465,6 +473,9 @@
         <mark key="]" line="17" column="39" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/Parameter.java" timestamp="1546480314940">
+        <mark key="[" line="162" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-start/src/main/resources/mybatis/data_contentMapper.xml" timestamp="1546421184143">
         <mark key="[" line="17" column="60" />
@@ -659,13 +670,6 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataContent.java" timestamp="1546424225994">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="96" column="5" />
-        <mark key="^" line="79" column="17" />
-        <mark key="." line="79" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1544532012685">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="13" />
@@ -696,15 +700,9 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiSupportConfiguration.java" timestamp="1546409644200" />
       <file name="/fragment.java" timestamp="1546424287853">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/service/DataContentService.java" timestamp="1546415085495">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="256" column="46" />
-        <mark key="]" line="256" column="46" />
-        <mark key="^" line="256" column="46" />
-        <mark key="." line="256" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/define.conf" timestamp="1544430461164">
         <mark key="[" line="1" column="8" />
@@ -865,6 +863,7 @@
         <mark key="^" line="10" column="53" />
         <mark key="." line="10" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java" timestamp="1546480673841" />
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ParameterDataTypeReader.java" timestamp="1543544834123">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="19" />
@@ -967,6 +966,12 @@
       <file name="/sutradepository.data_content [@11.3.138.49]" timestamp="1546432667931">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/com/google/gson/Gson.class" timestamp="1546479889321">
+        <mark key="[" line="444" column="48" />
+        <mark key="]" line="444" column="47" />
+        <mark key="^" line="444" column="47" />
+        <mark key="." line="444" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1545896675249">
         <mark key="[" line="88" column="40" />
         <mark key="]" line="88" column="40" />
@@ -996,6 +1001,9 @@
         <mark key="]" line="85" column="43" />
         <mark key="." line="85" column="43" />
         <mark key="^" line="85" column="43" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/reflect/ParameterizedType.java" timestamp="1546480779626">
+        <mark key="[" line="47" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/service/AppService.java" timestamp="1544584501525">
         <mark key="[" line="758" column="50" />
@@ -1257,6 +1265,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546482042725">
+        <mark key="[" line="290" column="13" />
+        <mark key="]" line="291" column="25" />
+        <mark key="." line="291" column="25" />
+        <mark key="^" line="291" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543459966731">
         <mark key="[" line="43" column="1" />
         <mark key="]" line="43" column="0" />
@@ -1509,34 +1523,36 @@
         <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxsb21ib2sudmVyc2lvbj4xLjE4LjQ8L2xvbWJvay52ZXJzaW9uPgogICAgPC9wcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKENvbGxlY3Rpb24uY2xhc3MuaXNBc3NpZ25hYmxlRnJvbShwVHlwZS5nZXRSYXdUeXBlKCkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
+      <register name="2" type="4">
+        <text>else if(Collection.class.isAssignableFrom()){
+
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PltdIHBhcmFtZXRlclR5cGVzID0gbWV0aG9kLmdldFBhcmFtZXRlclR5cGVzKCk7CiAgICAgICAgT2JqZWN0W10gdmFsdWVzID0gbWV0aG9kLmdldFBhcmFtZXRlcnMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENvdmVySW1hZ2VVcmwoKSB7CiAgICAgICAgcmV0dXJuIGNvdmVySW1hZ2VVcmw7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q292ZXJJbWFnZVVybChTdHJpbmcgY292ZXJJbWFnZVVybCkgewogICAgICAgIHRoaXMuY292ZXJJbWFnZVVybCA9IGNvdmVySW1hZ2VVcmw7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTdW1tYXJ5KCkgewogICAgICAgIHJldHVybiBzdW1tYXJ5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN1bW1hcnkoU3RyaW5nIHN1bW1hcnkpIHsKICAgICAgICB0aGlzLnN1bW1hcnkgPSBzdW1tYXJ5OwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFNvdXJjZSgpIHsKICAgICAgICByZXR1cm4gc291cmNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNvdXJjZShJbnRlZ2VyIHNvdXJjZSkgewogICAgICAgIHRoaXMuc291cmNlID0gc291cmNlOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldERpc3BsYXlUaW1lKCkgewogICAgICAgIHJldHVybiBkaXNwbGF5VGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREaXNwbGF5VGltZShMb25nIGRpc3BsYXlUaW1lKSB7CiAgICAgICAgdGhpcy5kaXNwbGF5VGltZSA9IGRpc3BsYXlUaW1lOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldENyZWF0ZVRpbWUoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZVRpbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlVGltZShMb25nIGNyZWF0ZVRpbWUpIHsKICAgICAgICB0aGlzLmNyZWF0ZVRpbWUgPSBjcmVhdGVUaW1lOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldFVwZGF0ZVRpbWUoKSB7CiAgICAgICAgcmV0dXJuIHVwZGF0ZVRpbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VXBkYXRlVGltZShMb25nIHVwZGF0ZVRpbWUpIHsKICAgICAgICB0aGlzLnVwZGF0ZVRpbWUgPSB1cGRhdGVUaW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGV0YWlsUGFnZVVybCgpIHsKICAgICAgICByZXR1cm4gZGV0YWlsUGFnZVVybDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXRhaWxQYWdlVXJsKFN0cmluZyBkZXRhaWxQYWdlVXJsKSB7CiAgICAgICAgdGhpcy5kZXRhaWxQYWdlVXJsID0gZGV0YWlsUGFnZVVybDsKICAgIH0KCiAgICBwdWJsaWMgTGlzdDxJbnRlZ2VyPiBnZXRSZWxhdGVkQXBwSWRzKCkgewogICAgICAgIHJldHVybiByZWxhdGVkQXBwSWRzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlbGF0ZWRBcHBJZHMoTGlzdDxJbnRlZ2VyPiByZWxhdGVkQXBwSWRzKSB7CiAgICAgICAgdGhpcy5yZWxhdGVkQXBwSWRzID0gcmVsYXRlZEFwcElkczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldElkZW50aXR5KCkgewogICAgICAgIHJldHVybiBpZGVudGl0eTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZGVudGl0eShTdHJpbmcgaWRlbnRpdHkpIHsKICAgICAgICB0aGlzLmlkZW50aXR5ID0gaWRlbnRpdHk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRUaXRsZSgpIHsKICAgICAgICByZXR1cm4gdGl0bGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgdGhpcy50aXRsZSA9IHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGlzdFRpdGxlKCkgewogICAgICAgIHJldHVybiBsaXN0VGl0bGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TGlzdFRpdGxlKFN0cmluZyBsaXN0VGl0bGUpIHsKICAgICAgICB0aGlzLmxpc3RUaXRsZSA9IGxpc3RUaXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFN1YlRpdGxlKCkgewogICAgICAgIHJldHVybiBzdWJUaXRsZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdWJUaXRsZShTdHJpbmcgc3ViVGl0bGUpIHsKICAgICAgICB0aGlzLnN1YlRpdGxlID0gc3ViVGl0bGU7CiAgICB9CgogICAgcHVibGljIEF1dGhvckluZm8gZ2V0QXV0aG9yKCkgewogICAgICAgIHJldHVybiBhdXRob3I7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5YWz6IGU5bqU55SoSUQKICAgICAqLwogICAgcHJpdmF0ZSBMaXN0PEludGVnZXI+IHJlbGF0ZWRBcHBJZHM7CgogICAgcHVibGljIFN0cmluZyBnZXRJZGVudGl0eSgpIHsKICAgICAgICByZXR1cm4gaWRlbnRpdHk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SWRlbnRpdHkoU3RyaW5nIGlkZW50aXR5KSB7CiAgICAgICAgdGhpcy5pZGVudGl0eSA9IGlkZW50aXR5OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGl0bGUoKSB7CiAgICAgICAgcmV0dXJuIHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgICAgIHRoaXMudGl0bGUgPSB0aXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldExpc3RUaXRsZSgpIHsKICAgICAgICByZXR1cm4gbGlzdFRpdGxlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExpc3RUaXRsZShTdHJpbmcgbGlzdFRpdGxlKSB7CiAgICAgICAgdGhpcy5saXN0VGl0bGUgPSBsaXN0VGl0bGU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTdWJUaXRsZSgpIHsKICAgICAgICByZXR1cm4gc3ViVGl0bGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3ViVGl0bGUoU3RyaW5nIHN1YlRpdGxlKSB7CiAgICAgICAgdGhpcy5zdWJUaXRsZSA9IHN1YlRpdGxlOwogICAgfQoKICAgIHB1YmxpYyBBdXRob3JJbmZvIGdldEF1dGhvcigpIHsKICAgICAgICByZXR1cm4gYXV0aG9yOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydGllcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
