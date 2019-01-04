@@ -757,7 +757,12 @@
         <mark key="^" line="421" column="38" />
         <mark key="." line="421" column="38" />
       </file>
-      <file name="/usr/local/var/jws-1.7.1.5/framework/jws-1.7.1.5.jar!/jws/classloading/ApplicationCompiler.class" timestamp="1546581721048" />
+      <file name="/usr/local/var/jws-1.7.1.5/framework/jws-1.7.1.5.jar!/jws/classloading/ApplicationCompiler.class" timestamp="1546583459202">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="8" />
+        <mark key="^" line="58" column="8" />
+        <mark key="." line="58" column="8" />
+      </file>
       <file name="/dummy.sql" timestamp="1546518421979">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1142,6 +1147,13 @@
       </file>
       <file name="/sutradepository.data_content [@11.3.138.49]" timestamp="1546506399635">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/jws/classloading/ApplicationCompiler.java" timestamp="1546583616224">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="98" />
+        <mark key="]" line="62" column="98" />
+        <mark key="^" line="62" column="98" />
+        <mark key="." line="62" column="98" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/com/google/gson/Gson.class" timestamp="1546479889321">
         <mark key="[" line="444" column="48" />
@@ -1637,8 +1649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="30" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/api/FollowApi.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
       <jump line="246" column="14" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="242" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
@@ -1737,6 +1747,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/reflect/ClassUtils.java" />
       <jump line="117" column="29" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" />
       <jump line="532" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" />
+      <jump line="282" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/jws/classloading/ApplicationCompiler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/jws/classloading/ApplicationCompiler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
