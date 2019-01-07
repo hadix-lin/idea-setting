@@ -61,12 +61,12 @@
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" timestamp="1546857122741">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="34" column="31" />
-        <mark key="^" line="34" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" timestamp="1546858677533">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/api/impl/ArticleApiImpl.java" timestamp="1544012151466">
         <mark key="[" line="26" column="34" />
@@ -488,11 +488,11 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" timestamp="1544602507443">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" timestamp="1546858107327">
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1546584826481">
         <mark key="[" line="30" column="10" />
@@ -1354,6 +1354,12 @@
         <mark key="^" line="164" column="44" />
         <mark key="." line="164" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/log/api/UserActionLogApi.java" timestamp="1546858178659">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/converter/FlexibleContentItemConverter.java" timestamp="1546420316217">
         <mark key="[" line="21" column="79" />
         <mark key="]" line="38" column="24" />
@@ -1852,37 +1858,37 @@
         <text encoding="base64">ICAgICAgICBAUGF0dGVybihyZWdleHAgPSAiXFxkKyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwogICAgICAgICAgICByZXR1cm4gcmVzcDsK</text>
+        <text encoding="base64">ICAgIEBWYWxpZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwogICAgICAgICAgICByZXR1cm4gcmVzcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgZSkgewogICAgICAgICAgICBmb3IgKFRocm93YWJsZSB0aHJvd2FibGUgOiBlLmdldFN1cHByZXNzZWQoKSkgewogICAgICAgICAgICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIHRocm93IG5ldyBlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgZSkgewogICAgICAgICAgICBmb3IgKFRocm93YWJsZSB0aHJvd2FibGUgOiBlLmdldFN1cHByZXNzZWQoKSkgewogICAgICAgICAgICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIHRocm93IG5ldyBlOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGU7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbihlKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>for (Throwable throwable : e.getSuppressed()) {
                 throwable.printStackTrace();
             }
             e.printStackTrace();</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXBpTWV0aG9kSW5mb0NhY2hlLmdldChtZXRob2QpLmdldFBhcmFtZXRlck5hbWVzKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdldFBhcmFtZXRlck5hbWVzKG1ldGhvZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXBpTWV0aG9kSW5mb0NhY2hlLmdldChtZXRob2QpLmdldFBhcmFtZXRlck5hbWVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
