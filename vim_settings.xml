@@ -247,12 +247,12 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546849139747">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="140" column="1" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546852760883">
+        <mark key="'" line="137" column="26" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="41" column="89" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.2/common-parent-1.2.2.pom" timestamp="1546580309573">
         <mark key="[" line="18" column="49" />
@@ -521,6 +521,7 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.jar!/org/hibernate/validator/messageinterpolation/ResourceBundleMessageInterpolator.class" timestamp="1546851433813" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/model/Follow.java" timestamp="1544507623670">
         <mark key="[" line="45" column="1" />
         <mark key="]" line="45" column="0" />
@@ -595,6 +596,12 @@
         <mark key="]" line="17" column="61" />
         <mark key="^" line="17" column="61" />
         <mark key="." line="17" column="61" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1546852037631">
+        <mark key="[" line="135" column="67" />
+        <mark key="]" line="135" column="66" />
+        <mark key="^" line="135" column="66" />
+        <mark key="." line="135" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/ArticleService.java" timestamp="1543998451832">
         <mark key="[" line="9" column="34" />
@@ -1040,6 +1047,7 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.class" timestamp="1546851905145" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
         <mark key="]" line="5512" column="27" />
@@ -1352,6 +1360,12 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="21" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.2.0.1-SNAPSHOT-sources.jar!/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546852779081">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="69" />
+        <mark key="^" line="41" column="69" />
+        <mark key="." line="41" column="69" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.2.RELEASE/spring-cloud-context-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java" timestamp="1544535472249">
         <mark key="[" line="88" column="59" />
         <mark key="]" line="88" column="58" />
@@ -1611,6 +1625,7 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.pom" timestamp="1546851532179" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/resources/mybatis/data_contentMapper.xml" timestamp="1546414752709">
         <mark key="[" line="162" column="40" />
         <mark key="]" line="163" column="43" />
@@ -1692,8 +1707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/DiamondPropertySource.java" />
-      <jump line="25" column="10" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/DiamondPropertySource.java" />
       <jump line="31" column="10" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
       <jump line="30" column="12" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
@@ -1792,6 +1805,8 @@
       <jump line="1942" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/service/AppService.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
+      <jump line="106" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
+      <jump line="137" column="26" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1804,7 +1819,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>@NotBlank</text>
+        <text>.buildDefaultValidatorFactory()</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
@@ -1813,34 +1828,34 @@
         <text encoding="base64">ICAgICAgICBAUGF0dGVybihyZWdleHAgPSAiXFxkKyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAUGF0dGVybigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXBpTWV0aG9kSW5mb0NhY2hlLmdldChtZXRob2QpLmdldFBhcmFtZXRlck5hbWVzKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdldFBhcmFtZXRlck5hbWVzKG1ldGhvZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGF1dGhvciBoYWRpeC5seQogICAgICogQGRhdGUgMjAxOS0wMS0wNwogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFBhcmFtZXRlck5hbWVzKENvbnN0cnVjdG9yPD8+IGNvbnN0cnVjdG9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJldHVyblZhbHVlQ29uc3RyYWludFZpb2xhdGlvbnMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uKHJldHVyblZhbHVlQ29uc3RyYWludFZpb2xhdGlvbnMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA9IFZhbGlkYXRpb24uYnVpbGREZWZhdWx0VmFsaWRhdG9yRmFjdG9yeSgpLmdldFZhbGlkYXRvcigpLmZvckV4ZWN1dGFibGVzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IENvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24ocGFyYW1ldGVyc0NvbnN0cmFpbnRWaW9sYXRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KDEwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gdmlvbGF0aW9uLmdldE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBAUGF0dGVybigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJ1c2luZXNzRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
