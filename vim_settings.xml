@@ -30,7 +30,7 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1546590849172">
+      <file name="/a.dummy" timestamp="1546783655411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/f_1.0.0.0/creator_open.sql" timestamp="1543994872708">
@@ -360,6 +360,9 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" timestamp="1546783230335">
+        <mark key="'" line="469" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/RemoveTest/testWithUcid.json" timestamp="1544609898165">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="17" />
@@ -417,11 +420,11 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeController.java" timestamp="1546512958153">
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1546584968387">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="48" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1546783948845">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/env/SimpleCommandLinePropertySource.java" timestamp="1544594277013">
         <mark key="[" line="89" column="19" />
@@ -1035,6 +1038,12 @@
         <mark key="^" line="40" column="29" />
         <mark key="." line="40" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/NotNull.java" timestamp="1546784287315">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.2.RELEASE/spring-cloud-context-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/context/refresh/ContextRefresher.java" timestamp="1544598277667">
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="47" />
@@ -1438,11 +1447,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546591006994">
-        <mark key="[" line="297" column="72" />
-        <mark key="]" line="297" column="80" />
-        <mark key="^" line="297" column="80" />
-        <mark key="." line="297" column="80" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546823625140">
+        <mark key="[" line="314" column="65" />
+        <mark key="]" line="314" column="63" />
+        <mark key="." line="314" column="63" />
+        <mark key="^" line="314" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543459966731">
         <mark key="[" line="43" column="1" />
@@ -1585,6 +1594,12 @@
         <mark key="^" line="255" column="38" />
         <mark key="." line="255" column="38" />
       </file>
+      <file name="/usr/local/var/jws-1.7.1.5/framework/lib/validation-api-1.1.0.Final.jar!/javax/validation/Validator.class" timestamp="1546783042439">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/dao/DataContentDao.java" timestamp="1546421459284">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="16" column="10" />
@@ -1599,9 +1614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/api/impl/FollowApiImpl.java" />
-      <jump line="246" column="14" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
-      <jump line="242" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="221" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="75" column="76" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
@@ -1699,6 +1711,9 @@
       <jump line="532" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" />
       <jump line="282" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/jws/classloading/ApplicationCompiler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/jws/classloading/ApplicationCompiler.java" />
+      <jump line="461" column="24" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
+      <jump line="75" column="12" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
+      <jump line="469" column="0" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1720,34 +1735,34 @@
         <text encoding="base64">ICAgICAgICBMaXN0PD8gZXh0ZW5kcyBDaGFyU2VxdWVuY2U+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0MS5hZGQoImhlbGxvIik7CiAgICAgICAgbGlzdDEuYWRkKCJ3b3JsZCIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiSGVsbCk7CiAgICAgICAgbGlzdC5hZGQoIldvcmxkIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2sgaWYgdGhlIGdpdmVuIHR5cGUgcmVwcmVzZW50cyBhICJzaW1wbGUiIHZhbHVlIHR5cGU6CiAgICAgKiBhIHByaW1pdGl2ZSwgYW4gZW51bSwgYSBTdHJpbmcgb3Igb3RoZXIgQ2hhclNlcXVlbmNlLCBhIE51bWJlciwgYSBEYXRlLAogICAgICogYSBVUkksIGEgVVJMLCBhIExvY2FsZSBvciBhIENsYXNzLgogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiB0aGUgdHlwZSB0byBjaGVjawogICAgICogQHJldHVybiB3aGV0aGVyIHRoZSBnaXZlbiB0eXBlIHJlcHJlc2VudHMgYSAic2ltcGxlIiB2YWx1ZSB0eXBlCiAgICAgKi8KLy8gICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlzU2ltcGxlVmFsdWVUeXBlKENsYXNzPD8+IGNsYXp6KSB7Ci8vICAgICAgICByZXR1cm4gKENsYXNzVXRpbHMuaXNQcmltaXRpdmVPcldyYXBwZXIoY2xhenopIHx8Ci8vICAgICAgICAgICAgRW51bS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIENoYXJTZXF1ZW5jZS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIE51bWJlci5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIERhdGUuY2xhc3MuaXNBc3NpZ25hYmxlRnJvbShjbGF6eikgfHwKLy8gICAgICAgICAgICBVUkkuY2xhc3MgPT0gY2xhenogfHwgVVJMLmNsYXNzID09IGNsYXp6IHx8Ci8vICAgICAgICAgICAgTG9jYWxlLmNsYXNzID09IGNsYXp6IHx8IENsYXNzLmNsYXNzID09IGNsYXp6KTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0MS5hZGQoImhlbGxvIik7CiAgICAgICAgbGlzdDEuYWRkKCJ3b3JsZCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFyYW1ldGVyTmFtZXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiSGVsbCk7CiAgICAgICAgbGlzdC5hZGQoIldvcmxkIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwYXJhbWV0ZXJOYW1lcyA9PSBudWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2sgaWYgdGhlIGdpdmVuIHR5cGUgcmVwcmVzZW50cyBhICJzaW1wbGUiIHZhbHVlIHR5cGU6CiAgICAgKiBhIHByaW1pdGl2ZSwgYW4gZW51bSwgYSBTdHJpbmcgb3Igb3RoZXIgQ2hhclNlcXVlbmNlLCBhIE51bWJlciwgYSBEYXRlLAogICAgICogYSBVUkksIGEgVVJMLCBhIExvY2FsZSBvciBhIENsYXNzLgogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiB0aGUgdHlwZSB0byBjaGVjawogICAgICogQHJldHVybiB3aGV0aGVyIHRoZSBnaXZlbiB0eXBlIHJlcHJlc2VudHMgYSAic2ltcGxlIiB2YWx1ZSB0eXBlCiAgICAgKi8KLy8gICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlzU2ltcGxlVmFsdWVUeXBlKENsYXNzPD8+IGNsYXp6KSB7Ci8vICAgICAgICByZXR1cm4gKENsYXNzVXRpbHMuaXNQcmltaXRpdmVPcldyYXBwZXIoY2xhenopIHx8Ci8vICAgICAgICAgICAgRW51bS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIENoYXJTZXF1ZW5jZS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIE51bWJlci5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIERhdGUuY2xhc3MuaXNBc3NpZ25hYmxlRnJvbShjbGF6eikgfHwKLy8gICAgICAgICAgICBVUkkuY2xhc3MgPT0gY2xhenogfHwgVVJMLmNsYXNzID09IGNsYXp6IHx8Ci8vICAgICAgICAgICAgTG9jYWxlLmNsYXNzID09IGNsYXp6IHx8IENsYXNzLmNsYXNzID09IGNsYXp6KTsKLy8gICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFyYW1ldGVyTmFtZXMgPSA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVxdWVzdEpzb24KICAgICAgICAgICAgLy8gUmVxdWVzdENsaWVudAogICAgICAgICAgICAvLyBUcmFjawogICAgICAgICAgICAvLyBDb2xsZWN0aW9uLExpc3QsU2V0LC4uLiAgSW50ZXJmYWNlCiAgICAgICAgICAgIC8vIExpbmtlZExpc3QsSGFzaFNldCxUcmVlU2V0LC4uLiBDb25jcmV0ZSBJbXBsZW1lbnRhdGlvbgogICAgICAgICAgICAvLyAgIG5lZWQgZ2VuZXJpYyB0eXBlIGNoZWNrCiAgICAgICAgICAgIC8vIFN0cmluZyxOdW1iZXIsRGF0ZSxQcmltaXRpdmUsLi4uIFNpbXBsZSBUeXBlCiAgICAgICAgICAgIC8vIEFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihwYXJhbWV0ZXJOYW1lcyA9PSBudWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDliKTmlq3kuIDkuIvlj4LmlbAKICAgICAgICAgKi8KLy8gICAgICAgIENsYXNzW10gcGFyYW1ldGVyVHlwZXMgPSBtZXRob2QuZ2V0UGFyYW1ldGVyVHlwZXMoKTsKLy8gICAgICAgIGlmIChwYXJhbWV0ZXJUeXBlcy5sZW5ndGggPT0gMSAmJiBwYXJhbWV0ZXJUeXBlc1swXSA9PSBSZXF1ZXN0SnNvbi5jbGFzcykgewovLyAgICAgICAgICAgIHJldHVybiB0cnVlOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVxdWVzdEpzb24KICAgICAgICAgICAgLy8gUmVxdWVzdENsaWVudAogICAgICAgICAgICAvLyBUcmFjawogICAgICAgICAgICAvLyBDb2xsZWN0aW9uLExpc3QsU2V0LC4uLiAgSW50ZXJmYWNlCiAgICAgICAgICAgIC8vIExpbmtlZExpc3QsSGFzaFNldCxUcmVlU2V0LC4uLiBDb25jcmV0ZSBJbXBsZW1lbnRhdGlvbgogICAgICAgICAgICAvLyAgIG5lZWQgZ2VuZXJpYyB0eXBlIGNoZWNrCiAgICAgICAgICAgIC8vIFN0cmluZyxOdW1iZXIsRGF0ZSxQcmltaXRpdmUsLi4uIFNpbXBsZSBUeXBlCiAgICAgICAgICAgIC8vIEFycmF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
