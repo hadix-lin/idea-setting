@@ -1074,6 +1074,12 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/service/AppService.java" timestamp="1546827297614">
+        <mark key="[" line="1828" column="16" />
+        <mark key="]" line="1828" column="15" />
+        <mark key="." line="1828" column="15" />
+        <mark key="^" line="1828" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" timestamp="1546588128047">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="22" />
@@ -1312,6 +1318,13 @@
         <mark key="^" line="43" column="29" />
         <mark key="." line="43" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/apis.xml" timestamp="1546586603886">
+        <mark key="'" line="532" column="0" />
+        <mark key="[" line="531" column="10" />
+        <mark key="]" line="534" column="65" />
+        <mark key="." line="534" column="65" />
+        <mark key="^" line="534" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/.gitignore" timestamp="1546429467236">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="57" column="10" />
@@ -1447,11 +1460,10 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546823625140">
-        <mark key="[" line="314" column="65" />
-        <mark key="]" line="314" column="63" />
-        <mark key="." line="314" column="63" />
-        <mark key="^" line="314" column="63" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiExecutor.java" timestamp="1546826817597">
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="." line="292" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543459966731">
         <mark key="[" line="43" column="1" />
@@ -1558,7 +1570,8 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/AppDetailInfo.java" timestamp="1544684934491">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/AppDetailInfo.java" timestamp="1546827074595">
+        <mark key="'" line="29" column="13" />
         <mark key="[" line="967" column="14" />
         <mark key="]" line="967" column="17" />
         <mark key="^" line="967" column="17" />
@@ -1614,7 +1627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/UserFollowApi.java" />
       <jump line="75" column="76" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheable.java" />
@@ -1714,6 +1726,7 @@
       <jump line="461" column="24" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
       <jump line="75" column="12" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
       <jump line="469" column="0" filename="$MAVEN_REPOSITORY$/jws/jws/1.7.0.2/jws-1.7.0.2.jar!/jws/data/validation/Validation.class" />
+      <jump line="29" column="13" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/AppDetailInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1735,34 +1748,34 @@
         <text encoding="base64">ICAgICAgICBMaXN0PD8gZXh0ZW5kcyBDaGFyU2VxdWVuY2U+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz5bXSBzdHJpbmdMaXN0QXJyYXkgPSBuZXcgTGlzdFsxMF07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5nTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0MS5hZGQoImhlbGxvIik7CiAgICAgICAgbGlzdDEuYWRkKCJ3b3JsZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RbXSBzdHJpbmdMaXN0QXJyYXkxID0gc3RyaW5nTGlzdEFycmF5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiSGVsbCk7CiAgICAgICAgbGlzdC5hZGQoIldvcmxkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKExpc3Q8T2JqZWN0Pikgc3RyaW5nTGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2sgaWYgdGhlIGdpdmVuIHR5cGUgcmVwcmVzZW50cyBhICJzaW1wbGUiIHZhbHVlIHR5cGU6CiAgICAgKiBhIHByaW1pdGl2ZSwgYW4gZW51bSwgYSBTdHJpbmcgb3Igb3RoZXIgQ2hhclNlcXVlbmNlLCBhIE51bWJlciwgYSBEYXRlLAogICAgICogYSBVUkksIGEgVVJMLCBhIExvY2FsZSBvciBhIENsYXNzLgogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiB0aGUgdHlwZSB0byBjaGVjawogICAgICogQHJldHVybiB3aGV0aGVyIHRoZSBnaXZlbiB0eXBlIHJlcHJlc2VudHMgYSAic2ltcGxlIiB2YWx1ZSB0eXBlCiAgICAgKi8KLy8gICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlzU2ltcGxlVmFsdWVUeXBlKENsYXNzPD8+IGNsYXp6KSB7Ci8vICAgICAgICByZXR1cm4gKENsYXNzVXRpbHMuaXNQcmltaXRpdmVPcldyYXBwZXIoY2xhenopIHx8Ci8vICAgICAgICAgICAgRW51bS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIENoYXJTZXF1ZW5jZS5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIE51bWJlci5jbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGNsYXp6KSB8fAovLyAgICAgICAgICAgIERhdGUuY2xhc3MuaXNBc3NpZ25hYmxlRnJvbShjbGF6eikgfHwKLy8gICAgICAgICAgICBVUkkuY2xhc3MgPT0gY2xhenogfHwgVVJMLmNsYXNzID09IGNsYXp6IHx8Ci8vICAgICAgICAgICAgTG9jYWxlLmNsYXNzID09IGNsYXp6IHx8IENsYXNzLmNsYXNzID09IGNsYXp6KTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAoKExpc3Q8SW50ZWdlcj4pIHN0cmluZ0xpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFyYW1ldGVyTmFtZXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwYXJhbWV0ZXJOYW1lcyA9PSBudWxsKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsaWRhdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0MS5hZGQoImhlbGxvIik7CiAgICAgICAgbGlzdDEuYWRkKCJ3b3JsZCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVxdWVzdEpzb24KICAgICAgICAgICAgLy8gUmVxdWVzdENsaWVudAogICAgICAgICAgICAvLyBUcmFjawogICAgICAgICAgICAvLyBDb2xsZWN0aW9uLExpc3QsU2V0LC4uLiAgSW50ZXJmYWNlCiAgICAgICAgICAgIC8vIExpbmtlZExpc3QsSGFzaFNldCxUcmVlU2V0LC4uLiBDb25jcmV0ZSBJbXBsZW1lbnRhdGlvbgogICAgICAgICAgICAvLyAgIG5lZWQgZ2VuZXJpYyB0eXBlIGNoZWNrCiAgICAgICAgICAgIC8vIFN0cmluZyxOdW1iZXIsRGF0ZSxQcmltaXRpdmUsLi4uIFNpbXBsZSBUeXBlCiAgICAgICAgICAgIC8vIEFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiSGVsbCk7CiAgICAgICAgbGlzdC5hZGQoIldvcmxkIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
