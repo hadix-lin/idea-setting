@@ -54,17 +54,19 @@
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1546502937592">
         <mark key="[" line="821" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/hibernate-validator-5.4.1.Final.jar!/org/hibernate/validator/internal/engine/ValidatorImpl.class" timestamp="1546853342747" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/impl/DataInfoMngApiImpl.java" timestamp="1546411176040">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="29" />
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" timestamp="1546850006860">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" timestamp="1546857122741">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/api/impl/ArticleApiImpl.java" timestamp="1544012151466">
         <mark key="[" line="26" column="34" />
@@ -247,12 +249,12 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546852760883">
-        <mark key="'" line="137" column="26" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="89" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546857477003">
+        <mark key="'" line="120" column="63" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.2/common-parent-1.2.2.pom" timestamp="1546580309573">
         <mark key="[" line="18" column="49" />
@@ -322,6 +324,12 @@
         <mark key="]" line="22" column="80" />
         <mark key="^" line="22" column="80" />
         <mark key="." line="22" column="80" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Path.java" timestamp="1546854010027">
+        <mark key="[" line="195" column="1" />
+        <mark key="]" line="195" column="0" />
+        <mark key="^" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/kt/SystemInputSourceSwitcher.kt" timestamp="1545822415968">
         <mark key="[" line="7" column="26" />
@@ -443,11 +451,12 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeController.java" timestamp="1546512958153">
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1546831995094">
-        <mark key="[" line="312" column="56" />
-        <mark key="]" line="312" column="55" />
-        <mark key="^" line="312" column="55" />
-        <mark key="." line="312" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1546854896865">
+        <mark key="'" line="311" column="20" />
+        <mark key="[" line="313" column="26" />
+        <mark key="]" line="311" column="20" />
+        <mark key="^" line="311" column="20" />
+        <mark key="." line="311" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/env/SimpleCommandLinePropertySource.java" timestamp="1544594277013">
         <mark key="[" line="89" column="19" />
@@ -515,6 +524,12 @@
         <mark key="^" line="22" column="73" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="/usr/local/var/jws-1.7.1.5/framework/lib/validation-api-1.1.0.Final.jar!/javax/validation/Valid.class" timestamp="1546855131468">
+        <mark key="[" line="12" column="81" />
+        <mark key="]" line="12" column="80" />
+        <mark key="^" line="12" column="80" />
+        <mark key="." line="12" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/Argument.java" timestamp="1544007419765">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="11" column="34" />
@@ -545,6 +560,9 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.1.3.0-SNAPSHOT-sources.jar!/cn/uc/pp/common/util/common/domain/ResponseJson.java" timestamp="1546857299100">
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowConstants.java" timestamp="1544509622770">
         <mark key="[" line="14" column="15" />
@@ -633,11 +651,11 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1546520405309">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1546857116200">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1544864312003">
         <mark key="[" line="53" column="21" />
@@ -861,7 +879,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1546850217275">
+      <file name="/fragment.java" timestamp="1546855433446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1546493549676">
@@ -945,11 +963,11 @@
         <mark key="." line="87" column="61" />
         <mark key="^" line="87" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1546487969695">
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="59" column="15" />
-        <mark key="^" line="59" column="15" />
-        <mark key="." line="59" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1546856238828">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1545901092183">
         <mark key="[" line="17" column="29" />
@@ -998,6 +1016,12 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/BaseApi.java" timestamp="1546857425224">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/InputSourceSwitcher.kt" timestamp="1545558674719">
         <mark key="[" line="0" column="30" />
@@ -1360,7 +1384,7 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.2.0.1-SNAPSHOT-sources.jar!/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546852779081">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.2.0.1-SNAPSHOT-sources.jar!/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1546852816619">
         <mark key="[" line="41" column="70" />
         <mark key="]" line="41" column="69" />
         <mark key="^" line="41" column="69" />
@@ -1707,11 +1731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="10" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
-      <jump line="87" column="19" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
-      <jump line="42" column="15" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" />
       <jump line="142" column="47" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" />
       <jump line="132" column="4" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/ModuleAutoConfigurationPackages.java" />
@@ -1807,6 +1826,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
       <jump line="106" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
       <jump line="137" column="26" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
+      <jump line="311" column="20" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" />
+      <jump line="73" column="36" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" />
+      <jump line="127" column="63" filename="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" />
+      <jump line="53" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1828,34 +1852,37 @@
         <text encoding="base64">ICAgICAgICBAUGF0dGVybihyZWdleHAgPSAiXFxkKyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXBpTWV0aG9kSW5mb0NhY2hlLmdldChtZXRob2QpLmdldFBhcmFtZXRlck5hbWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwogICAgICAgICAgICByZXR1cm4gcmVzcDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdldFBhcmFtZXRlck5hbWVzKG1ldGhvZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VKc29uIHJlc3AgPSBSZXNwb25zZUpzb24ubmV3SW5zdHJhbmNlKHJlcS5nZXRJZCgpLCBSZXNwQ29kZS5PSywgIm9rIik7CiAgICAgICAgICAgIHJlc3Auc2V0RGF0YShyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgZSkgewogICAgICAgICAgICBmb3IgKFRocm93YWJsZSB0aHJvd2FibGUgOiBlLmdldFN1cHByZXNzZWQoKSkgewogICAgICAgICAgICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIHRocm93IG5ldyBlOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFBhcmFtZXRlck5hbWVzKENvbnN0cnVjdG9yPD8+IGNvbnN0cnVjdG9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA9IFZhbGlkYXRpb24uYnVpbGREZWZhdWx0VmFsaWRhdG9yRmFjdG9yeSgpLmdldFZhbGlkYXRvcigpLmZvckV4ZWN1dGFibGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbihlKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KDEwMCk7Cg==</text>
+      <register name="7" type="4">
+        <text>for (Throwable throwable : e.getSuppressed()) {
+                throwable.printStackTrace();
+            }
+            e.printStackTrace();</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAUGF0dGVybigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoYXBpTWV0aG9kSW5mb0NhY2hlLmdldChtZXRob2QpLmdldFBhcmFtZXRlck5hbWVzKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdldFBhcmFtZXRlck5hbWVzKG1ldGhvZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
