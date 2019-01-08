@@ -6,5 +6,6 @@
     <macro name="KOTLIN_BUNDLED" value="/Users/hadix/Library/Application Support/IntelliJIdea2018.3/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/hadix/.m2/repository" />
     <macro name="PATH" value="/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin" />
+    <macro name="_JAVA_OPTIONS" value="-Dapple.awt.UIElement=true" />
   </component>
 </application>
