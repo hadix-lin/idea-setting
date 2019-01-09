@@ -466,6 +466,13 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeController.java" timestamp="1546512958153">
         <mark key="[" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1547017334894">
+        <mark key="'" line="311" column="20" />
+        <mark key="[" line="313" column="26" />
+        <mark key="]" line="313" column="25" />
+        <mark key="^" line="313" column="25" />
+        <mark key="." line="313" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/env/SimpleCommandLinePropertySource.java" timestamp="1544594277013">
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="18" />
@@ -986,7 +993,10 @@
         <mark key="." line="87" column="61" />
         <mark key="^" line="87" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1546936867524" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1547017830891">
+        <mark key="'" line="85" column="73" />
+        <mark key="[" line="58" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1545901092183">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="46" column="23" />
@@ -1756,7 +1766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="30" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/activity/invitation/dto/InvitationCodeDto.java" />
       <jump line="125" column="10" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
@@ -1856,6 +1865,7 @@
       <jump line="119" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/service/DataContentService.java" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/service/DataContentService.java" />
       <jump line="1249" column="17" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" />
+      <jump line="85" column="73" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
