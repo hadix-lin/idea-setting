@@ -249,12 +249,12 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1547006434564">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1547012286292">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="39" />
-        <mark key="." line="95" column="39" />
-        <mark key="^" line="95" column="39" />
+        <mark key="[" line="134" column="62" />
+        <mark key="]" line="134" column="82" />
+        <mark key="^" line="134" column="82" />
+        <mark key="." line="134" column="82" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.2/common-parent-1.2.2.pom" timestamp="1546580309573">
         <mark key="[" line="18" column="49" />
@@ -1870,7 +1870,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>http://your.repomanager.intra/path/to/repo</text>
+        <text encoding="base64">VHlwZVtdIHBhcmFtZXRlclR5cGVzLCBTdHJpbmdbXSBwYXJhbWV0ZXJOYW1lcywgQ2xhc3M8Pz5bXSB2YWxpZGF0aW9uR3JvdXBzLCBib29sZWFuIG5lZWRWYWxpZGF0ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>user_be</text>
@@ -1878,35 +1878,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRyYWNrID0gIiArIHRyYWNrKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QFZhbGlkCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG0gLT4gewoKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQXBpTWV0aG9kSW5mbygKICAgICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJUeXBlcywKICAgICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJOYW1lcy50b0FycmF5KG5ldyBTdHJpbmdbMF0pLAogICAgICAgICAgICAgICAgICAgIHZhbGlkYXRpb25Hcm91cHMsCiAgICAgICAgICAgICAgICAgICAgdmFsaWQgIT0gbnVsbCAmJiB2YWxpZC52YWx1ZSgpKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5uZWVkVmFsaWRhdGUgPSBuZWVkVmFsaWRhdGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRyYWNrID0gIiArIHRyYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXJhbWV0ZXJUeXBlcyA9IHBhcmFtZXRlclR5cGVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2xpZW50RXh0SW5mbyBleHRJbmZvID0gY2xpZW50LmdldEV4KCk7CiAgICAgICAgaWYgKGV4dEluZm8gPT0gbnVsbCkgewogICAgICAgICAgICBFeGNlcHRpb25VdGlsLnRocm93Qml6RXhjZXB0aW9uKFJlc3BDb2RlLlNZU19QQVJBTV9JTExFR0FMLCAi57y65bCR5b+F6KaB55qE5YWs55So5Y+C5pWw77yBIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXJhbWV0ZXJOYW1lcyA9IHBhcmFtZXRlck5hbWVzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXVpZCA9IHJlcXVlc3QuZ2V0Q2xpZW50KCkuZ2V0VXVpZCgpOwo=</text>
+        <text encoding="base64">QFZhbGlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInV1aWQgPSAiICsgdXVpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInV1aWQgPSAiICsgdXVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRyYWNrID0gIiArIHRyYWNrKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJHZXREYXRhUGFja2V0ID0gIiArIGJHZXREYXRhUGFja2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2xpZW50RXh0SW5mbyBleHRJbmZvID0gY2xpZW50LmdldEV4KCk7CiAgICAgICAgaWYgKGV4dEluZm8gPT0gbnVsbCkgewogICAgICAgICAgICBFeGNlcHRpb25VdGlsLnRocm93Qml6RXhjZXB0aW9uKFJlc3BDb2RlLlNZU19QQVJBTV9JTExFR0FMLCAi57y65bCR5b+F6KaB55qE5YWs55So5Y+C5pWw77yBIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGJHZXREYXRhUGFja2V0ID0gQ2FsbGVyLk5BVElWRS5lcXVhbHMoY2xpZW50LmdldENhbGxlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXVpZCA9IHJlcXVlc3QuZ2V0Q2xpZW50KCkuZ2V0VXVpZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
