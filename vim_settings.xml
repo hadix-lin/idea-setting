@@ -60,11 +60,11 @@
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1547036782699">
         <mark key="[" line="821" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/impl/DataInfoMngApiImpl.java" timestamp="1546411176040">
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/impl/DataInfoMngApiImpl.java" timestamp="1547264497309">
+        <mark key="[" line="63" column="42" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/api/TypeSafeApi.java" timestamp="1546861487757">
         <mark key="'" line="104" column="0" />
@@ -133,6 +133,9 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" timestamp="1547124188339">
+        <mark key="'" line="1125" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiConfigManager.java" timestamp="1546927440296">
         <mark key="[" line="60" column="40" />
         <mark key="]" line="61" column="7" />
@@ -175,12 +178,6 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/dto/DataInfoEditDto.java" timestamp="1546074364869">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/pom.xml" timestamp="1544864235066">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="41" column="29" />
@@ -204,6 +201,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-start/pom.xml" timestamp="1547264818830">
+        <mark key="[" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" timestamp="1547211837530">
         <mark key="[" line="136" column="0" />
@@ -608,6 +608,12 @@
         <mark key="]" line="25" column="40" />
         <mark key="^" line="25" column="40" />
         <mark key="." line="25" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/sutradepository/pom.xml" timestamp="1547264851112">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="150" column="23" />
+        <mark key="^" line="150" column="23" />
+        <mark key="." line="150" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondPropertySourceLocator.java" timestamp="1544539528884">
         <mark key="[" line="52" column="0" />
@@ -1102,11 +1108,8 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/pom.xml" timestamp="1546421029794">
-        <mark key="[" line="80" column="19" />
-        <mark key="]" line="79" column="29" />
-        <mark key="^" line="79" column="29" />
-        <mark key="." line="79" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/pom.xml" timestamp="1547264827626">
+        <mark key="[" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtraDao.java" timestamp="1546832014200">
         <mark key="[" line="17" column="39" />
@@ -1119,6 +1122,9 @@
         <mark key="]" line="87" column="61" />
         <mark key="." line="87" column="61" />
         <mark key="^" line="87" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1547265118745">
+        <mark key="[" line="76" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1545901092183">
         <mark key="[" line="17" column="29" />
@@ -1274,7 +1280,7 @@
         <mark key="." line="81" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/pom.xml" timestamp="1547107203042">
-        <mark key="'" line="126" column="21" />
+        <mark key="'" line="131" column="21" />
         <mark key="[" line="27" column="50" />
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
@@ -1388,12 +1394,6 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/dto/DataInfoDto.java" timestamp="1546396927760">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/odps/pom.xml" timestamp="1547196220187">
         <mark key="[" line="42" column="21" />
@@ -1680,11 +1680,8 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" timestamp="1546423697605">
-        <mark key="[" line="109" column="31" />
-        <mark key="]" line="109" column="30" />
-        <mark key="^" line="109" column="30" />
-        <mark key="." line="109" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" timestamp="1547264448485">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-api-framework-1.2.0.1-SNAPSHOT.jar!/cn/uc/pp/common/api/ApiExecutor.class" timestamp="1546520035668">
         <mark key="[" line="43" column="30" />
@@ -1786,11 +1783,8 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/pom.xml" timestamp="1546936845472">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/pom.xml" timestamp="1547264806912">
+        <mark key="[" line="7" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" timestamp="1544602927977">
         <mark key="[" line="106" column="17" />
@@ -1838,6 +1832,9 @@
         <mark key="]" line="18" column="32" />
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/ddd.java" timestamp="1547177165680">
+        <mark key="'" line="114" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1544594700015">
         <mark key="[" line="116" column="32" />
@@ -2062,7 +2059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/kt/KeepEnglishInNormalAndRestoreInInsertExtension.kt" />
       <jump line="88" column="65" filename="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" />
       <jump line="17" column="19" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
@@ -2162,6 +2158,7 @@
       <jump line="151" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" />
       <jump line="33" column="13" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
