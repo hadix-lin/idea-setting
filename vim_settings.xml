@@ -133,9 +133,6 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/AppApi.java" timestamp="1547124188339">
-        <mark key="'" line="1125" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/ApiConfigManager.java" timestamp="1546927440296">
         <mark key="[" line="60" column="40" />
         <mark key="]" line="61" column="7" />
@@ -1129,8 +1126,11 @@
         <mark key="." line="87" column="61" />
         <mark key="^" line="87" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1547265118745">
-        <mark key="[" line="76" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1547433141981">
+        <mark key="[" line="76" column="62" />
+        <mark key="]" line="76" column="61" />
+        <mark key="^" line="76" column="61" />
+        <mark key="." line="76" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" timestamp="1545901092183">
         <mark key="[" line="17" column="29" />
@@ -1285,7 +1285,7 @@
         <mark key="^" line="81" column="52" />
         <mark key="." line="81" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/pom.xml" timestamp="1547107203042">
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/pom.xml" timestamp="1547433135067">
         <mark key="'" line="131" column="21" />
         <mark key="[" line="27" column="50" />
         <mark key="]" line="28" column="16" />
@@ -1593,7 +1593,7 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/pom.xml" timestamp="1546401023362">
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/pom.xml" timestamp="1547432651490">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="18" column="35" />
@@ -1686,8 +1686,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" timestamp="1547264448485">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" timestamp="1547432538961">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="19" />
+        <mark key="^" line="74" column="19" />
+        <mark key="." line="74" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-api-framework-1.2.0.1-SNAPSHOT.jar!/cn/uc/pp/common/api/ApiExecutor.class" timestamp="1546520035668">
         <mark key="[" line="43" column="30" />
@@ -1838,9 +1842,6 @@
         <mark key="]" line="18" column="32" />
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/ddd.java" timestamp="1547177165680">
-        <mark key="'" line="114" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1544594700015">
         <mark key="[" line="116" column="32" />
@@ -2065,7 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="65" filename="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" />
       <jump line="17" column="19" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="198" column="27" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
@@ -2165,6 +2165,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" />
       <jump line="33" column="13" filename="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
