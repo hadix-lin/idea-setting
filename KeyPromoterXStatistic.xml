@@ -336,7 +336,7 @@
           <IdeaActionID>TailMyBatisLog</IdeaActionID>
           <ShortCut>'⌥⇧⌘O'</ShortCut>
           <Description>MyBatis Log Plugin</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Page">
@@ -1070,6 +1070,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pp_server'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'sutradepository'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'sutradepository'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sutradepository-maintain'">
