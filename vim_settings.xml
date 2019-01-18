@@ -207,13 +207,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" timestamp="1547557218110">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/resources/META-INF/spring.factories" timestamp="1544250910926">
         <mark key="[" line="2" column="59" />
         <mark key="]" line="3" column="48" />
@@ -383,6 +376,9 @@
         <mark key="^" line="76" column="4" />
         <mark key="." line="76" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1547803636498">
+        <mark key="[" line="25" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
@@ -403,20 +399,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Boot.java" timestamp="1547794913906">
         <mark key="^" line="123" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/Application.java" timestamp="1547519687097">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="6" />
-        <mark key="^" line="29" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/SutradepositoryModuleConfiguration.java" timestamp="1547606638621">
-        <mark key="'" line="147" column="52" />
-        <mark key="[" line="33" column="3" />
-        <mark key="]" line="34" column="6" />
-        <mark key="." line="34" column="6" />
-        <mark key="^" line="34" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/model/Follow.java" timestamp="1544507623670">
         <mark key="[" line="45" column="1" />
@@ -508,13 +490,6 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/model/DataContent.java" timestamp="1547555120023">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="174" column="4" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/basicData/NewAppBasicData.java" timestamp="1544690379643">
         <mark key="[" line="265" column="24" />
         <mark key="]" line="265" column="23" />
@@ -556,13 +531,6 @@
         <mark key="]" line="10" column="34" />
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/index/service/AbstractIndexService.java" timestamp="1547448258736">
-        <mark key="'" line="168" column="34" />
-        <mark key="[" line="61" column="21" />
-        <mark key="]" line="61" column="20" />
-        <mark key="^" line="61" column="20" />
-        <mark key="." line="61" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/java/cn/uc/pp/ubr/follow/model/UID.java" timestamp="1543918534417">
         <mark key="[" line="11" column="15" />
@@ -1059,13 +1027,6 @@
         <mark key="." line="47" column="76" />
         <mark key="^" line="47" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/service/search/SearchService.java" timestamp="1547461555838">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="47" column="49" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter/2.0.2.RELEASE/spring-cloud-starter-2.0.2.RELEASE.pom" timestamp="1544863619096">
         <mark key="[" line="32" column="43" />
         <mark key="]" line="32" column="42" />
@@ -1270,13 +1231,6 @@
         <mark key="]" line="852" column="33" />
         <mark key="^" line="852" column="33" />
         <mark key="." line="852" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/hsf/impl/DataInfoMngApiImpl.java" timestamp="1547794424215">
-        <mark key="'" line="61" column="33" />
-        <mark key="[" line="63" column="42" />
-        <mark key="]" line="63" column="41" />
-        <mark key="^" line="63" column="41" />
-        <mark key="." line="63" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/api/impl/ArticleApiImpl.java" timestamp="1544012151466">
         <mark key="[" line="26" column="34" />
@@ -1751,13 +1705,6 @@
         <mark key="]" line="37" column="29" />
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/DataContent.java" timestamp="1547544440804">
-        <mark key="'" line="3" column="23" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="122" column="13" />
-        <mark key="^" line="122" column="13" />
-        <mark key="." line="122" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1544532012685">
         <mark key="[" line="35" column="14" />
