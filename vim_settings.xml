@@ -376,8 +376,11 @@
         <mark key="^" line="76" column="4" />
         <mark key="." line="76" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1547803636498">
-        <mark key="[" line="25" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" timestamp="1547804649814">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
@@ -2499,13 +2502,13 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>concat('%',#{tagId},'%')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>watermarkState</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmQgYS50YWdfaWRzIHJlZ2V4cCBjb25jYXQoJ1teLF0nLCN7dGFnaWR9LCdbLCRdJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjIuMzwvdmVyc2lvbj4K</text>
