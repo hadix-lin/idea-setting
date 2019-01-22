@@ -636,6 +636,7 @@
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/dao/DataContentDao.java" timestamp="1546066645976">
         <mark key="[" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/api/AppOpsAPi.java" timestamp="1548142276889" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="16" />
@@ -1186,11 +1187,6 @@
         <mark key="^" line="84" column="51" />
         <mark key="." line="84" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/resources/application-module.properties" timestamp="1548075284557">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" timestamp="1544602927977">
         <mark key="[" line="106" column="17" />
         <mark key="]" line="106" column="16" />
@@ -1417,16 +1413,12 @@
       <file name="/25pp_android.page_style_config [admin-dev]" timestamp="1546518420850">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/dao/AppDetailOpsDao.java" timestamp="1548142859949" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/src/main/java/cn/uc/pp/sutradepository/service/SomeService.java" timestamp="1547608459348">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/pom.xml" timestamp="1548122781321">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" timestamp="1547690940595">
         <mark key="[" line="157" column="4" />
@@ -1480,7 +1472,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" timestamp="1548141075850">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/service/AppDetailOpsService.java" timestamp="1548142614020">
         <mark key="[" line="601" column="58" />
         <mark key="]" line="601" column="57" />
         <mark key="." line="601" column="57" />
@@ -1555,6 +1547,7 @@
       <file name="/ac_androidmarket.key_value [@11.3.138.49]" timestamp="1546396679689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-ppcache-1.0.6-sources.jar!/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1548142958758" />
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/ac/admin/android_management-adv-client/1.0.0/android_management-adv-client-1.0.0.jar!/cn/uc/pp/ac/admin/article/api/ArticleAuditApi.class" timestamp="1544007141988">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="17" />
@@ -1769,11 +1762,6 @@
         <mark key="^" line="187" column="27" />
         <mark key="." line="187" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/OpenModuleConfiguration.java" timestamp="1548122768639">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543298855177">
         <mark key="[" line="38" column="14" />
         <mark key="]" line="53" column="41" />
@@ -1821,11 +1809,6 @@
         <mark key="]" line="99" column="15" />
         <mark key="^" line="99" column="15" />
         <mark key="." line="99" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1548075830711">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/resources/META-INF/services/com.taobao.hsf.invocation.filter.RPCFilter" timestamp="1548075063129">
         <mark key="[" line="0" column="0" />
