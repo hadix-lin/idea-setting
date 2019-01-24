@@ -432,7 +432,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -520,6 +520,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DocParse'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FastJsonPT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FastJsonPT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'HelloKryoPT'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'HelloKryoPT'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InputSourceSwitcher2'">
