@@ -701,11 +701,11 @@
         <mark key="^" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/throwaway/kryo-test/src/main/java/hadix/kyro/test/SomeClass.java" timestamp="1548324898244">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/throwaway/kryo-test/src/main/java/hadix/kyro/test/SomeClass.java" timestamp="1548326222411">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
         <mark key="[" line="11" column="20" />
@@ -2098,7 +2098,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1548322612001">
+      <file name="/fragment.java" timestamp="1548326188166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -2539,11 +2539,11 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/throwaway/kryo-test/src/main/java/HelloHessianCT.java" timestamp="1548325294893">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/throwaway/kryo-test/src/main/java/HelloHessianCT.java" timestamp="1548326296559">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/resources/docs/task_ext.md" timestamp="1545877461365">
         <mark key="[" line="5" column="0" />
@@ -2995,31 +2995,31 @@
         <text encoding="base64">b3B0aW1pemVkR2VuZXJpY3Mg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZjE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrcnlvLnJlZ2lzdGVyKFNvbWVDbGFzcy5jbGFzcywgMTApOwogICAgICAgIGtyeW8ucmVnaXN0ZXIoTmVzdGVkQ2xhc3MyLmNsYXNzLCAxMSk7CiAgICAgICAga3J5by5yZWdpc3RlcihOZXN0ZWRDbGFzcy5jbGFzcywgMTIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZjE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBrcnlvLnJlZ2lzdGVyKFNvbWVDbGFzcy5jbGFzcywgMTApOwogICAgICAgIGtyeW8ucmVnaXN0ZXIoTmVzdGVkQ2xhc3MyLmNsYXNzLCAxMSk7CiAgICAgICAga3J5by5yZWdpc3RlcihOZXN0ZWRDbGFzcy5jbGFzcywgMTIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZjE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbk91dCA9IEpTT04udG9KU09OU3RyaW5nKG9iamVjdCwgU2VyaWFsaXplckZlYXR1cmUuV3JpdGVDbGFzc05hbWUpOwogICAgICAgIEZpbGVVdGlscy53cml0ZVN0cmluZ1RvRmlsZShuZXcgRmlsZSgianNvbi10ZXh0Lmpzb24iKSwganNvbk91dCwgInV0ZjgiKTsKCiAgICAgICAgU3RyaW5nIGpzb25JbiA9IEZpbGVVdGlscy5yZWFkRmlsZVRvU3RyaW5nKG5ldyBGaWxlKCJqc29uLXRleHQuanNvbiIpLCAidXRmOCIpOwogICAgICAgIE9iamVjdCByZXN1bHQyID0gSlNPTi5wYXJzZShqc29uSW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVzdWx0MiA9ICIgKyByZXN1bHQyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIEpTT04ucGFyc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbk91dCA9IEpTT04udG9KU09OU3RyaW5nKG9iamVjdCwgU2VyaWFsaXplckZlYXR1cmUuV3JpdGVDbGFzc05hbWUpOwogICAgICAgIEZpbGVVdGlscy53cml0ZVN0cmluZ1RvRmlsZShuZXcgRmlsZSgianNvbi10ZXh0Lmpzb24iKSwganNvbk91dCwgInV0ZjgiKTsKCiAgICAgICAgU3RyaW5nIGpzb25JbiA9IEZpbGVVdGlscy5yZWFkRmlsZVRvU3RyaW5nKG5ldyBGaWxlKCJqc29uLXRleHQuanNvbiIpLCAidXRmOCIpOwogICAgICAgIE9iamVjdCByZXN1bHQyID0gSlNPTi5wYXJzZShqc29uSW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVzdWx0MiA9ICIgKyByZXN1bHQyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgIEpTT04ucGFyc2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
