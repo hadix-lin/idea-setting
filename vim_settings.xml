@@ -2043,7 +2043,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1548298067198">
+      <file name="/fragment.java" timestamp="1548309854592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -2556,11 +2556,11 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/throwaway/kyro-test/src/main/java/HelloKryo.java" timestamp="1548298059938">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="42" />
-        <mark key="^" line="23" column="42" />
-        <mark key="." line="23" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/throwaway/kyro-test/src/main/java/HelloKryo.java" timestamp="1548309700209">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/lucky/service/LuckyService.java" timestamp="1547462273527">
         <mark key="[" line="357" column="68" />
@@ -2590,9 +2590,9 @@
         <mark key="." line="166" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/kyro-test/src/main/java/SomeClas.java" timestamp="1548298319014">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/repository/repository-client/1.0.0/repository-client-1.0.0-sources.jar!/cn/uc/pp/repository/article/ArticleApi.java" timestamp="1546054198761">
         <mark key="[" line="31" column="37" />
@@ -2605,6 +2605,9 @@
         <mark key="]" line="40" column="30" />
         <mark key="^" line="40" column="30" />
         <mark key="." line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/throwaway/kyro-test/src/main/java/hadix/kryo/test/SomeClas.java" timestamp="1548309741954">
+        <mark key="[" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/target/classes/mybatis/task_mapper.xml" timestamp="1543649081005">
         <mark key="[" line="24" column="30" />
@@ -2924,34 +2927,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJwcGNhY2hlIGdldCBmYWlsLCBsb2FkIGZyb20gbG9hZGVyIGV4Y2VwdGlvbiwgcHJlZml4OiAiICsgcHJlZml4ICsgIiBrZXk6ICIgKyBrZXksIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBrZXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa3J5by5nZXRyZWcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZuG5ZCI57G75L2/55SoQ29sbGVjdGlvbnMudW5tb2RpZmlhYmxlKuWkhOeQhgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBrZXk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6ZuG5ZCI57G75L2/55SoQ29sbGVjdGlvbnMudW5tb2RpZmlhYmxlKuWkhOeQhgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsdWUg5aaC5p6c5piv566A5Y2V57G75Z6LKHN0cmluZyAsbnVtYmVyLCBkYXRlICAuLi4uKeebtOaOpei/lOWbngo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsdWUg5aaC5p6c5piv566A5Y2V57G75Z6LKHN0cmluZyAsbnVtYmVyLCBkYXRlICAuLi4uKeebtOaOpei/lOWbngo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5piv6ZuG5ZCI57G75Z6LLOmBjeWOhuaJgOacieWFg+e0oOi/m+ihjOS7o+eQhuWMheijhQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NVdGlscy5pcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaC5p6c5piv6ZuG5ZCI57G75Z6LLOmBjeWOhuaJgOacieWFg+e0oOi/m+ihjOS7o+eQhuWMheijhQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChjbGF6eiwgIkNsYXNzIG11c3Qgbm90IGJlIG51bGwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NVdGlscy5pcwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
