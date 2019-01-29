@@ -630,7 +630,7 @@
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/constant/StateEnum.java" timestamp="1548747445309" />
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/constant/StateEnum.java" timestamp="1548748270681" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/app/spring/util/common/HSFProperties.java" timestamp="1543472345311">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="13" />
@@ -1536,7 +1536,12 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/service/MngVideoService.java" timestamp="1548747732094" />
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/service/MngVideoService.java" timestamp="1548748248268">
+        <mark key="[" line="201" column="55" />
+        <mark key="]" line="201" column="54" />
+        <mark key="." line="201" column="54" />
+        <mark key="^" line="201" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/model/VideoTag.java" timestamp="1548670271342">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="17" />
@@ -2417,6 +2422,9 @@
         <mark key="]" line="91" column="18" />
         <mark key="^" line="91" column="18" />
         <mark key="." line="91" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/modules/android_module-1.6.8/lib/android_module.jar!/jws/modules/ucac/android/utils/FileApiUtil.class" timestamp="1548748261664">
+        <mark key="'" line="146" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json5" timestamp="1546518463646">
         <mark key="[" line="97" column="4" />
@@ -3376,7 +3384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="14" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="288" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="29" column="25" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
@@ -3476,6 +3483,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/kafka/producer/BaseMessageProducer.java" />
       <jump line="343" column="22" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/flexiblecontent/service/FlexibleContentService.java" />
       <jump line="165" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-client/src/main/java/cn/uc/pp/ac/admin/article/request/ArticleAuditQueryAllRequest.java" />
+      <jump line="146" column="25" filename="$USER_HOME$/Documents/Projects/android_management/modules/android_module-1.6.8/lib/android_module.jar!/jws/modules/ucac/android/utils/FileApiUtil.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3488,7 +3496,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>Jws.configuration.getProperty(&quot;ffmpeg.url&quot;, &quot;&quot;);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
