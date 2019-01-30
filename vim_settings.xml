@@ -39,7 +39,7 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1548816841247">
+      <file name="/a.dummy" timestamp="1548819561467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/ExceptionFilter.java" timestamp="1548159750860">
@@ -1006,12 +1006,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/VideoService.java" timestamp="1548755606588">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="204" column="37" />
-        <mark key="]" line="195" column="13" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="191" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/VideoService.java" timestamp="1548819354592">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="195" column="18" />
+        <mark key="]" line="195" column="27" />
+        <mark key="^" line="195" column="27" />
+        <mark key="." line="195" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/META-INF/spring.factories" timestamp="1543920105672">
         <mark key="[" line="1" column="41" />
@@ -1597,6 +1597,12 @@
         <mark key="]" line="58" column="30" />
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/FileUploader.java" timestamp="1548819561135">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+        <mark key="." line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HetModuleConfiguration.java" timestamp="1548054530205">
         <mark key="[" line="18" column="34" />
@@ -3400,7 +3406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="1" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/Json.java" />
       <jump line="20" column="1" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/CustomTypeHandler.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/ddd.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/CustomTypeHandlerGenerator.java" />
@@ -3500,6 +3505,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/AbstractHttpRequest.java" />
       <jump line="232" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/AbstractHttpRequest.java" />
       <jump line="112" column="39" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/impl/okhttp/OkHttpRequest.java" />
+      <jump line="57" column="13" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/VideoService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3518,37 +3524,37 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxMb25nPiBzdHJUb0xvbmdMaXN0KFN0cmluZyBzdHIsIFN0cmluZyBzcGVyYXRvcikgewogICAgICAgIHJldHVybiBzcGxpdFRvTnVtYmVyTGlzdChzdHIsIHNwZXJhdG9yLCBMb25nOjp2YWx1ZU9mKTsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyA8VCBleHRlbmRzIE51bWJlcj4gTGlzdDxUPiBzcGxpdFRvTnVtYmVyTGlzdCgKICAgICAgICBTdHJpbmcgc3RyLCBTdHJpbmcgc3BlcmF0b3IsIEZ1bmN0aW9uPFN0cmluZywgVD4gdHJhbnNmb3JtZXIpIHsKCiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc05vdEJsYW5rKHN0cikpIHsKICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwogICAgICAgIH0KICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAoc3BlcmF0b3IgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgc3BlcmF0b3IgPSBERUZBVUxUX1NQRVJBVE9SOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBTcGxpdHRlci5vbihzcGVyYXRvcikuc3BsaXRUb0xpc3Qoc3RyKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcCh0cmFuc2Zvcm1lcikuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8g6K6h566X562+5ZCN5ZKMbWQ1CiAgICAgICAgU3RyaW5nIHNpZ24gPSAiIjsKICAgICAgICBTdHJpbmcgbWQ1ID0gIiI7CiAgICAgICAgdHJ5IChJbnB1dFN0cmVhbSBpbiA9IEZpbGVzLm5ld0lucHV0U3RyZWFtKHZpZGVvRmlsZS50b1BhdGgoKSkpIHsKICAgICAgICAgICAgbWQ1ID0gRGlnZXN0VXRpbHMubWQ1RGlnZXN0QXNIZXgoaW4pOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIEh0dHAucmVxKCJ1cGxvYWRfdXJsIikKICAgICAgICAgICAgLm1ldGhvZChNZXRob2QuUE9TVCkKICAgICAgICAgICAgLnBhcmFtKCJpZCIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQogICAgICAgICAgICAucGFyYW0oImNhbGxlciIsICJhbmRyb2lkX21hbmFnZW1lbnQtYWR2IikKICAgICAgICAgICAgLnBhcmFtKCJzaWduIiwgInNpZ24iKQogICAgICAgICAgICAucGFyYW0oImZpbGUiLCB2aWRlb0ZpbGUpCiAgICAgICAgICAgIC5wYXJhbSgibWQ1IiwgbWQ1KQogICAgICAgICAgICAubWltZVR5cGUoIm11bHRpcGFydC9mb3JtLWRhdGEiKQogICAgICAgICAgICAuc3VibWl0Rm9yT2JqZWN0KEZpbGVVcGxvYWRSZXNwLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCLkuIrkvKDop4bpopHmlofku7ZcIiIgKyB2aWRlb0ZpbGUuZ2V0TmFtZSgpICsgIlwi5aSx6LSlLCIgKyByZXNwLmdldE1zZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvLnNldFVybChyZXNwLmdldERhdGEoKS5nZXRVcmwoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVVwbG9hZFJlc3AgcmVzcCA9IHVwbG9hZFZpZGVvRmlsZSh2aWRlb0ZpbGUpOwoKICAgICAgICAgICAgaWYgKHJlc3AuaXNTdWNjZXNzKCkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmlsZVVwbG9hZFJlc3AgdXBsb2FkVmlkZW9GaWxlKEZpbGUgdmlkZW9GaWxlKSB7CiAgICAgICAgLy90b2RvIOiuoeeul+etvuWQjeWSjG1kNQogICAgICAgIFN0cmluZyBzaWduID0gIiI7CiAgICAgICAgU3RyaW5nIG1kNSA9ICIiOwogICAgICAgIHRyeSAoSW5wdXRTdHJlYW0gaW4gPSBGaWxlcy5uZXdJbnB1dFN0cmVhbSh2aWRlb0ZpbGUudG9QYXRoKCkpKSB7CiAgICAgICAgICAgIG1kNSA9IERpZ2VzdFV0aWxzLm1kNURpZ2VzdEFzSGV4KGluKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBIdHRwLnJlcSgidXBsb2FkX3VybCIpCiAgICAgICAgICAgIC5tZXRob2QoTWV0aG9kLlBPU1QpCiAgICAgICAgICAgIC5wYXJhbSgiaWQiLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkKICAgICAgICAgICAgLnBhcmFtKCJjYWxsZXIiLCAiYW5kcm9pZF9tYW5hZ2VtZW50LWFkdiIpCiAgICAgICAgICAgIC5wYXJhbSgic2lnbiIsICJzaWduIikKICAgICAgICAgICAgLnBhcmFtKCJmaWxlIiwgdmlkZW9GaWxlKQogICAgICAgICAgICAucGFyYW0oIm1kNSIsIG1kNSkKICAgICAgICAgICAgLm1pbWVUeXBlKCJtdWx0aXBhcnQvZm9ybS1kYXRhIikKICAgICAgICAgICAgLnN1Ym1pdEZvck9iamVjdChGaWxlVXBsb2FkUmVzcC5jbGFzcyk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzcGVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3A7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
