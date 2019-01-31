@@ -523,11 +523,10 @@
         <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/TairCacheHandler.java" timestamp="1548902092187">
-        <mark key="'" line="335" column="39" />
-        <mark key="[" line="65" column="9" />
-        <mark key="]" line="66" column="59" />
-        <mark key="^" line="66" column="59" />
-        <mark key="." line="66" column="59" />
+        <mark key="'" line="333" column="39" />
+        <mark key="]" line="64" column="59" />
+        <mark key="^" line="64" column="59" />
+        <mark key="." line="64" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.0.8.4-sources.jar!/cn/uc/pp/common/util/common/domain/ApiRequest.java" timestamp="1544005988399">
         <mark key="[" line="0" column="42" />
@@ -763,6 +762,12 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/tair/TairClient.java" timestamp="1548904541149">
+        <mark key="[" line="65" column="66" />
+        <mark key="]" line="66" column="29" />
+        <mark key="^" line="66" column="29" />
+        <mark key="." line="66" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/service/impl/ArticleServiceImpl.java" timestamp="1545901258597">
         <mark key="[" line="31" column="48" />
         <mark key="]" line="31" column="47" />
@@ -864,7 +869,7 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548901129426">
+      <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548904776022">
         <mark key="[" line="7238" column="29" />
         <mark key="]" line="7238" column="28" />
         <mark key="^" line="7238" column="28" />
@@ -1777,11 +1782,11 @@
         <mark key="." line="62" column="69" />
         <mark key="^" line="62" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/Serializer.java" timestamp="1548902021005">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/Serializer.java" timestamp="1548903380224">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-start/src/main/java/cn/uc/pp/sutradepository_boot/Application.java" timestamp="1548212319604">
         <mark key="[" line="2" column="0" />
@@ -2547,6 +2552,12 @@
       </file>
       <file name="/File Header.txt.ft" timestamp="1546493549676">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/TairManagerWithLog.java" timestamp="1548904696287">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+        <mark key="." line="8" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/model/RelVideoTag.java" timestamp="1548668221778">
         <mark key="[" line="7" column="3" />
@@ -3442,6 +3453,12 @@
         <mark key="^" line="74" column="26" />
         <mark key="." line="74" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/test/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1548904151380">
+        <mark key="[" line="176" column="47" />
+        <mark key="]" line="176" column="46" />
+        <mark key="." line="176" column="46" />
+        <mark key="^" line="176" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeController.java" timestamp="1546512866042">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="26" column="0" />
@@ -3592,37 +3609,37 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgZGVzZXJpYWxpemUgPSBUcmFuc2NvZGVyVXRpbC5kZXNlcmlhbGl6ZShieXRlcywgdHlwZS5nZXRDbGFzc0xvYWRlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZml4ID0gInRlc3RfZ2V0X2FkZF9yZXBsYWNlX2RlbGV0ZSI7CiAgICAgICAgUFBDYWNoZUNvbmZpZyBjYWNoZUNvbmZpZyA9IFBQQ2FjaGVDb25maWdNYW5hZ2VyLmdldEluc3RhbmNlKCkuZ2V0Q2FjaGVDb25maWcocHJlZml4KTsKICAgICAgICBjYWNoZUNvbmZpZy5zZXRTZXJpYWxpemVyVHlwZShTZXJpYWxpemVyLlR5cGUuSEVTU0lBTjIpOwogICAgICAgIGJ5dGVbXSB2YWx1ZSA9IG5ldyBieXRlWzEwMF07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCB2YWx1ZS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICB2YWx1ZVtpXSA9IDE7CiAgICAgICAgfQogICAgICAgIFN0cmluZyBrZXkgPSAiYW55X2tleV8yIjsKICAgICAgICBjYWNoZS5zZXQodmFsdWUsIHByZWZpeCwga2V5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gdmFsdWUgPSBuZXcgYnl0ZVsxMDBdOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgdmFsdWUubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgdmFsdWVbaV0gPSAxOwogICAgICAgIH0KICAgICAgICBTdHJpbmcga2V5ID0gImFueV9rZXlfMiI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCB2IGluc3RhbmNlb2YgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbmV2ZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGlnbm9yZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCB2IGluc3RhbmNlb2YgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
