@@ -550,11 +550,9 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/TairCacheHandler.java" timestamp="1548930148959">
-        <mark key="[" line="100" column="54" />
-        <mark key="]" line="100" column="53" />
-        <mark key="." line="100" column="53" />
-        <mark key="^" line="100" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/TairCacheHandler.java" timestamp="1548988773093">
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.0.8.4-sources.jar!/cn/uc/pp/common/util/common/domain/ApiRequest.java" timestamp="1544005988399">
         <mark key="[" line="0" column="42" />
@@ -790,11 +788,11 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/tair/TairClient.java" timestamp="1548927960183">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/tair/TairClient.java" timestamp="1548988017927">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/resource/service/impl/ArticleServiceImpl.java" timestamp="1545901258597">
         <mark key="[" line="31" column="48" />
@@ -3430,7 +3428,6 @@
         <mark key="^" line="74" column="26" />
         <mark key="." line="74" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/test/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1548925804749" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeController.java" timestamp="1546512866042">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="26" column="0" />
@@ -3455,7 +3452,6 @@
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="/PPCacheConfigManager.java" timestamp="1548929391173" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtendDao.java" timestamp="1546841773903">
         <mark key="[" line="74" column="9" />
         <mark key="]" line="74" column="8" />
@@ -3591,34 +3587,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5ZCv55So5YmN57yA5Yi35pawCiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUYWlyTWFuYWdlciBjbGllbnQgPSBjbGllbnQuZ2V0Q2xpZW50KCkuZ2V0VGFpck1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChycyA+IDApewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUYWlyTmFtZXNwYWNlIG5hbWVzcGFjZSA9IGdldFRhaXJDb25maWcoY29uZmlnLmdldE5hbWVzcGFjZSgpLCBwcmVmaXgsIHByZWZpeFZlcnNpb24pOwogICAgICAgIGlmIChuYW1lc3BhY2UgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihlbnRyeSAhPSBudWxsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpck5hbWVzcGFjZU1hcCA9IGNvbmYuZ2V0VGFpck5hbWVzcGFjZU1hcCgpOwogICAgICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFRhaXJOYW1lc3BhY2U+IGVudHJ5IDogdGFpck5hbWVzcGFjZU1hcC5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgbmFtZXNwYWNlID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICAgICAgICBUYWlyTmFtZXNwYWNlIHRhaXIgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICAgICAgICAgICAgdGFpci5nZXRDbGllbnQoKS5jcmVhdGUoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWlyQ2xpZW50KFRhaXJNYW5hZ2VyIHRtKSB7CiAgICAgICAgdGFpck1hbmFnZXIgPSB0bTsKICAgIH0KCiAgICBwdWJsaWMgVGFpck1hbmFnZXIgZ2V0VGFpck1hbmFnZXIoKSB7CiAgICAgICAgcmV0dXJuIHRhaXJNYW5hZ2VyOwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFRhaXJDbGllbnQodGFpck1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUYWlyTWFuYWdlciBjbGllbnQgPSBjbGllbnQuZ2V0Q2xpZW50KCkuZ2V0VGFpck1hbmFnZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFpckNsaWVudHMgPSBjb25mLmdldFRhaXJOYW1lc3BhY2VNYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICBUYWlyTmFtZXNwYWNlIG5hbWVzcGFjZSA9IGdldFRhaXJDb25maWcoY29uZmlnLmdldE5hbWVzcGFjZSgpLCBwcmVmaXgsIHByZWZpeFZlcnNpb24pOwogICAgICAgIGlmIChuYW1lc3BhY2UgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpckNsaWVudHMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpck5hbWVzcGFjZU1hcCA9IGNvbmYuZ2V0VGFpck5hbWVzcGFjZU1hcCgpOwogICAgICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIFRhaXJOYW1lc3BhY2U+IGVudHJ5IDogdGFpck5hbWVzcGFjZU1hcC5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgbmFtZXNwYWNlID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICAgICAgICBUYWlyTmFtZXNwYWNlIHRhaXIgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICAgICAgICAgICAgdGFpci5nZXRDbGllbnQoKS5jcmVhdGUoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhY2hlQ29uZmlnTWFwID0gY29uZi5nZXRDYWNoZUNvbmZpZ01hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFRhaXJDbGllbnQodGFpck1hbmFnZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgUFBDYWNoZUNvbmZpZz4gY2FjaGVDb25maWdNYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFpckNsaWVudHMgPSBjb25mLmdldFRhaXJOYW1lc3BhY2VNYXAoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQUENhY2hlQ29uZmlnUGFyc2VyIG1hbmFnZXIgPSBQUENhY2hlQ29uZmlnUGFyc2VyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpckNsaWVudHMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
