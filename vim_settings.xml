@@ -237,6 +237,12 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/constant/util/VideoAnalyseInfo.java" timestamp="1550128086771">
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="4" />
+        <mark key="^" line="69" column="4" />
+        <mark key="." line="69" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/sql/f_1.0.0.0.sql" timestamp="1544433142931">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="27" />
@@ -499,17 +505,18 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/lib/wm-open-api-sdk-1.0-SNAPSHOT.jar!/com/dayu/mp/model/query/OpenVideo.class" timestamp="1550045038118" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.10.RELEASE/spring-aop-5.0.10.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java" timestamp="1547884734314">
         <mark key="[" line="342" column="22" />
         <mark key="]" line="342" column="21" />
         <mark key="^" line="342" column="21" />
         <mark key="." line="342" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/Json.java" timestamp="1548740737967">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/Json.java" timestamp="1550125112313">
+        <mark key="[" line="151" column="11" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="158" column="3" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/resources/application-module.properties" timestamp="1548729920902">
         <mark key="[" line="1" column="29" />
@@ -841,6 +848,7 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/constant/util/VideoUtil.java" timestamp="1550125937543" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/Hessian2Serializer.java" timestamp="1548916266028">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -1050,6 +1058,13 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/Jackson.java" timestamp="1550127072023">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/target/generated-sources/delombok/cn/uc/pp/sutradepository/dto/ArticleDto.java" timestamp="1548222656353">
         <mark key="[" line="46" column="33" />
         <mark key="]" line="46" column="32" />
@@ -1091,6 +1106,11 @@
         <mark key="]" line="8" column="4" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/VideoService.java" timestamp="1550129088371">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/META-INF/spring.factories" timestamp="1543920105672">
         <mark key="[" line="1" column="41" />
@@ -1377,11 +1397,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/FFmpegUtils.java" timestamp="1550116455755">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="90" />
-        <mark key="^" line="110" column="31" />
-        <mark key="." line="110" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/FFmpegUtils.java" timestamp="1550127778589">
+        <mark key="'" line="40" column="24" />
+        <mark key="[" line="126" column="27" />
+        <mark key="]" line="126" column="25" />
+        <mark key="^" line="126" column="25" />
+        <mark key="." line="126" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/AddTest/testWithUcid.json" timestamp="1544609673687">
         <mark key="[" line="0" column="0" />
@@ -1737,12 +1758,6 @@
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/FileUploader.java" timestamp="1550107025392">
-        <mark key="'" line="136" column="24" />
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HetModuleConfiguration.java" timestamp="1548054530205">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="19" column="24" />
@@ -2007,6 +2022,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1550126015677">
+        <mark key="[" line="155" column="21" />
+        <mark key="]" line="155" column="20" />
+        <mark key="^" line="155" column="20" />
+        <mark key="." line="155" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" timestamp="1547690940595">
         <mark key="[" line="157" column="4" />
         <mark key="]" line="157" column="3" />
@@ -2169,6 +2190,7 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/conf/define.conf" timestamp="1550045136483" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/Test.java" timestamp="1547003257276">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="10" />
@@ -2199,12 +2221,12 @@
         <mark key="." line="184" column="41" />
         <mark key="^" line="184" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550053589409">
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550129093470">
         <mark key="'" line="214" column="52" />
-        <mark key="[" line="236" column="16" />
-        <mark key="]" line="237" column="34" />
-        <mark key="^" line="237" column="34" />
-        <mark key="." line="237" column="34" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/ContentItemArticleDto.java" timestamp="1548138467570">
         <mark key="[" line="8" column="14" />
@@ -2235,6 +2257,12 @@
         <mark key="]" line="18" column="7" />
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.json5" timestamp="1550126971896">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="13" />
+        <mark key="^" line="56" column="13" />
+        <mark key="." line="56" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-client/src/main/java/cn/uc/pp/ac/admin/article/dto/ArticleListInfoDto.java" timestamp="1548646827719">
         <mark key="[" line="15" column="6" />
@@ -2296,11 +2324,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/VideoUtil.java" timestamp="1549950518341">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/VideoUtil.java" timestamp="1550128412033">
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HsfExceptionFilter.java" timestamp="1548064349040">
         <mark key="[" line="27" column="23" />
@@ -2326,11 +2354,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/DayuVideoImportServiceImpl.java" timestamp="1550049976260">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/DayuVideoImportServiceImpl.java" timestamp="1550129154231">
+        <mark key="[" line="75" column="46" />
+        <mark key="]" line="75" column="40" />
+        <mark key="." line="75" column="40" />
+        <mark key="^" line="75" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/hsf/ArticleApiImpl.java" timestamp="1546424917680">
         <mark key="[" line="25" column="41" />
@@ -2651,11 +2679,10 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="97" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/VideoAnalyseInfo.java" timestamp="1550122425805">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="30" />
-        <mark key="^" line="40" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/VideoAnalyseInfo.java" timestamp="1550123780666">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/application.conf" timestamp="1546502703703">
         <mark key="[" line="66" column="8" />
@@ -2867,6 +2894,7 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/controllers/videoimport/DaYuVideoImporter.java" timestamp="1550045047644" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
         <mark key="]" line="5512" column="27" />
@@ -3071,6 +3099,7 @@
         <mark key="^" line="72" column="41" />
         <mark key="." line="72" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/conf/dependencies.yml" timestamp="1550042346947" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/RequestPropertyFilter.java" timestamp="1547211007777">
         <mark key="[" line="36" column="67" />
         <mark key="]" line="36" column="66" />
@@ -3698,9 +3727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
-      <jump line="19" column="24" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/resources/application.properties" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/resources/application.properties" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/resources/application.properties" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/resources/application.properties" />
@@ -3798,6 +3824,9 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/api/impl/VideoApiImpl.java" />
       <jump line="18" column="13" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-client/src/main/java/cn/uc/pp/ac/admin/video/dto/VideoDto.java" />
       <jump line="72" column="1" filename="$USER_HOME$/Documents/Projects/android_file/.gitignore" />
+      <jump line="97" column="24" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/FFmpegUtils.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/Jackson.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/Jackson.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3810,43 +3839,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb24udG9PYmplY3QocHJvY2Vzc091dCwgbmV3IFR5cGVSZWZlcmVuY2U8TWFwPFN0cmluZywgU3RyaW5nPj4oKSB7fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJiaXRfcmF0ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uLnRvT2JqZWN0KGpzb24sKQo=</text>
+        <text encoding="base64">ICAgICAgICBCZWFuTWFwLmNyZWF0ZShpbmZvKS5wdXRBbGwoaW5mb01hcCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB2Qml0UmF0ZSA9IHZTdHJlYW0uZ2V0Qml0UmF0ZSgpOwogICAgICAgICAgICBpZiAodkJpdFJhdGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdkJpdFJhdGUgPSBmb3JtYXQuZ2V0Qml0UmF0ZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlciBieSB2LnVwZGF0ZV90aW1lIGRlc2MK</text>
+        <text encoding="base64">ICAgICAgICBpbmZvLnNldHZCaXRSYXRlKHJlc3VsdC5nZXRWaWRlb1N0cmVhbSgpLmdldEJpdFJhdGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlciBieSB2LnVwZGF0ZV90aW1lIGRlc2MK</text>
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBzdHJlYW1zID0ganNvbi5nZXQoRkZtcGVnVXRpbHMuUEFSQU1fU1RSRUFNUyk7CiAgICAgICAgaWYgKHN0cmVhbXMgIT0gbnVsbCkgewogICAgICAgICAgICBpbnQgc2l6ZSA9IHN0cmVhbXMuc2l6ZSgpOwogICAgICAgICAgICBKc29uTm9kZSBhdWRpbyA9IHNpemUgPj0gMiA/IHN0cmVhbXMuZ2V0KDEpIDogbnVsbDsKICAgICAgICAgICAgaWYgKHNpemUgPj0gMSkgewogICAgICAgICAgICAgICAgSnNvbk5vZGUgdmlkZW8gPSBzdHJlYW1zLmdldCgwKTsKICAgICAgICAgICAgICAgIGluZm8uc2V0dkJpdFJhdGUodmlkZW8uZ2V0KEZGbXBlZ1V0aWxzLlNUUkVBTV9CSVRfUkFURSkuYXNJbnQoKSk7CiAgICAgICAgICAgICAgICBpbmZvLnNldFZjb2RlYyh2aWRlby5nZXQoRkZtcGVnVXRpbHMuU1RSRUFNX0NPREVDX05BTUUpLmFzVGV4dCgpKTsKICAgICAgICAgICAgICAgIGluZm8uc2V0CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0aWVzKHByb3BzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
