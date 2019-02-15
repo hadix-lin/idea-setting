@@ -57,7 +57,7 @@
         <mark key="^" line="59" column="13" />
         <mark key="." line="59" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1550140347704">
+      <file name="/a.dummy" timestamp="1550227442249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/dao/PerformanceInterceptor.java" timestamp="1544262242550">
@@ -2243,7 +2243,7 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management/conf/define.conf" timestamp="1550223853088" />
+      <file name="$USER_HOME$/Documents/Projects/android_management/conf/define.conf" timestamp="1550226847131" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/Test.java" timestamp="1547003257276">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="10" />
@@ -2280,11 +2280,11 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550215354147">
-        <mark key="[" line="213" column="44" />
-        <mark key="]" line="213" column="42" />
-        <mark key="." line="213" column="42" />
-        <mark key="^" line="213" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550227441625">
+        <mark key="[" line="211" column="32" />
+        <mark key="]" line="211" column="31" />
+        <mark key="." line="211" column="31" />
+        <mark key="^" line="211" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/ContentItemArticleDto.java" timestamp="1548138467570">
         <mark key="[" line="8" column="14" />
@@ -3936,7 +3936,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>data.</text>
+        <text>.collect(Collectors.toList());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
@@ -3945,34 +3945,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPSBIdHRwLnJlcSh1cmwpCiAgICAgICAgICAgICAgICAgIC5wYXJhbSgic2lnbiIsIHNpZ24pCiAgICAgICAgICAgICAgICAgIC5wYXJhbSgicmVwYXJzZV9zdXBwb3J0IiwgMCkKICAgICAgICAgICAgICAgICAgLnBhcmFtKCJub3ciLCBub3cpCiAgICAgICAgICAgICAgICAgIC5wYXJhbSgicGFnZVVybCIsIHZpZGVvUGFnZVVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBNYXAua2V5U2V0KCkuc3RyZWFtKCkuY29sbGVjdChqb2luaW5nKCcsJykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihPa0h0dHBSZXF1ZXN0LmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihPa0h0dHBSZXF1ZXN0LmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEYXl1UHJvcGVydGllcy5WcHMgdnBzID0gbmV3IERheXVQcm9wZXJ0aWVzLlZwcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXl1UHJvcGVydGllcy5WcHMgdnBzID0gbmV3IERheXVQcm9wZXJ0aWVzLlZwcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFpbHVyZUNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFpbHVyZUNvdW50Kys7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
