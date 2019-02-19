@@ -538,6 +538,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CustomSerializerTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CustomSerializerTest (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CustomSerializerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -624,6 +632,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OpenTaskApiTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PPCacheManagerKafkaTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PPCacheManagerKafkaTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PPCacheManagerTest (1)'">
