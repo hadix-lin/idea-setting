@@ -57,6 +57,9 @@
         <mark key="^" line="59" column="13" />
         <mark key="." line="59" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1550561016382">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/dao/PerformanceInterceptor.java" timestamp="1544262242550">
         <mark key="[" line="71" column="5" />
         <mark key="]" line="71" column="4" />
@@ -105,6 +108,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/TableDataChangedHandler.java" timestamp="1550561329977">
+        <mark key="[" line="130" column="59" />
+        <mark key="]" line="130" column="58" />
+        <mark key="." line="130" column="58" />
+        <mark key="^" line="130" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/data/model/OpBehaviorLog.java" timestamp="1546074704527">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="52" column="0" />
@@ -135,7 +144,6 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/config/TairManagerConf.java" timestamp="1550547179253" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-start/src/main/java/cn/uc/pp/sutradepository/maintain/Application.java" timestamp="1547469853573">
         <mark key="[" line="75" column="15" />
         <mark key="]" line="75" column="14" />
@@ -549,7 +557,6 @@
         <mark key="^" line="1" column="99" />
         <mark key="." line="1" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheOperationHandler.java" timestamp="1550555900317" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/common/base/BaseDao.java" timestamp="1546051866500">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="19" column="8" />
@@ -664,11 +671,11 @@
         <mark key="^" line="132" column="44" />
         <mark key="." line="132" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheController.java" timestamp="1548929505839">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheController.java" timestamp="1550557294591">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/model/Follow.java" timestamp="1544507623670">
         <mark key="[" line="45" column="1" />
@@ -848,6 +855,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1550561644054">
+        <mark key="[" line="373" column="67" />
+        <mark key="]" line="373" column="86" />
+        <mark key="." line="373" column="86" />
+        <mark key="^" line="373" column="86" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0-jre/guava-27.0-jre-sources.jar!/com/google/common/base/Splitter.java" timestamp="1548658159151">
         <mark key="[" line="403" column="23" />
         <mark key="]" line="403" column="22" />
@@ -955,11 +968,6 @@
         <mark key="]" line="11" column="16" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-comon-ppcache-config/src/main/java/cn/uc/pp/common/cache/config/common/PPCacheReloadListenerConfig.java" timestamp="1550544709407">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548904776022">
         <mark key="[" line="7238" column="29" />
@@ -1383,6 +1391,12 @@
         <mark key="." line="60" column="55" />
         <mark key="^" line="60" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/JsonUtil.java" timestamp="1550560873703">
+        <mark key="[" line="147" column="1" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/reflect/MultiValueMap.java" timestamp="1546484257670">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="67" column="1" />
@@ -1406,6 +1420,13 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
         <mark key="^" line="32" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheManager.java" timestamp="1550557146610">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1327" column="4" />
+        <mark key="]" line="1327" column="10" />
+        <mark key="^" line="1327" column="10" />
+        <mark key="." line="1327" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/HetApi.java" timestamp="1547868512612">
         <mark key="[" line="7" column="3" />
@@ -1870,10 +1891,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pom.xml" timestamp="1550556178865">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pom.xml" timestamp="1550560643846">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HetModuleConfiguration.java" timestamp="1548054530205">
         <mark key="[" line="18" column="34" />
@@ -1933,11 +1955,11 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/PPCacheController.java" timestamp="1550555836260">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/PPCacheController.java" timestamp="1550561077009">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dto/AppKeyInfo.java" timestamp="1544084615604">
         <mark key="[" line="50" column="20" />
@@ -1986,6 +2008,12 @@
         <mark key="]" line="25" column="63" />
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/PPReloadEventHandler.java" timestamp="1550561114909">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/dao/DataContentDao.java" timestamp="1546421459284">
         <mark key="[" line="13" column="7" />
@@ -2059,6 +2087,11 @@
         <mark key="^" line="852" column="33" />
         <mark key="." line="852" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/PPCacheOperationHandler.java" timestamp="1550561088595">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/android_management/app/management/video/constant/util/SystemProcessUtils.java" timestamp="1548742962932">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -2105,11 +2138,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/pom.xml" timestamp="1550556079875">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/pom.xml" timestamp="1550560537679">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/style/dynamic/JumpDynamicStyleManager.java" timestamp="1544087566044">
         <mark key="[" line="117" column="3" />
@@ -2324,6 +2357,12 @@
         <mark key="^" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-config/pom.xml" timestamp="1550557608367">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1550052065053">
         <mark key="[" line="7" column="123" />
         <mark key="]" line="8" column="126" />
@@ -2347,6 +2386,12 @@
         <mark key="]" line="19" column="32" />
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/PPCacheCmdSenderBridgeImpl.java" timestamp="1550561065300">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/ac/admin/android_management-adv-client/1.0.0/android_management-adv-client-1.0.0.jar!/cn/uc/pp/ac/admin/article/api/ArticleAuditApi.class" timestamp="1544007141988">
         <mark key="[" line="15" column="18" />
@@ -2449,6 +2494,12 @@
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/pom.xml" timestamp="1550561565496">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" timestamp="1547198810761">
         <mark key="[" line="26" column="1" />
@@ -2922,7 +2973,7 @@
         <mark key="^" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1550544785110">
+      <file name="/fragment.java" timestamp="1550557007977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="59" />
@@ -3951,7 +4002,6 @@
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="/pom.xml" timestamp="1550485504271" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtendDao.java" timestamp="1546841773903">
         <mark key="[" line="74" column="9" />
         <mark key="]" line="74" column="8" />
@@ -3963,6 +4013,12 @@
         <mark key="]" line="9" column="47" />
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/common/PPCacheConf.java" timestamp="1550557878015">
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -4078,43 +4134,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGdyb3VwSWQ+Y24udWMucHAuY29tbW9uPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1wYXJlbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4yLjQ8L3ZlcnNpb24+CiAgICA8L3BhcmVudD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jbi51Yy5wcDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnBwLXNlcnZpY2UtY29tb24tcHBjYWNoZS1jb25maWc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnBwLXNlcnZpY2UtY29tbW9uLXBwY2FjaGUta2Fma2E8L21vZHVsZT4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5NYXBVdGlsczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmthZmthLlBQQ2FjaGVLYWZrYUNtZFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGVmZmVjdENvbHVtbnMpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbW1vbi5Kc29uVXRpbDsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbW1vbi5Kc29uVXRpbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbW1vbi5QUENhY2hlRXZlbnRJbmZvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbnN0YW50LlBQQ2FjaGVLYWZrYVRvcGljRGVmaW5lU2V0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbmZpZy5QUENhY2hlQ21kU2VuZGVyQnJpZGdlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbmZpZy5QUENhY2hlQ29udHJvbGxlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbW1vbi5QUENhY2hlRXZlbnRJbmZvOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbW1vbi5Kc29uVXRpbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLlBQQ2FjaGVPcGVyYXRpb25IYW5kbGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbnN0YW50LlBQQ2FjaGVLYWZrYVRvcGljRGVmaW5lU2V0Owo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
