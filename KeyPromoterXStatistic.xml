@@ -203,7 +203,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>119</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -289,7 +289,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>37</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -337,7 +337,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>135</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -903,7 +903,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
