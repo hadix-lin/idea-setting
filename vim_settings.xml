@@ -378,7 +378,7 @@
         <mark key="^" line="566" column="39" />
         <mark key="." line="566" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/TairSerializerHookPlugin.java" timestamp="1550649464188">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/TairSerializerHookPlugin.java" timestamp="1550650665172">
         <mark key="'" line="54" column="24" />
         <mark key="[" line="22" column="36" />
         <mark key="]" line="22" column="35" />
@@ -2496,11 +2496,10 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550647915834">
-        <mark key="[" line="258" column="9" />
-        <mark key="]" line="259" column="7" />
-        <mark key="." line="259" column="7" />
-        <mark key="^" line="259" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550652049308">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/ContentItemArticleDto.java" timestamp="1548138467570">
         <mark key="[" line="8" column="14" />
@@ -2674,6 +2673,11 @@
         <mark key="]" line="42" column="6" />
         <mark key="^" line="42" column="6" />
         <mark key="." line="42" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1550571179601">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="79" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/abtest_engagementMapper.xml" timestamp="1547717398246">
         <mark key="[" line="169" column="20" />
@@ -3073,8 +3077,8 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/model/RelVideoTag.java" timestamp="1548668221778">
-        <mark key="[" line="7" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/model/RelVideoTag.java" timestamp="1550650967565">
+        <mark key="[" line="9" column="16" />
         <mark key="]" line="8" column="4" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
@@ -4245,7 +4249,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbCBpbWFnZUJyaWVmcw==</text>
+        <text encoding="base64">TGlzdDxJbnRlZ2VyPiB2aWRlb0lkcw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
@@ -4254,34 +4258,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoY292ZXJJbWFnZUZpbGUgIT0gbnVsbCAmJiBjb3ZlckltYWdlRmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICBJbWFnZVVwbG9hZGVyLlBhcmFtIHBhcmFtID0gbmV3IEltYWdlVXBsb2FkZXIuUGFyYW0oKTsKICAgICAgICAgICAgcGFyYW0uc2V0RmlsZShjb3ZlckltYWdlRmlsZSk7CiAgICAgICAgICAgIHBhcmFtLnNldElkKFN5c3RlbS5uYW5vVGltZSgpKTsKICAgICAgICAgICAgcGFyYW0uc2V0RmlsZVR5cGUoRmlsZVR5cGUuR0VORVJBTF9JTUFHRSk7CiAgICAgICAgICAgIHZhbCBpbWFnZUJyaWVmcyA9IGltYWdlVXBsb2FkZXIudXBsb2FkKHBhcmFtKTsKICAgICAgICAgICAgaWYgKGltYWdlQnJpZWZzICE9IG51bGwgJiYgIWltYWdlQnJpZWZzLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgdmlkZW8uc2V0Q292ZXJJbWFnZShpbWFnZUJyaWVmcy5nZXQoMCkuZ2V0SW1hZ2VVcmwoKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW1hZ2VTZXJ2aWNlLmRlbGV0ZShSZXNvdXJjZVR5cGUuQVBQX1ZJREVPLCB2aWRlby5nZXRJZCgpLCBJbWFnZS5UeXBlLkdFTkVSQUwpOwogICAgICAgICAgICBpbWFnZVNlcnZpY2UuYWRkKFJlc291cmNlVHlwZS5BUFBfVklERU8sIGltYWdlQnJpZWZzLCB2aWRlby5nZXRJZCgpLCBJbWFnZS5UeXBlLkdFTkVSQUwpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLnRhaXIuVGFpck5hbWVzcGFjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVsVGFnSWRzID0gdmlkZW8uZ2V0UmVsVGFnSWRzKCk7CiAgICAgICAgQXJyYXlzLnN0cmVhbShTdHJpbmdVdGlscy5zcGxpdChyZWxBcHBJZHMsICcsJykpLm1hcChMb25nOjpwYXJzZUxvbmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2dERhby5pbnNlcnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWxWaWRlb1RhZyB2dCA9IG5ldyBSZWxWaWRlb1RhZygpOwogICAgICAgIHZ0LnNldENyZWF0ZVRpbWUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgIHZ0LnNldFVwZGF0ZVRpbWUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLmNvbnN0YW50LlBQQ2FjaGVLYWZrYVRvcGljRGVmaW5lU2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2dC5zZXREZWxldGVkKDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKGV4aXN0ID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZih2aWRlby5nZXRSZWxUYWdJZHMoKWRkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVsVGFnSWRzID0gdmlkZW8uZ2V0UmVsVGFnSWRzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZUNvbmYuc2V0Q29uZmlnQWRhcHRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdVdGlscy5pc05vdEJsYW5rKHJlbFRhZ0lkcykpewogICAgICAgICAgICBTdHJpbmdVdGlscy5zcGxpdChyZWxUYWdJZHMsJywnKS4KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQUENhY2hlQ29uZiBjYWNoZUNvbmYgPSBuZXcgUFBDYWNoZUNvbmYoY29uZmlneG1sLCBuZXcgVGFpckNvbmZpZ1BhcnNlcih0YWlyY29uZmlneG1sLCB0YWlyTWFuYWdlckNvbmYpLAogICAgICAgICAgICBLYWZrYUNtZFNlbmRlci5nZXRJbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi5wcGNhY2hlLnRhaXIuVGFpck5hbWVzcGFjZTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
