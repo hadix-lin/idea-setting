@@ -2553,7 +2553,7 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/config/TairCacheHandler.class" timestamp="1550659152168">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/config/TairCacheHandler.class" timestamp="1550712753015">
         <mark key="[" line="488" column="54" />
         <mark key="]" line="488" column="53" />
         <mark key="^" line="488" column="53" />
@@ -2973,7 +2973,7 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1550657293069">
+      <file name="/fragment.java" timestamp="1550712870685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="59" />
@@ -3951,12 +3951,12 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/monitor/PPCacheStatLog.java" timestamp="1550660490560">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/monitor/PPCacheStatLog.java" timestamp="1550713217651">
         <mark key="'" line="306" column="40" />
-        <mark key="[" line="310" column="19" />
-        <mark key="]" line="306" column="40" />
-        <mark key="." line="306" column="40" />
-        <mark key="^" line="306" column="40" />
+        <mark key="[" line="334" column="30" />
+        <mark key="]" line="334" column="28" />
+        <mark key="." line="334" column="29" />
+        <mark key="^" line="334" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/src/main/java/cn/uc/pp/sutradepository/ContentApi.java" timestamp="1547622977294">
         <mark key="[" line="30" column="7" />
@@ -4157,7 +4157,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxJbnRlZ2VyPiB2aWRlb0lkcw==</text>
+        <text>flowCount=(%d)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
@@ -4172,28 +4172,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuZmxvd0NvdW50KCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIEZpZWxkIGYgPSBDbGFzcy5mb3JOYW1lKCJjbi51Yy5wcC5jb21tb24ucHBjYWNoZS5QUENhY2hlQ2xpZW50IikuZ2V0RGVjbGFyZWRGaWVsZCgidGFpckNhY2hlSGFuZGxlciIpOwogICAgICAgICAgICBmLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgICAgIE1ldGhvZCBtID0gQ2xhc3MuZm9yTmFtZSgiY24udWMucHAuY29tbW9uLnBwY2FjaGUuUFBDYWNoZUNsaWVudCIpLmdldE1ldGhvZCgiZ2V0SW5zdGFuY2UiKTsKICAgICAgICAgICAgbS5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICBPYmplY3QgcHBjYWNoZUNsaWVudCA9IG0uaW52b2tlKG51bGwpOwoKICAgICAgICAgICAgT2JqZWN0IHRhaXJDYWNoZUhhbmRsZXIgPSBmLmdldChwcGNhY2hlQ2xpZW50KTsKCiAgICAgICAgICAgIGYgPSBDbGFzcy5mb3JOYW1lKCJjbi51Yy5wcC5jb21tb24ucHBjYWNoZS5UYWlyQ2FjaGVIYW5kbGVyIikuZ2V0RGVjbGFyZWRGaWVsZCgidGFpckNsaWVudHMiKTsKICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwoKICAgICAgICAgICAgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpckNsaWVudHMgPSAoTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4pZi5nZXQodGFpckNhY2hlSGFuZGxlcik7CgogICAgICAgICAgICBmb3IoVGFpck5hbWVzcGFjZSBucyA6IHRhaXJDbGllbnRzLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICBGaWVsZCBmMSA9IFRhaXJOYW1lc3BhY2UuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgiY2xpZW50Iik7CiAgICAgICAgICAgICAgICBmMS5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgY24udWMucHAuY29tbW9uLnBwY2FjaGUudGFpci5UYWlyQ2xpZW50IGMgPSAoY24udWMucHAuY29tbW9uLnBwY2FjaGUudGFpci5UYWlyQ2xpZW50KWYxLmdldChucyk7CiAgICAgICAgICAgICAgICBEZWZhdWx0VGFpck1hbmFnZXIgdG0gPSAoRGVmYXVsdFRhaXJNYW5hZ2VyKWMuZ2V0VGFpck1hbmFnZXIoKTsKICAgICAgICAgICAgICAgICgoRGVmYXVsdFRyYW5zY29kZXIpdG0uZ2V0VHJhbnNjb2RlcigpKS5zZXRUcmFuc2NvZGVyQ3VzdG9tKG5ldyBQUEN1c3RvbVRyYW5zY29kZXIoKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgfWNhdGNoKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlLCBFcnJvclR5cGVzLkNPTU1PTl9VTktOT1dOLCAic2V0IHBwY2FjaGUgdHJhbnNjb2RlciBmYWlsLiIpOwogICAgICAgICAgICBTeXN0ZW0uZXhpdCgtMSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVsVGFnSWRzID0gdmlkZW8uZ2V0UmVsVGFnSWRzKCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVsVGFnSWRzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIEZpZWxkIGYgPSBDbGFzcy5mb3JOYW1lKCJjbi51Yy5wcC5jb21tb24ucHBjYWNoZS5QUENhY2hlQ2xpZW50IikuZ2V0RGVjbGFyZWRGaWVsZCgidGFpckNhY2hlSGFuZGxlciIpOwogICAgICAgICAgICBmLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgICAgIE1ldGhvZCBtID0gQ2xhc3MuZm9yTmFtZSgiY24udWMucHAuY29tbW9uLnBwY2FjaGUuUFBDYWNoZUNsaWVudCIpLmdldE1ldGhvZCgiZ2V0SW5zdGFuY2UiKTsKICAgICAgICAgICAgbS5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICBPYmplY3QgcHBjYWNoZUNsaWVudCA9IG0uaW52b2tlKG51bGwpOwoKICAgICAgICAgICAgT2JqZWN0IHRhaXJDYWNoZUhhbmRsZXIgPSBmLmdldChwcGNhY2hlQ2xpZW50KTsKCiAgICAgICAgICAgIGYgPSBDbGFzcy5mb3JOYW1lKCJjbi51Yy5wcC5jb21tb24ucHBjYWNoZS5UYWlyQ2FjaGVIYW5kbGVyIikuZ2V0RGVjbGFyZWRGaWVsZCgidGFpckNsaWVudHMiKTsKICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwoKICAgICAgICAgICAgTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4gdGFpckNsaWVudHMgPSAoTWFwPFN0cmluZywgVGFpck5hbWVzcGFjZT4pZi5nZXQodGFpckNhY2hlSGFuZGxlcik7CgogICAgICAgICAgICBmb3IoVGFpck5hbWVzcGFjZSBucyA6IHRhaXJDbGllbnRzLnZhbHVlcygpKSB7CiAgICAgICAgICAgICAgICBGaWVsZCBmMSA9IFRhaXJOYW1lc3BhY2UuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgiY2xpZW50Iik7CiAgICAgICAgICAgICAgICBmMS5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgY24udWMucHAuY29tbW9uLnBwY2FjaGUudGFpci5UYWlyQ2xpZW50IGMgPSAoY24udWMucHAuY29tbW9uLnBwY2FjaGUudGFpci5UYWlyQ2xpZW50KWYxLmdldChucyk7CiAgICAgICAgICAgICAgICBEZWZhdWx0VGFpck1hbmFnZXIgdG0gPSAoRGVmYXVsdFRhaXJNYW5hZ2VyKWMuZ2V0VGFpck1hbmFnZXIoKTsKICAgICAgICAgICAgICAgICgoRGVmYXVsdFRyYW5zY29kZXIpdG0uZ2V0VHJhbnNjb2RlcigpKS5zZXRUcmFuc2NvZGVyQ3VzdG9tKG5ldyBQUEN1c3RvbVRyYW5zY29kZXIoKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgfWNhdGNoKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlLCBFcnJvclR5cGVzLkNPTU1PTl9VTktOT1dOLCAic2V0IHBwY2FjaGUgdHJhbnNjb2RlciBmYWlsLiIpOwogICAgICAgICAgICBTeXN0ZW0uZXhpdCgtMSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVsVGFnSWRzID0gdmlkZW8uZ2V0UmVsVGFnSWRzKCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVsVGFnSWRzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gdGFnSWRzCiAgICAgICAgICAgID0gQXJyYXlzLnN0cmVhbShTdHJpbmdVdGlscy5zcGxpdChyZWxUYWdJZHMpKQogICAgICAgICAgICAgICAgICAubWFwKExvbmc6OnBhcnNlTG9uZykKICAgICAgICAgICAgICAgICAgLmNvbGxlY3QodG9TZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gdGFnSWRzCiAgICAgICAgICAgID0gQXJyYXlzLnN0cmVhbShTdHJpbmdVdGlscy5zcGxpdChyZWxUYWdJZHMpKQogICAgICAgICAgICAgICAgICAubWFwKExvbmc6OnBhcnNlTG9uZykKICAgICAgICAgICAgICAgICAgLmNvbGxlY3QodG9TZXQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
