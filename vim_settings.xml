@@ -1716,7 +1716,8 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/archivers/zip/ZipFile.class" timestamp="1550733690733">
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/archivers/zip/ZipFile.class" timestamp="1550740530039">
+        <mark key="'" line="370" column="16" />
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="13" />
         <mark key="^" line="39" column="13" />
@@ -2194,11 +2195,6 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/PPCacheManagerTest.java" timestamp="1550571331474">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/JavaSerializer.java" timestamp="1548914932308">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="15" column="38" />
@@ -2420,11 +2416,6 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/test/resources/logback.xml" timestamp="1550566154433">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/constant/ImageType.java" timestamp="1549962245296">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="12" />
@@ -2444,9 +2435,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1550734402970">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jackson/JacksonAutoConfiguration.java" timestamp="1548169734625">
         <mark key="[" line="108" column="28" />
@@ -2543,11 +2531,11 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550735728942">
-        <mark key="[" line="288" column="19" />
-        <mark key="]" line="288" column="11" />
-        <mark key="." line="288" column="11" />
-        <mark key="^" line="288" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" timestamp="1550742929081">
+        <mark key="[" line="313" column="48" />
+        <mark key="]" line="312" column="11" />
+        <mark key="^" line="312" column="11" />
+        <mark key="." line="312" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/dto/ContentItemArticleDto.java" timestamp="1548138467570">
         <mark key="[" line="8" column="14" />
@@ -3119,7 +3107,7 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1550735429240">
+      <file name="/fragment.java" timestamp="1550740005981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -3170,12 +3158,11 @@
         <mark key="^" line="57" column="36" />
         <mark key="." line="57" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/ZipFileUtils.java" timestamp="1550734091571">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/ZipFileUtils.java" timestamp="1550743110970">
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+        <mark key="^" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowApi.java" timestamp="1543821081595">
         <mark key="[" line="8" column="40" />
@@ -3342,6 +3329,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management/app/controllers/videoimport/DaYuVideoImporter.java" timestamp="1550740740781">
+        <mark key="[" line="266" column="43" />
+        <mark key="]" line="266" column="42" />
+        <mark key="^" line="266" column="42" />
+        <mark key="." line="266" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
@@ -3553,6 +3546,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/.gitignore" timestamp="1550743183295">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/validate/EnableValidation.java" timestamp="1547006375557">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="10" column="10" />
@@ -3655,10 +3654,11 @@
         <mark key="^" line="40" column="21" />
         <mark key="." line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/pom.xml" timestamp="1550733841443">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/pom.xml" timestamp="1550742145686">
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/dto/FollowDto.java" timestamp="1544250257668">
         <mark key="[" line="11" column="0" />
@@ -4229,7 +4229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="17" filename="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.0.5/tair-client-4.0.5-sources.jar!/com/taobao/tair/TairManager.java" />
       <jump line="160" column="25" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/GuavaCacheHandler.java" />
       <jump line="119" column="46" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="51" column="3" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheConf.java" />
@@ -4329,6 +4328,7 @@
       <jump line="306" column="40" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/monitor/PPCacheStatLog.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/ZipFileUtils.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/ZipFileUtils.java" />
+      <jump line="370" column="16" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/org/apache/commons/compress/archivers/zip/ZipFile.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4341,43 +4341,45 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldyBGaWxlKHVuemlwRGlyLCB2LmdldEF1dGhvckF2YXRhcigpKQ==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmRyb2lkX2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoImFjY291bnQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlkZW9GaWxlID0gSHR0cC5yZXEodmlkZW8uZ2V0VXJsKCkpLnN1Ym1pdEZvckZpbGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi5zZXRBdXRob3IoZGF5dVZpZGVvLmdldCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBleHRyYShaaXBGaWxlIHppcCwgWmlwQXJjaGl2ZUVudHJ5IGVudHJ5LCBGaWxlIGRlc3REaXIpIHsKLy8gICAgICAgIEZpbGUgZW50cnlEZXN0aW5hdGlvbiA9IG5ldyBGaWxlKGRlc3REaXIsIGVudHJ5LmdldE5hbWUoKSk7Ci8vICAgICAgICBpZiAoZW50cnkuaXNEaXJlY3RvcnkoKSkgewovLyAgICAgICAgICAgIGVudHJ5RGVzdGluYXRpb24ubWtkaXJzKCk7Ci8vICAgICAgICAgICAgcmV0dXJuOwovLyAgICAgICAgfQovLyAgICAgICAgZW50cnlEZXN0aW5hdGlvbi5nZXRQYXJlbnRGaWxlKCkubWtkaXJzKCk7Ci8vICAgICAgICB0cnkgKHZhbCBpbiA9IHppcC5nZXRJbnB1dFN0cmVhbShlbnRyeSk7Ci8vICAgICAgICAgICAgIHZhbCBvdXQgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShlbnRyeURlc3RpbmF0aW9uKSkgewovLyAgICAgICAgICAgIElPVXRpbHMuY29weShpbiwgb3V0KTsKLy8gICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICB0aHJvdyBuZXcgU3lzdGVtRXhjZXB0aW9uKCLop6Pljovmlofku7bplJnor68iLCAiZXJyb3I9IiArIGUuZ2V0TWVzc2FnZSgpICsgIix6aXAuZW50cnk9IiArIGVudHJ5LmdldE5hbWUoKSwgZSk7Ci8vICAgICAgICB9Ci8vICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5dVZpZGVvLmdldAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEVudW1lcmF0aW9uPFppcEFyY2hpdmVFbnRyeT4gZW50cmllcyA9IHppcC5nZXRFbnRyaWVzKCk7Ci8vICAgICAgICB3aGlsZSAoZW50cmllcy5oYXNNb3JlRWxlbWVudHMoKSkgewovLyAgICAgICAgICAgIFppcEFyY2hpdmVFbnRyeSBlbnRyeSA9IGVudHJpZXMubmV4dEVsZW1lbnQoKTsKLy8gICAgICAgICAgICBleHRyYSh6aXAsIGVudHJ5LCBkZXN0RGlyKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvLnNldENvdmVySW1hZ2UoKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZXh0cmEoWmlwRmlsZSB6aXAsIFppcEFyY2hpdmVFbnRyeSBlbnRyeSwgRmlsZSBkZXN0RGlyKSB7Ci8vICAgICAgICBGaWxlIGVudHJ5RGVzdGluYXRpb24gPSBuZXcgRmlsZShkZXN0RGlyLCBlbnRyeS5nZXROYW1lKCkpOwovLyAgICAgICAgaWYgKGVudHJ5LmlzRGlyZWN0b3J5KCkpIHsKLy8gICAgICAgICAgICBlbnRyeURlc3RpbmF0aW9uLm1rZGlycygpOwovLyAgICAgICAgICAgIHJldHVybjsKLy8gICAgICAgIH0KLy8gICAgICAgIGVudHJ5RGVzdGluYXRpb24uZ2V0UGFyZW50RmlsZSgpLm1rZGlycygpOwovLyAgICAgICAgdHJ5ICh2YWwgaW4gPSB6aXAuZ2V0SW5wdXRTdHJlYW0oZW50cnkpOwovLyAgICAgICAgICAgICB2YWwgb3V0ID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oZW50cnlEZXN0aW5hdGlvbikpIHsKLy8gICAgICAgICAgICBJT1V0aWxzLmNvcHkoaW4sIG91dCk7Ci8vICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbUV4Y2VwdGlvbigi6Kej5Y6L5paH5Lu26ZSZ6K+vIiwgImVycm9yPSIgKyBlLmdldE1lc3NhZ2UoKSArICIsemlwLmVudHJ5PSIgKyBlbnRyeS5nZXROYW1lKCksIGUpOwovLyAgICAgICAgfQovLyAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>catch (ZipException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSByZWxfdmlkZW9fdGFnIHdoZXJlIHZpZGVvX2lkPTI7CgpzZWxlY3QgKiBmcm9tIHZpZGVvX3RhZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgemlwID0gbmV3IFppcEZpbGUoemlwRmlsZSwiR0IxODAzMCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBaaXBGaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBaaXBGaWxlIHppcCA9IG5ldyBaaXBGaWxlKHppcEZpbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJSZXN1bHRPZk1ldGhvZENhbGxJZ25vcmVkIikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb21wcmVzcy5hcmNoaXZlcnMuemlwLlppcEZpbGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
