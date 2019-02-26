@@ -430,11 +430,11 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/TabConfigSnapshot.java" timestamp="1551152781767">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-        <mark key="." line="27" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/TabConfigSnapshot.java" timestamp="1551160164474">
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HsfExceptionGenerateFilter.java" timestamp="1548054577419">
         <mark key="[" line="16" column="45" />
@@ -3086,6 +3086,7 @@
         <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/tab/wdj/BaseRule.java" timestamp="1551074623119" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/tab/dto/TabDomain.java" timestamp="1551160175544" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1550657725564">
         <mark key="[" line="157" column="49" />
         <mark key="]" line="157" column="48" />
@@ -3767,6 +3768,12 @@
         <mark key="]" line="57" column="36" />
         <mark key="^" line="57" column="36" />
         <mark key="." line="57" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/ZipFileUtils.java" timestamp="1551062247657">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowApi.java" timestamp="1543821081595">
         <mark key="[" line="8" column="40" />
@@ -4465,34 +4472,36 @@
         <text encoding="base64">CSAqIEByZXR1cm4g5oiQ5Yqf6L+U5ZuedHJ1ZSwg5ZCm5YiZ6L+U5ZueZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBcGlPcGVyYXRpb24oIuWIoOmZpOW/q+eFpyIpCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmFkbWluLnRhYi5tb2RlbC5UYWJQYWdlU3RyYXRlZ3k7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>public static class Tab{
+					
+				}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlncm91cC5zZXREb2NJbmZvKGluZm8pOwo=</text>
+        <text encoding="base64">CUBBcGlPcGVyYXRpb24oIuWIoOmZpOW/q+eFpyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBteWJhdGlzCg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmFkbWluLnRhYi5tb2RlbC5UYWJQYWdlU3RyYXRlZ3k7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXliYXRpcy5jb25maWctbG9jYXRpb249Y2xhc3NwYXRoOi9teWJhdGlzL215YmF0aXMtY29uZmlnLnhtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">CQlncm91cC5zZXREb2NJbmZvKGluZm8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">IyBteWJhdGlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcmV0dXJuIFBsYXkuY29uZmlndXJhdGlvbi5nZXRQcm9wZXJ0eShrZXksIGRlZmF1bHRWYWx1ZSk7Cg==</text>
+        <text encoding="base64">bXliYXRpcy5jb25maWctbG9jYXRpb249Y2xhc3NwYXRoOi9teWJhdGlzL215YmF0aXMtY29uZmlnLnhtbAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
