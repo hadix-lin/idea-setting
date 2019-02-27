@@ -3802,6 +3802,13 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="57" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1551275621991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/transcoder/HessianTranscoder.java" timestamp="1548901214625">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="13" />
@@ -4545,8 +4552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="28" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheManager.java" />
-      <jump line="1427" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheManager.java" />
       <jump line="125" column="24" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/tair/TairClient.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/config/PPCacheConf.java" />
       <jump line="33" column="30" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/PPCacheConfigParser.java" />
@@ -4645,6 +4650,8 @@
       <jump line="75" column="11" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" />
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" />
       <jump line="71" column="22" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" />
+      <jump line="20" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4657,47 +4664,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>implements Serializable</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0Y3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlMYW1iZGFRdWVyeVdyYXBwZXI8VGFiQ29uZmlnU25hcHNob3Q+IHdyYXBwZXIgPSBXcmFwcGVycy5sYW1iZGFRdWVyeSgpOwo=</text>
+        <text encoding="base64">CXZvaWQgY2hlY2tTZWN1cml0eShMaXN0PFN0cmluZz4gcGVvcGxlcykgewoJCWZvciAoU3RyaW5nIHBlb3BsZSA6IHBlb3BsZXMpIHsKCQkJaWYgKHBlb3BsZS5lcXVhbHMoIkRvbiIpIHx8IHBlb3BsZS5lcXVhbHMoIkpvaG4iKSkgewoJCQkJc2VuZEFsZXJ0KCk7CgkJCQlicmVhazsKCQkJfQoJCX0KCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcy5zZXRDcmVhdGVUaW1lKG5vdyk7Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgKEludGVnZXIgaWQgOiBwZW9wbGVJZHMpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2cuc2V0T3BUeXBlKG9ibC5nZXQpOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2cuc2V0T3BUeXBlKCk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKGludCBpZCA6IHBlb3BsZUlkcykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>public
-public
-public
-public
-public</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlmb3IgKFN0cmluZyBwZW9wbGUgOiBwZW9wbGVzKSB7CgkJCWlmIChwZW9wbGUuZXF1YWxzKCJEb24iKSkgewoJCQkJcmV0dXJuICJEb24iOwoJCQl9CgkJCWlmIChwZW9wbGUuZXF1YWxzKCJKb2huIikpIHsKCQkJCXJldHVybiAiSm9obiI7CgkJCX0KCQkJaWYgKHBlb3BsZS5lcXVhbHMoIktlbnQiKSkgewoJCQkJcmV0dXJuICJLZW50IjsKCQkJfQoJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
