@@ -21,7 +21,7 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1551262837213">
+      <file name="/a.dummy" timestamp="1551267929217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1546934951390">
@@ -263,6 +263,9 @@
         <mark key="]" line="44" column="1" />
         <mark key="." line="44" column="1" />
         <mark key="^" line="44" column="1" />
+      </file>
+      <file name="/25pp_android.op_behavior_log [admin-dev]" timestamp="1551268610642">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE-sources.jar!/org/springframework/core/task/SimpleAsyncTaskExecutor.java" timestamp="1550202931736">
         <mark key="[" line="275" column="13" />
@@ -546,7 +549,7 @@
         <mark key="^" line="58" column="8" />
         <mark key="." line="58" column="8" />
       </file>
-      <file name="/dummy.sql" timestamp="1551263303649">
+      <file name="/dummy.sql" timestamp="1551268611045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/kryo-test/src/main/java/hadix/kyro/test/SomeClass.java" timestamp="1548331476765">
@@ -554,6 +557,9 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
+      </file>
+      <file name="/25pp_android.config_snapshot [admin-dev]" timestamp="1551267578336">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/YardPropertySource.java" timestamp="1544447051953">
         <mark key="[" line="11" column="20" />
@@ -716,6 +722,12 @@
         <mark key="]" line="25" column="20" />
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/dao/OpBehaviorLogMapper.java" timestamp="1551267926925">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.0.2.RELEASE/spring-cloud-context-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/context/refresh/ContextRefresher.java" timestamp="1544598277667">
         <mark key="[" line="67" column="48" />
@@ -1264,11 +1276,11 @@
         <mark key="^" line="46" column="69" />
         <mark key="." line="46" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/OpLogService.java" timestamp="1551265115734">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="20" column="2" />
-        <mark key="^" line="20" column="2" />
-        <mark key="." line="20" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/OpLogService.java" timestamp="1551269162202">
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/dto/SimpleTab.java" timestamp="1551251071715">
         <mark key="[" line="17" column="32" />
@@ -1684,7 +1696,7 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/tab/wdj/SnapshotController.java" timestamp="1551264654243">
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/tab/wdj/SnapshotController.java" timestamp="1551268878988">
         <mark key="[" line="363" column="74" />
         <mark key="]" line="363" column="71" />
         <mark key="^" line="363" column="71" />
@@ -2271,12 +2283,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" timestamp="1551264916648">
-        <mark key="'" line="106" column="22" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
-        <mark key="^" line="26" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" timestamp="1551269495451">
+        <mark key="'" line="123" column="22" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/type/TypeReference.java" timestamp="1547198230253">
         <mark key="[" line="56" column="21" />
@@ -2363,6 +2374,7 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json5" timestamp="1551268748874" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/CornerColor.java" timestamp="1547556030351">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="22" column="0" />
@@ -3243,7 +3255,7 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1551250579074" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1551268728235" />
       <file name="$USER_HOME$/Documents/Projects/android-pp-proxy/conf/application.conf" timestamp="1546932839154">
         <mark key="[" line="43" column="12" />
         <mark key="]" line="43" column="11" />
@@ -4132,7 +4144,7 @@
         <mark key="^" line="112" column="41" />
         <mark key="." line="112" column="41" />
       </file>
-      <file name="/25pp_android.tab_strategy [admin-dev]" timestamp="1551173291129">
+      <file name="/25pp_android.tab_strategy [admin-dev]" timestamp="1551267555558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/var/jws-1.7.1.5/framework/lib/slf4j-api-1.7.25.jar!/org/slf4j/Logger.class" timestamp="1548143449252">
@@ -4651,41 +4663,41 @@
         <text encoding="base64">XDx0Y3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBEYXRhCglwdWJsaWMgc3RhdGljIGNsYXNzIE9wTG9nIHsKCQlwcml2YXRlIFN0cmluZyB0aW1lOwoJCXByaXZhdGUgU3RyaW5nIG9wZXJhdG9yOwoJCXByaXZhdGUgU3RyaW5nIG9wVHlwZTsKCQlwcml2YXRlIFN0cmluZyBiaXpOYW1lOwoJCXByaXZhdGUgU3RyaW5nIGNvbnRlbnQ7Cgl9Cg==</text>
+        <text encoding="base64">CQlMYW1iZGFRdWVyeVdyYXBwZXI8VGFiQ29uZmlnU25hcHNob3Q+IHdyYXBwZXIgPSBXcmFwcGVycy5sYW1iZGFRdWVyeSgpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>public
-public
-public
-public
-public</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJcy5zZXRDcmVhdGVUaW1lKG5vdyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcy5zZXRUeXBlKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlzLnNldFJlbWFyaygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlsb2cuc2V0T3BUeXBlKG9ibC5nZXQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlsb2cuc2V0T3BUeXBlKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzLnNldEF1ZGl0b3IoQWRtaW5Vc2VyVXRpbC5nZXRVc2VybmFtZSgpKTsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0Y3NEYW8udXBkYXRlQnlJZChzKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewoJCQkJfQ==</text>
+      <register name="9" type="8">
+        <text>public
+public
+public
+public
+public</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
