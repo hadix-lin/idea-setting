@@ -1654,11 +1654,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/LogSerializedSizeTranscoder.java" timestamp="1550657633064">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/LogSerializedSizeTranscoder.java" timestamp="1551783148483">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="40" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/resource/ac/model/FlexibleContent.java" timestamp="1547445414595">
         <mark key="[" line="15" column="65" />
@@ -2288,6 +2288,9 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/monitor/PPCacheStatLog.java" timestamp="1551782835840">
+        <mark key="'" line="85" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/src/main/java/cn/uc/pp/sutradepository/ContentApi.java" timestamp="1547622977294">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="6" />
@@ -2389,6 +2392,12 @@
         <mark key="]" line="71" column="4" />
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/common/CacheStatUtils.java" timestamp="1551783476011">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="/usr/local/var/jws-1.7.1.5/framework/jws-1.7.1.5.jar!/jws/mvc/Controller.class" timestamp="1550133261773">
         <mark key="[" line="76" column="14" />
@@ -3470,11 +3479,11 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1550657725564">
-        <mark key="[" line="157" column="49" />
-        <mark key="]" line="157" column="48" />
-        <mark key="^" line="157" column="48" />
-        <mark key="." line="157" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1551783541897">
+        <mark key="[" line="463" column="11" />
+        <mark key="]" line="463" column="11" />
+        <mark key="^" line="462" column="25" />
+        <mark key="." line="463" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/base/follow/dto/FollowReq.java" timestamp="1543917526594">
         <mark key="[" line="9" column="19" />
@@ -4884,7 +4893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="11" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" />
       <jump line="122" column="19" filename="$USER_HOME$/Documents/Projects/android_management/app/management/oplog/service/OpLogService.java" />
       <jump line="75" column="29" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" />
       <jump line="293" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" />
@@ -4984,6 +4992,7 @@
       <jump line="233" column="4" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
       <jump line="30" column="13" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabSnapshotService.java" />
       <jump line="25" column="48" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/api/impl/SnapshotApiImpl.java" />
+      <jump line="85" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/monitor/PPCacheStatLog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4996,43 +5005,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>ByteArrayOutputStream out = new ByteArrayOutputStream();</text>
+        <text encoding="base64">IGludCB0b3RhbExlbiA9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ByteArrayOutputStream out</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUFBDYWNoZVN0YXRMb2cuZ2V0SW5zdGFuY2UoKS5sb2codHlwZSwgcHJlZml4LCBwcmVmaXhWZXJzaW9uLCBDYWNoZVN0YXRPcHQuTUFYX0JPRFlfTEVOR0hULCB2YWx1ZS50b1N0cmluZygpLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlnei5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWxMZW4gPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ3ouZmx1c2goKTsKCQkJcmV0dXJuIG91dC50b0J5dGVBcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxMZW4gPSBnZXRCb2R5TGVuKHYpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlvdXQuZmx1c2goKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlvdXQuZmx1c2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvdGFsTGVuID0gZ2V0Qm9keUxlbih2KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZ3ouZmx1c2goKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWxMZW4gPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlvdXQuZmx1c2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHVlIGluc3RhbmNlb2YgU3RyaW5nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3RhbExlbiArPSB2YWx1ZS50b1N0cmluZygpLmxlbmd0aCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHZhbHVlLmdldENsYXNzKCkuaXNBcnJheSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3RhbExlbiArPSBBcnJheS5nZXRMZW5ndGgodmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYnl0ZVtdIGJ5dGVzID0gb3V0LnRvQnl0ZUFycmF5KCk7CgkJCVN5c3RlbS5vdXQucHJpbnRsbigiYnl0ZXMubGVuZ3RoID0gIiArIGJ5dGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG91dC50b0J5dGVBcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ2FjaGVTdGF0VXRpbHMudmFsdWVUeXBlTG9nKENhY2hlVHlwZS5UQUlSLCBwcmVmaXgsIHByZWZpeFZlcnNpb24sIGtleSwgdmFsdWUsIHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlJbnB1dFN0cmVhbSBpbiA9IEZpbGVzLm5ld0lucHV0U3RyZWFtKFBhdGhzLmdldCgiY29udGVudC5qc29uIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG90YWxMZW4gKz0gQ2FjaGVTdGF0VXRpbHMudmFsdWVUeXBlTG9nKENhY2hlVHlwZS5UQUlSLCBwcmVmaXgsIHByZWZpeFZlcnNpb24sIGtleSwgdmFsdWUsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
