@@ -66,11 +66,11 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabService.java" timestamp="1551925598119">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabService.java" timestamp="1551941236099">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="63" />
+        <mark key="." line="49" column="63" />
+        <mark key="^" line="49" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/jdbc/metadata/DataSourcePoolMetadata.java" timestamp="1548726987613">
         <mark key="[" line="72" column="0" />
@@ -2916,7 +2916,7 @@
         <mark key="^" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551840727182">
+      <file name="/Dummy.txt" timestamp="1551941270716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548904776022">
@@ -4972,7 +4972,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>) { return false; }</text>
+        <text>tab.getTitle().contains(name)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
@@ -4981,34 +4981,34 @@
         <text encoding="base64">CQkJaWYgKGlzTm90QmxhbmsobWF4KSAmJiB2ID4gcGFyc2VJbnQobWF4KSkgewoJCQkJcmV0dXJuIGZhbHNlOwoJCQl9CgkJCWlmIChpc05vdEJsYW5rKG1pbikgJiYgdiA8IHBhcnNlSW50KG1pbikpIHsKCQkJCXJldHVybiBmYWxzZTsKCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBib29sZWFuIGhhc05vblJ1bGUoKSB7CgkJcmV0dXJuICFoYXNWZXJzaW9uQ29kZVJ1bGUoKSAmJiAhaGFzQ2hhbm5lbEdyb3VwUnVsZSgpICYmICFoYXNWZXJzaW9uQ29kZVJ1bGUoKTsKCX0K</text>
+        <text encoding="base64">CQlTdGF0dXMgcVN0YXR1cyA9IHF1ZXJ5LmdldFN0YXR1cygpOwoJCVN0YXR1cyB0U3RhdHVzID0gdGFiLmdldFN0YXR1cygpOwoJCXJldHVybiAocVN0YXR1cyA9PSBudWxsIHx8IHRTdGF0dXMgPT0gcVN0YXR1cykgJiYgdFN0YXR1cyAhPSBERUxFVEVEOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwdWJsaWMgYm9vbGVhbiBoYXNOb25Db25kaXRpb24oKSB7CgkJCXJldHVybiB2ZXJzaW9uID09IG51bGwKCQkJCSYmIChjaGFubmVsR3JvdXBzID09IG51bGwgfHwgY2hhbm5lbEdyb3Vwcy5pc0VtcHR5KCkpOwoJCX0K</text>
+        <text encoding="base64">CXB1YmxpYyBib29sZWFuIGhhc05vblJ1bGUoKSB7CgkJcmV0dXJuICFoYXNWZXJzaW9uQ29kZVJ1bGUoKSAmJiAhaGFzQ2hhbm5lbEdyb3VwUnVsZSgpICYmICFoYXNWZXJzaW9uQ29kZVJ1bGUoKTsKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvL+inhOWImeeJiOacrOWMuemFjQo=</text>
+        <text encoding="base64">CQlwdWJsaWMgYm9vbGVhbiBoYXNOb25Db25kaXRpb24oKSB7CgkJCXJldHVybiB2ZXJzaW9uID09IG51bGwKCQkJCSYmIChjaGFubmVsR3JvdXBzID09IG51bGwgfHwgY2hhbm5lbEdyb3Vwcy5pc0VtcHR5KCkpOwoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkYW8uc2VsZWN0QnlJZCgpCg==</text>
+        <text encoding="base64">CQkvL+inhOWImeeJiOacrOWMuemFjQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkYW8udXBkYXRlQnlJZCgpCg==</text>
+        <text encoding="base64">CQlkYW8uc2VsZWN0QnlJZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0YWIuc2V0U3R5bGUoKTsK</text>
+        <text encoding="base64">CQlkYW8udXBkYXRlQnlJZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGFiLnNldFN0eWxlKCJNT0RFTCIpOwo=</text>
+        <text encoding="base64">CQl0YWIuc2V0U3R5bGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQoJcHJpdmF0ZSBTdHJpbmcgc3R5bGU7Cg==</text>
+        <text encoding="base64">CQkJdGFiLnNldFN0eWxlKCJNT0RFTCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoJcHJpdmF0ZSBTdHJpbmcgc3R5bGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
