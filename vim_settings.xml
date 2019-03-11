@@ -1414,6 +1414,12 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/cache/annotation/CachingConfigurationSelector.java" timestamp="1552305400616">
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/odps/src/main/java/cn/uc/pp/common/odps/config/OdpsProperties.java" timestamp="1550454733559">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -2440,10 +2446,11 @@
         <mark key="^" line="173" column="23" />
         <mark key="." line="173" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/test/java/cn/uc/pp/common/ppcache/spring/SpringCacheTest.java" timestamp="1552299554281">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/test/java/cn/uc/pp/common/ppcache/spring/SpringCacheTest.java" timestamp="1552306581968">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/diamond/DiamondAutoConfiguration.java" timestamp="1544517761376">
         <mark key="[" line="29" column="0" />
@@ -3367,6 +3374,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1552303624313">
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="48" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailAbtestServiceImpl.java" timestamp="1547717411026">
         <mark key="[" line="86" column="35" />
         <mark key="]" line="86" column="31" />
@@ -3695,7 +3708,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1552301279155">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1552304728315">
         <mark key="'" line="212" column="16" />
         <mark key="[" line="468" column="110" />
         <mark key="]" line="468" column="109" />
@@ -3744,7 +3757,7 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pom.xml" timestamp="1552285320053">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pom.xml" timestamp="1552307459713">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -3939,12 +3952,12 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/test/java/cn/uc/pp/common/ppcache/spring/ItemService.java" timestamp="1552301070714">
-        <mark key="e" line="12" column="23" />
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/test/java/cn/uc/pp/common/ppcache/spring/ItemService.java" timestamp="1552307117800">
+        <mark key="e" line="13" column="23" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-tool/src/test/java/ExcelUtilsTest.java" timestamp="1552294898126">
         <mark key="[" line="27" column="26" />
@@ -4986,6 +4999,7 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.0.10.RELEASE/spring-expression-5.0.10.RELEASE-sources.jar!/org/springframework/expression/common/TemplateAwareExpressionParser.java" timestamp="1552305875790" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/HsfBaseTest.java" timestamp="1547694213155">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -5198,6 +5212,12 @@
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1552305331654">
+        <mark key="[" line="172" column="29" />
+        <mark key="]" line="172" column="28" />
+        <mark key="^" line="172" column="28" />
+        <mark key="." line="172" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtendDao.java" timestamp="1546841773903">
         <mark key="[" line="74" column="9" />
         <mark key="]" line="74" column="8" />
@@ -5336,7 +5356,7 @@
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC42LlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZS5kZWxldGUoInNwcmluZ190ZXN0XzEiLCAxTCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBFbmFibGVDYWNoaW5nCg==</text>
