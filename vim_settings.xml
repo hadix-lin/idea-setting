@@ -664,8 +664,11 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1552374273313">
-        <mark key="[" line="0" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1552390102698">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/tag/biz/impl/UnifiedTagGroupBizImpl.java" timestamp="1552358706324">
         <mark key="[" line="122" column="96" />
@@ -5349,38 +5352,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>style = &quot;MODULE_&quot; + System.currentTimeMillis();</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXBkYXRlIHRhYiBzZXQgc3R5bGU9J1NUWUxFX1RFWFQnIHdoZXJlIGFsbG93X2N1c3RvbV9jaGlsZD0wOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzcDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0YWIgd2hlcmUgYWxsb3dfY3VzdG9tX2NoaWxkPTE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkoKFRhYkRhbylkYW8pLnVwZGF0ZVN0eWxlQnlJZElmTnVsbCh0YWIuZ2V0SWQoKSwgc3R5bGUpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0YWIgd2hlcmUgYWxsb3dfY3VzdG9tX2NoaWxkPTE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVzcDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJc2V0U3R5bGUodGFiKTsKCg==</text>
+        <text encoding="base64">CQkoKFRhYkRhbylkYW8pLnVwZGF0ZVN0eWxlQnlJZElmTnVsbCh0YWIuZ2V0SWQoKSwgc3R5bGUpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJc2V0U3R5bGUodGFiKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3R5bGUgPSAiTU9EVUxFXyIgKyB0YWIuZ2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdGFiLnNldHN0eQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgc3R5bGUgPSAiTU9EVUxFXyIgKyB0YWIuZ2V0SWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
