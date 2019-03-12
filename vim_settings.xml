@@ -3410,11 +3410,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/api/impl/TabApiImpl.java" timestamp="1552364488604">
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="52" column="2" />
-        <mark key="." line="52" column="2" />
-        <mark key="^" line="52" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/api/impl/TabApiImpl.java" timestamp="1552366504526">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/HsfRespUtils.java" timestamp="1550027754018">
         <mark key="[" line="17" column="28" />
@@ -3550,6 +3550,12 @@
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1552037038092">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/impl/AndroidSettingsBizImpl.java" timestamp="1552366555505">
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="80" column="31" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="80" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/app/cn/uc/pp/common/ppcache/utils/OptimizedHessian2Serializer.java" timestamp="1548395146531">
         <mark key="[" line="34" column="58" />
@@ -4790,6 +4796,12 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AndroidSettingsServiceImpl.java" timestamp="1552367074162">
+        <mark key="[" line="85" column="65" />
+        <mark key="]" line="85" column="63" />
+        <mark key="^" line="85" column="63" />
+        <mark key="." line="85" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalExtension.kt" timestamp="1552036287137">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="11" column="1" />
@@ -5285,7 +5297,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>6-SNAPSHOT</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
@@ -5294,34 +5306,35 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgdGFiCiAgYWRkIHN0eWxlIHZhcmNoYXIoMTAwKSBkZWZhdWx0ICcnIG51bGwgY29tbWVudCAn5a6i5oi356uv55So5LqO6K+G5Yir6aKR6YGTdGFi57G75Z6LJywKICBhZGQgYnViYmxlX2lkIHZhcmNoYXIoMTAwKSBkZWZhdWx0ICcnIG51bGwgY29tbWVudCAn5rCU5rOh5qCH6K+GJywKICBhZGQgdHlwZSB0aW55aW50IG51bGwgY29tbWVudCAn5Lqn5ZOB57G75Z6LKDE6UFAsMjpXREopJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0YWIuc2V0U3R5bGUoc3R5bGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>condition.eq(AndroidSettings::getOptionGroup, SettingsConst.SETTING_OPTION_GROUP_DEFAULT)
+		         .in(AndroidSettings::getSettingName, settingName);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICog5p+l6K+i5Y+v55So55qEdGFiCgkgKiBAcGFyYW0gaWQgdGFiaWQKCSAqIEByZXR1cm4KCSAqLwoJZGVmYXVsdCBUYWIgc2VsZWN0RW5hYmxlZEJ5SWQoSW50ZWdlciBpZCkgewoJCUxhbWJkYVF1ZXJ5V3JhcHBlcjxUYWI+IHdyYXBwZXIgPSBXcmFwcGVycy5sYW1iZGFRdWVyeSgpOwoJCXJldHVybiBzZWxlY3RPbmUoCgkJCXdyYXBwZXIuZXEoVGFiOjpnZXRJZCwgaWQpCgkJCSAgICAgICAuZXEoVGFiOjpnZXRTdGF0dXMsIFN0YXR1cy5FTkFCTEVEKSk7Cgl9Cg==</text>
+        <text encoding="base64">CQl0YWIuc2V0U3R5bGUoc3R5bGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgdGFiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8qKgoJICog5p+l6K+i5Y+v55So55qEdGFiCgkgKiBAcGFyYW0gaWQgdGFiaWQKCSAqIEByZXR1cm4KCSAqLwoJZGVmYXVsdCBUYWIgc2VsZWN0RW5hYmxlZEJ5SWQoSW50ZWdlciBpZCkgewoJCUxhbWJkYVF1ZXJ5V3JhcHBlcjxUYWI+IHdyYXBwZXIgPSBXcmFwcGVycy5sYW1iZGFRdWVyeSgpOwoJCXJldHVybiBzZWxlY3RPbmUoCgkJCXdyYXBwZXIuZXEoVGFiOjpnZXRJZCwgaWQpCgkJCSAgICAgICAuZXEoVGFiOjpnZXRTdGF0dXMsIFN0YXR1cy5FTkFCTEVEKSk7Cgl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGFiCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGFiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnVjLnBwLmNvbW1vbi50b29sLkphY2tzb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNuYXBzaG90czwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL212bnJlcG8uYWxpYmFiYS1pbmMuY29tL212bi9yZXBvc2l0b3J5PC91cmw+CiAgICAgICAgICAgIDxyZWxlYXNlcz4KICAgICAgICAgICAgICAgIDxlbmFibGVkPmZhbHNlPC9lbmFibGVkPgogICAgICAgICAgICA8L3JlbGVhc2VzPgogICAgICAgICAgICA8c25hcHNob3RzPgogICAgICAgICAgICAgICAgPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KICAgICAgICAgICAgPC9zbmFwc2hvdHM+CiAgICAgICAgPC9yZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
