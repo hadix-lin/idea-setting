@@ -198,7 +198,12 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/dao/TabDao.java" timestamp="1552373736783" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/dao/TabDao.java" timestamp="1552385865655">
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/spring/aware/SpringAwareProperties.java" timestamp="1547195243311">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="40" />
@@ -1526,11 +1531,11 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabOptionDataProvider.java" timestamp="1552374642429">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="36" column="1" />
-        <mark key="^" line="36" column="1" />
-        <mark key="." line="36" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/service/TabOptionDataProvider.java" timestamp="1552385729877">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/android_management/app/controllers/MngVideoTagController.java" timestamp="1548647850463">
         <mark key="[" line="46" column="0" />
@@ -3413,11 +3418,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/api/impl/TabApiImpl.java" timestamp="1552372696289">
-        <mark key="[" line="64" column="64" />
-        <mark key="]" line="65" column="37" />
-        <mark key="." line="65" column="37" />
-        <mark key="^" line="65" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/api/impl/TabApiImpl.java" timestamp="1552386475274">
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="79" column="44" />
+        <mark key="." line="79" column="44" />
+        <mark key="^" line="79" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/HsfRespUtils.java" timestamp="1550027754018">
         <mark key="[" line="17" column="28" />
@@ -5344,41 +5349,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJVGFiIHRhYiA9IGlkVGFiTWFwLmdldCh0cy5nZXRUYWJJZCgpKTsKCQkJaWYgKCFtYXRjaCh0YWIsIHF1ZXJ5KSkgewo=</text>
+      <register name="0" type="4">
+        <text>style = &quot;MODULE_&quot; + System.currentTimeMillis();</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXdlYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPCEtLSBzcHJpbmctYm9vdCAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlyZXR1cm4gcmVzcDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IG5ldyBIYXNoTWFwPD4odHNMaXN0LnNpemUoKSk7CgkJZm9yIChUYWJTdHJhdGVneSB0cyA6IHRzTGlzdCkgewoJCQlUYWIgdGFiID0gaWRUYWJNYXAuZ2V0KHRzLmdldFRhYklkKCkpOwoJCQlpZiAoIW1hdGNoKHRhYiwgcXVlcnkpKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlpZiAoIVN0cmF0ZWd5Lm1hdGNoKHRzLCBxdWVyeSkpIHsKCQkJCWNvbnRpbnVlOwoJCQl9CgkJCXRhYk1hcC5wdXQodHMsIHRhYik7CgkJfQoJCXRhYk1hcCA9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkoKFRhYkRhbylkYW8pLnVwZGF0ZVN0eWxlQnlJZElmTnVsbCh0YWIuZ2V0SWQoKSwgc3R5bGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgKCFtYXRjaCh0YWIsIHF1ZXJ5KSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2V0U3R5bGUodGFiKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMYW1iZGFRdWVyeVdyYXBwZXI8VGFiPiB3cmFwcGVyID0gV3JhcHBlcnMubGFtYmRhUXVlcnkoKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>.selectList(
-			wrapper.eq(Tab::getLevel, level)
-			       .eq(Tab::getType, type)
-			       .eq(Tab::getStatus, Status.ENABLED));</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlTdHJpbmcgc3R5bGUgPSAiTU9EVUxFXyIgKyB0YWIuZ2V0SWQoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgKHRhYiA9PSBudWxsKSB7CgkJCQljb250aW51ZTsKCQkJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0YWJNYXAgPSB0YWJNYXAuZW50cnlTZXQoKQoJCSAgICAgICAgICAgICAgIC5zdHJlYW0oKQoJCSAgICAgICAgICAgICAgIC5maWx0ZXIoZW50cnkgLT4gbWF0Y2goZW50cnkuZ2V0VmFsdWUoKSwgcXVlcnkpKQoJCSAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTWFwKE1hcC5FbnRyeTo6Z2V0S2V5LCBNYXAuRW50cnk6OmdldFZhbHVlKSk7Cg==</text>
+        <text encoding="base64">CQkJdGFiLnNldHN0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
