@@ -75,7 +75,7 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondProperties.java" timestamp="1544597941024">
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/diamond/DiamondProperties.java" timestamp="1552535303734">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="13" column="4" />
@@ -500,6 +500,12 @@
         <mark key="]" line="88" column="26" />
         <mark key="^" line="88" column="26" />
         <mark key="." line="88" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-start/src/main/java/cn/uc/pp/ac/Application.java" timestamp="1552535494470">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/hsf-exception-test/src/main/java/cn/uc/pp/het/HsfExceptionGenerateFilter.java" timestamp="1548054577419">
         <mark key="[" line="16" column="45" />
@@ -1089,8 +1095,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" timestamp="1552529581157">
-        <mark key="[" line="81" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-admin/src/main/java/cn/uc/pp/common/admin/oplog/intercept/OpBehaviorInterceptor.java" timestamp="1552535449369">
+        <mark key="[" line="79" column="51" />
         <mark key="]" line="81" column="9" />
         <mark key="^" line="81" column="9" />
         <mark key="." line="81" column="9" />
@@ -4852,11 +4858,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/pom.xml" timestamp="1552356642264">
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="88" column="39" />
-        <mark key="^" line="88" column="39" />
-        <mark key="." line="88" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/pom.xml" timestamp="1552535207218">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="84" column="39" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/spring/aware/SpringContextHolder.java" timestamp="1552372010722">
         <mark key="[" line="30" column="38" />
@@ -5353,19 +5359,19 @@
         <text encoding="base64">QEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFuZG9yYS1kaWFtb25kLXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBcnJheUxpc3Q8T2JqZWN0PiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4obGlzdC5zaXplKCkgKyAxKTsKCQlyZXN1bHQuYWRkKCkKCQlyZXN1bHQuYWRkQWxsKGxpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93YWJsZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQlBcnJheUxpc3Q8T2JqZWN0PiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4obGlzdC5zaXplKCkgKyAxKTsKCQlyZXN1bHQuYWRkKCkKCQlyZXN1bHQuYWRkQWxsKGxpc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93YWJsZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -5380,7 +5386,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcm91bmQoImNuLnVjLnBwLmNvbW1vbi5iYXNlLmFwaS5pbnRlcmNlcHQuQXBpRXhjZXB0aW9uSGFuZGxlSW50ZXJjZXB0b3IuaHNmQXBpKCkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
