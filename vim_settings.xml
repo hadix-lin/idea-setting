@@ -414,10 +414,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/CardDto.java" timestamp="1552618395945">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/CardDto.java" timestamp="1552628263160">
+        <mark key="[" line="169" column="83" />
+        <mark key="]" line="169" column="82" />
+        <mark key="." line="169" column="82" />
+        <mark key="^" line="169" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/test/java/SqlGenerator.java" timestamp="1544754803354">
         <mark key="[" line="31" column="8" />
@@ -1576,6 +1577,12 @@
         <mark key="]" line="18" column="7" />
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/impl/GenericDaoApiImpl.java" timestamp="1552628684067">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="25" column="71" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2016.3/5b892e93f2a8f9ccc0a1039d11f939321149267c/ideaIC-2016.3-sources.jar!/com/intellij/codeInsight/daemon/impl/EditorTracker.java" timestamp="1552455089095">
         <mark key="[" line="50" column="24" />
@@ -3003,6 +3010,12 @@
         <mark key="]" line="158" column="4" />
         <mark key="^" line="158" column="4" />
         <mark key="." line="158" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/ImportDataApi.java" timestamp="1552628273377">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/model/Follow.java" timestamp="1544507623670">
         <mark key="[" line="45" column="1" />
@@ -4707,6 +4720,13 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/service/GenericDaoService.java" timestamp="1552628613172">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtraDao.java" timestamp="1546832014200">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="38" />
@@ -5375,7 +5395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/Uploader.java" />
       <jump line="37" column="34" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/Uploader.java" />
       <jump line="51" column="31" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/ImageUploader.java" />
       <jump line="30" column="22" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/Uploader.java" />
@@ -5475,6 +5494,7 @@
       <jump line="50" column="53" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardCategoryAppProvider.java" />
       <jump line="62" column="12" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardCategoryAppProvider.java" />
       <jump line="63" column="51" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardCategoryAppProvider.java" />
+      <jump line="85" column="8" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/service/GenericDaoService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5496,34 +5516,34 @@
         <text encoding="base64">QENhcmREYXRhUHJvdmlkZXIodHlwZSA9IDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUptcwo=</text>
+        <text encoding="base64">CUBBZG1pbkFwaQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBZG1pbkFwaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFBhZ2VSZXNwb25zZShnZW5lcmljRGFvU2VydmljZS5nZXRQYWdlQ29udGVudChxdWVyeSksIGdlbmVyaWNEYW9TZXJ2aWNlLmdldFRvdGFsQ291bnQocXVlcnkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihzY2FuQmFzZVBhY2thZ2VzID0geyJjbi51Yy5wcC5hZG1pbiIsICJjbi51Yy5wcC5hZG1pbjIifSkK</text>
+        <text encoding="base64">QEVuYWJsZUptcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHAuZG9jLmVuYWJsZT1mYWxzZQo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihzY2FuQmFzZVBhY2thZ2VzID0geyJjbi51Yy5wcC5hZG1pbiIsICJjbi51Yy5wcC5hZG1pbjIifSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
+        <text encoding="base64">c3ByaW5nLmpwYS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
