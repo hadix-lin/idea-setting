@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
       <mapping ext="rpcfilter" type="PLAIN_TEXT" />
     </extensionMap>

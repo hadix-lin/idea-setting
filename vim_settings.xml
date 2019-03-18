@@ -766,6 +766,7 @@
         <mark key="^" line="56" column="23" />
         <mark key="." line="56" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar!/META-INF/services/javax.annotation.processing.Processor" timestamp="1552904881419" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/comm/DefaultTranscoder.java" timestamp="1548902433470">
         <mark key="[" line="139" column="41" />
         <mark key="]" line="139" column="40" />
@@ -928,6 +929,7 @@
         <mark key="." line="92" column="11" />
         <mark key="^" line="92" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.4/lombok-1.18.4-sources.jar!/lombok/launch/AnnotationProcessor.java" timestamp="1552904904740" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/java/cn/uc/pp/cos/HetApi.java" timestamp="1547868512612">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="8" column="11" />
@@ -1193,6 +1195,7 @@
         <mark key="^" line="106" column="16" />
         <mark key="." line="106" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-external-1.0.7-sources.jar!/cn/uc/pp/common/external/bigdata/service/BigDataExternalService.java" timestamp="1552905303082" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/test/java/KafkaTest.java" timestamp="1551687048413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
@@ -2710,6 +2713,7 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-util-1.1.3.0-sources.jar!/cn/uc/pp/common/util/external/http/HttpSf.java" timestamp="1552905409885" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.json5" timestamp="1550138029742">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="0" />
@@ -3814,13 +3818,13 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1552904203669">
-        <mark key="'" line="253" column="71" />
-        <mark key="j" line="255" column="66" />
-        <mark key="[" line="294" column="57" />
-        <mark key="]" line="294" column="62" />
-        <mark key="^" line="294" column="62" />
-        <mark key="." line="294" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1552905837846">
+        <mark key="'" line="252" column="71" />
+        <mark key="j" line="254" column="66" />
+        <mark key="[" line="289" column="71" />
+        <mark key="]" line="289" column="70" />
+        <mark key="." line="289" column="70" />
+        <mark key="^" line="289" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/service/search/SearchResponse.java" timestamp="1547451010420">
         <mark key="[" line="6" column="1" />
@@ -5598,34 +5602,34 @@
         <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5lbmFibGVfbGF6eV9sb2FkX25vX3RyYW5zPXRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWJUZXN0TmFtZSA9PSBudWxsIHx8ICFhYlRlc3RTZXJ2aWNlLmNoZWNrQWJUZXN0TmFtZUV4aXN0KGFiVGVzdE5hbWUpKSB7CiAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGlkTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0UmVjU3RyYXRlZ3kobmV3IFJlY0Jhc2VQYXJhbS5SZWNTdHJhdGVneShzaWQsIHNjZW5lSWQsIGFiVGVzdE5hbWUpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICByZXR1cm4gbnVsbAogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBBYlRlc3RJbmZvIGZsYWdzID0gYWJUZXN0U2VydmljZS5nZXRGbGFncyhhYlRlc3ROYW1lLCBjdHguZ2V0Q2xpZW50KCkpOwogICAgICAgIEludGVnZXIgc2lkID0gZmxhZ3MuZ2V0RmxhZ0FzSW50ZWdlcigic2lkIik7CiAgICAgICAgSW50ZWdlciBzY2VuZUlkID0gZmxhZ3MuZ2V0RmxhZ0FzSW50ZWdlcigic2NlbmlkIik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZWxzZXsKICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYWJUZXN0TmFtZSA9PSBudWxsIHx8ICFhYlRlc3RTZXJ2aWNlLmNoZWNrQWJUZXN0TmFtZUV4aXN0KGFiVGVzdE5hbWUpKSB7CiAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICB9CiAgICAgICAgQWJUZXN0SW5mbyBmbGFncyA9IGFiVGVzdFNlcnZpY2UuZ2V0RmxhZ3MoYWJUZXN0TmFtZSwgY3R4LmdldENsaWVudCgpKTsKICAgICAgICBJbnRlZ2VyIHNpZCA9IGZsYWdzLmdldEZsYWdBc0ludGVnZXIoInNpZCIpOwogICAgICAgIEludGVnZXIgc2NlbmVJZCA9IGZsYWdzLmdldEZsYWdBc0ludGVnZXIoInNjZW5pZCIpOwogICAgICAgIFJlY0NhcmREZXRhaWxQYXJhbSByZXEgPSBuZXcgUmVjQ2FyZERldGFpbFBhcmFtKAogICAgICAgICAgICBSZWNCYXNlUGFyYW0uUmVjUmVxdWVzdENvbnRleHQuY3JlYXRlKGN0eC5nZXRDbGllbnQoKSkpOwogICAgICAgIHJlcS5zZXRSZWNTdHJhdGVneShuZXcgUmVjQmFzZVBhcmFtLlJlY1N0cmF0ZWd5KHNpZCwgc2NlbmVJZCwgYWJUZXN0TmFtZSkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaWRMaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FyZFJlc291cmNlU2NoZWR1bGVEYXRhIHNjaGVkdWxlRGF0YSA9IGN0eC5nZXRTY2hlZHVsZShwYXJhbS5nZXRDYXJkSWQoKSk7CiAgICAgICAgICAgIGlmIChzY2hlZHVsZURhdGEgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgTE9HR0VSLndhcm4oIkNhcmRDb250ZW50UmVzb3VyY2VQcm92aWRlci0+Y2FyZElkPSVzLOacquaJvuWIsOWQiOmAguaOkuacnyIsIHBhcmFtLmdldENhcmRJZCgpKTsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGlkTGlzdDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldEFiVGVzdElkKCkgewogICAgICAgIHJldHVybiBhYlRlc3RJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBYlRlc3RJZChJbnRlZ2VyIGFiVGVzdElkKSB7CiAgICAgICAgdGhpcy5hYlRlc3RJZCA9IGFiVGVzdElkOwogICAgfQoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICByZXR1cm4gbnVsbAogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZWxzZXsKICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRMaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
