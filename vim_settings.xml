@@ -27,9 +27,6 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1552548335413">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-tair-spring-boot-autoconfigure/2018-08-stable-hsf-buc-bugfix/pandora-tair-spring-boot-autoconfigure-2018-08-stable-hsf-buc-bugfix-sources.jar!/com/alibaba/boot/tair/condition/OnTairManagerCondition.java" timestamp="1552555496172" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1546934951390">
         <mark key="[" line="36" column="0" />
@@ -480,6 +477,11 @@
         <mark key="]" line="18" column="23" />
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/AdminModuleConfiguration.java" timestamp="1552876902739">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/usr/local/var/jws-1.7.1.5/framework/lib/validation-api-1.1.0.Final.jar!/javax/validation/Valid.class" timestamp="1546855131468">
         <mark key="[" line="12" column="81" />
@@ -1574,11 +1576,11 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/impl/GenericDaoApiImpl.java" timestamp="1552628684067">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="25" column="71" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/impl/GenericDaoApiImpl.java" timestamp="1552877310029">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2016.3/5b892e93f2a8f9ccc0a1039d11f939321149267c/ideaIC-2016.3-sources.jar!/com/intellij/codeInsight/daemon/impl/EditorTracker.java" timestamp="1552455089095">
         <mark key="[" line="50" column="24" />
@@ -2055,6 +2057,12 @@
         <mark key="^" line="211" column="57" />
         <mark key="." line="211" column="57" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-base/1.2.8/common-base-1.2.8-sources.jar!/cn/uc/pp/common/base/api/intercept/DevApiCheckInterceptor.java" timestamp="1552881102227">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="4" />
+        <mark key="^" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository-maintain/sutradepository-maintain-service/src/main/java/cn/uc/pp/sutradepository/maintain/index/model/SearchResponse.java" timestamp="1547454589662">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="47" column="1" />
@@ -2499,6 +2507,7 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/invocation/AsyncToSyncInvocationHandler.java" timestamp="1552878567919" />
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-client/src/main/java/cn/uc/pp/sutradepository/ContentApi.java" timestamp="1547622977294">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="30" column="6" />
@@ -2541,6 +2550,7 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-base/1.2.8/common-base-1.2.8-sources.jar!/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1552877838961" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/etc/TranscoderCustom.java" timestamp="1550642462254">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="17" />
@@ -3006,13 +3016,6 @@
         <mark key="." line="104" column="23" />
         <mark key="^" line="104" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/DefaultCmdSenderBridge.java" timestamp="1552549633795">
-        <mark key="'" line="28" column="41" />
-        <mark key="[" line="158" column="5" />
-        <mark key="]" line="158" column="4" />
-        <mark key="^" line="158" column="4" />
-        <mark key="." line="158" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/ImportDataApi.java" timestamp="1552628273377">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="1" />
@@ -3181,13 +3184,6 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardCategoryAppProvider.java" timestamp="1552621985470">
-        <mark key="'" line="63" column="51" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/impl/okhttp/OkHttpRequest.java" timestamp="1550474464522">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3199,6 +3195,11 @@
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/cache/TairConfiguration.java" timestamp="1552555231682">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/cache/cache-config.xml" timestamp="1548147439588">
         <mark key="[" line="610" column="32" />
@@ -3212,7 +3213,7 @@
         <mark key="^" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552469861927">
+      <file name="/Dummy.txt" timestamp="1552880999434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548904776022">
@@ -3328,6 +3329,12 @@
         <mark key="]" line="327" column="8" />
         <mark key="^" line="327" column="8" />
         <mark key="." line="327" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1552876743598">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="53" />
+        <mark key="^" line="29" column="53" />
+        <mark key="." line="29" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/behavior/follow/ListTest/testList.json" timestamp="1544612158888">
         <mark key="[" line="6" column="11" />
@@ -3528,6 +3535,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/cache/TairCacheProperties.java" timestamp="1552552362798">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/FollowTest.java" timestamp="1544610244332">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="40" column="29" />
@@ -3606,6 +3618,12 @@
         <mark key="]" line="33" column="26" />
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-model/src/main/java/cn/uc/pp/admin2/entity/importdata/ImportDataDetail.java" timestamp="1552879647907">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/utils/TddlUtils.java" timestamp="1552529566552">
         <mark key="[" line="24" column="28" />
@@ -4028,6 +4046,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/ser/std/CollectionSerializer.java" timestamp="1552877156145" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/api/AdApi.java" timestamp="1545980876467">
         <mark key="[" line="56" column="6" />
         <mark key="]" line="56" column="5" />
@@ -4268,9 +4287,6 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/25pp_android.tab [admin-dev]" timestamp="1552643111193">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/util/DingDingProperties.java" timestamp="1550223764135">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="41" />
@@ -4429,22 +4445,17 @@
         <mark key="^" line="46" column="37" />
         <mark key="." line="46" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/Tab.java" timestamp="1552644154853">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1546572578959">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/Admin2ModuleConfiguration.java" timestamp="1552620401251">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/Admin2ModuleConfiguration.java" timestamp="1552876920811">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/validate/Group.java" timestamp="1546829655983">
         <mark key="[" line="12" column="25" />
@@ -4524,6 +4535,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/application.properties" timestamp="1552879758016">
+        <mark key="[" line="114" column="62" />
+        <mark key="]" line="114" column="61" />
+        <mark key="." line="114" column="61" />
+        <mark key="^" line="114" column="61" />
+      </file>
       <file name="/usr/local/var/jws-1.7.1.5/framework/jws-1.7.1.5.jar!/jws/classloading/ApplicationClasses.class" timestamp="1546584662128">
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="31" />
@@ -4542,7 +4559,7 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/Strategy.java" timestamp="1552873857015">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/Strategy.java" timestamp="1552880404992">
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="12" />
         <mark key="^" line="32" column="12" />
@@ -4674,7 +4691,7 @@
         <mark key="^" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1552553394635">
+      <file name="/fragment.java" timestamp="1552880999426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -4740,11 +4757,11 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/service/GenericDaoService.java" timestamp="1552873192926">
-        <mark key="[" line="114" column="44" />
-        <mark key="]" line="114" column="42" />
-        <mark key="^" line="114" column="42" />
-        <mark key="." line="114" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/service/GenericDaoService.java" timestamp="1552877952057">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="88" column="25" />
+        <mark key="^" line="88" column="25" />
+        <mark key="." line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/dao/SyncAppExtraDao.java" timestamp="1546832014200">
         <mark key="[" line="17" column="39" />
@@ -5526,7 +5543,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>, conf.getCacheConfigMap().values()</text>
+        <text>, &quot;/cn.uc.pp.admin.api.OptionsApi&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlSWRcPg==</text>
