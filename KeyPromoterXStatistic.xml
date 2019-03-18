@@ -235,7 +235,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -297,7 +297,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -1461,7 +1461,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch frame">
