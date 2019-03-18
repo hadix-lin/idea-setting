@@ -552,6 +552,7 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/cache/caches.xml" timestamp="1552899984576" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/options/provider/AppCategoryTreeOptionDataProvider.java" timestamp="1551447889467">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="33" column="6" />
@@ -3049,6 +3050,13 @@
         <mark key="." line="104" column="23" />
         <mark key="^" line="104" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-kafka/src/main/java/cn/uc/pp/common/ppcache/kafka/DefaultCmdSenderBridge.java" timestamp="1552549633795">
+        <mark key="'" line="28" column="41" />
+        <mark key="[" line="158" column="5" />
+        <mark key="]" line="158" column="4" />
+        <mark key="^" line="158" column="4" />
+        <mark key="." line="158" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/api/ImportDataApi.java" timestamp="1552628273377">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="1" />
@@ -3217,6 +3225,13 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardCategoryAppProvider.java" timestamp="1552621985470">
+        <mark key="'" line="63" column="51" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/impl/okhttp/OkHttpRequest.java" timestamp="1550474464522">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3228,11 +3243,6 @@
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/cache/TairConfiguration.java" timestamp="1552555231682">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/biz/cache/cache-config.xml" timestamp="1548147439588">
         <mark key="[" line="610" column="32" />
@@ -3246,8 +3256,14 @@
         <mark key="^" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552892196237">
+      <file name="/Dummy.txt" timestamp="1552899685436">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/app/api/AppOpsAPi.java" timestamp="1552900106051">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="13" />
+        <mark key="^" line="72" column="13" />
+        <mark key="." line="72" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/tair/tair-client/4.1.5/tair-client-4.1.5-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1548904776022">
         <mark key="[" line="7238" column="29" />
@@ -3568,11 +3584,6 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/cache/TairCacheProperties.java" timestamp="1552552362798">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/behavior/follow/FollowTest.java" timestamp="1544610244332">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="40" column="29" />
@@ -3808,10 +3819,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1552893759504">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1552899675445">
+        <mark key="'" line="244" column="71" />
+        <mark key="[" line="245" column="31" />
+        <mark key="]" line="246" column="11" />
+        <mark key="." line="246" column="11" />
+        <mark key="^" line="246" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/sutradepository/sutradepository-service/src/main/java/cn/uc/pp/sutradepository/data/service/search/SearchResponse.java" timestamp="1547451010420">
         <mark key="[" line="6" column="1" />
@@ -4566,6 +4579,12 @@
         <mark key="]" line="114" column="61" />
         <mark key="." line="114" column="61" />
         <mark key="^" line="114" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/abtest/service/MngAbTestService.java" timestamp="1552900075172">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="/usr/local/var/jws-1.7.1.5/framework/jws-1.7.1.5.jar!/jws/classloading/ApplicationClasses.class" timestamp="1546584662128">
         <mark key="[" line="57" column="32" />
@@ -5459,7 +5478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/Uploader.java" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/utils/Uploader.java" />
       <jump line="89" column="38" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" />
       <jump line="255" column="27" filename="$USER_HOME$/Documents/Projects/android_management-adv/android_management-adv-service/src/main/java/cn/uc/pp/ac/admin/video/service/impl/VideoServiceImpl.java" />
@@ -5559,6 +5577,7 @@
       <jump line="85" column="8" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin2/service/GenericDaoService.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/Tab.java" />
       <jump line="52" column="2" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/Tab.java" />
+      <jump line="244" column="71" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5580,34 +5599,34 @@
         <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5lbmFibGVfbGF6eV9sb2FkX25vX3RyYW5zPXRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJUGxhdGZvcm1UcmFuc2FjdGlvbk1hbmFnZXIgdHhNYW5hZ2VyID0gU3ByaW5nQ29udGV4dEhvbGRlci5nZXRCZWFuKFBsYXRmb3JtVHJhbnNhY3Rpb25NYW5hZ2VyLmNsYXNzKTsKCQkJVHJhbnNhY3Rpb25EZWZpbml0aW9uIHR4RGVmID0gbmV3IERlZmF1bHRUcmFuc2FjdGlvbkRlZmluaXRpb24oKTsKCQkJVHJhbnNhY3Rpb25TdGF0dXMgdHhTdGF0ID0gdHhNYW5hZ2VyLmdldFRyYW5zYWN0aW9uKHR4RGVmKTsKCQkJaW52b2NhdGlvbi5zZXRSZXF1ZXN0UHJvcHMoInR4TWFuYWdlciIsIHR4TWFuYWdlcik7CgkJCWludm9jYXRpb24uc2V0UmVxdWVzdFByb3BzKCJ0eFN0YXQiLCB0eFN0YXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlPcEJlaGF2aW9yTG9nQml6IG9wQmVoYXZpb3JMb2dCaXogPSBTcHJpbmdDb250ZXh0SG9sZGVyLmdldEJlYW4oT3BCZWhhdmlvckxvZ0Jpei5jbGFzcyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cglwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgQ0FOX0xPR19FRElUID0gImVkaXQiOwoKCXByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDQU5fTE9HX1NBVkUgPSAic2F2ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQ1JFQVRFID0gImNyZWF0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfVVBEQVRFID0gInVwZGF0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfREVMRVRFID0gImRlbGV0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfUkVNT1ZFID0gInJlbW92ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQUREID0gImFkZCI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQ09QWSA9ICJjb3B5IjsKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXBkYXRlIHRhYiBzZXQgc3R5bGU9J1NUWUxFX1RFWFQnIHdoZXJlIGFsbG93X2N1c3RvbV9jaGlsZD0wOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiaWdkYXRhYXBpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbS5nZXQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QEFjY2Vzc29ycygpCg==</text>
+        <text encoding="base64">CQkJUGxhdGZvcm1UcmFuc2FjdGlvbk1hbmFnZXIgdHhNYW5hZ2VyID0gU3ByaW5nQ29udGV4dEhvbGRlci5nZXRCZWFuKFBsYXRmb3JtVHJhbnNhY3Rpb25NYW5hZ2VyLmNsYXNzKTsKCQkJVHJhbnNhY3Rpb25EZWZpbml0aW9uIHR4RGVmID0gbmV3IERlZmF1bHRUcmFuc2FjdGlvbkRlZmluaXRpb24oKTsKCQkJVHJhbnNhY3Rpb25TdGF0dXMgdHhTdGF0ID0gdHhNYW5hZ2VyLmdldFRyYW5zYWN0aW9uKHR4RGVmKTsKCQkJaW52b2NhdGlvbi5zZXRSZXF1ZXN0UHJvcHMoInR4TWFuYWdlciIsIHR4TWFuYWdlcik7CgkJCWludm9jYXRpb24uc2V0UmVxdWVzdFByb3BzKCJ0eFN0YXQiLCB0eFN0YXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0YWIuZ2V0Cg==</text>
+        <text encoding="base64">CQlPcEJlaGF2aW9yTG9nQml6IG9wQmVoYXZpb3JMb2dCaXogPSBTcHJpbmdDb250ZXh0SG9sZGVyLmdldEJlYW4oT3BCZWhhdmlvckxvZ0Jpei5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTZWN0aW9uIHNlY3Rpb24gPSB0YWIuc2VjdGlvbigpOwo=</text>
+        <text encoding="base64">Cglwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgQ0FOX0xPR19FRElUID0gImVkaXQiOwoKCXByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDQU5fTE9HX1NBVkUgPSAic2F2ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQ1JFQVRFID0gImNyZWF0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfVVBEQVRFID0gInVwZGF0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfREVMRVRFID0gImRlbGV0ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfUkVNT1ZFID0gInJlbW92ZSI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQUREID0gImFkZCI7CgoJcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIENBTl9MT0dfQ09QWSA9ICJjb3B5IjsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
