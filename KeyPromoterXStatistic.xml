@@ -464,7 +464,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -1117,7 +1117,7 @@
         <Item>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
