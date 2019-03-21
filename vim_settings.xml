@@ -290,11 +290,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/SymbolsResolve.kt" timestamp="1553176252375">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="31" column="23" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="31" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/SymbolsResolve.kt" timestamp="1553177946242">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
@@ -353,6 +353,7 @@
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common/src/main/java/cn/uc/pp/common/api/PageReq.java" timestamp="1542176714431">
         <mark key="[" line="11" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/schema/ApiModelPropertyPropertyBuilder.java" timestamp="1553177497166" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/DocParse.kt" timestamp="1553001586504">
         <mark key="'" line="59" column="27" />
         <mark key="[" line="22" column="51" />
@@ -522,36 +523,36 @@
         <text>it.declaration as JavaParserMethodDeclaration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obWV0aG9kRGVjbGFyYXRpb24gYXMgSmF2YVBhcnNlck1ldGhvZERlY2xhcmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB0eXBlUmVzb2x2ZXIgPSBDb21iaW5lZFR5cGVTb2x2ZXIoamF2YVBhcnNlclR5cGVTb2x2ZXIsIHJlZmxlY3Rpb25UeXBlU29sdmVyLCAqamFyVHlwZVNvbHZlcnMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuamF2YXBhcnNlci5HZW5lcmF0ZWRKYXZhUGFyc2VyQ29uc3RhbnRzLlBVQkxJQwo=</text>
+        <text encoding="base64">ICAgIHZhbCByZWZsZWN0aW9uVHlwZVNvbHZlciA9IFJlZmxlY3Rpb25UeXBlU29sdmVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5nZXRQcm9wZXJ0aWVzKCkuZm9yRWFjaCB7IHByaW50bG4oIiR7aXQua2V5fT0ke2l0LnZhbHVlfSIpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obWV0aG9kRGVjbGFyYXRpb24gYXMgSmF2YVBhcnNlck1ldGhvZERlY2xhcmF0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEphclR5cGVTb2x2ZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuamF2YXBhcnNlci5HZW5lcmF0ZWRKYXZhUGFyc2VyQ29uc3RhbnRzLlBVQkxJQwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5nZXRQcm9wZXJ0aWVzKCkuZm9yRWFjaCB7IHByaW50bG4oIiR7aXQua2V5fT0ke2l0LnZhbHVlfSIpIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIEphclR5cGVTb2x2ZXIoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFR5cGVTb2x2ZXIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>,
         val returnType: Type,
         val returnDescription: String?</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID86IENvbGxlY3Rpb25zLmVtcHR5TWFwKCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
