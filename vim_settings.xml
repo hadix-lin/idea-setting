@@ -148,7 +148,7 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/JavaParserExtension.kt" timestamp="1553529770567">
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/JavaParserExtension.kt" timestamp="1553614565762">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="11" />
@@ -310,11 +310,11 @@
         <mark key="^" line="34" column="13" />
         <mark key="." line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/JavaDoc.kt" timestamp="1553361829697">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/JavaDoc.kt" timestamp="1553614926690">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/ApiClass.kt" timestamp="1553003508361">
         <mark key="[" line="0" column="16" />
@@ -382,7 +382,6 @@
         <mark key="^" line="44" column="56" />
         <mark key="." line="44" column="56" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.8.0/javaparser-core-3.8.0-sources.jar!/com/github/javaparser/ast/body/ClassOrInterfaceDeclaration.java" timestamp="1553525522144" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/DocParse.kt" timestamp="1553351015619">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="19" column="0" />
@@ -481,11 +480,11 @@
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-model/src/main/java/cn/uc/pp/cos/model/task/dao/ArticleDraftMapper.java" timestamp="1542249181469">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553529709984">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553616319712">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/DocPredicates.kt" timestamp="1553006732228">
         <mark key="[" line="12" column="53" />
@@ -622,7 +621,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>TypeDeclaration</text>
+        <text>.setDefaultPropertyInclusion(NON_NULL)</text>
       </register>
       <register name="/" type="4">
         <text>orelse</text>
@@ -631,34 +630,34 @@
         <text>ClassOrInterfaceDeclaration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGN1LnBhY2thZ2VEZWNsYXJhdGlvbi5pc1ByZXNlbnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1LnBhY2thZ2VEZWNsYXJhdGlvbi5nZXQoKS5uYW1lQXNTdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG9iamVjdE1hcHBlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBqc29uID0ganNvbldyaXRlci53cml0ZVZhbHVlQXNTdHJpbmcoY2xhc3NEZXNjcmlwdGlvbnMpCiAgICBwcmludGxuKGpzb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc2NyaXB0aW9uICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlLmlzSW5uZXJDbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGN1LnBhY2thZ2VEZWNsYXJhdGlvbi5pc1ByZXNlbnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1LnBhY2thZ2VEZWNsYXJhdGlvbi5nZXQoKS5uYW1lQXNTdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlLmlzSW5uZXJDbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlLmlzbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc2NyaXB0aW9uICE9IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0eXBlLmlzSW5uZXJDbGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiAocGFyZW50TmFtZSAhPSBudWxsKSBwYXJlbnROYW1lICsgKGlmICh0eXBlLmlzTmVzdGVkVHlwZSkgIiQiIGVsc2UgIi4iKSArIHR5cGUubmFtZSBlbHNlIHsgIiIK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlLmlzSW5uZXJDbGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlLmlzbmUK</text>
       </register>
       <register name=":" type="4">
         <text>set nonumber</text>
