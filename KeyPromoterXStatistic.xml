@@ -984,6 +984,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'⌃⌘U'</ShortCut>
+          <Description>Translate</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update 'life-web' application">
         <Item>
           <IdeaActionID>javaee.UpdateRunningApplication</IdeaActionID>
