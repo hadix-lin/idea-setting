@@ -33,6 +33,11 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/StaticDocGenerator.java" timestamp="1553777745001">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1553748662025">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="13" />
@@ -82,12 +87,6 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="116" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1543395872503">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
@@ -99,6 +98,12 @@
         <mark key="]" line="189" column="45" />
         <mark key="." line="189" column="45" />
         <mark key="^" line="189" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/pom.xml" timestamp="1553777630849">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1553757490049">
         <mark key="[" line="0" column="0" />
@@ -112,7 +117,6 @@
       <file name="/Dummy.txt" timestamp="1553754487549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/settings/SettingsConst.java" timestamp="1553770528102" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -152,6 +156,12 @@
       <file name="/25pp_android.android_settings [admin-dev]" timestamp="1553757488417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/springfox/ModelPropertyProviderInterceptor.kt" timestamp="1553775149308">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1553760559020">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="395" column="30" />
@@ -181,6 +191,18 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1553757505954">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0-sources.jar!/org/apache/maven/plugins/annotations/Mojo.java" timestamp="1553777149578">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553777792141">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="43" column="21" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1543388507192">
         <mark key="[" line="57" column="27" />
@@ -343,13 +365,13 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>RANK_APP_POOL:</text>
+        <text encoding="base64">LCBmaWx0ZXI6IFByZWRpY2F0ZTxGaWxlPg==</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUuc2V0Q2hpbGRyZW4oZ2V0QXBwQ2F0ZWdvcnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtZXRlciBleHByZXNzaW9uPSIke3Byb2plY3QuYnVpbGQuc291cmNlRGlyZWN0b3J5fSIKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,28 +380,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vfQogICAgLy8vKioKICAgIC8vICog5bqU55So5rGgCiAgICAvLyAqLwogICAgLy9wdWJsaWMgZmluYWwgc3RhdGljIEludGVnZXIgQVBQX1BPT0wgPSAxOwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOS4k+mimOW6lOeUqOaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIFNQRUNJQUxfQVBQX1BPT0wgPSAyOwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOWIhuexu+axoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIENBVEVHT1JZX1BPT0wgPSAzOwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOaOkuihjOaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIFJBTktfUE9PTCA9IDQ7CiAgICAvLwogICAgLy8vKioKICAgIC8vICog5bm/5ZGK5rGgCiAgICAvLyAqLwogICAgLy9wdWJsaWMgZmluYWwgc3RhdGljIEludGVnZXIgQURTX1BPT0wgPSA1OwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOmihOe6pua4uOaIj+axoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIEJPT0tfR0FNRV9QT09MID0gNjsKICAgIC8vCiAgICAvLy8qKgogICAgLy8gKiDlhoXlrrnmsaAKICAgIC8vICovCiAgICAvL3B1YmxpYyBmaW5hbCBzdGF0aWMgSW50ZWdlciBDT05URU5UX1BPT0wgPSA3OwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOWkp+aVsOaNruaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIEJJR19EQVRBX1BPT0wgPSA4OwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOaOkuihjOaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIE5FV19SQU5LX1BPT0wgPSA5OwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOS4k+mimOaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIFNQRUNJQUxfUE9PTCA9IDEwOwogICAgLy8KICAgIC8vLyoqCiAgICAvLyAqIOiuvuiuoeWlluaxoAogICAgLy8gKi8KICAgIC8vcHVibGljIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIEFXQVJEX1BPT0wgPSAxMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBbmRyb2lkU2V0dGluZ3Mgc2V0dGluZ3MgPSBzZXR0aW5nc1NlcnZpY2UuZ2V0VmFsdWUoU2V0dGluZ3NDb25zdC5LRVlfQ0FSRF9SRVNPVVJDRV9UWVBFKTsKICAgICAgICBpZiAoc2V0dGluZ3MgPT0gbnVsbCB8fCBTdHJpbmdVdGlscy5pc0VtcHR5KHNldHRpbmdzLmdldFNldHRpbmdWYWx1ZSgpKSkgewogICAgICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7CiAgICAgICAgfQogICAgICAgIExpc3Q8T3B0aW9uTm9kZVJlc3BvbnNlPiBsaXN0CiAgICAgICAgICAgID0gSlNPTi5wYXJzZUFycmF5KHNldHRpbmdzLmdldFNldHRpbmdWYWx1ZSgpLCBPcHRpb25Ob2RlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIGZvciAoT3B0aW9uTm9kZVJlc3BvbnNlIG5vZGUgOiBsaXN0KSB7CiAgICAgICAgICAgIGlmIChub2RlLmdldFZhbHVlKCkuZXF1YWxzKENhcmREYXRhU291cmNlVHlwZUNvbnN0LkNPTlRFTlRfUE9PTCArICIiKSkgewogICAgICAgICAgICAgICAgLy/ljaHniYflhoXlrrnmsaDvvIzljIXlkKvlrZDmsaAKICAgICAgICAgICAgICAgIG5vZGUuc2V0Q2hpbGRyZW4oZ2V0Q29udGVudFBvb2woKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5vZGUuZ2V0VmFsdWUoKS5lcXVhbHMoQ2FyZERhdGFTb3VyY2VUeXBlQ29uc3QuUkFOS19QT09MICsgIiIpKSB7CiAgICAgICAgICAgICAgICBub2RlLmFkZENoaWxkKG5ldyBPcHRpb25Ob2RlUmVzcG9uc2UoIuaAu+e7vOWQiOamnO+8iOWMheaLrOi9r+S7tuWPiua4uOaIj++8iSIsICIwIikpOwogICAgICAgICAgICAgICAgbm9kZS5hZGRDaGlsZChuZXcgT3B0aW9uTm9kZVJlc3BvbnNlKCLova/ku7bnu7zlkIjmppwiLCAiMSIpKTsKICAgICAgICAgICAgICAgIG5vZGUuYWRkQ2hpbGQobmV3IE9wdGlvbk5vZGVSZXNwb25zZSgi6L2v5Lu254Ot5pCc5qacIiwgIjIiKSk7CiAgICAgICAgICAgICAgICBub2RlLmFkZENoaWxkKG5ldyBPcHRpb25Ob2RlUmVzcG9uc2UoIui9r+S7tumjmeWNh+amnCIsICIzIikpOwogICAgICAgICAgICAgICAgbm9kZS5hZGRDaGlsZChuZXcgT3B0aW9uTm9kZVJlc3BvbnNlKCLmuLjmiI/nu7zlkIjmppwiLCAiNCIpKTsKICAgICAgICAgICAgICAgIG5vZGUuYWRkQ2hpbGQobmV3IE9wdGlvbk5vZGVSZXNwb25zZSgi5ri45oiP54Ot5pCc5qacIiwgIjUiKSk7CiAgICAgICAgICAgICAgICBub2RlLmFkZENoaWxkKG5ldyBPcHRpb25Ob2RlUmVzcG9uc2UoIua4uOaIj+mjmeWNh+amnCIsICI2IikpOwogICAgICAgICAgICB9IGVsc2UgaWYgKG5vZGUuZ2V0VmFsdWUoKS5lcXVhbHMoQ2FyZERhdGFTb3VyY2VUeXBlQ29uc3QuQURTX1BPT0wgKyAiIikpIHsKICAgICAgICAgICAgICAgIG5vZGUuYWRkQ2hpbGQobmV3IE9wdGlvbk5vZGVSZXNwb25zZSgi5LiT6aKY5bm/5ZGKIiwgIjEiKSk7CiAgICAgICAgICAgICAgICBub2RlLmFkZENoaWxkKG5ldyBPcHRpb25Ob2RlUmVzcG9uc2UoIuWxleekuuW5v+WRiu+8iOW6lOeUqOWSjOa4uOaIjykiLCAiMiIpKTsKICAgICAgICAgICAgICAgIG5vZGUuYWRkQ2hpbGQobmV3IE9wdGlvbk5vZGVSZXNwb25zZSgi5bGV56S65bm/5ZGK77yI5LuF5bqU55SoKSIsICIzIikpOwogICAgICAgICAgICAgICAgbm9kZS5hZGRDaGlsZChuZXcgT3B0aW9uTm9kZVJlc3BvbnNlKCLlsZXnpLrlub/lkYrvvIjku4XmuLjmiI8pIiwgIjQiKSk7CiAgICAgICAgICAgICAgICBub2RlLmFkZENoaWxkKG5ldyBPcHRpb25Ob2RlUmVzcG9uc2UoIuW/heWkh+W5v+WRiiIsICI1IikpOwogICAgICAgICAgICB9IGVsc2UgaWYgKG5vZGUuZ2V0VmFsdWUoKS5lcXVhbHMoQ2FyZERhdGFTb3VyY2VUeXBlQ29uc3QuQ0FURUdPUllfUE9PTCArICIiKSkgewogICAgICAgICAgICAgICAgbm9kZS5zZXRDaGlsZHJlbihnZXRBcHBDYXRlZ29yeSgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChub2RlLmdldFZhbHVlKCkuZXF1YWxzKENhcmREYXRhU291cmNlVHlwZUNvbnN0Lk5FV19SQU5LX1BPT0wgKyAiIikpIHsKICAgICAgICAgICAgICAgIG5vZGUuc2V0Q2hpbGRyZW4oZ2V0TmV3UmFuaygpKTsKICAgICAgICAgICAgfQoKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpc3Q7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFNvdXJjZURpcihGaWxlIHNvdXJjZURpcikgewogICAgICAgIHRoaXMuc291cmNlRGlyID0gc291cmNlRGlyOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFRhcmdldERpcihGaWxlIHRhcmdldERpcikgewogICAgICAgIHRoaXMudGFyZ2V0RGlyID0gdGFyZ2V0RGlyOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhY2thZ2VzKExpc3Q8U3RyaW5nPiBwYWNrYWdlcykgewogICAgICAgIHRoaXMucGFja2FnZXMgPSBwYWNrYWdlczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBoYXNlIGNvbXBpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGdvYWwgc3RhdGljLWRvYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIERhdGFQcm92aWRlclR5cGVFbnVtIG9mKGludCB0eXBlKSB7CiAgICAgICAgZm9yIChEYXRhUHJvdmlkZXJUeXBlRW51bSBkdGUgOiBEYXRhUHJvdmlkZXJUeXBlRW51bS52YWx1ZXMoKSkgewogICAgICAgICAgICBpZiAoZHRlLnR5cGUgPT0gdHlwZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGR0ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW4tdG9vbHM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXBsdWdpbi1hbm5vdGF0aW9uczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My42LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtZXRlciBleHByZXNzaW9uPSIke3Byb2plY3QuYnVpbGQuc291cmNlRGlyZWN0b3J5fSIKICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleLineBreakpoint</text>
