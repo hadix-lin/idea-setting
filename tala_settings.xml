@@ -11,7 +11,7 @@
     </option>
     <option name="groups">
       <list>
-        <option value="{&quot;key&quot;:&quot;tala_public_test&quot;,&quot;serialId&quot;:&quot;6d1ca04372a25d911433f83522a512c4&quot;,&quot;isDefault&quot;:true}" />
+        <option value="{&quot;key&quot;:&quot;ppservice_android_domestic&quot;,&quot;serialId&quot;:&quot;fb0f181b78bcec96b51383da9861e075&quot;,&quot;isDefault&quot;:true}" />
       </list>
     </option>
     <option name="filterSettings">
@@ -33,6 +33,6 @@
         <entry key="TALA_TASK_VIEW" value="true" />
       </map>
     </option>
-    <option name="enableIssues" value="false" />
+    <option name="enableTasks" value="true" />
   </component>
 </application>

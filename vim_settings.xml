@@ -33,14 +33,12 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1553758013073" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1553748662025">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="13" />
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/sql/f_5.4.0.0/25pp_android.sql" timestamp="1553759806015" />
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="37" column="4" />
@@ -114,7 +112,7 @@
       <file name="/Dummy.txt" timestamp="1553754487549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/settings/SettingsConst.java" timestamp="1553759817711" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/settings/SettingsConst.java" timestamp="1553770528102" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -177,6 +175,9 @@
         <mark key="]" line="1435" column="45" />
         <mark key="^" line="1435" column="45" />
         <mark key="." line="1435" column="45" />
+      </file>
+      <file name="/foo.bar" timestamp="1553769621109">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1553757505954">
         <mark key="[" line="0" column="0" />
@@ -381,7 +382,7 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set nonumber</text>
+        <text>action ToggleLineBreakpoint</text>
       </register>
     </registers>
     <search>
@@ -417,7 +418,6 @@
         <entry>jmx</entry>
       </history-search>
       <history-cmd>
-        <entry>set hls</entry>
         <entry>nohls</entry>
         <entry encoding="base64">bm1hcCA8RXNjPiBpPEVzYz4=</entry>
         <entry>map</entry>
@@ -437,6 +437,7 @@
         <entry>set ruler</entry>
         <entry>set number</entry>
         <entry>set nonumber</entry>
+        <entry>action ToggleLineBreakpoint</entry>
       </history-cmd>
       <history-expr />
       <history-input />
