@@ -1,0 +1,38 @@
+<application>
+  <component name="TalaForAoneApplicaitonSettings">
+    <option name="loginUser">
+      <User>
+        <option name="account" value="hadix.ly" />
+        <option name="email" value="hadix.ly@alibaba-inc.com" />
+        <option name="empId" value="186829" />
+        <option name="name" value="刘野" />
+        <option name="nick" value="弥望" />
+      </User>
+    </option>
+    <option name="groups">
+      <list>
+        <option value="{&quot;key&quot;:&quot;ppservice_android_domestic&quot;,&quot;serialId&quot;:&quot;fb0f181b78bcec96b51383da9861e075&quot;,&quot;isDefault&quot;:true}" />
+      </list>
+    </option>
+    <option name="filterSettings">
+      <map>
+        <entry key="AONE_REVIEW_REPOSITORY" value="true" />
+        <entry key="AONE_REVIEW_STATUS" value="true" />
+        <entry key="AONE_REVIEW_VIEW" value="true" />
+        <entry key="ISSUE_APP" value="false" />
+        <entry key="ISSUE_ASSIGNEE" value="true" />
+        <entry key="ISSUE_DATE" value="false" />
+        <entry key="ISSUE_GROUP" value="true" />
+        <entry key="ISSUE_ITERATION" value="false" />
+        <entry key="ISSUE_REVIEWER" value="true" />
+        <entry key="ISSUE_STATUS" value="true" />
+        <entry key="ISSUE_TASK" value="true" />
+        <entry key="ISSUE_TYPE" value="true" />
+        <entry key="TALA_TASK_APP" value="true" />
+        <entry key="TALA_TASK_STATUS" value="true" />
+        <entry key="TALA_TASK_VIEW" value="true" />
+      </map>
+    </option>
+    <option name="enableTasks" value="true" />
+  </component>
+</application>

@@ -23,4 +23,8 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="PRESELECT_RENAME" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
