@@ -1,5 +1,14 @@
 <application>
   <component name="TalaForAoneApplicaitonSettings">
+    <option name="loginUser">
+      <User>
+        <option name="account" value="hadix.ly" />
+        <option name="email" value="hadix.ly@alibaba-inc.com" />
+        <option name="empId" value="186829" />
+        <option name="name" value="刘野" />
+        <option name="nick" value="弥望" />
+      </User>
+    </option>
     <option name="groups">
       <list>
         <option value="{&quot;key&quot;:&quot;tala_public_test&quot;,&quot;serialId&quot;:&quot;6d1ca04372a25d911433f83522a512c4&quot;,&quot;isDefault&quot;:true}" />

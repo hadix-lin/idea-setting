@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Graph.ActualSize</IdeaActionID>
+          <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
@@ -721,6 +729,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diagram Popup...">
         <Item>
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
@@ -976,6 +992,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Tala Pro | Create Issue">
+        <Item>
+          <IdeaActionID>TalaForAoneDistribution.Tala.Pro.CreateIssueAction</IdeaActionID>
+          <ShortCut>'⌃⌥/'</ShortCut>
+          <Description>Tala Pro | Create Issue</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
@@ -1034,6 +1058,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>TalaForAoneDistribution.Tala.Pro.AoneReview.Refresh</IdeaActionID>
+          <Description>Refresh</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'venice-boot'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
