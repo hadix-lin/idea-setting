@@ -47,6 +47,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Value">
         <Item>
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
@@ -132,7 +140,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1065</Count>
+          <Count>1073</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
