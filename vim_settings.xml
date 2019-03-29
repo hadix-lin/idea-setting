@@ -21,6 +21,13 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/card_content_resourceMapper.xml" timestamp="1553829317519">
+        <mark key="'" line="101" column="16" />
+        <mark key="[" line="165" column="38" />
+        <mark key="]" line="165" column="37" />
+        <mark key="^" line="165" column="37" />
+        <mark key="." line="165" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/options/provider/CardResourceTypeOptionDataProvider.java" timestamp="1553759502592">
         <mark key="'" line="100" column="54" />
         <mark key="[" line="38" column="32" />
@@ -28,11 +35,11 @@
         <mark key="." line="100" column="54" />
         <mark key="^" line="100" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553759293322">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1553754268093">
         <mark key="[" line="17" column="22" />
@@ -90,6 +97,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/CardContentResource.java" timestamp="1553829114097">
+        <mark key="[" line="89" column="18" />
+        <mark key="]" line="88" column="27" />
+        <mark key="^" line="88" column="27" />
+        <mark key="." line="88" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/app_ops.xml" timestamp="1543234119633">
         <mark key="[" line="51" column="9" />
         <mark key="]" line="51" column="8" />
@@ -140,6 +153,9 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
       </file>
+      <file name="/a.sql" timestamp="1553829248311">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocTypeParseContext.java" timestamp="1543310760071">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="34" />
@@ -164,7 +180,7 @@
         <mark key="." line="189" column="45" />
         <mark key="^" line="189" column="45" />
       </file>
-      <file name="/dummy.sql" timestamp="1553757490049">
+      <file name="/dummy.sql" timestamp="1553829249971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
@@ -173,7 +189,7 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553754487549">
+      <file name="/Dummy.txt" timestamp="1553829249956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
@@ -268,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="42" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/admin/pom.xml" />
       <jump line="176" column="31" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
       <jump line="160" column="39" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" />
       <jump line="25" column="24" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/impl/apache/ApacheHttp.java" />
@@ -368,6 +383,7 @@
       <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/expr/AnnotationExpr.java" />
       <jump line="175" column="67" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.8.0/javaparser-core-3.8.0-sources.jar!/com/github/javaparser/ast/body/CallableDeclaration.java" />
       <jump line="97" column="54" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/options/provider/CardResourceTypeOptionDataProvider.java" />
+      <jump line="100" column="16" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/card_content_resourceMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -385,8 +401,8 @@
       <register name="/" type="4">
         <text>jmx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtZXRlciBleHByZXNzaW9uPSIke3Byb2plY3QuYnVpbGQuc291cmNlRGlyZWN0b3J5fSIKICAgICAqLwo=</text>
+      <register name="0" type="4">
+        <text>show_strategy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogQGdvYWwgc3RhdGljLWRvY2RkCg==</text>
