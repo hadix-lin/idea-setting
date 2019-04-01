@@ -9,7 +9,6 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/tair-client/tair-client.log" timestamp="1554101180359" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/LocalKafkaProducer.java" timestamp="1553841262808">
         <mark key="[" line="74" column="20" />
         <mark key="]" line="75" column="11" />
@@ -34,18 +33,6 @@
         <mark key="^" line="689" column="44" />
         <mark key="." line="689" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/TopicHandlerExecutor.java" timestamp="1554082370625">
-        <mark key="[" line="9" column="78" />
-        <mark key="]" line="9" column="77" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1553748662025">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/service/UserActionTopicHandler.java" timestamp="1553838589619">
         <mark key="'" line="51" column="8" />
         <mark key="[" line="85" column="0" />
@@ -66,48 +53,18 @@
         <mark key="^" line="872" column="27" />
         <mark key="." line="872" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/Conf.java" timestamp="1553845089593">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9.1-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/config/TairCacheHandler.class" timestamp="1554100094073" />
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1553754268093">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="116" column="25" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="116" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1553845277197">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/pom.xml" timestamp="1553831450821">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="37" column="29" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1553840882180">
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="83" column="24" />
-        <mark key="^" line="83" column="24" />
-        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/TopicDefineSet.java" timestamp="1553841231542">
         <mark key="[" line="11" column="0" />
@@ -140,6 +97,202 @@
         <mark key="." line="5512" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" timestamp="1554090043115" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554085511935">
+        <mark key="[" line="178" column="44" />
+        <mark key="]" line="178" column="43" />
+        <mark key="." line="178" column="43" />
+        <mark key="^" line="178" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554103742843">
+        <mark key="[" line="25" column="87" />
+        <mark key="]" line="25" column="86" />
+        <mark key="^" line="25" column="86" />
+        <mark key="." line="25" column="86" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
+        <mark key="[" line="77" column="72" />
+        <mark key="]" line="77" column="71" />
+        <mark key="^" line="77" column="71" />
+        <mark key="." line="77" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/TabPageStrategy.java" timestamp="1554101975319">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1553839203602">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/HSFApiConfig.java" timestamp="1553844313564">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionParser.kt" timestamp="1553831939452">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1543234366565">
+        <mark key="[" line="287" column="35" />
+        <mark key="]" line="287" column="34" />
+        <mark key="." line="287" column="34" />
+        <mark key="^" line="287" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/StaticDocGenerator.java" timestamp="1553832014647">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.0/kafka_2.10-0.8.2.0.jar!/kafka/admin/AdminUtils$.class" timestamp="1553839977304">
+        <mark key="[" line="469" column="67" />
+        <mark key="]" line="469" column="66" />
+        <mark key="^" line="469" column="66" />
+        <mark key="." line="469" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543368575462">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocPredicates.java" timestamp="1543307941565">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/hadix/javadoc/JavaInterface.java" timestamp="1553778503038">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/PosterSpaceController.java" timestamp="1554090026227" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/CardDataProcess.java" timestamp="1554103919593" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1543389835869">
+        <mark key="[" line="189" column="46" />
+        <mark key="]" line="189" column="45" />
+        <mark key="." line="189" column="45" />
+        <mark key="^" line="189" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9.1-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/PPCacheManager.class" timestamp="1554099677573">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="53" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" timestamp="1543221104745">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.json5" timestamp="1553759496412">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedule.java" timestamp="1554102709099">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/springfox/ModelPropertyProviderInterceptor.kt" timestamp="1553775149308">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1553844147963">
+        <mark key="[" line="1" column="64" />
+        <mark key="]" line="1" column="49" />
+        <mark key="^" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/service/CardResourceSchedulePoolService.java" timestamp="1554102616887">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0-sources.jar!/org/apache/maven/plugins/annotations/Mojo.java" timestamp="1553777149578">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdGroupService.java" timestamp="1554104214431" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1553852761327">
+        <mark key="[" line="158" column="57" />
+        <mark key="]" line="158" column="56" />
+        <mark key="^" line="158" column="56" />
+        <mark key="." line="158" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/DataProviderTypeEnum.java" timestamp="1554102073793">
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/tair-client/tair-client.log" timestamp="1554101180359" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/TopicHandlerExecutor.java" timestamp="1554082370625">
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="77" />
+        <mark key="." line="9" column="77" />
+        <mark key="^" line="9" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/api/impl/TaskApiImpl.java" timestamp="1553748662025">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdService.java" timestamp="1554104098702" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/Conf.java" timestamp="1553845089593">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1553754268093">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="116" column="25" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="116" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1553840882180">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="83" column="24" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="83" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/mybatis/user_behavior_user_action_logMapper.xml" timestamp="1553846483327">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="24" />
@@ -152,31 +305,12 @@
         <mark key="^" line="50" column="96" />
         <mark key="." line="50" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554085511935">
-        <mark key="[" line="178" column="44" />
-        <mark key="]" line="178" column="43" />
-        <mark key="." line="178" column="43" />
-        <mark key="^" line="178" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554101933943" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1554102092621" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
-        <mark key="[" line="77" column="72" />
-        <mark key="]" line="77" column="71" />
-        <mark key="^" line="77" column="71" />
-        <mark key="." line="77" column="71" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/ppcache/cache.log" timestamp="1554100956314">
         <mark key="[" line="2372" column="68" />
         <mark key="]" line="2372" column="67" />
         <mark key="^" line="2372" column="67" />
         <mark key="." line="2372" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/tab/model/TabPageStrategy.java" timestamp="1554101975319">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="6" />
-        <mark key="^" line="31" column="6" />
-        <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/dao/UserActionLogMapper.java" timestamp="1553845038927">
         <mark key="[" line="18" column="15" />
@@ -190,23 +324,11 @@
         <mark key="^" line="397" column="23" />
         <mark key="." line="397" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1553839203602">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1543388507192">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="75" column="23" />
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/HSFApiConfig.java" timestamp="1553844313564">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1554101711683">
         <mark key="[" line="35" column="9" />
@@ -244,41 +366,17 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionParser.kt" timestamp="1553831939452">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1543219539241">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="51" column="21" />
         <mark key="^" line="50" column="25" />
         <mark key="." line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/service/impl/AppDetailOpsServiceImpl.java" timestamp="1543234366565">
-        <mark key="[" line="287" column="35" />
-        <mark key="]" line="287" column="34" />
-        <mark key="." line="287" column="34" />
-        <mark key="^" line="287" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/StaticDocGenerator.java" timestamp="1553832014647">
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="34" />
-        <mark key="." line="44" column="34" />
-        <mark key="^" line="44" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="37" column="4" />
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.0/kafka_2.10-0.8.2.0.jar!/kafka/admin/AdminUtils$.class" timestamp="1553839977304">
-        <mark key="[" line="469" column="67" />
-        <mark key="]" line="469" column="66" />
-        <mark key="^" line="469" column="66" />
-        <mark key="." line="469" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553831807015">
         <mark key="[" line="19" column="28" />
@@ -292,42 +390,17 @@
         <mark key="^" line="243" column="30" />
         <mark key="." line="243" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543368575462">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="13" />
-        <mark key="." line="42" column="13" />
-        <mark key="^" line="38" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocTypeParseContext.java" timestamp="1543310760071">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocPredicates.java" timestamp="1543307941565">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="29" column="38" />
-        <mark key="^" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/model/ResType.java" timestamp="1553844810958">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/hadix/javadoc/JavaInterface.java" timestamp="1553778503038">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/PosterSpaceController.java" timestamp="1554090026227" />
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1543389835869">
-        <mark key="[" line="189" column="46" />
-        <mark key="]" line="189" column="45" />
-        <mark key="." line="189" column="45" />
-        <mark key="^" line="189" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
@@ -348,51 +421,16 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9.1-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/PPCacheManager.class" timestamp="1554099677573">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="16" />
-        <mark key="^" line="53" column="16" />
-        <mark key="." line="53" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" timestamp="1543221104745">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.json5" timestamp="1553759496412">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/pom.xml" timestamp="1553840885978">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedule.java" timestamp="1554102709099">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543383458788">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="29" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/springfox/ModelPropertyProviderInterceptor.kt" timestamp="1553775149308">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="4" />
-        <mark key="^" line="50" column="4" />
-        <mark key="." line="50" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-api/3.6.0/maven-plugin-api-3.6.0-sources.jar!/org/apache/maven/plugin/MojoExecutionException.java" timestamp="1553761475255">
         <mark key="[" line="79" column="0" />
@@ -406,24 +444,6 @@
         <mark key="^" line="1435" column="45" />
         <mark key="." line="1435" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b19156ca-2be7-4f96-80ec-56d2e3c1d163/console.sql" timestamp="1553844147963">
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="49" />
-        <mark key="^" line="1" column="49" />
-        <mark key="." line="1" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/service/CardResourceSchedulePoolService.java" timestamp="1554102616887">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0-sources.jar!/org/apache/maven/plugins/annotations/Mojo.java" timestamp="1553777149578">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553777792141">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -436,23 +456,11 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1553852761327">
-        <mark key="[" line="158" column="57" />
-        <mark key="]" line="158" column="56" />
-        <mark key="^" line="158" column="56" />
-        <mark key="." line="158" column="56" />
-      </file>
       <file name="/fragment.java" timestamp="1554102515723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/DataProviderTypeEnum.java" timestamp="1554102073793">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="24" />
       </file>
     </filemarks>
     <jumps>
