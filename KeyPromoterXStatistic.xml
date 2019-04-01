@@ -140,7 +140,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1120</Count>
+          <Count>1130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -730,6 +730,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'⌥F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>
@@ -1061,7 +1069,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
