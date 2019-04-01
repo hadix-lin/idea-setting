@@ -103,11 +103,12 @@
         <mark key="." line="178" column="43" />
         <mark key="^" line="178" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554103742843">
-        <mark key="[" line="25" column="87" />
-        <mark key="]" line="25" column="86" />
-        <mark key="^" line="25" column="86" />
-        <mark key="." line="25" column="86" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554108497462">
+        <mark key="'" line="36" column="48" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="36" column="48" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
         <mark key="[" line="77" column="72" />
@@ -133,6 +134,7 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/external/provider/RepositoryProvider.java" timestamp="1554108902302" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionParser.kt" timestamp="1553831939452">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="22" />
@@ -237,6 +239,12 @@
         <mark key="." line="38" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdGroupService.java" timestamp="1554106517916" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/service/RecContentService.java" timestamp="1554110280830">
+        <mark key="[" line="152" column="34" />
+        <mark key="]" line="153" column="11" />
+        <mark key="^" line="153" column="11" />
+        <mark key="." line="153" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1553852761327">
         <mark key="[" line="158" column="57" />
         <mark key="]" line="158" column="56" />
@@ -250,6 +258,13 @@
         <mark key="^" line="33" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/tair-client/tair-client.log" timestamp="1554101180359" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/api/impl/UserActionLogApiImpl.java" timestamp="1553841593739">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="51" column="1" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="47" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/TopicHandlerExecutor.java" timestamp="1554082370625">
         <mark key="[" line="9" column="78" />
         <mark key="]" line="9" column="77" />
@@ -263,6 +278,20 @@
         <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdService.java" timestamp="1554104098702" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/card_content_resourceMapper.xml" timestamp="1553843868376">
+        <mark key="'" line="101" column="16" />
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="16" />
+        <mark key="^" line="167" column="16" />
+        <mark key="." line="167" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/pom.xml" timestamp="1553854003975">
+        <mark key="'" line="106" column="30" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="14" />
+        <mark key="^" line="113" column="14" />
+        <mark key="." line="113" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
@@ -341,6 +370,12 @@
         <mark key="]" line="53" column="41" />
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1554109870503">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/CardContentResource.java" timestamp="1553829114097">
         <mark key="[" line="89" column="18" />
@@ -456,22 +491,21 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554102515723">
+      <file name="/fragment.java" timestamp="1554109163131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" timestamp="1554106353242">
-        <mark key="[" line="71" column="54" />
-        <mark key="]" line="72" column="52" />
-        <mark key="^" line="72" column="52" />
-        <mark key="." line="72" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" timestamp="1554109667280">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="76" column="1" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="25" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
-      <jump line="43" column="21" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="57" column="9" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/admin/pom.xml" />
       <jump line="91" column="56" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/TaskApiTest.java" />
       <jump line="45" column="17" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
@@ -570,6 +604,8 @@
       <jump line="33" column="7" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/api/impl/UserActionLogApiImpl.java" />
       <jump line="101" column="30" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/pom.xml" />
       <jump line="49" column="22" filename="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" />
+      <jump line="37" column="48" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,7 +618,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>AdminUtils.topicExists(localKafkaZkClient, topic.getTopic());</text>
+        <text>) {</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -591,34 +627,34 @@
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJlbmRfdGltZSIsIHR5cGUgPSBEYlR5cGUuQmlnSW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgbG9uZyBnZXRTdGFydFRpbWUoKSB7CiAgICAgICAgcmV0dXJuIHN0YXJ0VGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdGFydFRpbWUobG9uZyBzdGFydFRpbWUpIHsKICAgICAgICB0aGlzLnN0YXJ0VGltZSA9IHN0YXJ0VGltZTsKICAgIH0KCiAgICBwdWJsaWMgbG9uZyBnZXRFbmRUaW1lKCkgewogICAgICAgIHJldHVybiBlbmRUaW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVuZFRpbWUobG9uZyBlbmRUaW1lKSB7CiAgICAgICAgdGhpcy5lbmRUaW1lID0gZW5kVGltZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzdGFydF90aW1lIiwgdHlwZSA9IERiVHlwZS5CaWdJbnQpCiAgICBwcml2YXRlIGxvbmcgc3RhcnRUaW1lOwoKICAgIEBDb2x1bW4obmFtZSA9ICJlbmRfdGltZSIsIHR5cGUgPSBEYlR5cGUuQmlnSW50KQogICAgcHJpdmF0ZSBsb25nIGVuZFRpbWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwVG9JbnQoSW50ZWdlcjo6cGFyc2VJbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvZmZzZXRNZXRhZGF0YS5lcnJvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBKd3MuY29uZmlndXJhdGlvbi5nZXRQcm9wZXJ0eSgiYmlnLWRhdGEubW9jayIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGhyZWFkRmFjdG9yeSB0aHJlYWRGYWN0b3J5ID0gbmV3IFRocmVhZEZhY3RvcnkoKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFRocmVhZCBuZXdUaHJlYWQoUnVubmFibGUgcikgewogICAgICAgICAgICBUaHJlYWQgdGhyZWFkID0gbmV3IFRocmVhZChyKTsKICAgICAgICAgICAgdGhyZWFkLnNldE5hbWUoKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBKd3MubW9kZS5pc0RldigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3Jkcy4K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN1bWVyQ29ubmVjdG9yIGNvbm4gPSBjcmVhdGVDb25zdW1lcihlbnZJbmZvLmdldEhvc3RHcm91cFByZWZpeCgpICsgIl8iICsgZW52SW5mby5nZXRIb3N0TmFtZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0UmVjVmlkZW9JZHMoY2xpZW50LCB2aWRlb0lkLCBleHBlY3RlZENvdW50KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGp3cy5Kd3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29uc3VtZXIuY3JlYXRlSmF2YUNvbnN1bWVyQ29ubmVjdG9yKG5ldyBDb25zdW1lckNvbmZpZyhwcm9wZXJ0aWVzKSk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgbG9uZyBnZXRTdGFydFRpbWUoKSB7CiAgICAgICAgcmV0dXJuIHN0YXJ0VGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdGFydFRpbWUobG9uZyBzdGFydFRpbWUpIHsKICAgICAgICB0aGlzLnN0YXJ0VGltZSA9IHN0YXJ0VGltZTsKICAgIH0KCiAgICBwdWJsaWMgbG9uZyBnZXRFbmRUaW1lKCkgewogICAgICAgIHJldHVybiBlbmRUaW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVuZFRpbWUobG9uZyBlbmRUaW1lKSB7CiAgICAgICAgdGhpcy5lbmRUaW1lID0gZW5kVGltZTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ToggleLineBreakpoint</text>
