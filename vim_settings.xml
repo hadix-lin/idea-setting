@@ -21,6 +21,9 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/dto/VideoDetailAppInfo.java" timestamp="1554187677251">
+        <mark key="[" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/pom.xml" timestamp="1543212016646">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="20" />
@@ -33,7 +36,7 @@
         <mark key="^" line="690" column="46" />
         <mark key="." line="690" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1554176677900">
+      <file name="/a.dummy" timestamp="1554188305389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1554102562357">
@@ -241,11 +244,11 @@
         <mark key="^" line="245" column="25" />
         <mark key="." line="245" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/service/RecContentService.java" timestamp="1554110280830">
-        <mark key="[" line="152" column="34" />
-        <mark key="]" line="153" column="11" />
-        <mark key="^" line="153" column="11" />
-        <mark key="." line="153" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/service/RecContentService.java" timestamp="1554187701608">
+        <mark key="[" line="139" column="11" />
+        <mark key="]" line="139" column="38" />
+        <mark key="^" line="139" column="38" />
+        <mark key="." line="139" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1554171027974">
         <mark key="[" line="158" column="57" />
@@ -378,11 +381,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1554101711683">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="8" />
-        <mark key="^" line="35" column="8" />
-        <mark key="." line="35" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1554188410777">
+        <mark key="[" line="65" column="57" />
+        <mark key="]" line="66" column="7" />
+        <mark key="." line="66" column="7" />
+        <mark key="^" line="66" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543298855177">
         <mark key="[" line="38" column="14" />
@@ -542,7 +545,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554175974517">
+      <file name="/fragment.java" timestamp="1554187664847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -684,34 +687,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBLYWZrYUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqd3MubW9kdWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldFZpZGVvSW5mbyh2aWRlb0luZm8pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZpZGVvSW5mbz4gZ2V0VmlkZW9zKCkgewogICAgICAgIHJldHVybiB2aWRlb3M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VmlkZW9zKExpc3Q8VmlkZW9JbmZvPiB2aWRlb3MpIHsKICAgICAgICB0aGlzLnZpZGVvcyA9IHZpZGVvczsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuc2V0QXBwKGRldGFpbEFwcEluZm8ub3JFbHNlKG51bGwpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvci5zaHV0ZG93bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBzLmFkZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWRlb0RldGFpbEluZm8gcmVzdWx0ID0gbmV3IFZpZGVvRGV0YWlsSW5mbygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5leGVjdXRvciA9IGV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPERldGFpbEFwcEluZm8+IGRldGFpbEFwcEluZm8KICAgICAgICAgICAgICAgICAgICA9IHJlY0NvbnRlbnRTZXJ2aWNlLmdldERldGFpbEFwcEluZm8oYXBwSWQsIGN0eC5nZXRDbGllbnQoKS5nZXRQcm9kdWN0SWQoKSk7CiAgICAgICAgICAgICAgICByZXN1bHQuc2V0QXBwKGRldGFpbEFwcEluZm8ub3JFbHNlKG51bGwpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2Fma2FIYW5kbGVyRXhlY3V0b3IgZXhlY3V0b3IsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgYXBwSWQgPSByZWxhdGVkQXBwSWRzLmdldCgwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEthZmthSGFuZGxlckV4ZWN1dG9yIGV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQocmVjb3JkLnRvcGljQW5kUGFydGl0aW9uKCksIG9mZnNldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
