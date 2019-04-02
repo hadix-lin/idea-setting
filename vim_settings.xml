@@ -33,6 +33,9 @@
         <mark key="^" line="690" column="46" />
         <mark key="." line="690" column="46" />
       </file>
+      <file name="/a.dummy" timestamp="1554176677900">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1554102562357">
         <mark key="[" line="872" column="28" />
         <mark key="]" line="872" column="27" />
@@ -83,12 +86,12 @@
         <mark key="." line="5512" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" timestamp="1554090043115" />
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554173892286">
-        <mark key="'" line="186" column="39" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="183" column="74" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554177934867">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="244" column="64" />
+        <mark key="]" line="246" column="39" />
+        <mark key="." line="246" column="39" />
+        <mark key="^" line="246" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554108497462">
         <mark key="'" line="36" column="48" />
@@ -174,6 +177,12 @@
         <mark key="]" line="189" column="45" />
         <mark key="." line="189" column="45" />
         <mark key="^" line="189" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaException.java" timestamp="1554176884610">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9.1-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/PPCacheManager.class" timestamp="1554119142707">
         <mark key="[" line="167" column="35" />
@@ -381,11 +390,11 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1554120994800">
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="38" />
-        <mark key="^" line="64" column="38" />
-        <mark key="." line="64" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/application.conf" timestamp="1554183128527">
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="69" column="16" />
+        <mark key="^" line="69" column="16" />
+        <mark key="." line="69" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/CardContentResource.java" timestamp="1553829114097">
         <mark key="[" line="89" column="18" />
@@ -462,11 +471,11 @@
         <mark key="^" line="115" column="35" />
         <mark key="." line="115" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554173384591">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554176223031">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="50" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocTypeParseContext.java" timestamp="1543310760071">
         <mark key="[" line="11" column="33" />
@@ -492,9 +501,10 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554120345850">
+      <file name="/Dummy.txt" timestamp="1554175974523">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/CommonKafkaListener.java" timestamp="1554177643702" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -532,7 +542,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554118451017">
+      <file name="/fragment.java" timestamp="1554175974517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -553,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="17" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/TaskType.java" />
       <jump line="105" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-sources.jar!/com/alibaba/boot/hsf/consumer/HsfConsumerPostProcessor.java" />
       <jump line="230" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.7--2018-08-stable/hsf-sdk-2.2.6.7--2018-08-stable-sources.jar!/com/taobao/hsf/app/api/util/HSFApiConsumerBean.java" />
       <jump line="15" column="11" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.7--2018-08-stable/hsf-sdk-2.2.6.7--2018-08-stable-sources.jar!/com/taobao/hsf/logger/AppLogger.java" />
@@ -653,6 +661,8 @@
       <jump line="2" column="7" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="189" column="39" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
+      <jump line="302" column="25" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -671,37 +681,37 @@
         <text>jmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnV0dXJlLmdldCg1LCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBLYWZrYUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PEZ1dHVyZTw/Pj4gZnV0dXJlcyA9IG5ldyBBcnJheUxpc3Q8Pih0b3BpY1NpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvci5zaHV0ZG93bigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBLYWZrYVRvcGljSGFuZGxlciBoYW5kbGVyID0gY29uc3VtZUVhY2hTZXJ2ZXJUb3BpY0hhbmRsZXJzLmdldChyZWNvcmQudG9waWMoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmQudG8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8VG9waWNQYXJ0aXRpb24sIExvbmc+IG1hcCA9IG5ldyBIYXNoTWFwPD4oMSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5jb21taXQobWFwLCBmYWxzZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yRG9uZShmdXR1cmVzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnV0dXJlcy5hZGQodGFza0Z1dHVyZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5leGVjdXRvciA9IGV4ZWN1dG9yOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS2Fma2FIYW5kbGVyRXhlY3V0b3IgZXhlY3V0b3IsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEthZmthSGFuZGxlckV4ZWN1dG9yIGV4ZWN1dG9yOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQocmVjb3JkLnRvcGljQW5kUGFydGl0aW9uKCksIG9mZnNldCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBvZmZzZXQgPSBnZXRPZmZzZXQocmVjb3JkKTsKICAgICAgICAgICAgbWFwLnB1dChyZWNvcmQudG9waWNBbmRQYXJ0aXRpb24oKSwgb2Zmc2V0KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4uuavj+S4quivnemimOWIhumFjeS4gOadoee6v+eoi+WkhOeQhgogICAgICAgIGV4ZWN1dG9yID0gbmV3IFRocmVhZFBvb2xFeGVjdXRvcigKICAgICAgICAgICAgdG9waWNTaXplLCB0b3BpY1NpemUsCiAgICAgICAgICAgIDBMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMsCiAgICAgICAgICAgIG5ldyBMaW5rZWRCbG9ja2luZ1F1ZXVlPD4oKSwKICAgICAgICAgICAgdGhyZWFkRmFjdG9yeSk7Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQga2Fma2EuY29uc3VtZXIuQ29uc3VtZXI7Ci8vaW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVyQ29uZmlnOwovL2ltcG9ydCBrYWZrYS5jb25zdW1lci5Db25zdW1lckl0ZXJhdG9yOwovL2ltcG9ydCBrYWZrYS5jb25zdW1lci5LYWZrYVN0cmVhbTsKLy9pbXBvcnQga2Fma2EuamF2YWFwaS5jb25zdW1lci5Db25zdW1lckNvbm5lY3RvcjsKLy9pbXBvcnQga2Fma2EubWVzc2FnZS5NZXNzYWdlQW5kTWV0YWRhdGE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
