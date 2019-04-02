@@ -140,7 +140,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1144</Count>
+          <Count>1145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -506,6 +506,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GetCustomCardVideoInfoTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GetCustomCardVideoInfoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InputSourceSwitcher2'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -862,6 +870,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GameWebSocketTest (1)'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GetCustomCardVideoInfoTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GetCustomCardVideoInfoTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GetCustomCardVideoInfoTest.testVideoInfoCardContent'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GetCustomCardVideoInfoTest.testVideoInfoCardContent'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InputSourceSwitcher2'">
