@@ -83,12 +83,12 @@
         <mark key="." line="5512" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/conf/routes" timestamp="1554090043115" />
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554171286439">
-        <mark key="'" line="162" column="12" />
-        <mark key="[" line="338" column="10" />
-        <mark key="]" line="338" column="8" />
-        <mark key="." line="338" column="8" />
-        <mark key="^" line="338" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" timestamp="1554173892286">
+        <mark key="'" line="186" column="39" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="183" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1554108497462">
         <mark key="'" line="36" column="48" />
@@ -161,9 +161,6 @@
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/ddl/card/CardContentResource.java" timestamp="1554114261168">
-        <mark key="[" line="81" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/hadix/javadoc/JavaInterface.java" timestamp="1553778503038">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="11" column="1" />
@@ -195,11 +192,6 @@
         <mark key="]" line="31" column="24" />
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedule.java" timestamp="1554102709099">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
         <mark key="[" line="0" column="0" />
@@ -431,6 +423,12 @@
         <mark key="^" line="88" column="12" />
         <mark key="." line="88" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/ConsumerConf.java" timestamp="1554173486219">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/pom.xml" timestamp="1553778568354">
         <mark key="[" line="27" column="21" />
       </file>
@@ -458,10 +456,17 @@
         <mark key="^" line="244" column="34" />
         <mark key="." line="244" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554171649931">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554173651742">
+        <mark key="[" line="115" column="36" />
+        <mark key="]" line="115" column="35" />
+        <mark key="^" line="115" column="35" />
+        <mark key="." line="115" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554173384591">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocTypeParseContext.java" timestamp="1543310760071">
         <mark key="[" line="11" column="33" />
@@ -481,9 +486,6 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1553844115801">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
         <mark key="]" line="183" column="26" />
@@ -498,11 +500,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/pom.xml" timestamp="1553840885978">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543383458788">
         <mark key="[" line="12" column="37" />
@@ -556,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="56" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/TaskApiTest.java" />
       <jump line="45" column="17" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/TaskType.java" />
       <jump line="105" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-sources.jar!/com/alibaba/boot/hsf/consumer/HsfConsumerPostProcessor.java" />
@@ -656,6 +652,7 @@
       <jump line="37" column="48" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" />
       <jump line="2" column="7" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
+      <jump line="189" column="39" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -677,34 +674,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnV0dXJlLmdldCg1LCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYUNvbnN1bWVyLmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PEZ1dHVyZTw/Pj4gZnV0dXJlcyA9IG5ldyBBcnJheUxpc3Q8Pih0b3BpY1NpemUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoKEthZmthQ29uc3VtZXIpa2Fma2FDb25zdW1lcikuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBLYWZrYVRvcGljSGFuZGxlciBoYW5kbGVyID0gY29uc3VtZUVhY2hTZXJ2ZXJUb3BpY0hhbmRsZXJzLmdldChyZWNvcmQudG9waWMoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRUaW1lLm1lcmdlKGZ1dHVyZSwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmQudG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRUaW1lLnB1dElmQWJzZW50KGZ1dHVyZSwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8VG9waWNQYXJ0aXRpb24sIExvbmc+IG1hcCA9IG5ldyBIYXNoTWFwPD4oMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5jb21taXQobWFwLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3YWl0Rm9yRG9uZShmdXR1cmVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKEZ1dHVyZTw/PiBmdXR1cmUgOiBmdXR1cmVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZ1dHVyZS5nZXQoNSwgVGltZVVuaXQuU0VDT05EUyk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnV0dXJlcy5hZGQodGFza0Z1dHVyZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL+S4uuavj+S4quivnemimOWIhumFjeS4gOadoee6v+eoi+WkhOeQhgogICAgICAgIGV4ZWN1dG9yID0gbmV3IFRocmVhZFBvb2xFeGVjdXRvcigKICAgICAgICAgICAgdG9waWNTaXplLCB0b3BpY1NpemUsCiAgICAgICAgICAgIDBMLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMsCiAgICAgICAgICAgIG5ldyBMaW5rZWRCbG9ja2luZ1F1ZXVlPD4oKSwKICAgICAgICAgICAgdGhyZWFkRmFjdG9yeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
