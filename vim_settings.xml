@@ -45,11 +45,20 @@
         <mark key="^" line="1116" column="11" />
         <mark key="." line="1116" column="11" />
       </file>
+      <file name="/a.dummy" timestamp="1554279809986">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1554102562357">
         <mark key="[" line="872" column="28" />
         <mark key="]" line="872" column="27" />
         <mark key="^" line="872" column="27" />
         <mark key="." line="872" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/api/AdApi.java" timestamp="1554278736700">
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="14" />
+        <mark key="^" line="114" column="14" />
+        <mark key="." line="114" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1554257523779">
         <mark key="[" line="49" column="4" />
@@ -118,6 +127,8 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/sql/f_1.0.0.0.sql" timestamp="1554280463780" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/service/CategoryService.java" timestamp="1554279575666" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV2.java" timestamp="1554259384007">
         <mark key="[" line="594" column="0" />
         <mark key="]" line="594" column="0" />
@@ -311,11 +322,11 @@
         <mark key="^" line="245" column="25" />
         <mark key="." line="245" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/service/RecContentService.java" timestamp="1554259863982">
-        <mark key="[" line="154" column="76" />
-        <mark key="]" line="154" column="75" />
-        <mark key="^" line="154" column="75" />
-        <mark key="." line="154" column="75" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/service/RecContentService.java" timestamp="1554280077254">
+        <mark key="[" line="147" column="58" />
+        <mark key="]" line="147" column="58" />
+        <mark key="^" line="147" column="58" />
+        <mark key="." line="147" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1554210676333">
         <mark key="[" line="127" column="37" />
@@ -342,6 +353,12 @@
         <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/repository/repository-start/src/main/resources/mybatis/resource_imageMapper.xml" timestamp="1554276399444" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdService.java" timestamp="1554279314863">
+        <mark key="[" line="1137" column="37" />
+        <mark key="]" line="1137" column="36" />
+        <mark key="^" line="1137" column="36" />
+        <mark key="." line="1137" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
@@ -438,11 +455,11 @@
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1554273732048">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="14" />
-        <mark key="." line="51" column="14" />
-        <mark key="^" line="51" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1554280088043">
+        <mark key="[" line="70" column="72" />
+        <mark key="]" line="70" column="57" />
+        <mark key="^" line="70" column="57" />
+        <mark key="." line="70" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543298855177">
         <mark key="[" line="38" column="14" />
@@ -570,6 +587,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/service/CategoryService.java" timestamp="1554279543218">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="48" column="13" />
+        <mark key="^" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/app/decorator/NewAppPackInfoDecorator.java" timestamp="1554272534581">
         <mark key="[" line="94" column="9" />
         <mark key="]" line="95" column="7" />
@@ -588,11 +611,14 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/dto/DetailAppInfo.java" timestamp="1554277832796">
+      <file name="/Dummy.txt" timestamp="1554260421431">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/content/api/dto/DetailAppInfo.java" timestamp="1554278934110">
         <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/pom.xml" timestamp="1543226953458">
         <mark key="[" line="45" column="0" />
@@ -648,7 +674,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554209715846">
+      <file name="/fragment.java" timestamp="1554279017243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -774,7 +800,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>= def.getAppNum();</text>
+        <text>, supportHttps</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -783,34 +809,34 @@
         <text encoding="base64">ICAgICAgICBpZiAocC5nZXRDb250ZW50VHlwZSgpID09IENvbnRlbnRFeFBhcmFtLkNPTlRFTlRfVklERU8pIHsKICAgICAgICAgICAgY29tbWVudFN1YmplY3RUeXBlID0gQ29tbWVudFN1YmplY3RUeXBlLlZJREVPOwogICAgICAgIH0gZWxzZSBpZiAocC5nZXRDb250ZW50VHlwZSgpID09IENvbnRlbnRFeFBhcmFtLkNPTlRFTlRfQVJUSUNMRSkgewogICAgICAgICAgICBjb21tZW50U3ViamVjdFR5cGUgPSBDb21tZW50U3ViamVjdFR5cGUuQVJUSUNMRTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJjb250ZW50VHlwZT0iICsgcC5nZXRDb250ZW50VHlwZSgpICsgIizkuI3mlK/mjIEiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5Y+W5Ye65LiL6L296YePCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBIaXRzPiBoaXRzTWFwID0gaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsKICAgICAgICAgICAgaWYgKGhpdHNNYXAgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi6I635Y+W5LiL6L296YeP5aSx6LSlLGFwcElkcz0iICsgYXBwSWRzKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5Y+W5Ye65LiL6L296YePCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBIaXRzPiBoaXRzTWFwID0gaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsKICAgICAgICAgICAgaWYgKGhpdHNNYXAgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi6I635Y+W5LiL6L296YeP5aSx6LSlLGFwcElkcz0iICsgYXBwSWRzKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkvLyDlj5blh7rkuIvovb3ph48K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCByZXNvdXJjZVR5cGUgPSBpbm5lckNhdGVnb3J5U2VydmljZS5nZXRDYXRlZ29yeVR5cGUoY2F0ZWdvcnlJZCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlNYXA8SW50ZWdlciwgSGl0cz4gaGl0c01hcCA9IHRoaXMuaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Y+W5Ye65LiL6L296YePCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBIaXRzPiBoaXRzTWFwID0gaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsKICAgICAgICAgICAgaWYgKGhpdHNNYXAgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi6I635Y+W5LiL6L296YeP5aSx6LSlLGFwcElkcz0iICsgYXBwSWRzKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Y+W5Ye65LiL6L296YePCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBIaXRzPiBoaXRzTWFwID0gaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsKICAgICAgICAgICAgaWYgKGhpdHNNYXAgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi6I635Y+W5LiL6L296YeP5aSx6LSlLGFwcElkcz0iICsgYXBwSWRzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OwogICAgICAgICAgICBhcHBOdW0g</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvLyDlj5blh7rkuIvovb3ph48K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVmICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVmID09IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKEVycm9yVHlwZXMuTUFQREJfRVJST1IsICLmib7kuI3liLDmjqjojZDpm4blrprkuYksUmVjb21tZW5kU2V0LmlkPSIgKyByZWNTZXRJbmZvLmdldElkKCkpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CQlNYXA8SW50ZWdlciwgSGl0cz4gaGl0c01hcCA9IHRoaXMuaGl0c1NlcnZpY2UuZ2V0QXBwSGl0c01hcChhcHBJbmZvTWFwLnZhbHVlcygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
