@@ -9,11 +9,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/LocalKafkaProducer.java" timestamp="1553841262808">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="75" column="11" />
-        <mark key="." line="76" column="22" />
-        <mark key="^" line="75" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/LocalKafkaProducer.java" timestamp="1554293662200">
+        <mark key="'" line="26" column="55" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="26" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/cache/cache-servers.xml" timestamp="1553840394161">
         <mark key="[" line="3" column="9" />
@@ -53,6 +54,13 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/service/UcContentAuditService.java" timestamp="1554284211110">
+        <mark key="'" line="206" column="12" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="35" column="13" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1554102562357">
         <mark key="[" line="872" column="28" />
@@ -224,6 +232,12 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/service/UserActionLogService.java" timestamp="1554293388575">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/hadix/javadoc/JavaInterface.java" timestamp="1553778503038">
         <mark key="[" line="12" column="0" />
@@ -399,6 +413,13 @@
         <mark key="^" line="1137" column="36" />
         <mark key="." line="1137" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/pom.xml" timestamp="1554209010977">
+        <mark key="'" line="29" column="18" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/pom.xml" timestamp="1554287159849">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -494,6 +515,13 @@
         <mark key="]" line="387" column="17" />
         <mark key="^" line="387" column="17" />
         <mark key="." line="387" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" timestamp="1554258486396">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="191" column="91" />
+        <mark key="]" line="191" column="103" />
+        <mark key="." line="191" column="103" />
+        <mark key="^" line="191" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/SubjectComment.java" timestamp="1554287237194">
         <mark key="[" line="13" column="5" />
@@ -821,7 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="31" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="33" column="33" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="32" column="19" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="141" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
@@ -921,6 +948,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentPostDto.java" />
       <jump line="69" column="8" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/visit/service/impl/VisitServiceImpl.java" />
+      <jump line="26" column="55" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/LocalKafkaProducer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -942,34 +970,34 @@
         <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnBwY2FjaGUuY29uZmlnLWxvY2F0aW9uPQpwcGNhY2hlLnNlcnZlcnMuY29uZmlnLWxvY2F0aW9uPQoK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIOWIoOmZpOaIkOWKn+i/lOWbnnRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0NhY2hlIGNvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnBwY2FjaGUuY29uZmlnLWxvY2F0aW9uPQo=</text>
+        <text encoding="base64">CnBwY2FjaGUuY29uZmlnLWxvY2F0aW9uPQpwcGNhY2hlLnNlcnZlcnMuY29uZmlnLWxvY2F0aW9uPQoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">I0NhY2hlIGNvbmZpZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0NhY2hlIGNvbmZpZwpwcGNhY2hlLmNvbmZpZy1sb2NhdGlvbj0KcHBjYWNoZS5zZXJ2ZXJzLmNvbmZpZy1sb2NhdGlvbj0K</text>
+        <text encoding="base64">CnBwY2FjaGUuY29uZmlnLWxvY2F0aW9uPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
+        <text encoding="base64">I0NhY2hlIGNvbmZpZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
+        <text encoding="base64">I0NhY2hlIGNvbmZpZwpwcGNhY2hlLmNvbmZpZy1sb2NhdGlvbj0KcHBjYWNoZS5zZXJ2ZXJzLmNvbmZpZy1sb2NhdGlvbj0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZXJ2ZXIucG9ydD03MDAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
