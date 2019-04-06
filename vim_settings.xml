@@ -15,7 +15,12 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1554540508455" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1554560759949">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/resources/application.properties" timestamp="1553939949369">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -88,11 +93,15 @@
       <file name="/fragment.kt" timestamp="1553942674955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1554541751061">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1554561245589">
+        <mark key="[" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1554562326800">
+        <mark key="'" line="63" column="37" />
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="35" />
+        <mark key="^" line="42" column="35" />
+        <mark key="." line="42" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
@@ -105,6 +114,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/gradle.properties" timestamp="1554561268656">
+        <mark key="[" line="2" column="13" />
       </file>
       <file name="/25pp_android.android_settings [admin-dev]" timestamp="1553757488417">
         <mark key="[" line="0" column="0" />
@@ -247,7 +259,7 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554044562657">
+      <file name="/Dummy.txt" timestamp="1554562188360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/pom.xml" timestamp="1553926427161">
@@ -255,6 +267,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="18" column="20" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1554560966565">
+        <mark key="[" line="27" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/schema/ModelProperty.java" timestamp="1553943743844">
         <mark key="[" line="110" column="26" />
@@ -342,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="31" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" />
       <jump line="160" column="39" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" />
       <jump line="25" column="24" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/impl/apache/ApacheHttp.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/Http.java" />
@@ -442,6 +456,7 @@
       <jump line="175" column="67" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.8.0/javaparser-core-3.8.0-sources.jar!/com/github/javaparser/ast/body/CallableDeclaration.java" />
       <jump line="97" column="54" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/options/provider/CardResourceTypeOptionDataProvider.java" />
       <jump line="171" column="16" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2-sources.jar!/springfox/documentation/schema/property/OptimizedModelPropertiesProvider.java" />
+      <jump line="63" column="37" filename="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -493,7 +508,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleLineBreakpoint</text>
+        <text>set keep-english-in-normal</text>
       </register>
     </registers>
     <search>
@@ -529,8 +544,6 @@
         <entry>jmx</entry>
       </history-search>
       <history-cmd>
-        <entry>nohls</entry>
-        <entry encoding="base64">bm1hcCA8RXNjPiBpPEVzYz4=</entry>
         <entry>map</entry>
         <entry encoding="base64">bm1hcCA8RXNjPiA8RXNjPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgPEVzYz4gYTxFc2M+PEVzYz4=</entry>
@@ -549,6 +562,8 @@
         <entry>set number</entry>
         <entry>set nonumber</entry>
         <entry>action ToggleLineBreakpoint</entry>
+        <entry>set kdjsfld</entry>
+        <entry>set keep-english-in-normal</entry>
       </history-cmd>
       <history-expr />
       <history-input />
