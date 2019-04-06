@@ -15,6 +15,7 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1554540508455" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/resources/application.properties" timestamp="1553939949369">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -41,6 +42,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="^" line="25" column="58" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/win/WinInputSourceSwitcher.kt" timestamp="1554542007542">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553759293322">
         <mark key="[" line="19" column="21" />
@@ -72,11 +79,6 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/sample/pom.xml" timestamp="1553928817810">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/ModelPropertyProviderInterceptor.kt" timestamp="1554026596960">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="37" />
@@ -85,6 +87,12 @@
       </file>
       <file name="/fragment.kt" timestamp="1553942674955">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1554541751061">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
@@ -137,11 +145,6 @@
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1553754365058">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/pom.xml" timestamp="1553930659944">
         <mark key="[" line="53" column="27" />
         <mark key="]" line="53" column="26" />
@@ -189,11 +192,6 @@
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/pom.xml" timestamp="1553925478161">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
@@ -465,31 +463,31 @@
         <text encoding="base64">ICAgIHJldHVybiBTd2FnZ2VyUGx1Z2luU3VwcG9ydC5wbHVnaW5Eb2VzQXBwbHkoZGVsaW1pdGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOjEuMy4xMSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkIHByaXZhdGUgdmFsIGN0eDogQXBwbGljYXRpb25Db250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZ1bmMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgLy9JREVBLTIwMTguM+S7peWQjuaWueazleWQjQogICAgICAgICAgICAgICAgZnVuYyA9IG1ldGhvZHMuZmluZCB7IGYgLT4gZi5uYW1lID09ICJhZGRGb2N1c0NoYW5nZUxpc3RlbmVyIiB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGljRG9jID0gZG9jU3RvcmUuZmluZCh0eXBlTmFtZSkKICAgICAgICB2YWwgcGFyYW1ldGVyRGVzY3JpcHRpb24gPSBzdGF0aWNEb2M/Lm1ldGhvZHM/LmdldChtZXRob2ROYW1lKT8ucGFyYW1ldGVycz8uZ2V0KHBhcmFtZXRlck5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOjEuMy4xMSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NTdG9yZS5yZWFkRGVzY3JpcHRpb24odHlwZU5hbWUsKQo=</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkIHByaXZhdGUgdmFsIGN0eDogQXBwbGljYXRpb25Db250ZXh0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGljRG9jID0gZG9jU3RvcmUuZmluZCh0eXBlTmFtZSkKICAgICAgICB2YWwgcGFyYW1ldGVyRGVzY3JpcHRpb24gPSBzdGF0aWNEb2M/Lm1ldGhvZHM/LmdldChtZXRob2ROYW1lKT8ucGFyYW1ldGVycz8uZ2V0KHBhcmFtZXRlck5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NTdG9yZS5yZWFkRGVzY3JpcHRpb24odHlwZU5hbWUsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
