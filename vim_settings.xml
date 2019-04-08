@@ -21,12 +21,12 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentReplyDao.java" timestamp="1554717235403">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentReplyDao.java" timestamp="1554720723821">
         <mark key="'" line="35" column="3" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="58" column="47" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1554715430182">
         <mark key="[" line="0" column="0" />
@@ -74,6 +74,12 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/SubjectCommentDao.java" timestamp="1554720981339">
+        <mark key="[" line="56" column="63" />
+        <mark key="]" line="56" column="62" />
+        <mark key="^" line="56" column="62" />
+        <mark key="." line="56" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/enums/CommentCalculationTypeEnum.java" timestamp="1554298159177">
         <mark key="[" line="8" column="38" />
@@ -123,7 +129,7 @@
         <mark key="^" line="594" column="0" />
         <mark key="." line="594" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/impl/CardConfigFieldValueCheckBizImpl.java" timestamp="1554718598433">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/biz/impl/CardConfigFieldValueCheckBizImpl.java" timestamp="1554719447771">
         <mark key="[" line="122" column="50" />
         <mark key="]" line="122" column="49" />
         <mark key="^" line="122" column="49" />
@@ -381,11 +387,11 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1554717117603">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="32" column="39" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="32" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1554720151278">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="33" column="39" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/dao/UserActionLogMapper.java" timestamp="1553845038927">
         <mark key="[" line="18" column="15" />
@@ -617,12 +623,12 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentAuditService.java" timestamp="1554717255554">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentAuditService.java" timestamp="1554720749008">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="103" column="65" />
-        <mark key="]" line="103" column="64" />
-        <mark key="^" line="103" column="64" />
-        <mark key="." line="103" column="64" />
+        <mark key="[" line="102" column="88" />
+        <mark key="]" line="102" column="118" />
+        <mark key="^" line="102" column="118" />
+        <mark key="." line="102" column="118" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1554288047568">
         <mark key="[" line="25" column="37" />
@@ -938,6 +944,12 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" timestamp="1554720868025">
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="23" />
+        <mark key="^" line="73" column="23" />
+        <mark key="." line="73" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditor.java" timestamp="1554716089464">
         <mark key="[" line="42" column="87" />
         <mark key="]" line="42" column="86" />
@@ -1094,8 +1106,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentReplyService.java" timestamp="1554299922557">
-        <mark key="[" line="49" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentReplyService.java" timestamp="1554720590030">
+        <mark key="[" line="41" column="16" />
         <mark key="]" line="49" column="32" />
         <mark key="." line="49" column="32" />
         <mark key="^" line="49" column="32" />
@@ -1290,7 +1302,7 @@
         <text>jmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENvbW1lbnQgdXBkYXRlQ29tbWVudCA9IG5ldyBDb21tZW50KCk7CiAgICB1cGRhdGVDb21tZW50LnNldENvbW1lbnRJZChjb21tZW50SWQpOwogICAgdXBkYXRlQ29tbWVudC5zZXRBdWRpdFN0YXR1cyhyZXN1bHQuZ2V0U3RhdHVzKCkpOwogICAgdXBkYXRlQ29tbWVudC5zZXRBdWRpdEluZm8odG9Kc29uKHJlc3VsdC5nZXRSZXNwQ29udGVudCgpKSk7CiAgICBjb21tZW50RGFvLnVwZGF0ZUJ5SWQodXBkYXRlQ29tbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIExhbWJkYVVwZGF0ZVdyYXBwZXI8U3ViamVjdENvbW1lbnQ+IHVwZGF0ZVdyYXBwZXIgPSBXcmFwcGVycy5sYW1iZGFVcGRhdGUoKTsKICAgIHN1YmplY3RDb21tZW50RGFvLnVwZGF0ZSgKICAgICAgICBudWxsLAogICAgICAgIHVwZGF0ZVdyYXBwZXIKICAgICAgICAgICAgLmVxKFN1YmplY3RDb21tZW50OjpnZXRDb21tZW50SWQsIGNvbW1lbnQuZ2V0Q29tbWVudElkKCkpCiAgICAgICAgICAgIC5zZXQoU3ViamVjdENvbW1lbnQ6OmdldERpc3BsYXlTdGF0ZSwgcmVzdWx0LmdldFN0YXR1cygpLmRpc3BsYXlTdGF0ZSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
