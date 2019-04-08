@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/enums/CommentSourceType.java" timestamp="1554299418892">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1554694589143">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1554695453582">
         <mark key="[" line="48" column="47" />
         <mark key="]" line="48" column="46" />
         <mark key="^" line="48" column="46" />
@@ -1077,11 +1077,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" timestamp="1554691862878">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="11" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="42" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" timestamp="1554695429445">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="10" />
+        <mark key="^" line="44" column="10" />
+        <mark key="." line="44" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -1206,34 +1206,34 @@
         <text encoding="base64">ICBATm90QmxhbmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gY29tbWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQXVkaXRSZXN1bHQoQm9vbGVhbiBwYXNzZWQpIHsKICAgIHRoaXMucGFzc2VkID0gcGFzc2VkOwogIH0K</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgQXVkaXRSZXN1bHQoQm9vbGVhbiBwYXNzZWQpIHsKICAgIHRoaXMucGFzc2VkID0gcGFzc2VkOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zZXRQYXNzZWQoY3NpU3luY1Jlc3VsdC5nZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIDxSPiDlrqHmoLjnu5PmnpznmoTnsbvlnosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FsbGVyID0gY2FsbGVyOwogICAgdGhpcy5zZWNyZXQgPSBzZWNyZXQ7CiAgICB0aGlzLm1vZHVsZUlkID0gbW9kdWxlSWQ7CiAgICB0aGlzLmNhbGxiYWNrVXJsID0gY2FsbGJhY2tVcmw7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zZXRQYXNzZWQoY3NpU3luY1Jlc3VsdC5nZXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
