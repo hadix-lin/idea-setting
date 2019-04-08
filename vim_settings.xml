@@ -325,13 +325,6 @@
         <mark key="." line="19" column="6" />
         <mark key="^" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcResp.java" timestamp="1554371761975">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="1" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1554294966473">
         <mark key="[" line="73" column="25" />
         <mark key="]" line="78" column="24" />
@@ -345,13 +338,6 @@
         <mark key="." line="40" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/message/service/UserMessageService.java" timestamp="1554687242894" />
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcReviewer.java" timestamp="1554372377882">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/dao/UserActionLogMapper.java" timestamp="1553845038927">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="19" column="7" />
@@ -434,11 +420,11 @@
         <mark key="^" line="244" column="34" />
         <mark key="." line="244" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditResult.java" timestamp="1554689495502">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="69" />
-        <mark key="^" line="11" column="69" />
-        <mark key="." line="11" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditResult.java" timestamp="1554691438106">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554176223031">
         <mark key="[" line="50" column="7" />
@@ -564,11 +550,11 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/constant/UcAuditConf.java" timestamp="1554689648496" />
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentAuditService.java" timestamp="1554689930309">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentAuditService.java" timestamp="1554692134969">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/external/provider/UcAuditServiceProvider.java" timestamp="1554362546043" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1554288047568">
@@ -702,6 +688,12 @@
         <mark key="]" line="129" column="45" />
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/CommentUpdate.java" timestamp="1554691235550">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1554295441908">
         <mark key="[" line="120" column="41" />
@@ -863,6 +855,12 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" timestamp="1554691209976">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditor.java" timestamp="1554689133457">
         <mark key="[" line="31" column="56" />
         <mark key="]" line="31" column="55" />
@@ -995,7 +993,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentAuditor.java" timestamp="1554690087690" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentAuditor.java" timestamp="1554691334615">
+        <mark key="[" line="408" column="17" />
+        <mark key="]" line="408" column="16" />
+        <mark key="^" line="408" column="16" />
+        <mark key="." line="408" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
         <mark key="]" line="183" column="26" />
@@ -1067,6 +1070,12 @@
         <mark key="]" line="4" column="35" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" timestamp="1554691862878">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="42" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -1182,7 +1191,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>String caller, String secret, String moduleId, String callbackUrl</text>
+        <text>= PPCacheManager.getInstance();</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -1191,34 +1200,34 @@
         <text encoding="base64">ICBATm90QmxhbmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQXVkaXRSZXN1bHQoQm9vbGVhbiBwYXNzZWQpIHsKICAgIHRoaXMucGFzc2VkID0gcGFzc2VkOwogIH0K</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgQXVkaXRSZXN1bHQoQm9vbGVhbiBwYXNzZWQpIHsKICAgIHRoaXMucGFzc2VkID0gcGFzc2VkOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5zZXRQYXNzZWQoY3NpU3luY1Jlc3VsdC5nZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtIDxSPiDlrqHmoLjnu5PmnpznmoTnsbvlnosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2FsbGVyID0gY2FsbGVyOwogICAgdGhpcy5zZWNyZXQgPSBzZWNyZXQ7CiAgICB0aGlzLm1vZHVsZUlkID0gbW9kdWxlSWQ7CiAgICB0aGlzLmNhbGxiYWNrVXJsID0gY2FsbGJhY2tVcmw7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5zZXRQYXNzZWQoY3NpU3luY1Jlc3VsdC5nZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBjYWxsZXI7CiAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgc2VjcmV0OwogIHByaXZhdGUgZmluYWwgU3RyaW5nIG1vZHVsZUlkOwogIHByaXZhdGUgZmluYWwgU3RyaW5nIGNhbGxiYWNrVXJsOwoK</text>
+        <text encoding="base64">ICogQHBhcmFtIDxSPiDlrqHmoLjnu5PmnpznmoTnsbvlnosK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgY2FsbGVyOwogIHByaXZhdGUgZmluYWwgU3RyaW5nIHNlY3JldDsKICBwcml2YXRlIGZpbmFsIFN0cmluZyBtb2R1bGVJZDsKICBwcml2YXRlIGZpbmFsIFN0cmluZyBjYWxsYmFja1VybDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FsbGVyID0gY2FsbGVyOwogICAgdGhpcy5zZWNyZXQgPSBzZWNyZXQ7CiAgICB0aGlzLm1vZHVsZUlkID0gbW9kdWxlSWQ7CiAgICB0aGlzLmNhbGxiYWNrVXJsID0gY2FsbGJhY2tVcmw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
