@@ -44,7 +44,6 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/service/UcContentAuditService.java" timestamp="1554689887338" />
       <file name="$USER_HOME$/Documents/Projects/pp-task/conf/define.conf" timestamp="1554102562357">
         <mark key="[" line="872" column="28" />
         <mark key="]" line="872" column="27" />
@@ -90,8 +89,6 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_42.json5" timestamp="1554358326656" />
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/resources/cache/cache-config.xml" timestamp="1554726081633" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1554357677146">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="39" />
@@ -113,7 +110,6 @@
         <mark key="^" line="44" column="43" />
         <mark key="." line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/pom.xml" timestamp="1554725466874" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="71" />
@@ -387,7 +383,6 @@
         <mark key="." line="56" column="45" />
         <mark key="^" line="56" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/message/service/UserMessageService.java" timestamp="1554687242894" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcReviewer.java" timestamp="1554372377882">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="20" column="35" />
@@ -470,7 +465,6 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/controllers/callback/UCAuditCallbackController.java" timestamp="1554687049964" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553831807015">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="20" column="22" />
@@ -550,12 +544,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554772673141">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="153" column="52" />
-        <mark key="]" line="153" column="50" />
-        <mark key="." line="153" column="50" />
-        <mark key="^" line="153" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554782191864">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="152" column="33" />
+        <mark key="]" line="152" column="32" />
+        <mark key="." line="152" column="32" />
+        <mark key="^" line="152" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/repository-client-1.0.5.jar!/cn/uc/pp/repository/video/dto/VideoInfo.class" timestamp="1554277968041">
         <mark key="[" line="201" column="20" />
@@ -650,7 +644,6 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/constant/UcAuditConf.java" timestamp="1554689648496" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentAuditService.java" timestamp="1554727769410">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="94" column="19" />
@@ -658,8 +651,13 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/external/provider/UcAuditServiceProvider.java" timestamp="1554362546043" />
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/AuthInterceptor.java" timestamp="1554726360391" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.8.RELEASE/spring-boot-test-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/jdbc/TestDatabaseAutoConfiguration.java" timestamp="1554781549920">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="122" column="17" />
+        <mark key="]" line="122" column="16" />
+        <mark key="^" line="122" column="16" />
+        <mark key="." line="122" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1554288047568">
         <mark key="[" line="25" column="37" />
         <mark key="]" line="25" column="37" />
@@ -672,7 +670,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/api/CommentApiV3.java" timestamp="1554709500789" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/TopicDefineSet.java" timestamp="1553841231542">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -822,7 +819,6 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/abtest/AbTestName.java" timestamp="1554709762584" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/pp-service-common-ppcache-1.0.9.1-SNAPSHOT.jar!/cn/uc/pp/common/ppcache/PPCacheManager.class" timestamp="1554119142707">
         <mark key="[" line="167" column="35" />
         <mark key="]" line="167" column="34" />
@@ -877,7 +873,6 @@
         <mark key="^" line="245" column="25" />
         <mark key="." line="245" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/constant/CacheName.java" timestamp="1554369820435" />
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/ddl/Comment.java" timestamp="1554705592717">
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="12" />
@@ -975,6 +970,12 @@
         <mark key="]" line="101" column="78" />
         <mark key="." line="101" column="78" />
         <mark key="^" line="101" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/hsf/HsfRequestHandlerProvider.java" timestamp="1554782011949">
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/SubjectComment.java" timestamp="1554298066111">
         <mark key="[" line="35" column="17" />
@@ -1084,7 +1085,6 @@
         <mark key="^" line="211" column="29" />
         <mark key="." line="211" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rec/utils/ParseSidAndSceneidUtil.java" timestamp="1554709800229" />
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocTypeParseContext.java" timestamp="1543310760071">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="34" />
@@ -1126,12 +1126,6 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentAuditor.java" timestamp="1554775802852">
-        <mark key="[" line="116" column="20" />
-        <mark key="]" line="116" column="19" />
-        <mark key="^" line="116" column="19" />
-        <mark key="." line="116" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
@@ -1223,8 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
-      <jump line="62" column="23" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
       <jump line="163" column="21" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="33" column="43" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
@@ -1323,6 +1315,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" />
       <jump line="79" column="2" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentFilter.java" />
       <jump line="42" column="9" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentFilter.java" />
+      <jump line="122" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.8.RELEASE/spring-boot-test-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/jdbc/TestDatabaseAutoConfiguration.java" />
+      <jump line="205" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.8.RELEASE/spring-boot-test-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/jdbc/TestDatabaseAutoConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
