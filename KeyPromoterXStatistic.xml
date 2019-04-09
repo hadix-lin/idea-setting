@@ -140,7 +140,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1336</Count>
+          <Count>1353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -431,7 +431,7 @@
         <Item>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Remove</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Filter">
@@ -917,6 +917,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Throwaway'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'admin-test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'admin-test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
