@@ -242,6 +242,12 @@
         <mark key="." line="102" column="114" />
         <mark key="^" line="102" column="114" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-tool/src/main/java/cn/uc/pp/common/tool/Jackson.java" timestamp="1554788529979">
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="141" column="31" />
+        <mark key="^" line="141" column="31" />
+        <mark key="." line="141" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/service/CardResourceSchedulePoolService.java" timestamp="1554102616887">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="26" />
@@ -396,6 +402,12 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-tool/pom.xml" timestamp="1554788875040">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/dao/UserActionLogMapper.java" timestamp="1553845038927">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="19" column="7" />
@@ -544,12 +556,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554782191864">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="152" column="33" />
-        <mark key="]" line="152" column="32" />
-        <mark key="." line="152" column="32" />
-        <mark key="^" line="152" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554788268456">
+        <mark key="'" line="147" column="1" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/repository-client-1.0.5.jar!/cn/uc/pp/repository/video/dto/VideoInfo.class" timestamp="1554277968041">
         <mark key="[" line="201" column="20" />
@@ -776,6 +788,11 @@
         <mark key="]" line="29" column="38" />
         <mark key="^" line="29" column="38" />
         <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditProperties.java" timestamp="1554788193607">
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/src/main/java/hadix/javadoc/JavaInterface.java" timestamp="1553778503038">
         <mark key="[" line="12" column="0" />
@@ -1217,8 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
-      <jump line="163" column="21" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="33" column="43" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="195" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
@@ -1317,6 +1332,8 @@
       <jump line="42" column="9" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentFilter.java" />
       <jump line="122" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.8.RELEASE/spring-boot-test-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/jdbc/TestDatabaseAutoConfiguration.java" />
       <jump line="205" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.8.RELEASE/spring-boot-test-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/test/autoconfigure/jdbc/TestDatabaseAutoConfiguration.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" />
+      <jump line="147" column="1" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1338,34 +1355,34 @@
         <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgUmVwb3NpdG9yeVByb3ZpZGVyIHJlcG9zaXRvcnlQcm92aWRlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgUmVwb3NpdG9yeVByb3ZpZGVyIHJlcG9zaXRvcnlQcm92aWRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gbmVlZFNraXAoQ2FyZENvbnRlbnRSZXNvdXJjZURhdGEgZGF0YSwgT2JqZWN0IGV4LCBSZXF1ZXN0Q2xpZW50IGNsaWVudCkgewogICAgQ2FyZENvbnRlbnRSZXNvdXJjZURhdGEuU2hvd1N0cmF0ZWd5IHNob3dTdHJhdGVneSA9IGRhdGEuZ2V0U2hvd1N0cmF0ZWd5KCk7CiAgICBpZiAoc2hvd1N0cmF0ZWd5ID09IG51bGwgfHwgc2hvd1N0cmF0ZWd5LmlzRW1wdHkoKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBpZiAoIShleCBpbnN0YW5jZW9mIENvbnRlbnRFeFBhcmFtKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBib29sZWFuIHN1cHBvcnRIdHRwcyA9IFVybFV0aWxzLmlzU3VwcG9ydEh0dHBzKGNsaWVudCk7CiAgICBDb250ZW50RXhQYXJhbSBwID0gKENvbnRlbnRFeFBhcmFtKSBleDsKICAgIEludGVnZXIgY29udGVudFR5cGUgPSBwLmdldENvbnRlbnRUeXBlKCk7CiAgICBpZiAoY29udGVudFR5cGUgPT0gQ29udGVudEV4UGFyYW0uQ09OVEVOVF9BUlRJQ0xFKSB7CiAgICAgIFN0cmluZyBhcnRpY2xlSWQgPSBwLmdldENvbnRlbnRJZCgpOwogICAgICByZXR1cm4gbmVlZFNraXBBcnRpY2xlKHNob3dTdHJhdGVneSwgc3VwcG9ydEh0dHBzLCBhcnRpY2xlSWQpOwogICAgfSBlbHNlIGlmIChjb250ZW50VHlwZSA9PSBDb250ZW50RXhQYXJhbS5DT05URU5UX1ZJREVPKSB7CiAgICAgIHJldHVybiBuZWVkU2tpcFZpZGVvKHNob3dTdHJhdGVneSwgc3VwcG9ydEh0dHBzLCBMb25nLnBhcnNlTG9uZyhwLmdldENvbnRlbnRJZCgpKSk7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBuZWVkU2tpcFZpZGVvKAogICAgICBDYXJkQ29udGVudFJlc291cmNlRGF0YS5TaG93U3RyYXRlZ3kgc2hvd1N0cmF0ZWd5LCBib29sZWFuIHN1cHBvcnRIdHRwcywgTG9uZyB2aWRlb0lkKSB7CiAgICBTZXQ8SW50ZWdlcj4gYXBwSWRzID0gc2hvd1N0cmF0ZWd5LmdldEFwcElkcygpOwogICAgU2V0PExvbmc+IHZpZGVvSWRzID0gc2hvd1N0cmF0ZWd5LmdldFZpZGVvSWRzKCk7CiAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYXBwSWRzKSAmJiBDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSh2aWRlb0lkcykpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHZpZGVvSWRzKSkgewogICAgICBpZiAodmlkZW9JZHMuY29udGFpbnModmlkZW9JZCkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0KICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShhcHBJZHMpKSB7CiAgICAgIFZpZGVvSW5mbyB2aWRlbyA9IHJlcG9zaXRvcnlQcm92aWRlci5nZXRWaWRlb0J5SWQodmlkZW9JZC5pbnRWYWx1ZSgpLCBmYWxzZSwgc3VwcG9ydEh0dHBzKTsKICAgICAgaWYgKHZpZGVvID09IG51bGwpIHsKICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCLmib7kuI3liLDop4bpopEsdmlkZW9JZD0iICsgdmlkZW9JZCk7CiAgICAgIH0KICAgICAgTGlzdDxJbnRlZ2VyPiByZWxBcHBJZHMgPSB2aWRlby5nZXRSZWxhdGVkQXBwSWRzKCk7CiAgICAgIHJldHVybiByZWxBcHBJZHMuc3RyZWFtKCkubm9uZU1hdGNoKGFwcElkczo6Y29udGFpbnMpOwogICAgfQogICAgcmV0dXJuIHRydWU7CiAgfQoKICBwcml2YXRlIGJvb2xlYW4gbmVlZFNraXBBcnRpY2xlKAogICAgICBDYXJkQ29udGVudFJlc291cmNlRGF0YS5TaG93U3RyYXRlZ3kgc2hvd1N0cmF0ZWd5LCBib29sZWFuIHN1cHBvcnRIdHRwcywgU3RyaW5nIGFydGljbGVJZCkgewogICAgU2V0PEludGVnZXI+IGFwcElkcyA9IHNob3dTdHJhdGVneS5nZXRBcHBJZHMoKTsKICAgIFNldDxTdHJpbmc+IGFydGljbGVJZHMgPSBzaG93U3RyYXRlZ3kuZ2V0QXJ0aWNsZUlkcygpOwogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcElkcykgJiYgQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYXJ0aWNsZUlkcykpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGFydGljbGVJZHMpKSB7CiAgICAgIGlmIChhcnRpY2xlSWRzLmNvbnRhaW5zKGFydGljbGVJZCkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0KICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShhcHBJZHMpKSB7CiAgICAgIEFydGljbGVJbmZvIGFydGljbGUgPQogICAgICAgICAgcmVwb3NpdG9yeVByb3ZpZGVyLmdldEFydGljbGVCeUlkZW50aXR5KGFydGljbGVJZCwgZmFsc2UsIGZhbHNlLCBzdXBwb3J0SHR0cHMpOwogICAgICBpZiAoYXJ0aWNsZSA9PSBudWxsKSB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KICAgICAgTGlzdDxJbnRlZ2VyPiByZWxBcHBJZHMgPSBhcnRpY2xlLmdldFJlbGF0ZWRBcHBJZHMoKTsKICAgICAgcmV0dXJuIHJlbEFwcElkcy5zdHJlYW0oKS5ub25lTWF0Y2goYXBwSWRzOjpjb250YWlucyk7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShhcHBJZHMpKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNob3dTdHJhdGVneS4K</text>
+        <text encoding="base64">ICBwdWJsaWMgQ3NpQXVkaXRvcihTdHJpbmcgYXV0aElkKSB7CiAgICB0aGlzLmF1dGhJZCA9IGF1dGhJZDsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAvLyB0b2RvIOWuieWFqOeggemFjee9rgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFZpZGVvSW5mbyB2aWRlbyA9IHJlcG9zaXRvcnlQcm92aWRlci5nZXRWaWRlb0J5SWQodmlkZW9JZC5pbnRWYWx1ZSgpLCBmYWxzZSwgc3VwcG9ydEh0dHBzKTsKICAgIGlmICh2aWRlbyA9PSBudWxsKSB7CiAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgTGlzdDxJbnRlZ2VyPiByZWxBcHBJZHMgPSB2aWRlby5nZXRSZWxhdGVkQXBwSWRzKCk7CiAgICByZXR1cm4gcmVsQXBwSWRzLnN0cmVhbSgpLm5vbmVNYXRjaChhcHBJZCAtPiBhcHBJZHMuY29udGFpbnMoYXBwSWQpKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBhdXRoSWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGFwcElkcykpewo=</text>
+        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgUmVwb3NpdG9yeVByb3ZpZGVyIHJlcG9zaXRvcnlQcm92aWRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gbmVlZFNraXAoQ2FyZENvbnRlbnRSZXNvdXJjZURhdGEgZGF0YSwgT2JqZWN0IGV4LCBSZXF1ZXN0Q2xpZW50IGNsaWVudCkgewogICAgQ2FyZENvbnRlbnRSZXNvdXJjZURhdGEuU2hvd1N0cmF0ZWd5IHNob3dTdHJhdGVneSA9IGRhdGEuZ2V0U2hvd1N0cmF0ZWd5KCk7CiAgICBpZiAoc2hvd1N0cmF0ZWd5ID09IG51bGwgfHwgc2hvd1N0cmF0ZWd5LmlzRW1wdHkoKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBpZiAoIShleCBpbnN0YW5jZW9mIENvbnRlbnRFeFBhcmFtKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBib29sZWFuIHN1cHBvcnRIdHRwcyA9IFVybFV0aWxzLmlzU3VwcG9ydEh0dHBzKGNsaWVudCk7CiAgICBDb250ZW50RXhQYXJhbSBwID0gKENvbnRlbnRFeFBhcmFtKSBleDsKICAgIEludGVnZXIgY29udGVudFR5cGUgPSBwLmdldENvbnRlbnRUeXBlKCk7CiAgICBpZiAoY29udGVudFR5cGUgPT0gQ29udGVudEV4UGFyYW0uQ09OVEVOVF9BUlRJQ0xFKSB7CiAgICAgIFN0cmluZyBhcnRpY2xlSWQgPSBwLmdldENvbnRlbnRJZCgpOwogICAgICByZXR1cm4gbmVlZFNraXBBcnRpY2xlKHNob3dTdHJhdGVneSwgc3VwcG9ydEh0dHBzLCBhcnRpY2xlSWQpOwogICAgfSBlbHNlIGlmIChjb250ZW50VHlwZSA9PSBDb250ZW50RXhQYXJhbS5DT05URU5UX1ZJREVPKSB7CiAgICAgIHJldHVybiBuZWVkU2tpcFZpZGVvKHNob3dTdHJhdGVneSwgc3VwcG9ydEh0dHBzLCBMb25nLnBhcnNlTG9uZyhwLmdldENvbnRlbnRJZCgpKSk7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBuZWVkU2tpcFZpZGVvKAogICAgICBDYXJkQ29udGVudFJlc291cmNlRGF0YS5TaG93U3RyYXRlZ3kgc2hvd1N0cmF0ZWd5LCBib29sZWFuIHN1cHBvcnRIdHRwcywgTG9uZyB2aWRlb0lkKSB7CiAgICBTZXQ8SW50ZWdlcj4gYXBwSWRzID0gc2hvd1N0cmF0ZWd5LmdldEFwcElkcygpOwogICAgU2V0PExvbmc+IHZpZGVvSWRzID0gc2hvd1N0cmF0ZWd5LmdldFZpZGVvSWRzKCk7CiAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYXBwSWRzKSAmJiBDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSh2aWRlb0lkcykpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHZpZGVvSWRzKSkgewogICAgICBpZiAodmlkZW9JZHMuY29udGFpbnModmlkZW9JZCkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0KICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShhcHBJZHMpKSB7CiAgICAgIFZpZGVvSW5mbyB2aWRlbyA9IHJlcG9zaXRvcnlQcm92aWRlci5nZXRWaWRlb0J5SWQodmlkZW9JZC5pbnRWYWx1ZSgpLCBmYWxzZSwgc3VwcG9ydEh0dHBzKTsKICAgICAgaWYgKHZpZGVvID09IG51bGwpIHsKICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCLmib7kuI3liLDop4bpopEsdmlkZW9JZD0iICsgdmlkZW9JZCk7CiAgICAgIH0KICAgICAgTGlzdDxJbnRlZ2VyPiByZWxBcHBJZHMgPSB2aWRlby5nZXRSZWxhdGVkQXBwSWRzKCk7CiAgICAgIHJldHVybiByZWxBcHBJZHMuc3RyZWFtKCkubm9uZU1hdGNoKGFwcElkczo6Y29udGFpbnMpOwogICAgfQogICAgcmV0dXJuIHRydWU7CiAgfQoKICBwcml2YXRlIGJvb2xlYW4gbmVlZFNraXBBcnRpY2xlKAogICAgICBDYXJkQ29udGVudFJlc291cmNlRGF0YS5TaG93U3RyYXRlZ3kgc2hvd1N0cmF0ZWd5LCBib29sZWFuIHN1cHBvcnRIdHRwcywgU3RyaW5nIGFydGljbGVJZCkgewogICAgU2V0PEludGVnZXI+IGFwcElkcyA9IHNob3dTdHJhdGVneS5nZXRBcHBJZHMoKTsKICAgIFNldDxTdHJpbmc+IGFydGljbGVJZHMgPSBzaG93U3RyYXRlZ3kuZ2V0QXJ0aWNsZUlkcygpOwogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGFwcElkcykgJiYgQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYXJ0aWNsZUlkcykpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQogICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KGFydGljbGVJZHMpKSB7CiAgICAgIGlmIChhcnRpY2xlSWRzLmNvbnRhaW5zKGFydGljbGVJZCkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0KICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShhcHBJZHMpKSB7CiAgICAgIEFydGljbGVJbmZvIGFydGljbGUgPQogICAgICAgICAgcmVwb3NpdG9yeVByb3ZpZGVyLmdldEFydGljbGVCeUlkZW50aXR5KGFydGljbGVJZCwgZmFsc2UsIGZhbHNlLCBzdXBwb3J0SHR0cHMpOwogICAgICBpZiAoYXJ0aWNsZSA9PSBudWxsKSB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KICAgICAgTGlzdDxJbnRlZ2VyPiByZWxBcHBJZHMgPSBhcnRpY2xlLmdldFJlbGF0ZWRBcHBJZHMoKTsKICAgICAgcmV0dXJuIHJlbEFwcElkcy5zdHJlYW0oKS5ub25lTWF0Y2goYXBwSWRzOjpjb250YWlucyk7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHNob3dTdHJhdGVneS5nZXRBcHBJZHMoKSkpIHsK</text>
+        <text encoding="base64">ICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShhcHBJZHMpKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
