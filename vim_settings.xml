@@ -549,12 +549,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554729381482">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="120" column="30" />
-        <mark key="." line="120" column="30" />
-        <mark key="^" line="120" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1554772319374">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="143" column="31" />
+        <mark key="." line="143" column="31" />
+        <mark key="^" line="143" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/repository-client-1.0.5.jar!/cn/uc/pp/repository/video/dto/VideoInfo.class" timestamp="1554277968041">
         <mark key="[" line="201" column="20" />
@@ -1126,11 +1126,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentAuditor.java" timestamp="1554728218117">
-        <mark key="[" line="93" column="27" />
-        <mark key="]" line="93" column="26" />
-        <mark key="^" line="93" column="26" />
-        <mark key="." line="93" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentAuditor.java" timestamp="1554771937888">
+        <mark key="[" line="209" column="45" />
+        <mark key="]" line="209" column="44" />
+        <mark key="^" line="209" column="44" />
+        <mark key="." line="209" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
@@ -1343,19 +1343,19 @@
         <text encoding="base64">ICAgIENzaVRleHQgY29tbWVudENvbnRlbnQgPSBuZXcgQ3NpVGV4dChjb21tZW50LmNvbnRlbnQoKSk7CiAgICBjb21tZW50Q29udGVudC5zZXRDb250ZW50VHlwZShDb250ZW50VHlwZS5DT01NRU5UKTsKICAgIHJldHVybiBjb21tZW50Q29udGVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNzaVJlc3VsdC5nZXRTeW5jSGl0UmVhc29uKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVhc29uTWFwLmdldE9yRGVmYXVsdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgQ29tbWVudFNlcnZpY2UgY29tbWVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVhc29uTWFwLmdldE9yRGVmYXVsdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgQ29tbWVudFNlcnZpY2UgY29tbWVudFNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1364,13 +1364,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNzaU9iamVjdC5zZXRQYXJlbnRDc2lPYmplY3QoY3JlYXRlUGFyZW50KGNzaU9iamVjdCwgY29tbWVudC5wYXJlbnRJZCgpKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNzaU9iamVjdC5zZXRQYXJlbnRDc2lPYmplY3QoY3JlYXRlUGFyZW50KGNzaU9iamVjdCwgY29tbWVudC5wYXJlbnRJZCgpKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgdXBkYXRlQ29tbWVudEF1ZGl0U3RhdHVzKEF1ZGl0UmVzdWx0PD8+IHJlc3VsdCwgTG9uZyBjb21tZW50SWQpIHsKICAgIENvbW1lbnQgdXBkYXRlQ29tbWVudCA9IG5ldyBDb21tZW50KCk7CiAgICB1cGRhdGVDb21tZW50LnNldENvbW1lbnRJZChjb21tZW50SWQpOwogICAgdXBkYXRlQ29tbWVudC5zZXRBdWRpdFN0YXR1cyhyZXN1bHQuZ2V0U3RhdHVzKCkpOwogICAgdXBkYXRlQ29tbWVudC5zZXRBdWRpdEluZm8odG9Kc29uKHJlc3VsdC5nZXRSZXNwQ29udGVudCgpKSk7CiAgICBjb21tZW50RGFvLnVwZGF0ZUJ5SWQodXBkYXRlQ29tbWVudCk7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
