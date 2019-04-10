@@ -24,6 +24,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'⌘F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cancel Running Statements">
         <Item>
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
@@ -140,7 +148,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1390</Count>
+          <Count>1410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
