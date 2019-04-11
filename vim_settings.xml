@@ -42,9 +42,15 @@
       <file name="/a.dummy" timestamp="1554002025153">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocExpandedParameterBuilder.kt" timestamp="1554029026718">
-        <mark key="[" line="20" column="79" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/JacksonDocStore.java" timestamp="1554911916852">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocExpandedParameterBuilder.kt" timestamp="1554984400468">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="5" />
         <mark key="^" line="25" column="58" />
         <mark key="." line="27" column="0" />
       </file>
@@ -66,17 +72,35 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="116" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/resources/META-INF/spring.factories" timestamp="1554986048331">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DocStore.kt" timestamp="1554028893884">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocAutoConfiguration.kt" timestamp="1554915909760">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DocStore.kt" timestamp="1554911260293">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryReader.java" timestamp="1554984303532">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/parameter/SwaggerExpandedParameterBuilder.java" timestamp="1554043842331">
         <mark key="[" line="77" column="1" />
@@ -84,17 +108,23 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/ModelPropertyProviderInterceptor.kt" timestamp="1554026596960">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="37" />
-        <mark key="." line="44" column="37" />
-        <mark key="^" line="44" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/ModelPropertyProviderInterceptor.kt" timestamp="1554984567376">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="/fragment.kt" timestamp="1553942674955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1554561245589">
         <mark key="[" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryAndNotesReader.kt" timestamp="1554985818673">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1554562326800">
         <mark key="'" line="63" column="37" />
@@ -103,17 +133,23 @@
         <mark key="^" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1554915759368">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
         <mark key="]" line="5512" column="27" />
         <mark key="^" line="5512" column="27" />
         <mark key="." line="5512" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/SampleController.java" timestamp="1553926931850">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="26" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/SampleController.java" timestamp="1554983572226">
+        <mark key="[" line="25" column="66" />
+        <mark key="]" line="25" column="65" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/gradle.properties" timestamp="1554561268656">
         <mark key="[" line="2" column="13" />
@@ -139,17 +175,23 @@
         <mark key="^" line="77" column="71" />
         <mark key="." line="77" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClassDocStore.kt" timestamp="1554915208075">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1543388507192">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="75" column="23" />
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocParameterBuilder.kt" timestamp="1554028977753">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="62" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocParameterBuilder.kt" timestamp="1554984831595">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/Throwaway.java" timestamp="1543298855177">
         <mark key="[" line="38" column="14" />
@@ -181,11 +223,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionParser.kt" timestamp="1553875670993">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionParser.kt" timestamp="1554916160847">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1543219539241">
         <mark key="[" line="13" column="18" />
@@ -199,11 +241,11 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" timestamp="1554044165828">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" timestamp="1554915515856">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
@@ -211,8 +253,9 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2-sources.jar!/springfox/documentation/schema/property/OptimizedModelPropertiesProvider.java" timestamp="1553941053256">
-        <mark key="'" line="171" column="16" />
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/OperationSummaryReader.java" timestamp="1554984227556">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-parser/src/main/kotlin/hadix/javadoc/ClassDescriptionExporter.kt" timestamp="1553875230697">
         <mark key="[" line="16" column="0" />
@@ -225,6 +268,12 @@
         <mark key="]" line="42" column="13" />
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/JsonDocStore.kt" timestamp="1554914511249">
+        <mark key="[" line="10" column="62" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/Request.java" timestamp="1553928310285">
         <mark key="[" line="4" column="0" />
@@ -249,6 +298,12 @@
         <mark key="]" line="189" column="45" />
         <mark key="." line="189" column="45" />
         <mark key="^" line="189" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/JacksonDocStore.kt" timestamp="1554911961446">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1553757490049">
         <mark key="[" line="0" column="0" />
@@ -331,6 +386,9 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2-sources.jar!/springfox/documentation/spi/service/contexts/OperationContext.java" timestamp="1554984941707">
+        <mark key="'" line="159" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocParse.java" timestamp="1543314547446">
         <mark key="[" line="62" column="24" />
         <mark key="]" line="63" column="26" />
@@ -357,9 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="39" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" />
-      <jump line="25" column="24" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/impl/apache/ApacheHttp.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/http/Http.java" />
       <jump line="88" column="27" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="23" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/ArticleServiceImpl.java" />
       <jump line="28" column="25" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
@@ -457,6 +512,9 @@
       <jump line="97" column="54" filename="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/options/provider/CardResourceTypeOptionDataProvider.java" />
       <jump line="171" column="16" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2-sources.jar!/springfox/documentation/schema/property/OptimizedModelPropertiesProvider.java" />
       <jump line="63" column="37" filename="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" />
+      <jump line="48" column="31" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2-sources.jar!/springfox/documentation/spi/service/contexts/OperationContext.java" />
+      <jump line="173" column="0" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2-sources.jar!/springfox/documentation/spi/service/contexts/OperationContext.java" />
+      <jump line="159" column="18" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spi/2.9.2/springfox-spi-2.9.2-sources.jar!/springfox/documentation/spi/service/contexts/OperationContext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -469,43 +527,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>staticDoc?.fields?.get(this.name)</text>
+        <text>delimiter = *arrayOf(&quot;\n&quot;,&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTd2FnZ2VyUGx1Z2luU3VwcG9ydC5wbHVnaW5Eb2VzQXBwbHkoZGVsaW1pdGVyKTsK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzdXBwb3J0cyhkZWxpbWl0ZXI6IERvY3VtZW50YXRpb25UeXBlPyk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBTd2FnZ2VyUGx1Z2luU3VwcG9ydC5wbHVnaW5Eb2VzQXBwbHkoZGVsaW1pdGVyKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlvcGVyYXRpb25CdWlsZGVyLnN1bW1hcnkoc3VtbWFyeSkubm90ZXMobm90ZXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZ1bmMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgLy9JREVBLTIwMTguM+S7peWQjuaWueazleWQjQogICAgICAgICAgICAgICAgZnVuYyA9IG1ldGhvZHMuZmluZCB7IGYgLT4gZi5uYW1lID09ICJhZGRGb2N1c0NoYW5nZUxpc3RlbmVyIiB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQljb250ZXh0LlRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOjEuMy4xMSIK</text>
+        <text encoding="base64">CQl2YWwgcGFyYW1ldGVyTmFtZSA9IHJlc29sdmVkTWV0aG9kUGFyYW1ldGVyLmRlZmF1bHROYW1lKCkub3IocmVzb2x2ZWRNZXRob2RQYXJhbWV0ZXIucGFyYW1ldGVySW5kZXgudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkIHByaXZhdGUgdmFsIGN0eDogQXBwbGljYXRpb25Db250ZXh0Cg==</text>
+        <text encoding="base64">CQl2YWwgcmVzb2x2ZWRNZXRob2RQYXJhbWV0ZXIgPSBwYXJhbWV0ZXJDb250ZXh0LnJlc29sdmVkTWV0aG9kUGFyYW1ldGVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGljRG9jID0gZG9jU3RvcmUuZmluZCh0eXBlTmFtZSkKICAgICAgICB2YWwgcGFyYW1ldGVyRGVzY3JpcHRpb24gPSBzdGF0aWNEb2M/Lm1ldGhvZHM/LmdldChtZXRob2ROYW1lKT8ucGFyYW1ldGVycz8uZ2V0KHBhcmFtZXRlck5hbWUpCg==</text>
+        <text encoding="base64">CQl2YWwgcGFyYW1ldGVyTmFtZSA9IHJlc29sdmVkTWV0aG9kUGFyYW1ldGVyLmRlZmF1bHROYW1lKCkub3IocmVzb2x2ZWRNZXRob2RQYXJhbWV0ZXIucGFyYW1ldGVySW5kZXgudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NTdG9yZS5yZWFkRGVzY3JpcHRpb24odHlwZU5hbWUsKQo=</text>
+        <text encoding="base64">CQl2YWwgbWV0aG9kTmFtZSA9IHJlcXVlc3RIYW5kbGVyLmhhbmRsZXJNZXRob2QubWV0aG9kLm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBzdXBwb3J0cyhkZWxpbWl0ZXI6IERvY3VtZW50YXRpb25UeXBlPyk6IEJvb2xlYW4gewoJCVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgoJfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QE9yZGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
