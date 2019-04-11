@@ -21,6 +21,9 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
+      <file name="/a.dummy" timestamp="1554953661848">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/common/dto/ClientInfo.java" timestamp="1554285304540">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="19" />
@@ -51,11 +54,11 @@
         <mark key="^" line="114" column="14" />
         <mark key="." line="114" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1554802167820">
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1554954746032">
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="109" column="28" />
+        <mark key="^" line="109" column="28" />
+        <mark key="." line="109" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentExtDto.java" timestamp="1554285808642">
         <mark key="[" line="14" column="50" />
@@ -81,11 +84,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1554951468184">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="42" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="27" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1554955034720">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.6.23/csi-common-1.6.23.pom" timestamp="1554816432216">
         <mark key="[" line="1" column="0" />
@@ -351,6 +354,11 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-config/src/main/java/cn/uc/pp/common/ppcache/parse/PPCacheConfigParser.java" timestamp="1554954532181">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/Conf.java" timestamp="1554288874528">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -473,6 +481,13 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" timestamp="1554955510021">
+        <mark key="'" line="94" column="35" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="31" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" timestamp="1543371449707">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="68" column="22" />
@@ -587,7 +602,13 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554950269176">
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-config/src/main/java/cn/uc/pp/common/ppcache/parse/TairConfigParser.java" timestamp="1554954385069">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="46" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554952443816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1554713240276">
@@ -650,7 +671,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1554949709675">
+      <file name="/fragment.java" timestamp="1554952443806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -692,6 +713,7 @@
         <mark key="^" line="76" column="6" />
         <mark key="." line="76" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.9-SNAPSHOT/common-parent-1.2.9-SNAPSHOT.pom" timestamp="1554952676474" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcAuditor.java" timestamp="1554372652942">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="33" />
@@ -776,11 +798,11 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1553839203602">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1554953544744">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/HSFApiConfig.java" timestamp="1553844313564">
         <mark key="[" line="31" column="0" />
@@ -1132,7 +1154,12 @@
         <mark key="^" line="88" column="27" />
         <mark key="." line="88" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheAutoConfiguration.java" timestamp="1554951428543" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheAutoConfiguration.java" timestamp="1554955380294">
+        <mark key="[" line="72" column="48" />
+        <mark key="]" line="72" column="62" />
+        <mark key="^" line="72" column="62" />
+        <mark key="." line="72" column="62" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.json5" timestamp="1554111226216">
         <mark key="[" line="88" column="13" />
         <mark key="]" line="88" column="12" />
@@ -1304,8 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
-      <jump line="23" column="18" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiTest.java" />
       <jump line="139" column="12" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/logback-spring.xml" />
       <jump line="25" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/src/main/java/cn/uc/pp/common/boot/Application.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/GeneralResponse.java" />
@@ -1404,6 +1429,8 @@
       <jump line="24" column="43" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentReplyDao.java" />
       <jump line="65" column="24" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
       <jump line="18" column="24" filename="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" />
+      <jump line="31" column="25" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" />
+      <jump line="101" column="35" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1416,43 +1443,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>@ApiParam(&quot;分页条数&quot;)</text>
+        <text>new FiletairConfigXml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBsaWtlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVJMIHJlc291cmNlID0gUFBDYWNoZUF1dG9Db25maWd1cmF0aW9uLmNsYXNzLmdldFJlc291cmNlKGNvbmZpZy5nZXRDYWNoZUNvbmZpZ1htbCgpKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGUgPSByZXNvdXJjZS5nZXRGaWxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioK</text>
+        <text encoding="base64">ICAgIEZpbGUgY3AgPSBuZXcgRmlsZShDYWNoZU1hbmFnZXJGYWN0b3J5LmNsYXNzLmdldFJlc291cmNlKCIvIikuZ2V0RmlsZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNvbmZpZ1htbCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoY3AsIGNvbmZpZ1htbFBhdGgpKTsKICAgICAgdGFpckNvbmZpZ1htbCA9IG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoY3AsIHRhaXJDb25maWdYbWxQYXRoKSk7CiAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlcgo=</text>
+        <text encoding="base64">ICAgIENhY2hlTWFuYWdlckZhY3RvcnkuY2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbShjb25maWdYbWxQYXRoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBnZXRSZXNvdXJjZShjb25maWcuZ2V0Q2FjaGVTZXJ2ZXJzQ29uZmlnWG1sKCkpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBsaWtlZDsK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuIGdldExpa2VkKCkgewogICAgICByZXR1cm4gbGlrZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TGlrZWQoQm9vbGVhbiBsaWtlZCkgewogICAgICB0aGlzLmxpa2VkID0gbGlrZWQ7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGkudW5pdC5ydWxlLnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGUgY29uZmlnWG1sID0gbmV3IEZpbGUoY3AsIGNvbmZpZ1htbFBhdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
