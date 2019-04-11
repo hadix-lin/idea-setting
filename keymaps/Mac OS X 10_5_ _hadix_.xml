@@ -81,6 +81,9 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="ScrollFromSource" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
