@@ -27,9 +27,6 @@
         <mark key="^" line="43" column="36" />
         <mark key="." line="43" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1554953661848">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/common/dto/ClientInfo.java" timestamp="1554285304540">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="19" />
@@ -60,19 +57,12 @@
         <mark key="^" line="70" column="29" />
         <mark key="." line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1554954746032">
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="109" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentExtDto.java" timestamp="1554285808642">
         <mark key="[" line="14" column="50" />
         <mark key="]" line="14" column="76" />
         <mark key="^" line="14" column="76" />
         <mark key="." line="14" column="76" />
       </file>
-      <file name="/application.properties" timestamp="1555036775855" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/KafkaConf.java" timestamp="1554803524363">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="30" />
@@ -97,6 +87,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryAndNotesReader.kt" timestamp="1555054263619">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/application.properties" timestamp="1555038926028">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="51" />
@@ -108,6 +104,11 @@
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/enums/CommentSubjectType.java" timestamp="1555005044896">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.6.23/csi-common-1.6.23.pom" timestamp="1554816432216">
         <mark key="[" line="1" column="0" />
@@ -176,6 +177,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/StaticDocGenerator.java" timestamp="1555054705539">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/src/main/java/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554946981921">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
@@ -199,9 +206,6 @@
         <mark key="]" line="40" column="58" />
         <mark key="^" line="40" column="58" />
         <mark key="." line="40" column="58" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1555038606728">
-        <mark key="'" line="484" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/enums/CommentOnlineStatus.java" timestamp="1554297045958">
         <mark key="[" line="21" column="0" />
@@ -329,11 +333,10 @@
         <mark key="^" line="110" column="52" />
         <mark key="." line="110" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentListQuery.java" timestamp="1554297781283">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentListQuery.java" timestamp="1555053549454">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/DataProviderTypeEnum.java" timestamp="1554102073793">
         <mark key="[" line="33" column="25" />
@@ -377,6 +380,11 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-config/src/main/java/cn/uc/pp/common/ppcache/parse/PPCacheConfigParser.java" timestamp="1554954532181">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/Conf.java" timestamp="1554288874528">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -407,19 +415,18 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1555036531888" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1543316036617">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="23" />
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" timestamp="1555050363909">
-        <mark key="'" line="90" column="50" />
-        <mark key="[" line="90" column="51" />
-        <mark key="]" line="90" column="50" />
-        <mark key="^" line="90" column="50" />
-        <mark key="." line="90" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" timestamp="1555052328252">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="88" column="88" />
+        <mark key="]" line="88" column="122" />
+        <mark key="^" line="88" column="122" />
+        <mark key="." line="88" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/logs/biz/comment.log" timestamp="1554811731130">
         <mark key="[" line="17" column="44" />
@@ -433,11 +440,11 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555035761141">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555053016078">
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/convertor/CommentPostConverter.java" timestamp="1554972064116">
         <mark key="[" line="67" column="48" />
@@ -445,11 +452,17 @@
         <mark key="." line="67" column="47" />
         <mark key="^" line="67" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1554885560689">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="21" />
-        <mark key="^" line="48" column="21" />
-        <mark key="." line="48" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1555054544516">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1555052430179">
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-tool/pom.xml" timestamp="1554797183659">
         <mark key="[" line="45" column="0" />
@@ -589,11 +602,11 @@
         <mark key="^" line="50" column="31" />
         <mark key="." line="50" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditTask.java" timestamp="1554973862020">
-        <mark key="[" line="59" column="46" />
-        <mark key="]" line="60" column="49" />
-        <mark key="." line="60" column="49" />
-        <mark key="^" line="60" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditTask.java" timestamp="1555052423502">
+        <mark key="[" line="55" column="54" />
+        <mark key="]" line="55" column="53" />
+        <mark key="^" line="55" column="53" />
+        <mark key="." line="55" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/.gitignore" timestamp="1554270605063">
         <mark key="[" line="48" column="8" />
@@ -624,9 +637,6 @@
         <mark key="]" line="14" column="11" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555036411312">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1554713240276">
         <mark key="[" line="50" column="49" />
@@ -730,6 +740,11 @@
         <mark key="^" line="76" column="6" />
         <mark key="." line="76" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/KafkaConfiguration.java" timestamp="1555052060615">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcAuditor.java" timestamp="1554372652942">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="33" />
@@ -748,7 +763,7 @@
         <mark key="^" line="688" column="14" />
         <mark key="." line="688" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/UbrTableDataChangedTopicHandler.java" timestamp="1555005353036">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/UbrTableDataChangedTopicHandler.java" timestamp="1555050967352">
         <mark key="[" line="119" column="122" />
         <mark key="]" line="119" column="121" />
         <mark key="^" line="119" column="121" />
@@ -862,6 +877,12 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" timestamp="1555054683675">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.0/kafka_2.10-0.8.2.0.jar!/kafka/admin/AdminUtils$.class" timestamp="1553839977304">
         <mark key="[" line="469" column="67" />
         <mark key="]" line="469" column="66" />
@@ -874,11 +895,11 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/api/CommentApi.java" timestamp="1554888547135">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/api/CommentApi.java" timestamp="1555053606941">
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/CommentAuditServiceImpl.java" timestamp="1554977356836">
         <mark key="[" line="62" column="0" />
@@ -1078,7 +1099,7 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocAutoConfiguration.kt" timestamp="1555000721439">
+      <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocAutoConfiguration.kt" timestamp="1555053900665">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
@@ -1132,7 +1153,7 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1554876623497">
+      <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1555052991113">
         <mark key="[" line="390" column="32" />
         <mark key="]" line="390" column="38" />
         <mark key="." line="390" column="38" />
@@ -1395,8 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="22" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base-api/src/main/java/cn/uc/pp/common/base/api/PageRequest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="57" column="9" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
       <jump line="127" column="24" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/expr/AnnotationExpr.java" />
       <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.7.0/javaparser-core-3.7.0-sources.jar!/com/github/javaparser/ast/expr/AnnotationExpr.java" />
@@ -1495,6 +1514,8 @@
       <jump line="484" column="28" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="21" column="6" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="90" column="50" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/KafkaConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1507,43 +1528,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>commit(offsetMap, true);</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>11.3.138.49:9092</text>
+      <register name="0" type="2">
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oCiAgICAgICAgaW5jbHVkZUZpbHRlcnMgPQogICAgICAgICAgICAgICAgQENvbXBvbmVudFNjYW4uRmlsdGVyKAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gRmlsdGVyVHlwZS5BU1NJR05BQkxFX1RZUEUsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0gS2Fma2FUb3BpY0hhbmRsZXIuY2xhc3MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2EtY2xpZW50czwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC44LjIuMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">CQl2YWwgdHlwZU5hbWUgPSByZXF1ZXN0SGFuZGxlci5kZWNsYXJpbmdDbGFzcygpLm5hbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2EtY2xpZW50czwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC44LjIuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">CQltZXRob2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlm57lpI3liqDovb3mnaHmlbAs56m65YiZ5LiN5Yqg6L29IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmjpLluo/mlrnlvI8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnq6/nsbvlnosiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uYmxhY2tiZXJyeS5iZHAua3JhY2tsZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5rcmFja2xlPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjAuOS4yPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLkuLvpophJRCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLkuLvpopjnsbvlnosiKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgTWFwPFRvcGljUGFydGl0aW9uLCBMb25nPiBtYXA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgb2Zmc2V0ID0gZ2V0T2Zmc2V0KHJlY29yZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluivhOiuuuWIl+ihqCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
