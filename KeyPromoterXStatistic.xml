@@ -156,7 +156,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1471</Count>
+          <Count>1472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -408,7 +408,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'cos-admin'">
@@ -1157,7 +1157,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
