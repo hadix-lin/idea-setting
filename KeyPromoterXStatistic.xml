@@ -68,7 +68,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare With...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -164,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1485</Count>
+          <Count>1496</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -546,12 +546,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GetAdsByAppIdTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GetAdsByAppIdTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GetCustomCardVideoInfoTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GetCustomCardVideoInfoTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InputSourceSwitcher2'">
@@ -829,7 +837,7 @@
         <Item>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation...">
@@ -1165,7 +1173,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">

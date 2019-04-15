@@ -1,7 +1,6 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="modified">2018-11-07T18:05:12</property>
-    <property name="rainbow Default language">true</property>
+    <property name="modified">2019-04-15T18:09:26</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -1257,6 +1256,9 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -1660,9 +1662,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="eb952c" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
@@ -2099,7 +2099,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1f4d2c" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
