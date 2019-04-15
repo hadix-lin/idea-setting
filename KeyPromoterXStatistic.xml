@@ -119,6 +119,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Tests in 'citest''">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'Tests in 'citest''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Tests in 'cn.uc.pp.cos.admin.user''">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -156,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1477</Count>
+          <Count>1485</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
