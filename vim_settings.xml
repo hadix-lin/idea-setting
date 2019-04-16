@@ -27,7 +27,7 @@
         <mark key="^" line="43" column="36" />
         <mark key="." line="43" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1554953661848">
+      <file name="/a.dummy" timestamp="1555377372949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/common/dto/ClientInfo.java" timestamp="1554285304540">
@@ -178,6 +178,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/app/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1555377698602">
+        <mark key="[" line="111" column="91" />
+        <mark key="]" line="111" column="90" />
+        <mark key="^" line="111" column="90" />
+        <mark key="." line="111" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/StaticDocGenerator.java" timestamp="1555257376414">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="11" column="46" />
@@ -265,11 +271,11 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/PopCommentCardDataProvider.java" timestamp="1555311868349">
-        <mark key="[" line="63" column="1" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/PopCommentCardDataProvider.java" timestamp="1555378790863">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/citest/apitest/op/ads/GetAdsShowByDaysTest/testMultiAPPWithVisitedNotInt_expected.properties" timestamp="1555324825876" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
@@ -380,6 +386,12 @@
         <mark key="^" line="1137" column="36" />
         <mark key="." line="1137" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1555378460802">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/pom.xml" timestamp="1554961989660">
         <mark key="[" line="40" column="53" />
         <mark key="]" line="40" column="52" />
@@ -440,8 +452,8 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" timestamp="1555324230598">
-        <mark key="'" line="114" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" timestamp="1555378821748">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="38" />
         <mark key="]" line="73" column="38" />
         <mark key="^" line="73" column="37" />
@@ -652,7 +664,7 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555314913580">
+      <file name="/Dummy.txt" timestamp="1555378498078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1555059717820">
@@ -782,11 +794,11 @@
         <mark key="." line="51" column="33" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1554817179957">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1555378560446">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="58" column="52" />
+        <mark key="^" line="58" column="52" />
+        <mark key="." line="58" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.9.6/csi-common-1.9.6.jar!/com/taobao/csi/csi_common/CsiServiceImpl.class" timestamp="1554797659424">
         <mark key="[" line="688" column="15" />
@@ -1481,8 +1493,6 @@
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" timestamp="1555320811173" />
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/service/UserActionTopicHandler.java" />
-      <jump line="33" column="7" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/api/impl/UserActionLogApiImpl.java" />
       <jump line="101" column="30" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/pom.xml" />
       <jump line="49" column="22" filename="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" />
       <jump line="37" column="48" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" />
@@ -1581,6 +1591,8 @@
       <jump line="114" column="5" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
       <jump line="191" column="24" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rtb/dto/RtbAdRequestVo.java" />
       <jump line="84" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
+      <jump line="136" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1593,7 +1605,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>LikeComment</text>
+        <text>.getMessage()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
@@ -1602,34 +1614,34 @@
         <text encoding="base64">I1VD5YaF5a655a6h5qC45byA5YWzCnVjLmNvbnRlbnQuYXVkaXQuc3dpdGNoPXRydWUKI1VD5YaF5a655a6h5qC4Y2FsbGVyCnVjLmNvbnRlbnQuYXVkaXQuY2FsbGVyPXBwX2Fzc2lzdGFudAojVUPlhoXlrrnlrqHmoLhzZWNyZXQKdWMuY29udGVudC5hdWRpdC5zZWNyZXQ9ZmZmMDI3MzQ4ODAyMTFlN2E1ZGNlMGNiNGUxYzJhM2UKI1VD5YaF5a655a6h5qC4bmlja25hbWUgbW9kdWxlSWQKdWMuY29udGVudC5hdWRpdC5uaWNrLm1vZHVsZUlkPTY1CiNVQ+WGheWuueWuoeaguGF2YXRhciBtb2R1bGVJZAp1Yy5jb250ZW50LmF1ZGl0LmF2YXRhci5tb2R1bGVJZD02NgojVUPlhoXlrrnlrqHmoLjml6fmlbDmja5uaWNrbmFtZeWSjGF2YXRhcuS4gOi1tyBtb2R1bGVJZAp1Yy5jb250ZW50LmF1ZGl0Lm5pY2suYXZhdGFyLm1vZHVsZUlkPTY4CiNVQ+WGheWuueWuoeaguCDmlrDmj5DkuqRjb21tZW50IG1vZHVsZUlkCnVjLmNvbnRlbnQuYXVkaXQubmV3LmNvbW1lbnQubW9kdWxlSWQ9NjcKI3Vj5YaF5a655a6h5qC45Zue6LCD5Zyw5Z2ACnVjLmNvbnRlbnQuYXVkaXQuY2FsbGJhY2sudXJsPQoj5Zue6LCDaXDlnLDlnYDvvIznlKjkuo7moKHpqoxpcOeZveWQjeWNleeUqAp1Yy5jb250ZW50LmF1ZGl0LmNhbGxiYWNrLmlwbGlzdD1sb2NhbGhvc3QsMDowOjA6MDowOjA6MDoxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdC9jaXRlc3QvYXBpdGVzdC9ULmphdmEK</text>
+        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgUmVwb3NpdG9yeVByb3ZpZGVyIHJlcG9zaXRvcnlQcm92aWRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdC9jaXRlc3QvYXBpdGVzdC9ULmphdmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVDb21tZW50LnNldFVzZXJOYW1lKHBvc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRVc2VySWQocG9zdC5nZXRVc2VySWQoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRTdWJqZWN0SWQocG9zdC5nZXRTdWJqZWN0SWQoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRTb3VyY2UocG9zdC5nZXRTb3VyY2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKGV4aXN0ID0gZmFsc2UpCiAgICBwcml2YXRlIFN0cmluZyB1c2VyTmFtZTsKCiAgICBAVGFibGVGaWVsZChleGlzdCA9IGZhbHNlKQogICAgcHJpdmF0ZSBMb25nIHVzZXJJZDsKCiAgICBAVGFibGVGaWVsZChleGlzdCA9IGZhbHNlKQogICAgcHJpdmF0ZSBDb21tZW50U291cmNlVHlwZSBzb3VyY2U7CgogICAgQFRhYmxlRmllbGQoZXhpc3QgPSBmYWxzZSkKICAgIHByaXZhdGUgTG9uZyBzdWJqZWN0SWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVDb21tZW50LnNldFVzZXJOYW1lKHBvc3QuZ2V0VXNlck5hbWUoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRVc2VySWQocG9zdC5nZXRVc2VySWQoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRTdWJqZWN0SWQocG9zdC5nZXRTdWJqZWN0SWQoKSk7CiAgICAgICAgdXBkYXRlQ29tbWVudC5zZXRTb3VyY2UocG9zdC5nZXRTb3VyY2UoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1lbnQgY29tbWVudCA9IGNvbW1lbnREYW8uc2VsZWN0QnlJZCh1cGRhdGUuZ2V0Q29tbWVudElkKCkpOwogICAgICAgICAgICAgICAgdXBkYXRlLnNldFVzZXJJZChjb21tZW50LmdldFVzZXJJZCgpKTsKICAgICAgICAgICAgICAgIHVwZGF0ZS5zZXRVc2VyTmFtZShjb21tZW50LmdldFVzZXJOYW1lKCkpOwogICAgICAgICAgICAgICAgdXBkYXRlLnNldFNvdXJjZShjb21tZW50LmdldFNvdXJjZSgpKTsKICAgICAgICAgICAgICAgIHVwZGF0ZS5zZXRTdWJqZWN0SWQoY29tbWVudC5nZXRTdWJqZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUYWJsZUZpZWxkKGV4aXN0ID0gZmFsc2UpCiAgICBwcml2YXRlIFN0cmluZyB1c2VyTmFtZTsKCiAgICBAVGFibGVGaWVsZChleGlzdCA9IGZhbHNlKQogICAgcHJpdmF0ZSBMb25nIHVzZXJJZDsKCiAgICBAVGFibGVGaWVsZChleGlzdCA9IGZhbHNlKQogICAgcHJpdmF0ZSBDb21tZW50U291cmNlVHlwZSBzb3VyY2U7CgogICAgQFRhYmxlRmllbGQoZXhpc3QgPSBmYWxzZSkKICAgIHByaXZhdGUgTG9uZyBzdWJqZWN0SWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
