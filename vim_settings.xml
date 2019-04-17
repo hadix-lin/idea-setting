@@ -144,11 +144,17 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1555492835711">
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="50" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1555493708477">
+        <mark key="[" line="64" column="29" />
+        <mark key="]" line="64" column="26" />
+        <mark key="^" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/op/ads/GetCustomCardContentRecommendTest.java" timestamp="1555493752177">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+        <mark key="." line="52" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
         <mark key="[" line="77" column="72" />
@@ -823,7 +829,7 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1555472415199">
+      <file name="/fragment.java" timestamp="1555493504135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -888,6 +894,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/user/auth/SmsRegisterCodeCallbackTest.java" timestamp="1555393402145">
         <mark key="[" line="58" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/ContentRecommend.java" timestamp="1555493528918">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcAuditor.java" timestamp="1554372652942">
         <mark key="[" line="51" column="16" />
@@ -1737,34 +1749,34 @@
         <text encoding="base64">ICBJTkRFWCBgaWR4X3N0YXR1c19jcmVhdGVfdGltZWAgKGBhdWRpdF9zdGF0dXNgLGBjcmVhdGVfdGltZWApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5jbi51Yy5wcC5jb21tb24uaHR0cD1kZWJ1Zwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmFzdGpzb24udmVyc2lvbj4xLjIuNTE8L2Zhc3Rqc29uLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5jbi51Yy5wcC5jb21tb24uaHR0cD1kZWJ1Zwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZmFzdGpzb24udmVyc2lvbj4xLjIuNTE8L2Zhc3Rqc29uLnZlcnNpb24+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZhc3Rqc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjIuNDY8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0g57uE5Lu26aG555uu5Y+R5biD54mI5pysIC0tPiAgCiAgICA8ZGVwbG95LnR5cGU+U05BUFNIT1Q8L2RlcGxveS50eXBlPiAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZhc3Rqc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjIuNDY8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb2cuaXNEZWJ1Z0VuYWJsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygicGFyc2UgIiArIHJvb3QuZ2V0UGF0aCgpKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDwhLS0g57uE5Lu26aG555uu5Y+R5biD54mI5pysIC0tPiAgCiAgICA8ZGVwbG95LnR5cGU+U05BUFNIT1Q8L2RlcGxveS50eXBlPiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
