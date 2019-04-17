@@ -60,6 +60,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1555470132705">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/dto/CommentExtDto.java" timestamp="1554285808642">
         <mark key="[" line="14" column="50" />
         <mark key="]" line="14" column="76" />
@@ -151,6 +157,12 @@
         <mark key="^" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/application-module.properties" timestamp="1555470054116">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="38" column="47" />
+        <mark key="^" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocParameterBuilder.kt" timestamp="1555056516673">
         <mark key="[" line="30" column="30" />
         <mark key="]" line="30" column="29" />
@@ -234,6 +246,12 @@
         <mark key="]" line="38" column="28" />
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/follow/FollowService.java" timestamp="1555469382745">
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="80" column="24" />
+        <mark key="^" line="80" column="24" />
+        <mark key="." line="80" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/target/classes/META-INF/static-doc/cn/uc/pp/ubr/comment/api/CommentApi.json" timestamp="1554877255057">
         <mark key="[" line="0" column="1" />
@@ -477,8 +495,8 @@
         <mark key="^" line="72" column="19" />
         <mark key="." line="72" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555053016078">
-        <mark key="[" line="29" column="61" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555469964445">
+        <mark key="[" line="14" column="18" />
         <mark key="]" line="32" column="30" />
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="30" />
@@ -751,9 +769,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" timestamp="1555419007288">
-        <mark key="'" line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/repository-client-1.0.5.jar!/cn/uc/pp/repository/video/dto/VideoInfo.class" timestamp="1554277968041">
         <mark key="[" line="201" column="20" />
         <mark key="]" line="201" column="19" />
@@ -856,13 +871,15 @@
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/user/auth/SmsRegisterCodeCallbackTest.java" timestamp="1555393402145">
         <mark key="[" line="58" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/KafkaConfiguration.java" timestamp="1555470311449" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcAuditor.java" timestamp="1554372652942">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="33" />
         <mark key="." line="51" column="33" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1555466684215">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" timestamp="1555469430751">
+        <mark key="'" line="106" column="8" />
         <mark key="[" line="58" column="62" />
         <mark key="]" line="45" column="37" />
         <mark key="^" line="45" column="37" />
@@ -1305,7 +1322,7 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/resource/app/GetDetailTest.java" timestamp="1555417354263">
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/resource/app/GetDetailTest.java" timestamp="1555469299130">
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
         <mark key="^" line="183" column="0" />
@@ -1360,9 +1377,6 @@
         <mark key="]" line="75" column="23" />
         <mark key="." line="75" column="23" />
         <mark key="^" line="75" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" timestamp="1555398383821">
-        <mark key="'" line="84" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/op/ads/GetAdsShowByDaysTest.java" timestamp="1555324582758">
         <mark key="[" line="159" column="17" />
@@ -1580,8 +1594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="22" filename="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" />
-      <jump line="37" column="48" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" />
       <jump line="2" column="7" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/plugins/CacheAndKafkaPlugin.java" />
       <jump line="162" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="189" column="39" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
@@ -1680,6 +1692,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
       <jump line="104" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiAuditor.java" />
+      <jump line="58" column="53" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
+      <jump line="106" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
