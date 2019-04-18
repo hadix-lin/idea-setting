@@ -190,7 +190,7 @@
         <mark key="^" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/application-module.properties" timestamp="1555485432610">
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/application-module.properties" timestamp="1555577341155">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="16" column="42" />
         <mark key="^" line="16" column="42" />
@@ -322,6 +322,12 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.9/common-parent-1.2.9.pom" timestamp="1555577544369">
+        <mark key="[" line="99" column="49" />
+        <mark key="]" line="99" column="48" />
+        <mark key="^" line="99" column="48" />
+        <mark key="." line="99" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/review/impl/UcReviewParam.java" timestamp="1554369930317">
         <mark key="[" line="10" column="14" />
@@ -522,11 +528,11 @@
         <mark key="." line="23" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555575301175" />
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555572481108">
-        <mark key="[" line="52" column="41" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="47" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555577406192">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/convertor/CommentPostConverter.java" timestamp="1555309744983">
         <mark key="[" line="64" column="1" />
@@ -840,6 +846,12 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/DocConfiguration.java" timestamp="1555577651433">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocParse.java" timestamp="1543314547446">
         <mark key="[" line="62" column="24" />
@@ -1559,11 +1571,6 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/resources/application-module.properties" timestamp="1555569638050">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1555570819707">
         <mark key="[" line="135" column="29" />
         <mark key="]" line="136" column="13" />
@@ -1789,7 +1796,7 @@
         <text encoding="base64">I3BwLnRhaXIuc2VydmVycz0xMS4zLjEzOC40OTo1MTk4CiNwcC50YWlyLmdyb3VwPWdyb3VwX3BwYW5kcl9sZGJfNTE5MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
+        <text encoding="base64">ICAgIDxwYW5kb3JhLnZlcnNpb24+MjAxOC0wOC1zdGFibGUtaHNmLWJ1Yy1idWdmaXg8L3BhbmRvcmEudmVyc2lvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1798,7 +1805,7 @@
         <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
