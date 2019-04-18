@@ -527,7 +527,12 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555575301175" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555579961772">
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="121" column="61" />
+        <mark key="." line="121" column="61" />
+        <mark key="^" line="121" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" timestamp="1555577406192">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1266,6 +1271,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/pom.xml" timestamp="1555578618868">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/ddl/Comment.java" timestamp="1554705592717">
         <mark key="[" line="49" column="13" />
         <mark key="]" line="49" column="12" />
@@ -1516,7 +1527,7 @@
         <mark key="^" line="184" column="52" />
         <mark key="." line="184" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1555575384243" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/config/TairCacheHandler.java" timestamp="1555579465649" />
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554173651742">
         <mark key="[" line="115" column="36" />
         <mark key="]" line="115" column="35" />
@@ -1571,7 +1582,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1555570819707">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1555580776503">
         <mark key="[" line="135" column="29" />
         <mark key="]" line="136" column="13" />
         <mark key="." line="136" column="13" />
@@ -1796,25 +1807,25 @@
         <text encoding="base64">I3BwLnRhaXIuc2VydmVycz0xMS4zLjEzOC40OTo1MTk4CiNwcC50YWlyLmdyb3VwPWdyb3VwX3BwYW5kcl9sZGJfNTE5MQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwYW5kb3JhLnZlcnNpb24+MjAxOC0wOC1zdGFibGUtaHNmLWJ1Yy1idWdmaXg8L3BhbmRvcmEudmVyc2lvbj4K</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhY2hlQ29uZmlnLnNldFNlcmlhbGl6ZXJUeXBlKFNlcmlhbGl6ZXIuVHlwZS5UQUlSX0RFRkFVTFQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZUNvbmZpZy5zZXRTZXJpYWxpemVyVHlwZShTZXJpYWxpemVyLlR5cGUuSEVTU0lBTjIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwYW5kb3JhLnZlcnNpb24+MjAxOC0wOC1zdGFibGUtaHNmLWJ1Yy1idWdmaXg8L3BhbmRvcmEudmVyc2lvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYuc2V0RGVmYXVsdFNlcmlhbGl6ZXJUeXBlKEhFU1NJQU4yKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
