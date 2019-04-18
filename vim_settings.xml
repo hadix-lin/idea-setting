@@ -222,6 +222,13 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/ci.properties" timestamp="1555552159368">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="389" column="18" />
+        <mark key="]" line="382" column="8" />
+        <mark key="^" line="382" column="8" />
+        <mark key="." line="382" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/src/main/java/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554946981921">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
@@ -681,6 +688,12 @@
         <mark key="." line="57" column="53" />
         <mark key="^" line="57" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/dao/CommentScoreDao.java" timestamp="1555552057181">
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="36" />
+        <mark key="^" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service/.gitignore" timestamp="1554270605063">
         <mark key="[" line="48" column="8" />
         <mark key="]" line="48" column="7" />
@@ -834,11 +847,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/define.conf" timestamp="1555496631237">
-        <mark key="[" line="872" column="13" />
-        <mark key="]" line="872" column="12" />
-        <mark key="^" line="872" column="12" />
-        <mark key="." line="872" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/define.conf" timestamp="1555552128614">
+        <mark key="[" line="931" column="39" />
+        <mark key="]" line="931" column="39" />
+        <mark key="^" line="931" column="38" />
+        <mark key="." line="931" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/api/impl/CommentController.java" timestamp="1555056699881">
         <mark key="[" line="1" column="0" />
@@ -1599,8 +1612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
-      <jump line="189" column="39" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="302" column="25" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="107" column="18" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/pom.xml" />
@@ -1699,6 +1710,8 @@
       <jump line="58" column="53" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
       <jump line="106" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
       <jump line="280" column="35" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdService.java" />
+      <jump line="382" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/ci.properties" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/ci.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1717,7 +1730,7 @@
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBJTkRFWCBgaWR4X3N0YXR1c19jcmVhdGVfdGltZWAgKGBhdWRpdF9zdGF0dXNgLGBjcmVhdGVfdGltZWApCg==</text>
+        <text encoding="base64">dXNlci5iZWhhdmlvci5oc2Yuc2VydmljZS52ZXJzaW9uPTEuMC4wCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIjEiOiB7CiAgICAgICAgImlkIjogMSwKICAgICAgICAidGl0bGUiOiAi5qCH6aKYMSIsCiAgICAgICAgInVybCI6ICJodHRwOi8vdmlkZW8ucHAuY24vZnMwOC8yMDE4LzEyLzA4LzEwLzBfNjVmZmE1YzVlNzM2Zjc1MmVmNGFkOGM5ZmI5ZTU3NTkubXA0IiwKICAgICAgICAib3JpZW50YXRpb24iOiAwLAogICAgICAgICJkdXJhdGlvbiI6IDE0NywKICAgICAgICAid2lkdGgiOiA2NDAsCiAgICAgICAgImhlaWdodCI6IDM2MCwKICAgICAgICAiZm9ybWF0IjogIm1vdiIsCiAgICAgICAgImRlY29kZXIiOiAiaDI2NCIsCiAgICAgICAgImJpdFJhdGUiOiAxMjQxODIsCiAgICAgICAgInNpemUiOiAzMjIzODUyLAogICAgICAgICJvcGVyYXRpb24iOiAiIiwKICAgICAgICAic3RhdGUiOiAwLAogICAgICAgICJjcmVhdGVUaW1lIjogMTU0NDI0MDY2MzM3MiwKICAgICAgICAidXBkYXRlVGltZSI6IDE1NDQyNDA2NjUyMTYsCiAgICAgICAgImF1dGhvciI6IHsKICAgICAgICAgICJuYW1lIjogIuS9nOiAhTEiLAogICAgICAgICAgImF2YXRhciI6ICJodHRwOi8vYW5kcm9pZC1pbWdzLjI1cHAuY29tL2ZzMDgvMjAxOC8xMi8wOC8xLzFfYWEzYzkzYzg0MDc4N2NhODgyMThlZjc3OTZjZmMxOWIuanBnIgogICAgICAgIH0sCiAgICAgICAgInJlbGF0ZWRBcHBJZHMiOiBbCiAgICAgICAgICAzMDUsCiAgICAgICAgICA3MDcxMDM0CiAgICAgICAgXQogICAgICB9LAogICAgICAiMiI6IHsKICAgICAgICAiaWQiOiAyLAogICAgICAgICJ0aXRsZSI6ICLmoIfpopgyIiwKICAgICAgICAidXJsIjogImh0dHA6Ly92aWRlby5wcC5jbi9mczA4LzIwMTgvMTIvMDgvMTAvMF82NWZmYTVjNWU3MzZmNzUyZWY0YWQ4YzlmYjllNTc1OS5tcDQiLAogICAgICAgICJvcmllbnRhdGlvbiI6IDAsCiAgICAgICAgImR1cmF0aW9uIjogMTQ3LAogICAgICAgICJ3aWR0aCI6IDY0MCwKICAgICAgICAiaGVpZ2h0IjogMzYwLAogICAgICAgICJmb3JtYXQiOiAibW92IiwKICAgICAgICAiZGVjb2RlciI6ICJoMjY0IiwKICAgICAgICAiYml0UmF0ZSI6IDEyNDE4MiwKICAgICAgICAic2l6ZSI6IDMyMjM4NTIsCiAgICAgICAgIm9wZXJhdGlvbiI6ICIiLAogICAgICAgICJzdGF0ZSI6IDAsCiAgICAgICAgImNyZWF0ZVRpbWUiOiAxNTQ0MjQwNjYzMzcyLAogICAgICAgICJ1cGRhdGVUaW1lIjogMTU0NDI0MDY2NTIxNiwKICAgICAgICAiYXV0aG9yIjogewogICAgICAgICAgIm5hbWUiOiAi5L2c6ICFMiIsCiAgICAgICAgICAiYXZhdGFyIjogImh0dHA6Ly9hbmRyb2lkLWltZ3MuMjVwcC5jb20vZnMwOC8yMDE4LzEyLzA4LzEvMV9hYTNjOTNjODQwNzg3Y2E4ODIxOGVmNzc5NmNmYzE5Yi5qcGciCiAgICAgICAgfSwKICAgICAgICAicmVsYXRlZEFwcElkcyI6IFsKICAgICAgICAgIDMwMSwKICAgICAgICAgIDcwNzEwMzQKICAgICAgICBdCiAgICAgIH0sCiAgICAgICIzIjogewogICAgICAgICJpZCI6IDMsCiAgICAgICAgInRpdGxlIjogIuagh+mimDMiLAogICAgICAgICJ1cmwiOiAiaHR0cDovL3ZpZGVvLnBwLmNuL2ZzMDgvMjAxOC8xMi8wOC8xMC8wXzY1ZmZhNWM1ZTczNmY3NTJlZjRhZDhjOWZiOWU1NzU5Lm1wNCIsCiAgICAgICAgIm9yaWVudGF0aW9uIjogMCwKICAgICAgICAiZHVyYXRpb24iOiAxNDcsCiAgICAgICAgIndpZHRoIjogNjQwLAogICAgICAgICJoZWlnaHQiOiAzNjAsCiAgICAgICAgImZvcm1hdCI6ICJtb3YiLAogICAgICAgICJkZWNvZGVyIjogImgyNjQiLAogICAgICAgICJiaXRSYXRlIjogMTI0MTgyLAogICAgICAgICJzaXplIjogMzIyMzg1MiwKICAgICAgICAib3BlcmF0aW9uIjogIiIsCiAgICAgICAgInN0YXRlIjogMCwKICAgICAgICAiY3JlYXRlVGltZSI6IDE1NDQyNDA2NjMzNzIsCiAgICAgICAgInVwZGF0ZVRpbWUiOiAxNTQ0MjQwNjY1MjE2LAogICAgICAgICJhdXRob3IiOiB7CiAgICAgICAgICAibmFtZSI6ICLkvZzogIUzMyIsCiAgICAgICAgICAiYXZhdGFyIjogImh0dHA6Ly9hbmRyb2lkLWltZ3MuMjVwcC5jb20vZnMwOC8yMDE4LzEyLzA4LzEvMV9hYTNjOTNjODQwNzg3Y2E4ODIxOGVmNzc5NmNmYzE5Yi5qcGciCiAgICAgICAgfSwKICAgICAgICAicmVsYXRlZEFwcElkcyI6IFsKICAgICAgICAgIDMwMiwKICAgICAgICAgIDcwNzEwMzQKICAgICAgICBdCiAgICAgIH0sCiAgICAgICI0IjogewogICAgICAgICJpZCI6IDQsCiAgICAgICAgInRpdGxlIjogIuagh+mimDQiLAogICAgICAgICJ1cmwiOiAiaHR0cDovL3ZpZGVvLnBwLmNuL2ZzMDgvMjAxOC8xMi8wOC8xMC8wXzY1ZmZhNWM1ZTczNmY3NTJlZjRhZDhjOWZiOWU1NzU5Lm1wNCIsCiAgICAgICAgIm9yaWVudGF0aW9uIjogMCwKICAgICAgICAiZHVyYXRpb24iOiAxNDcsCiAgICAgICAgIndpZHRoIjogNjQwLAogICAgICAgICJoZWlnaHQiOiAzNjAsCiAgICAgICAgImZvcm1hdCI6ICJtb3YiLAogICAgICAgICJkZWNvZGVyIjogImgyNjQiLAogICAgICAgICJiaXRSYXRlIjogMTI0MTgyLAogICAgICAgICJzaXplIjogMzIyMzg1MiwKICAgICAgICAib3BlcmF0aW9uIjogIiIsCiAgICAgICAgInN0YXRlIjogMCwKICAgICAgICAiY3JlYXRlVGltZSI6IDE1NDQyNDA2NjMzNzIsCiAgICAgICAgInVwZGF0ZVRpbWUiOiAxNTQ0MjQwNjY1MjE2LAogICAgICAgICJhdXRob3IiOiB7CiAgICAgICAgICAibmFtZSI6ICLkvZzogIUiLAogICAgICAgICAgImF2YXRhciI6ICJodHRwOi8vYW5kcm9pZC1pbWdzLjI1cHAuY29tL2ZzMDgvMjAxOC8xMi8wOC8xLzFfYWEzYzkzYzg0MDc4N2NhODgyMThlZjc3OTZjZmMxOWIuanBnIgogICAgICAgIH0sCiAgICAgICAgInJlbGF0ZWRBcHBJZHMiOiBbCiAgICAgICAgICAzMDMsCiAgICAgICAgICA3MDcxMDM0CiAgICAgICAgXQogICAgICB9Cg==</text>
