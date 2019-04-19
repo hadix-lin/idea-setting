@@ -1243,11 +1243,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1555644720506">
-        <mark key="[" line="139" column="94" />
-        <mark key="]" line="139" column="93" />
-        <mark key="^" line="139" column="93" />
-        <mark key="." line="139" column="93" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1555646151873">
+        <mark key="'" line="86" column="2" />
+        <mark key="[" line="212" column="12" />
+        <mark key="]" line="212" column="10" />
+        <mark key="." line="212" column="10" />
+        <mark key="^" line="212" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/repository/repository-start/src/main/resources/mybatis/videoMapper.xml" timestamp="1554274453753">
         <mark key="[" line="16" column="19" />
@@ -1562,11 +1563,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android_management-adv/pom.xml" timestamp="1555558598784">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/android_management-adv/pom.xml" timestamp="1555646286556">
+        <mark key="[" line="51" column="55" />
+        <mark key="]" line="51" column="54" />
+        <mark key="^" line="51" column="54" />
+        <mark key="." line="51" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/model/CardContentResource.java" timestamp="1553829114097">
         <mark key="[" line="89" column="18" />
@@ -1777,7 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/CardContentResourceProvider.java" />
       <jump line="206" column="12" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/service/UcContentAuditService.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/convertor/CommentPostConverter.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/convertor/CommentPostConverter.java" />
@@ -1877,6 +1877,7 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
       <jump line="73" column="3" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
       <jump line="53" column="2" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
+      <jump line="86" column="2" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1895,37 +1896,37 @@
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ2FjaGVFdmljdChrZXkgPSAiJ3Rhc2tfc3VtbWFyeTonKyN1c2VySWQiKQo=</text>
+        <text encoding="base64">ICBAQ2FjaGluZyhldmljdCA9IHtAQ2FjaGVFdmljdChrZXkgPSAiJ3Rhc2tfc3VtbWFyeTonKyN1c2VyLnVzZXJJZCIpLCBAQ2FjaGVFdmljdChrZXkgPSAiI3Rhc2tJZCIpfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIE9iamVjdCBhdHRhY2htZW50ID0gUlBDQ29udGV4dC5nZXRDbGllbnRDb250ZXh0KCkuZ2V0QXR0YWNobWVudChVU0VSX1RPS0VOKTsK</text>
+        <text encoding="base64">ICBAQ2FjaGVFdmljdCgiI3Rhc2tJZCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRocmVhZExvY2FsVXRpbC5zZXQoVVNFUl9UWVBFLCB1c2VyVHlwZSk7Cg==</text>
+        <text encoding="base64">ICBAQ2FjaGVFdmljdCgiI3Rhc2tJZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoVXNlci5UeXBlKSBUaHJlYWRMb2NhbFV0aWwuZ2V0KCkuZ2V0KFVTRVJfVFlQRSk7Cg==</text>
+        <text encoding="base64">ICBAQ2FjaGVFdmljdCgiI3Rhc2tJZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRocmVhZExvY2FsVXRpbC5zZXQoTklDS05BTUVfSU5GTywgdXNlck5hbWUpOwo=</text>
+        <text encoding="base64">ICBAQ2FjaGVFdmljdCgiI3Rhc2tJZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCB1c2VybmFtZSA9IFRocmVhZExvY2FsVXRpbC5nZXQoKS5nZXQoTklDS05BTUVfSU5GTyk7CiAgICByZXR1cm4gdXNlcm5hbWUgPT0gbnVsbCA/IG51bGwgOiAoU3RyaW5nKSB1c2VybmFtZTsK</text>
+        <text encoding="base64">ICBAQ2FjaGVFdmljdCgiI3Rhc2tJZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRocmVhZExvY2FsVXRpbC5zZXQoVVNFUl9JRF9JTkZPLCB1c2VySWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCB1c2VySWQgPSBUaHJlYWRMb2NhbFV0aWwuZ2V0KCkuZ2V0KFVTRVJfSURfSU5GTyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIE9iamVjdCBhdHRhY2htZW50ID0gUlBDQ29udGV4dC5nZXRDbGllbnRDb250ZXh0KCkuZ2V0QXR0YWNobWVudChVU0VSX1RPS0VOKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0VXRpbC5zZXRVc2VySWQodXNlcklkKTsKICAgICAgICBSZXF1ZXN0VXRpbC5zZXROaWNrbmFtZSh1c2VyTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIFRocmVhZExvY2FsVXRpbC5zZXQoVVNFUl9UWVBFLCB1c2VyVHlwZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExvbmcgdXNlcklkID0gZ2V0VXNlcklkKCk7CiAgICBTdHJpbmcgdXNlck5hbWUgPSBnZXROaWNrbmFtZSgpOwogICAgVXNlci5UeXBlIHVzZXJUeXBlID0gZ2V0VXNlclR5cGUoKTsKICAgIGlmICh1c2VySWQgPT0gbnVsbCB8fCB1c2VyVHlwZSA9PSBudWxsKSB7CiAgICAgIHRocm93IG5ldyBBdXRob3JpemVkRXhjZXB0aW9uKCLmsqHmnInnmbvlvZXnlKjmiLfkv6Hmga8iKTsKICAgIH0KICAgIHJldHVybiBuZXcgTG9naW5Vc2VyKHVzZXJJZCwgdXNlck5hbWUsIHVzZXJUeXBlKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoVXNlci5UeXBlKSBUaHJlYWRMb2NhbFV0aWwuZ2V0KCkuZ2V0KFVTRVJfVFlQRSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
