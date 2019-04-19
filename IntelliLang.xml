@@ -1,5 +1,18 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>CacheEvict (org.springframework.cache.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.CacheEvict")]]></place>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.CacheEvict")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+      <place><![CDATA[psiMethod().withName("unless").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("unless").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.cache.annotation.CacheEvict")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>DocGroup.setPathPattern (com.meizu.life.support.core)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPathPattern").withParameters("java.lang.String").definedInClass("com.meizu.life.support.core.DocGroup"))]]></place>
