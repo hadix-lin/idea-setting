@@ -1222,11 +1222,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1555592432982">
-        <mark key="[" line="58" column="63" />
-        <mark key="]" line="58" column="62" />
-        <mark key="." line="58" column="62" />
-        <mark key="^" line="58" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1555639903375">
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="25" />
+        <mark key="." line="80" column="25" />
+        <mark key="^" line="80" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/repository/repository-start/src/main/resources/mybatis/videoMapper.xml" timestamp="1554274453753">
         <mark key="[" line="16" column="19" />
@@ -1240,11 +1240,11 @@
         <mark key="^" line="129" column="45" />
         <mark key="." line="129" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/user/model/User.java" timestamp="1555591702923">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/user/model/User.java" timestamp="1555639099924">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/CommentUpdate.java" timestamp="1555309775394">
         <mark key="[" line="19" column="14" />
@@ -1522,11 +1522,11 @@
         <mark key="^" line="25" column="6" />
         <mark key="." line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1555591944642">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="46" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1555640024534">
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="60" column="3" />
+        <mark key="^" line="60" column="3" />
+        <mark key="." line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/op/ads/GetAdsShowByDaysTest.java" timestamp="1555324582758">
         <mark key="[" line="159" column="17" />
@@ -2032,6 +2032,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

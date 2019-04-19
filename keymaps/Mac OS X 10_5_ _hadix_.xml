@@ -118,4 +118,8 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="emacsIDEAs.AceJump" />
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
 </keymap>
