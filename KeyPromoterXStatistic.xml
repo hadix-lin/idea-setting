@@ -132,7 +132,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1102</Count>
+          <Count>1104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -618,6 +618,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ideavim_extension [buildPlugin]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ideavim_extension [buildPlugin]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ideavim_extension [runIde]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -933,6 +941,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'create-table-tool'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ideavim_extension [buildPlugin]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ideavim_extension [buildPlugin]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

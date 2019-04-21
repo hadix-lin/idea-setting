@@ -21,11 +21,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1554560759949">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="35" column="1" />
-        <mark key="^" line="35" column="1" />
-        <mark key="." line="35" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1555827721435">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/resources/application.properties" timestamp="1553939949369">
         <mark key="[" line="2" column="0" />
@@ -135,6 +135,12 @@
         <mark key="." line="37" column="39" />
         <mark key="^" line="37" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1555826274665">
+        <mark key="[" line="85" column="7" />
+        <mark key="]" line="85" column="6" />
+        <mark key="^" line="85" column="6" />
+        <mark key="." line="85" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1554988295911">
         <mark key="[" line="20" column="53" />
         <mark key="]" line="20" column="53" />
@@ -190,6 +196,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/gradle.properties" timestamp="1555830142696" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/java/hadix/staticdoc/Interceptor.java" timestamp="1553941062394">
         <mark key="[" line="13" column="66" />
         <mark key="]" line="10" column="9" />
@@ -214,11 +221,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/pom.xml" timestamp="1555426017860">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/pom.xml" timestamp="1555826620146">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" timestamp="1543388507192">
         <mark key="[" line="57" column="27" />
@@ -316,11 +323,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/common-doc/pom.xml" timestamp="1555224972441">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
@@ -446,10 +448,11 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/sample/src/main/java/io/github/hadixlin/SampleController.java" timestamp="1555230570030">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle.kts" timestamp="1555831512610">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543383458788">
         <mark key="[" line="12" column="37" />
@@ -625,7 +628,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCEtLSBUT0RPIOS4tOaXtuino+WGs+S4jeinhOiMg+eahGphdmFkb2PnlJ/miJDmiqXplJks5ZCO6Z2i6KaB6KeE6IyD5YyW5ZCO5oqK6L+Z6KGM5Y675o6JIC0tPg==</text>
+        <text>Boolean . valueOf (downloadIdeaSources)</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
@@ -640,28 +643,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPHZlcnNpb24+Mi4yLjE8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CTxkZXNjcmlwdGlvbj5kZXhjb2Rlci1hc3Npc3RhbnQgaXMgYSByYXBpZCBkZXZlbG9wbWVudCBraXQuPC9kZXNjcmlwdGlvbj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CTxuYW1lPmRleGNvZGVyLWFzc2lzdGFudDwvbmFtZT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">amF2YSB7Cglzb3VyY2VDb21wYXRpYmlsaXR5ID0gSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgKCXRhcmdldENvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAp9Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly9hcHBseShwbHVnaW4gPSAib3JnLmpldGJyYWlucy5pbnRlbGxpaiIpCmFwcGx5KHBsdWdpbiA9ICJpZGVhIikKLy9hcHBseShwbHVnaW4gPSAiamF2YSIpCmFwcGx5KHBsdWdpbiA9ICJrb3RsaW4iKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CglgamF2YS1saWJyYXJ5YAoJaWQoIm9yZy5qZXRicmFpbnMuaW50ZWxsaWoiKSB2ZXJzaW9uICIwLjQuNyIKCWlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0iKSB2ZXJzaW9uICIxLjMuMjEiCn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbXBhbmlvbiBvYmplY3QgeyB9Cg==</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewoJcmVwb3NpdG9yaWVzIHsKCQltYXZlbkNlbnRyYWwoKQoJfQoKCWRlcGVuZGVuY2llcyB7CgkJY2xhc3NwYXRoKCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWdyYWRsZS1wbHVnaW46MS4zLjIxIikKCX0KfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCB2YWwgREVGQVVMVF9DTEFTU1BBVEhfUEFSRU5UID0gIi9NRVRBLUlORi9zdGF0aWMtZG9jIgo=</text>
+        <text encoding="base64">CWBqYXZhLWxpYnJhcnlgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
