@@ -173,12 +173,12 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/.gitignore" timestamp="1555342819438">
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/.gitignore" timestamp="1555937615546">
         <mark key="'" line="74" column="2" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="118" column="0" />
-        <mark key="." line="117" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="4" />
+        <mark key="." line="92" column="4" />
+        <mark key="^" line="92" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1543384183149">
         <mark key="[" line="5512" column="28" />
@@ -362,12 +362,12 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1555935309416">
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1555937846096">
         <mark key="'" line="156" column="10" />
-        <mark key="[" line="217" column="24" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="78" column="40" />
+        <mark key="[" line="234" column="29" />
+        <mark key="]" line="234" column="26" />
+        <mark key="." line="234" column="26" />
+        <mark key="^" line="234" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/Request.java" timestamp="1553928310285">
         <mark key="[" line="4" column="0" />
@@ -656,35 +656,84 @@
       <register name="0" type="2">
         <text encoding="base64">dGFza3Mud2l0aFR5cGUob3JnLmpldGJyYWlucy5rb3RsaW4uZ3JhZGxlLnRhc2tzLktvdGxpbkNvbXBpbGUpLmFsbCB7CiAgICBrb3RsaW5PcHRpb25zIHsKICAgICAgICBhcGlWZXJzaW9uPTEuMAogICAgICAgIGxhbmd1YWdlVmVyc2lvbj0xLjAKICAgIH0KfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCTxzb3VyY2VEaXJlY3Rvcmllcz4KCQkJCQkJCQk8ZGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L2Rpcj4KCQkJCQkJCTwvc291cmNlRGlyZWN0b3JpZXM+Cg==</text>
+      <register name="1" type="4">
+        <text># User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+.idea/modules.xml
+.idea/modules</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxwYWNrYWdlcz4KCQkJCQkJPHA+aW8uZ2l0aHViLmhhZGl4bGluLnNwcmluZ2ZveHBsdXM8L3A+CgkJCQkJPC9wYWNrYWdlcz4KCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
+      <register name="2" type="4">
+        <text>/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+.idea/modules.xml
+.idea/modules</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8c291cmNlRGlycz4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvdGVzdC9rb3RsaW48L3NvdXJjZURpcj4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvdGVzdC9qYXZhPC9zb3VyY2VEaXI+CgkJCQkJCQk8L3NvdXJjZURpcnM+CgkJCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">CQkJCQkJCTxzb3VyY2VEaXJlY3Rvcmllcz4KCQkJCQkJCQk8ZGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L2Rpcj4KCQkJCQkJCTwvc291cmNlRGlyZWN0b3JpZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8c291cmNlRGlycz4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L3NvdXJjZURpcj4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9qYXZhPC9zb3VyY2VEaXI+CgkJCQkJCQk8L3NvdXJjZURpcnM+CgkJCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">CQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxwYWNrYWdlcz4KCQkJCQkJPHA+aW8uZ2l0aHViLmhhZGl4bGluLnNwcmluZ2ZveHBsdXM8L3A+CgkJCQkJPC9wYWNrYWdlcz4KCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCTxzb3VyY2VEaXJzPgoJCQkJCQkJCTxzb3VyY2VEaXI+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L2tvdGxpbjwvc291cmNlRGlyPgoJCQkJCQkJCTxzb3VyY2VEaXI+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L2phdmE8L3NvdXJjZURpcj4KCQkJCQkJCTwvc291cmNlRGlycz4K</text>
+        <text encoding="base64">CQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8c291cmNlRGlycz4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvdGVzdC9rb3RsaW48L3NvdXJjZURpcj4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvdGVzdC9qYXZhPC9zb3VyY2VEaXI+CgkJCQkJCQk8L3NvdXJjZURpcnM+CgkJCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8c291cmNlRGlycz4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L3NvdXJjZURpcj4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9qYXZhPC9zb3VyY2VEaXI+CgkJCQkJCQk8L3NvdXJjZURpcnM+CgkJCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkuLi4K</text>
+        <text encoding="base64">CQkJCQkJCTxzb3VyY2VEaXJzPgoJCQkJCQkJCTxzb3VyY2VEaXI+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L2tvdGxpbjwvc291cmNlRGlyPgoJCQkJCQkJCTxzb3VyY2VEaXI+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy90ZXN0L2phdmE8L3NvdXJjZURpcj4KCQkJCQkJCTwvc291cmNlRGlycz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTxhcnRpZmFjdElkPmJ1aWxkLWhlbHBlci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">CQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8c291cmNlRGlycz4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9rb3RsaW48L3NvdXJjZURpcj4KCQkJCQkJCQk8c291cmNlRGlyPiR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9qYXZhPC9zb3VyY2VEaXI+CgkJCQkJCQk8L3NvdXJjZURpcnM+CgkJCQkJCTwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkuLi4K</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
