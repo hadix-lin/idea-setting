@@ -132,7 +132,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1115</Count>
+          <Count>1118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -284,6 +284,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <ShortCut>'⌃⇧⌘M'</ShortCut>
+          <Description>Maven</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven Projects">
         <Item>
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
@@ -376,7 +384,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'cos-admin'">
@@ -408,7 +416,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
