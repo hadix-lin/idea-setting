@@ -880,7 +880,7 @@
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556101299753">
+      <file name="/Dummy.txt" timestamp="1556102581491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1556001941169">
@@ -1126,10 +1126,10 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/test/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditorTest.java" timestamp="1556099702872">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/test/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditorTest.java" timestamp="1556103198535">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1554288047568">
         <mark key="[" line="25" column="37" />
@@ -1371,6 +1371,11 @@
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditParam.java" timestamp="1556103315976">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/support/resource/service/VideoService.java" timestamp="1554277976146">
         <mark key="[" line="129" column="46" />
@@ -1645,6 +1650,12 @@
         <mark key="]" line="37" column="24" />
         <mark key="^" line="37" column="24" />
         <mark key="." line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditor.java" timestamp="1556103340838">
+        <mark key="[" line="94" column="56" />
+        <mark key="]" line="101" column="46" />
+        <mark key="^" line="101" column="46" />
+        <mark key="." line="101" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/ppcache/cache.log" timestamp="1554100956314">
         <mark key="[" line="2372" column="68" />
@@ -2066,34 +2077,34 @@
         <text encoding="base64">ICAgICAgICAgIHRhc2suc2V0SWQobnVsbCk7CiAgICAgICAgICBjb3VudCArPSB0YXNrLmluc2VydCgpID8gMSA6IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHAudWJyLmNvbW1lbnQuYXVkaXQudWMuY2FsbGJhY2stdXJsPQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0Q2FsbGJhY2tVcmwoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tZW50LnByb2R1Y3ROYW1lKCJXREoiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldGtleSgpIHsKICAgICAgICAgICAgcmV0dXJuIHR5cGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRLZXkoU3RyaW5nIGtleSkgewogICAgICAgICAgICB0aGlzLnR5cGUgPSBrZXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhc2suc2V0SWQobnVsbCk7CiAgICAgICAgICBjb3VudCArPSB0YXNrLmluc2VydCgpID8gMSA6IDA7Cg==</text>
+        <text encoding="base64">cHAudWJyLmNvbW1lbnQuYXVkaXQudWMuY2FsbGJhY2stdXJsPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRJc3N1ZU1vZGUoSXNzdWVNb2RlLkFTU0lHTik7CiAgICAgICAgICAgIHRhc2suc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0Q2FsbGJhY2tVcmwoIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tZW50LnByb2R1Y3ROYW1lKCJXREoiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRhc2suc2V0SWQobnVsbCk7CiAgICAgICAgICBjb3VudCArPSB0YXNrLmluc2VydCgpID8gMSA6IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLnNldElkKG51bGwpOwogICAgICAgIGNvdW50ICs9IHRhc2suaW5zZXJ0KCkgPyAxIDogMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRJc3N1ZU1vZGUoSXNzdWVNb2RlLkFTU0lHTik7CiAgICAgICAgICAgIHRhc2suc2V0VXNlcklkKHVzZXJJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
