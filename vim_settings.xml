@@ -41,10 +41,10 @@
         <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/apache/ApacheHttpRequest.kt" timestamp="1556043396475">
-        <mark key="[" line="251" column="16" />
-        <mark key="]" line="251" column="14" />
-        <mark key="." line="251" column="14" />
-        <mark key="^" line="251" column="14" />
+        <mark key="[" line="252" column="16" />
+        <mark key="]" line="252" column="14" />
+        <mark key="." line="252" column="14" />
+        <mark key="^" line="252" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/parameter/SwaggerExpandedParameterBuilder.java" timestamp="1554043842331">
         <mark key="[" line="77" column="1" />
@@ -179,12 +179,10 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1556027471065">
-        <mark key="'" line="156" column="10" />
-        <mark key="[" line="250" column="22" />
-        <mark key="]" line="250" column="21" />
-        <mark key="." line="250" column="21" />
-        <mark key="^" line="250" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1556118125254">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/Request.java" timestamp="1553928310285">
         <mark key="[" line="4" column="0" />
@@ -489,11 +487,11 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/okhttp/OkHttpRequest.kt" timestamp="1556039851320">
-        <mark key="[" line="71" column="80" />
-        <mark key="]" line="71" column="64" />
-        <mark key="^" line="71" column="64" />
-        <mark key="." line="71" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/okhttp/OkHttpRequest.kt" timestamp="1556044472216">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="153" column="29" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-extension/src/main/kotlin/io/github/hadixlin/springfoxplus/StaticDocAutoConfiguration.kt" timestamp="1555227760997">
         <mark key="[" line="8" column="14" />
@@ -545,6 +543,12 @@
         <mark key="]" line="4" column="51" />
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/http/.gitignore" timestamp="1556044238330">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/schema/ModelProperty.java" timestamp="1553943743844">
         <mark key="[" line="110" column="26" />
@@ -602,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/task/model/TaskType.java" />
       <jump line="105" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-hsf-spring-boot-autoconfigure/2018-08-stable/pandora-hsf-spring-boot-autoconfigure-2018-08-stable-sources.jar!/com/alibaba/boot/hsf/consumer/HsfConsumerPostProcessor.java" />
       <jump line="230" column="20" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.7--2018-08-stable/hsf-sdk-2.2.6.7--2018-08-stable-sources.jar!/com/taobao/hsf/app/api/util/HSFApiConsumerBean.java" />
       <jump line="15" column="11" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.7--2018-08-stable/hsf-sdk-2.2.6.7--2018-08-stable-sources.jar!/com/taobao/hsf/logger/AppLogger.java" />
@@ -702,6 +705,7 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" />
       <jump line="149" column="10" filename="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" />
       <jump line="128" column="24" filename="$USER_HOME$/Documents/Projects/http/src/main/java/cn/uc/pp/common/http/AbstractHttpRequest.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/Projects/http/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -723,34 +727,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0JsYW5rKGZpbmFsIENoYXJTZXF1ZW5jZSBjcykgewogICAgICAgIGludCBzdHJMZW47CiAgICAgICAgaWYgKGNzID09IG51bGwgfHwgKHN0ckxlbiA9IGNzLmxlbmd0aCgpKSA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ckxlbjsgaSsrKSB7CiAgICAgICAgICAgIGlmICghQ2hhcmFjdGVyLmlzV2hpdGVzcGFjZShjcy5jaGFyQXQoaSkpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgLyoqCiAgICAgKiA8cD5DaGVja3MgaWYgYSBDaGFyU2VxdWVuY2UgaXMgbm90IGVtcHR5ICgiIiksIG5vdCBudWxsIGFuZCBub3Qgd2hpdGVzcGFjZSBvbmx5LjwvcD4KICAgICAqCiAgICAgKiA8cD5XaGl0ZXNwYWNlIGlzIGRlZmluZWQgYnkge0BsaW5rIENoYXJhY3RlciNpc1doaXRlc3BhY2UoY2hhcil9LjwvcD4KICAgICAqCiAgICAgKiA8cHJlPgogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhudWxsKSAgICAgID0gZmFsc2UKICAgICAqIFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoIiIpICAgICAgICA9IGZhbHNlCiAgICAgKiBTdHJpbmdVdGlscy5pc05vdEJsYW5rKCIgIikgICAgICAgPSBmYWxzZQogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuaygiYm9iIikgICAgID0gdHJ1ZQogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuaygiICBib2IgICIpID0gdHJ1ZQogICAgICogPC9wcmU+CiAgICAgKgogICAgICogQHBhcmFtIGNzICB0aGUgQ2hhclNlcXVlbmNlIHRvIGNoZWNrLCBtYXkgYmUgbnVsbAogICAgICogQHJldHVybiB7QGNvZGUgdHJ1ZX0gaWYgdGhlIENoYXJTZXF1ZW5jZSBpcwogICAgICogIG5vdCBlbXB0eSBhbmQgbm90IG51bGwgYW5kIG5vdCB3aGl0ZXNwYWNlIG9ubHkKICAgICAqIEBzaW5jZSAyLjAKICAgICAqIEBzaW5jZSAzLjAgQ2hhbmdlZCBzaWduYXR1cmUgZnJvbSBpc05vdEJsYW5rKFN0cmluZykgdG8gaXNOb3RCbGFuayhDaGFyU2VxdWVuY2UpCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc05vdEJsYW5rKGZpbmFsIENoYXJTZXF1ZW5jZSBjcykgewogICAgICAgIHJldHVybiAhaXNCbGFuayhjcyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJlcS5lbnRpdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXZhbCByZXFFbnRpdHkgPSAocmVxIGFzIEh0dHBFbnRpdHlFbmNsb3NpbmdSZXF1ZXN0KS5lbnRpdHkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJRmlsZVV0aWxzLmNvcHlJbnB1dFN0cmVhbVRvRmlsZShpbnB1dFN0cmVhbSwgdG1wRmlsZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+Mi42PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW4gcGFyYW1zVGV4dCgpOiBTdHJpbmcgewoJCWlmIChib2R5ICE9IG51bGwpIHsKCQkJaWYgKGJvZHkgaXMgQnl0ZUFycmF5KSB7CgkJCQlyZXR1cm4gU3RyaW5nKGJvZHkgYXMgQnl0ZUFycmF5LCBTdGFuZGFyZENoYXJzZXRzLlVURl84KQoJCQl9CgkJfQoJCXJldHVybiBwYXJhbXMudG9TdHJpbmcoKQoJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJRmlsZVV0aWxzLmNvcHlJbnB1dFN0cmVhbVRvRmlsZSgsIHRtcEZpbGUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdmFsIHRtcEZpbGUgPSBGaWxlKEZpbGVVdGlscy5nZXRUZW1wRGlyZWN0b3J5KCksIFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlVXRpbHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyMjIEphdmEgdGVtcGxhdGUKIyBDb21waWxlZCBjbGFzcyBmaWxlCiouY2xhc3MKCiMgTG9nIGZpbGUKKi5sb2cKCiMgQmx1ZUogZmlsZXMKKi5jdHh0CgojIE1vYmlsZSBUb29scyBmb3IgSmF2YSAoSjJNRSkKLm10ai50bXAvCgojIFBhY2thZ2UgRmlsZXMgIwoqLmphcgoqLndhcgoqLm5hcgoqLmVhcgoqLnppcAoqLnRhci5negoqLnJhcgoKIyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbApoc19lcnJfcGlkKgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgbWltZVR5cGUgPSBtaW1lVHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
