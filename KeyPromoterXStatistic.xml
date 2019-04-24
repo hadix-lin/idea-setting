@@ -76,7 +76,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="DDL">
@@ -164,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1670</Count>
+          <Count>1681</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -219,7 +219,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>55</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -259,7 +259,7 @@
           <IdeaActionID>ForceStepInto</IdeaActionID>
           <ShortCut>'⌥⇧F7'</ShortCut>
           <Description>Force Step Into</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -416,7 +416,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>83</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'cos-admin'">
@@ -495,6 +495,14 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun ':runIde'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun ':runIde'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -767,6 +775,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'hadix-test-application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ideavim_extension [buildPlugin]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ideavim_extension [buildPlugin]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
