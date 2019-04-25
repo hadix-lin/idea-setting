@@ -236,11 +236,11 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/application-module.properties" timestamp="1556162243761">
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/application-module.properties" timestamp="1556172546678">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocParameterBuilder.kt" timestamp="1555056516673">
         <mark key="[" line="30" column="30" />
@@ -892,7 +892,7 @@
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556161897809">
+      <file name="/Dummy.txt" timestamp="1556172584776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1556001941169">
@@ -1138,11 +1138,10 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/test/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditorTest.java" timestamp="1556164093713">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/test/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditorTest.java" timestamp="1556172531758">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceImpl.java" timestamp="1554288047568">
         <mark key="[" line="25" column="37" />
@@ -2092,34 +2091,34 @@
         <text>// 删除原始任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgLy9VY0F1ZGl0UGFyYW0oc2lnbmF0dXJlPTU3N2Y0YmVkY2E1YWJkZWVkZWJiZGFiMWY0MjNhMjMyLAogICAgICAgICAvL2NhbGxlcj1wcF9hc3Npc3RhbnQsIG5vbmNlPTEwMDAzMDAwMiwgbW9kdWxlSWQ9NjcsIGNhbGxiYWNrVXJsPSwgY29udGVudElkPTEwMDAzMDAwMiwKICAgICAgICAgLy9jb250ZW50PVtVY0F1ZGl0UGFyYW0uQ29udGVudCh0eXBlPXVzZXJOYW1lLCBjb250ZW50PeiSi+eBtSwgYXVkaXQ9MSksCiAgICAgICAgIC8vVWNBdWRpdFBhcmFtLkNvbnRlbnQodHlwZT10ZXh0LCBjb250ZW50PeaJi+aequWUruWNliwgYXVkaXQ9MSldKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgPQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3VudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgY291bnQgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhc2suc2V0SWQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHRhc2suc2V0SWQobnVsbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhc2suc2V0SWQobnVsbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhc2tNYXBwZXIuZGVsZXRlQnlJZChpbmZvLmdldFRhc2tJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ICAgIHRhc2tNYXBwZXIuZGVsZXRlQnlJZChpbmZvLmdldFRhc2tJZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
