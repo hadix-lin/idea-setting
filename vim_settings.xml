@@ -399,12 +399,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" timestamp="1556076150872">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/user/service/impl/UserServiceImpl.java" timestamp="1556177045317">
         <mark key="'" line="2" column="11" />
-        <mark key="[" line="69" column="44" />
-        <mark key="]" line="69" column="43" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="43" />
+        <mark key="[" line="344" column="72" />
+        <mark key="]" line="344" column="72" />
+        <mark key="^" line="344" column="72" />
+        <mark key="." line="344" column="72" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.9/common-parent-1.2.9.pom" timestamp="1556161139333">
         <mark key="[" line="99" column="49" />
@@ -586,8 +586,8 @@
         <mark key="^" line="48" column="12" />
         <mark key="." line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1555920162657">
-        <mark key="[" line="56" column="91" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" timestamp="1556177398137">
+        <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -892,7 +892,7 @@
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556172584776">
+      <file name="/Dummy.txt" timestamp="1556176688691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1556001941169">
@@ -991,13 +991,13 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/IssueTaskInfo.java" timestamp="1556098476948">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/IssueTaskInfo.java" timestamp="1556176091377">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="28" column="56" />
         <mark key="^" line="28" column="56" />
         <mark key="." line="28" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1556161897801">
+      <file name="/fragment.java" timestamp="1556176688677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -2091,34 +2091,34 @@
         <text>// 删除原始任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgLy9VY0F1ZGl0UGFyYW0oc2lnbmF0dXJlPTU3N2Y0YmVkY2E1YWJkZWVkZWJiZGFiMWY0MjNhMjMyLAogICAgICAgICAvL2NhbGxlcj1wcF9hc3Npc3RhbnQsIG5vbmNlPTEwMDAzMDAwMiwgbW9kdWxlSWQ9NjcsIGNhbGxiYWNrVXJsPSwgY29udGVudElkPTEwMDAzMDAwMiwKICAgICAgICAgLy9jb250ZW50PVtVY0F1ZGl0UGFyYW0uQ29udGVudCh0eXBlPXVzZXJOYW1lLCBjb250ZW50PeiSi+eBtSwgYXVkaXQ9MSksCiAgICAgICAgIC8vVWNBdWRpdFBhcmFtLkNvbnRlbnQodHlwZT10ZXh0LCBjb250ZW50PeaJi+aequWUruWNliwgYXVkaXQ9MSldKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBxdWVyeVdyYXBwZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb3VudDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgPQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChxdWVyeU5hbWUuY29udGFpbnMoIiwiKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhc2suc2V0SWQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAubmVzdGVkKAogICAgICAgICAgICBpIC0+IHsKICAgICAgICAgICAgICByZXR1cm4gaS5saWtlKFVzZXI6OmdldFVzZXJuYW1lLCBxdWVyeU5hbWUpLm9yKCkubGlrZShVc2VyOjpnZXROaWNrbmFtZSwgcXVlcnlOYW1lKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2suc2V0SWQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTdHJpbmcgcXVlcnlOYW1lID0gcS5nZXROYW1lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgLy9VY0F1ZGl0UGFyYW0oc2lnbmF0dXJlPTU3N2Y0YmVkY2E1YWJkZWVkZWJiZGFiMWY0MjNhMjMyLAogICAgICAgICAvL2NhbGxlcj1wcF9hc3Npc3RhbnQsIG5vbmNlPTEwMDAzMDAwMiwgbW9kdWxlSWQ9NjcsIGNhbGxiYWNrVXJsPSwgY29udGVudElkPTEwMDAzMDAwMiwKICAgICAgICAgLy9jb250ZW50PVtVY0F1ZGl0UGFyYW0uQ29udGVudCh0eXBlPXVzZXJOYW1lLCBjb250ZW50PeiSi+eBtSwgYXVkaXQ9MSksCiAgICAgICAgIC8vVWNBdWRpdFBhcmFtLkNvbnRlbnQodHlwZT10ZXh0LCBjb250ZW50PeaJi+aequWUruWNliwgYXVkaXQ9MSldKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhc2tNYXBwZXIuZGVsZXRlQnlJZChpbmZvLmdldFRhc2tJZCgpKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3VudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgY291bnQgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
