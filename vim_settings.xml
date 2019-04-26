@@ -899,7 +899,7 @@
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556249978806">
+      <file name="/Dummy.txt" timestamp="1556259759675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1556001941169">
@@ -1058,11 +1058,12 @@
         <mark key="^" line="2429" column="67" />
         <mark key="." line="2429" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1556247293486">
-        <mark key="'" line="225" column="18" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" timestamp="1556259167508">
+        <mark key="'" line="229" column="18" />
+        <mark key="[" line="135" column="56" />
+        <mark key="]" line="135" column="55" />
+        <mark key="." line="135" column="55" />
+        <mark key="^" line="135" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/ContentRecommend.java" timestamp="1555493528918">
         <mark key="[" line="19" column="40" />
@@ -1763,12 +1764,12 @@
         <mark key="^" line="184" column="52" />
         <mark key="." line="184" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1556244405272">
-        <mark key="'" line="174" column="44" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" timestamp="1556259741951">
+        <mark key="'" line="188" column="44" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="90" column="19" />
+        <mark key="." line="90" column="19" />
+        <mark key="^" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554173651742">
         <mark key="[" line="115" column="36" />
@@ -1848,12 +1849,12 @@
         <mark key="^" line="57" column="37" />
         <mark key="." line="57" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1556179848348">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1556259211223">
         <mark key="'" line="170" column="22" />
-        <mark key="[" line="237" column="35" />
-        <mark key="]" line="238" column="20" />
-        <mark key="." line="238" column="20" />
-        <mark key="^" line="238" column="20" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/resources/mybatis/visit_special_areaMapper.xml" timestamp="1554299612238">
         <mark key="[" line="16" column="0" />
@@ -2086,34 +2087,34 @@
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSBBZG1pbkhzZkFwaUNvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHAudGFpci5uYW1lc3BhY2U9MTUK</text>
+        <text encoding="base64">ICAgIHRhc2sK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGFzay5zZXRFeHBpcmVkVGltZShzdWJtaXRUaW1lICsgZ2V0T3JDcmVhdGVFeHQodGFzaykuZ2V0UHJlUmV2aWV3RHVyYXRpb24oKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvbmcgdXNlcklkMyA9IFVzZXJVdGlsLmluc2VydFVzZXIoInRlc3QzIiwgInRlc3QzIik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvbmcgdXNlcklkMiA9IFVzZXJVdGlsLmluc2VydFVzZXIoInRlc3QyIiwgInRlc3QyIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgaW50IG9yZGVyID0gRmlsdGVyUmVnaXN0cmF0aW9uQmVhbi5SRVFVRVNUX1dSQVBQRVJfRklMVEVSX01BWF9PUkRFUiAtIDEwNTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRhc2suc2V0cHJlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHAudGFpci5uYW1lc3BhY2U9MTUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGFzay5zZXRFeHBpcmVkVGltZShzdWJtaXRUaW1lICsgZ2V0T3JDcmVhdGVFeHQodGFzaykuZ2V0UHJlUmV2aWV3RHVyYXRpb24oKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2aW1DbWQ/LnR5cGUgPT0gQ29tbWFuZC5UeXBlLklOU0VSVCkgewogICAgICAgICAgICAgICAgICAgIGV4ZWN1dG9yLmV4ZWN1dGUgeyBzd2l0Y2hlci5yZXN0b3JlKCkgfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxvbmcgdXNlcklkMyA9IFVzZXJVdGlsLmluc2VydFVzZXIoInRlc3QzIiwgInRlc3QzIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGxvbmcgdXNlcklkMiA9IFVzZXJVdGlsLmluc2VydFVzZXIoInRlc3QyIiwgInRlc3QyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aW1DbWQ/LmFjdGlvbi4K</text>
+        <text encoding="base64">CXByaXZhdGUgaW50IG9yZGVyID0gRmlsdGVyUmVnaXN0cmF0aW9uQmVhbi5SRVFVRVNUX1dSQVBQRVJfRklMVEVSX01BWF9PUkRFUiAtIDEwNTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
