@@ -27,6 +27,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/src/main/kotlin/io/github/hadixlin/springfoxplus/SpringfoxPlusProperties.kt" timestamp="1556544451569">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/apache/ApacheHttp.kt" timestamp="1556365325352">
         <mark key="[" line="30" column="36" />
         <mark key="]" line="30" column="53" />
@@ -39,11 +45,33 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/DocAutoConfiguration.kt" timestamp="1556461369857">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="75" column="75" />
+        <mark key="^" line="75" column="75" />
+        <mark key="." line="75" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-support/src/main/kotlin/io/github/hadixlin/springfox/ApiDocGroup.kt" timestamp="1556462931844">
+        <mark key="'" line="6" column="11" />
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="46" column="6" />
+        <mark key="^" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/src/main/kotlin/io/github/hadixlin/springfoxplus/DocProperties.kt" timestamp="1556461592958">
+        <mark key="[" line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/apache/ApacheHttpRequest.kt" timestamp="1556367017594">
         <mark key="[" line="112" column="60" />
         <mark key="]" line="112" column="59" />
         <mark key="." line="112" column="59" />
         <mark key="^" line="112" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-support/src/main/kotlin/io/github/hadixlin/springfox/DocInfo.kt" timestamp="1556462829873">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/parameter/SwaggerExpandedParameterBuilder.java" timestamp="1554043842331">
         <mark key="[" line="77" column="1" />
@@ -56,6 +84,12 @@
         <mark key="]" line="36" column="4" />
         <mark key="." line="19" column="49" />
         <mark key="^" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/external/CustomApiExternalDocsOperationBuilder.kt" timestamp="1556455382896">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryAndNotesReader.kt" timestamp="1555224262855">
         <mark key="[" line="37" column="40" />
@@ -111,11 +145,11 @@
         <mark key="^" line="36" column="2" />
         <mark key="." line="36" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/pom.xml" timestamp="1555934804442">
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="60" column="12" />
-        <mark key="^" line="60" column="12" />
-        <mark key="." line="60" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/pom.xml" timestamp="1556544253057">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocParameterBuilder.kt" timestamp="1555224148116">
         <mark key="[" line="30" column="45" />
@@ -166,11 +200,20 @@
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/resources/META-INF/doc/springfox.js" timestamp="1556542530285">
+        <mark key="[" line="18" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" timestamp="1555224751707">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/CustomApiParameterBuilder.kt" timestamp="1556544747410">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/test/java/io/github/hadixlin/http/JavaHttpTest.java" timestamp="1556365718124">
         <mark key="[" line="12" column="5" />
@@ -184,16 +227,26 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1556118125254">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" timestamp="1556543856712">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/Json.kt" timestamp="1556366479255">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/pp-common-spring-lib/doc-spring-boot-starter/src/main/java/cn/uc/pp/common/doc/DocAutoConfiguration.java" timestamp="1556458574968">
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="16" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="92" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.20/swagger-annotations-1.5.20-sources.jar!/io/swagger/annotations/ExternalDocs.java" timestamp="1556455276021">
+        <mark key="[" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/Request.java" timestamp="1553928310285">
         <mark key="[" line="4" column="0" />
@@ -237,6 +290,12 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/java/io/github/hadixlin/springfoxplus/AnnotationUtils.java" timestamp="1556460765669">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle.kts" timestamp="1555837500639">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -249,23 +308,40 @@
         <mark key="^" line="29" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/SpringfoxPlusConfiguration.kt" timestamp="1556543801504">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/JavaDoc.kt" timestamp="1553926345566">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="12" column="4" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/README.md" timestamp="1555426185380">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="38" column="31" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/external/CustomApiModelExternalDocsPropertiesBuilder.kt" timestamp="1556460985210">
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="61" column="57" />
+        <mark key="." line="61" column="57" />
+        <mark key="^" line="61" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/impl/okhttp/OkHttp.kt" timestamp="1556365369512">
         <mark key="[" line="49" column="68" />
         <mark key="]" line="49" column="62" />
         <mark key="^" line="49" column="62" />
         <mark key="." line="49" column="62" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/util/ClassUtils.java" timestamp="1556455983357">
+        <mark key="[" line="452" column="25" />
+        <mark key="]" line="452" column="24" />
+        <mark key="^" line="452" column="24" />
+        <mark key="." line="452" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/java/io/github/hadixlin/springfoxplus/AnnotationHelper.java" timestamp="1556460957852">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="74" />
+        <mark key="^" line="10" column="74" />
+        <mark key="." line="10" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/DataProviderTypeEnum.java" timestamp="1553758055074">
         <mark key="[" line="55" column="1" />
@@ -279,11 +355,23 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-support/src/main/kotlin/io/github/hadixlin/springfox/DocGroup.kt" timestamp="1556462910179">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle" timestamp="1555827721435">
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="26" />
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/JavaDocAutoConfiguration.kt" timestamp="1556542973167">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/sample/src/main/java/hadix/Response.java" timestamp="1553928321959">
         <mark key="[" line="8" column="22" />
@@ -314,6 +402,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/DocProperties.kt" timestamp="1556459128200">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" timestamp="1553754268093">
         <mark key="[" line="17" column="22" />
@@ -376,6 +470,15 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/src/main/resources/META-INF/spring.factories" timestamp="1556461793116">
+        <mark key="[" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/src/main/resources/application.properties" timestamp="1556544519112">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/JavaDocAutoConfiguration.kt" timestamp="1555424408442">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -393,6 +496,12 @@
         <mark key="]" line="20" column="53" />
         <mark key="." line="20" column="53" />
         <mark key="^" line="20" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/pom.xml" timestamp="1556544873895">
+        <mark key="[" line="30" column="66" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-extension/src/main/kotlin/io/github/hadixlin/springfoxplus/JavaDocAutoConfiguration.kt" timestamp="1555227945096">
         <mark key="[" line="9" column="7" />
@@ -418,6 +527,12 @@
         <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/JavaDocExpandedParameterBuilder.kt" timestamp="1556459178958">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1553760559020">
         <mark key="[" line="14" column="18" />
@@ -451,6 +566,12 @@
         <mark key="]" line="53" column="41" />
         <mark key="." line="53" column="41" />
         <mark key="^" line="53" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/JavaDocOperationSummaryAndNotesReader.kt" timestamp="1556459205618">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="51" column="38" />
+        <mark key="^" line="51" column="38" />
+        <mark key="." line="51" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-start/src/main/resources/mybatis/app_ops.xml" timestamp="1543234119633">
         <mark key="[" line="51" column="9" />
@@ -488,6 +609,9 @@
         <mark key="]" line="37" column="4" />
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/TypeFullNameProvider.kt" timestamp="1556459150777">
+        <mark key="[" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/http/src/test/kotlin/io/github/hadixlin/http/KotlinHttpTest.kt" timestamp="1556367760988">
         <mark key="[" line="9" column="63" />
@@ -543,11 +667,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/pom.xml" timestamp="1555424659435">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/pom.xml" timestamp="1556544770616">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="62" column="14" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1543386378150">
         <mark key="[" line="182" column="26" />
@@ -555,7 +679,7 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555935730887">
+      <file name="/Dummy.txt" timestamp="1556464210874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/pom.xml" timestamp="1553926427161">
@@ -564,17 +688,11 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-javadoc-core/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/ClasspathDocStore.kt" timestamp="1555425387553">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="4" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/http/.gitignore" timestamp="1556044238330">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-javadoc-core/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/ClasspathDocStore.kt" timestamp="1556542140399">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="9" column="63" />
+        <mark key="." line="9" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/schema/ModelProperty.java" timestamp="1553943743844">
         <mark key="[" line="110" column="26" />
@@ -588,11 +706,23 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2-sources.jar!/springfox/documentation/swagger2/annotations/EnableSwagger2.java" timestamp="1556543440439">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1543383458788">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/src/main/java/io/github/hadixlin/springfoxplus/sample/SampleController.java" timestamp="1556542210711">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-api/3.6.0/maven-plugin-api-3.6.0-sources.jar!/org/apache/maven/plugin/MojoExecutionException.java" timestamp="1553761475255">
         <mark key="[" line="79" column="0" />
@@ -606,11 +736,32 @@
         <mark key="^" line="1435" column="45" />
         <mark key="." line="1435" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/external/CustomApiExternalDocsParameterBuilder.kt" timestamp="1556455544180">
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+        <mark key="." line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/JavaDocParameterBuilder.kt" timestamp="1556459223302">
+        <mark key="[" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/external/ExternalDocsUtils.kt" timestamp="1556455516032">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.30/8622fff29c58300c8d7d74967a0493f16e60d39a/kotlin-gradle-plugin-1.3.30-sources.jar!/org/jetbrains/kotlin/gradle/dsl/KotlinJvmOptions.kt" timestamp="1555837225199">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/src/main/kotlin/io/github/hadixlin/springfoxplus/SpringfoxPlusAutoConfiguration.kt" timestamp="1556461803398">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocParse.java" timestamp="1543314547446">
         <mark key="[" line="62" column="24" />
@@ -624,7 +775,7 @@
         <mark key="^" line="20" column="105" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1556363836750">
+      <file name="/fragment.java" timestamp="1556461307569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -636,9 +787,14 @@
         <mark key="." line="252" column="13" />
         <mark key="^" line="252" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/CustomSwaggerPluginSupport.kt" timestamp="1556454545439">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.6.8--2018-08-stable-hsf-buc-bugfix/hsf-sdk-2.2.6.8--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/hsf/threadpool/impl/SingleThreadScheduledExecutor.java" />
       <jump line="23" column="30" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
       <jump line="28" column="19" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="54" column="32" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application.properties" />
@@ -738,6 +894,7 @@
       <jump line="82" column="45" filename="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/Http.kt" />
       <jump line="66" column="54" filename="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/HttpRequest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/http/src/main/kotlin/io/github/hadixlin/http/HttpRequest.kt" />
+      <jump line="6" column="11" filename="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-support/src/main/kotlin/io/github/hadixlin/springfox/ApiDocGroup.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -750,43 +907,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>(&quot;docAutoConfiguration&quot;</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0JsYW5rKGZpbmFsIENoYXJTZXF1ZW5jZSBjcykgewogICAgICAgIGludCBzdHJMZW47CiAgICAgICAgaWYgKGNzID09IG51bGwgfHwgKHN0ckxlbiA9IGNzLmxlbmd0aCgpKSA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN0ckxlbjsgaSsrKSB7CiAgICAgICAgICAgIGlmICghQ2hhcmFjdGVyLmlzV2hpdGVzcGFjZShjcy5jaGFyQXQoaSkpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgLyoqCiAgICAgKiA8cD5DaGVja3MgaWYgYSBDaGFyU2VxdWVuY2UgaXMgbm90IGVtcHR5ICgiIiksIG5vdCBudWxsIGFuZCBub3Qgd2hpdGVzcGFjZSBvbmx5LjwvcD4KICAgICAqCiAgICAgKiA8cD5XaGl0ZXNwYWNlIGlzIGRlZmluZWQgYnkge0BsaW5rIENoYXJhY3RlciNpc1doaXRlc3BhY2UoY2hhcil9LjwvcD4KICAgICAqCiAgICAgKiA8cHJlPgogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhudWxsKSAgICAgID0gZmFsc2UKICAgICAqIFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoIiIpICAgICAgICA9IGZhbHNlCiAgICAgKiBTdHJpbmdVdGlscy5pc05vdEJsYW5rKCIgIikgICAgICAgPSBmYWxzZQogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuaygiYm9iIikgICAgID0gdHJ1ZQogICAgICogU3RyaW5nVXRpbHMuaXNOb3RCbGFuaygiICBib2IgICIpID0gdHJ1ZQogICAgICogPC9wcmU+CiAgICAgKgogICAgICogQHBhcmFtIGNzICB0aGUgQ2hhclNlcXVlbmNlIHRvIGNoZWNrLCBtYXkgYmUgbnVsbAogICAgICogQHJldHVybiB7QGNvZGUgdHJ1ZX0gaWYgdGhlIENoYXJTZXF1ZW5jZSBpcwogICAgICogIG5vdCBlbXB0eSBhbmQgbm90IG51bGwgYW5kIG5vdCB3aGl0ZXNwYWNlIG9ubHkKICAgICAqIEBzaW5jZSAyLjAKICAgICAqIEBzaW5jZSAzLjAgQ2hhbmdlZCBzaWduYXR1cmUgZnJvbSBpc05vdEJsYW5rKFN0cmluZykgdG8gaXNOb3RCbGFuayhDaGFyU2VxdWVuY2UpCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc05vdEJsYW5rKGZpbmFsIENoYXJTZXF1ZW5jZSBjcykgewogICAgICAgIHJldHVybiAhaXNCbGFuayhjcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxzcHJpbmctYm9vdC52ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3NwcmluZy1ib290LnZlcnNpb24+CiAgICA8c3ByaW5nZm94LnZlcnNpbj4yLjkuMjwvc3ByaW5nZm94LnZlcnNpbj4KICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgIDxzcHJpbmctYm9vdC52ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3NwcmluZy1ib290LnZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2ViPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4ke3NwcmluZy1ib290LnZlcnNpb259PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcucHJvamVjdGxvbWJvazwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9tYm9rPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjE4LjQ8L3ZlcnNpb24+CiAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeQogICAgICAgICAgICAuYWRkUmVzb3VyY2VIYW5kbGVyKCIvdjIvKioiKQogICAgICAgICAgICAuYWRkUmVzb3VyY2VMb2NhdGlvbnMoImNsYXNzcGF0aDovTUVUQS1JTkYvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwLkJ1aWxkZXI8Pz4gYnVpbGRlciA9IEh0dHAubmV3QnVpbGRlcigpOwogICAgICAgIEh0dHBDbGllbnRCdWlsZGVyIGludGVybmFsQnVpbGRlciA9ICgoQXBhY2hlSHR0cC5CdWlsZGVyKSBidWlsZGVyKS5nZXRJbnRlcm5hbEJ1aWxkZXIoKTsKICAgICAgICBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlc3AgPSAiICsgcmVzcCk7Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRG9jU3RvcmUgZG9jU3RvcmUoKSB7CiAgICAgICAgVVJMIHJlc291cmNlID0gU2FtcGxlQ29udHJvbGxlci5jbGFzcy5nZXRSZXNvdXJjZSgiL01FVEEtSU5GL2phdmFkb2MiKTsKICAgICAgICByZXR1cm4gbmV3IERpc2tEb2NTdG9yZShuZXcgRmlsZShyZXNvdXJjZS5nZXRGaWxlKCkpLmdldFBhdGgoKSk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
