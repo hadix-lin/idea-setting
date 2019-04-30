@@ -313,7 +313,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -360,6 +360,14 @@
         <Item>
           <ShortCut>'⌘+M'</ShortCut>
           <Description>Module</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="MyBatis Log Plugin">
+        <Item>
+          <IdeaActionID>TailMyBatisLog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘O'</ShortCut>
+          <Description>MyBatis Log Plugin</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
