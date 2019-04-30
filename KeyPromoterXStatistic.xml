@@ -164,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1714</Count>
+          <Count>1716</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1165,6 +1165,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cn.uc.pp.cos in cos-start'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'cn.uc.pp.cos.open in cos-open'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'cn.uc.pp.cos.open in cos-open'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
