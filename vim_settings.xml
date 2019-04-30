@@ -348,7 +348,7 @@
         <mark key="^" line="33" column="80" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="/a.sql" timestamp="1556516699674">
+      <file name="/a.sql" timestamp="1556603669371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/enums/CommentOnlineStatus.java" timestamp="1554297045958">
@@ -902,7 +902,7 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1556517624493">
+      <file name="/dummy.sql" timestamp="1556603672259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" timestamp="1555397227398">
@@ -911,7 +911,7 @@
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556526930391">
+      <file name="/Dummy.txt" timestamp="1556603672239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/behavior/comment/service/CommentServiceV3.java" timestamp="1556001941169">
@@ -1783,6 +1783,12 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiNormalUserTest.java" timestamp="1556603607620">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="183" column="49" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="37" column="4" />
@@ -2107,37 +2113,37 @@
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIucmVzZXROYW1lc3BhY2UobmFtZXNwYWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrID0gdGFzay5zZWxlY3RCeUlkKCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKFN0YXR1cy5TVUJNSVRURUQsIHRhc2suZ2V0U3RhdHVzKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhnZXRVc2VySWQoKSwgdGFzay5nZXRVc2VySWQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGdldE5pY2tuYW1lKCksIHRhc2suZ2V0VXNlck5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFpck1hbmFnZXIgaW5zdGFuY2VvZiBEZWZhdWx0VGFpck1hbmFnZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZ2V0VXNlcklkKCksIHRhc2suZ2V0VXNlcklkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhnZXROaWNrbmFtZSgpLCB0YXNrLmdldFVzZXJOYW1lKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIucmVzZXROYW1lc3BhY2UobmFtZXNwYWNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFpck1hbmFnZXIgaW5zdGFuY2VvZiBEZWZhdWx0VGFpck1hbmFnZXIpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWlyTWFuYWdlci5yZXNldE5hbWVzcGFjZShuYW1lc3BhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIucmVzZXROYW1lc3BhY2UobmFtZXNwYWNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGFpck1hbmFnZXJXcmFwcGVyIHdwID0KICAgICAgICAgICAgICAgIHdwOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0YWlyTWFuYWdlci5yZXNldE5hbWVzcGFjZShuYW1lc3BhY2UpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIgPSB3cC5nZXREZWxlZ2F0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGFpck1hbmFnZXJXcmFwcGVyIHdwID0KICAgICAgICAgICAgICAgIHdwOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I+a1i+ivleS9v+eUqOiHquW3seWunuS+i+WMlueahHRhaXJNYW5hZ2VyCnNwcmluZy50YWlyLmVuYWJsZWQ9ZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIgPSB3cC5nZXREZWxlZ2F0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
