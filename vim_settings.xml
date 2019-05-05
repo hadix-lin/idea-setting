@@ -198,11 +198,11 @@
         <mark key="^" line="37" column="42" />
         <mark key="." line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/cache/HsfCacheBaseTest.java" timestamp="1556609773685">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/cache/HsfCacheBaseTest.java" timestamp="1557022877930">
+        <mark key="[" line="44" column="73" />
+        <mark key="]" line="45" column="74" />
+        <mark key="." line="45" column="74" />
+        <mark key="^" line="45" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.6.23/csi-common-1.6.23.pom" timestamp="1554816432216">
         <mark key="[" line="1" column="0" />
@@ -645,7 +645,7 @@
         <mark key="^" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/PPTestBase.java" timestamp="1557019959116" />
+      <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/PPTestBase.java" timestamp="1557020007812" />
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1555054544516">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="23" column="1" />
@@ -996,11 +996,11 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/cache/AdminTairManager.java" timestamp="1556593578376">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/cache/AdminTairManager.java" timestamp="1557022307363">
+        <mark key="[" line="109" column="20" />
+        <mark key="]" line="109" column="19" />
+        <mark key="^" line="109" column="19" />
+        <mark key="." line="109" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-base-api/1.2.9/common-base-api-1.2.9-sources.jar!/cn/uc/pp/common/base/api/GeneralResponse.java" timestamp="1555655525464">
         <mark key="[" line="16" column="14" />
@@ -2128,7 +2128,7 @@
         <text encoding="base64">ICAgICAgICB0YXNrID0gdGFzay5zZWxlY3RCeUlkKCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKFN0YXR1cy5TVUJNSVRURUQsIHRhc2suZ2V0U3RhdHVzKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhnZXRVc2VySWQoKSwgdGFzay5nZXRVc2VySWQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKGdldE5pY2tuYW1lKCksIHRhc2suZ2V0VXNlck5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3RhaXLmnI3liqHlmajphY3nva4KcHAudGFpci5zZXJ2ZXJzPTExLjMuMTM4LjQ5OjUxOTgKI3BwLnRhaXIuZ3JvdXA9Z3JvdXBfcHBhbmRyX2xkYl81MTkxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIucmVzZXROYW1lc3BhY2UobmFtZXNwYWNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2137,22 +2137,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stc3ByaW5nLWRldi54bWwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stc3ByaW5nLnhtbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZ2V0VXNlcklkKCksIHRhc2suZ2V0VXNlcklkKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhnZXROaWNrbmFtZSgpLCB0YXNrLmdldFVzZXJOYW1lKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGFpck1hbmFnZXIgaW5zdGFuY2VvZiBEZWZhdWx0VGFpck1hbmFnZXIpIHsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFpck1hbmFnZXIucmVzZXROYW1lc3BhY2UobmFtZXNwYWNlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3AuaWZQcmVzZW50KHRhaXJNYW5hZ2VyV3JhcHBlciAtPiB0YWlyTWFuYWdlciA9IHRhaXJNYW5hZ2VyV3JhcHBlci5nZXREZWxlZ2F0ZSgpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWw8VGFpck1hbmFnZXJXcmFwcGVyPiB3cCA9CiAgICAgICAgICAgICAgICAgICAgY29uZmlncwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldENvbnRyb2xsZXIoKS5nZXRDbHVzdGVyTWFwKCkudmFsdWVzKCkuc3RyZWFtKCkuZmluZEZpcnN0KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I3RhaXLmnI3liqHlmajphY3nva4KcHAudGFpci5zZXJ2ZXJzPTExLjMuMTM4LjQ5OjUxOTgKI3BwLnRhaXIuZ3JvdXA9Z3JvdXBfcHBhbmRyX2xkYl81MTkxCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
