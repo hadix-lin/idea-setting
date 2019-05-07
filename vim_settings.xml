@@ -648,6 +648,12 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/ArticleHsfConfiguration.java" timestamp="1557217649801">
+        <mark key="[" line="37" column="60" />
+        <mark key="]" line="37" column="51" />
+        <mark key="^" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/schedulerx/schedulerx-api/1.0.3/schedulerx-api-1.0.3-sources.jar!/com/alibaba/dts/common/domain/result/ProcessResult.java" timestamp="1554885672279">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="9" />
@@ -707,6 +713,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/ArticleHsfProperties.java" timestamp="1557217595450">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/dao/UserActionLogMapper.java" timestamp="1553845038927">
         <mark key="[" line="18" column="15" />
@@ -992,6 +1004,12 @@
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/application-module.properties" timestamp="1557217663100">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-parent/1.0.0/csi-parent-1.0.0.pom" timestamp="1554814141608">
         <mark key="[" line="0" column="1" />
@@ -1465,11 +1483,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1557211893924">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="228" column="12" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1557217431636">
+        <mark key="'" line="263" column="0" />
+        <mark key="[" line="252" column="13" />
+        <mark key="]" line="252" column="12" />
+        <mark key="^" line="252" column="12" />
+        <mark key="." line="252" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/LoginUser.java" timestamp="1555643473437">
         <mark key="[" line="15" column="22" />
@@ -2005,8 +2024,8 @@
         <mark key="^" line="102" column="26" />
         <mark key="." line="102" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1557198407987">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/resources/application-dev_local.properties" timestamp="1557217671114">
+        <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
@@ -2079,7 +2098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="13" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/CommentAuditServiceImpl.java" />
       <jump line="109" column="17" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/CommentAuditServiceImpl.java" />
       <jump line="20" column="13" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" />
       <jump line="55" column="54" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" />
@@ -2179,6 +2197,7 @@
       <jump line="182" column="90" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/task/AdminTaskApiTest.java" />
       <jump line="285" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="47" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2191,40 +2210,40 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gT3B0aW9uYWwub2YodGFzaykgOiBPcHRpb25hbC5lbXB0eSgp</text>
+        <text>if (task.getNeedPreReview()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icS51c2VyVHlwZS5uYW1lKCkgZXEgJ1JFVklFV19VU0VSJyI+CiAgICAgICAgICBhbmQgdC5yZXZpZXdlciBsaWtlIGNvbmNhdCgnJScsI3txLnVzZXJOYW1lfSwnJScpCiAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">Y29zLm9wZW4uaHNmLmFydGljbGUudmVyc2lvbj0xLjAuMS5EQUlMWQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBDYWNoZUV2aWN0KGtleSA9ICIndGFza19zdW1tYXJ5OicrI3VzZXIudXNlcklkIiksCg==</text>
+        <text encoding="base64">Y29zLm9wZW4uaHNmLmFydGljbGUudmVyc2lvbj0xLjAuMS5EQUlMWQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZpY3QgPSB7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFSVElDTEVfU0VSVklDRV9IU0ZfR1JPVVAgPSAiYWNtbmdhZHYiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVJUSUNMRV9TRVJWSUNFX0hTRl9WRVJTSU9OID0gIjEuMC4xLkRBSUxZIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDYWNoaW5nKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRTdGF0dXMoUFJFX1JFVklFV19UQUtFTik7CiAgICAgICAgICAgIHRhc2suc2V0UHJlVGFrZVRpbWUoc3VibWl0VGltZSk7CiAgICAgICAgICAgIHRhc2suc2V0RXhwaXJlZFRpbWUoc3VibWl0VGltZSArIGdldE9yQ3JlYXRlRXh0KHRhc2spLmdldFByZVJldmlld0R1cmF0aW9uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBDYWNoZUV2aWN0KGtleSA9ICIndGFza19zdW1tYXJ5OicrI3VzZXIudXNlcklkIiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2suc2V0UHJlVGFrZVRpbWUoc3VibWl0VGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZpY3QgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDYWNoaW5nKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zZXRTdGF0dXModGFzay5nZXRTdGF0dXMoKT09UkVKRUNURUQpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
