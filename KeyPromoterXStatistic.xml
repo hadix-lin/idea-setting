@@ -164,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1751</Count>
+          <Count>1752</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -666,6 +666,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OpenTaskApiPreviewUserTest.preReviewSkipped'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OpenTaskApiPreviewUserTest.preReviewSkipped'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OpenTaskApiPreviewUserTest.take'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -783,7 +791,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'cn.uc.pp.cos.open in cos-open'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cos-modularized'">
