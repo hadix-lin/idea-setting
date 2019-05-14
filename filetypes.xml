@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DockerFile" type="Flow" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="dir_holder" type="PLAIN_TEXT" />
       <mapping pattern="nothing" type="PLAIN_TEXT" />
