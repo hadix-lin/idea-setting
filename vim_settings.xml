@@ -60,11 +60,12 @@
         <mark key="^" line="872" column="27" />
         <mark key="." line="872" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/docker-image/Dockerfile" timestamp="1557821287091">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/docker-image/Dockerfile" timestamp="1557830305633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/job/UnlockExpiredTaskJob.java" timestamp="1556440916217">
         <mark key="[" line="36" column="78" />
@@ -1604,7 +1605,7 @@
         <mark key="^" line="758" column="40" />
         <mark key="." line="758" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/f_1.0.7.0/creator_open.sql" timestamp="1557828599393">
+      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-start/src/main/sql/f_1.0.7.0/creator_open.sql" timestamp="1557829789324">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="17" column="30" />
         <mark key="^" line="17" column="30" />
@@ -2164,8 +2165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" />
-      <jump line="55" column="54" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" />
       <jump line="445" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentService.java" />
@@ -2264,6 +2263,8 @@
       <jump line="47" column="4" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="263" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="79" column="8" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/resources/mybatis/task_mapper.xml" />
+      <jump line="4" column="10" filename="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/docker-image/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/docker-image/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2285,31 +2286,31 @@
         <text encoding="base64">ICAgICAqIOekuuS+i+aWueazleeahOazqOmHijxicj4KICAgICAqIOekuuS+i+aWueazleeahOazqOmHiuesrOS6jOihjAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nZm94LXBsdXMuZW5hYmxlPXRydWUK</text>
+        <text encoding="base64">Vk9MVU1FIC9hcHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmFvcC5wcm94eS10YXJnZXQtY2xhc3M9dHJ1ZQo=</text>
+        <text encoding="base64">Q01EIFsiamF2YSIsIi1qYXIiLCIiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmFvcC5hdXRvPXRydWUK</text>
+        <text encoding="base64">c3ByaW5nZm94LXBsdXMuZW5hYmxlPXRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItYW9wPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">c3ByaW5nLmFvcC5wcm94eS10YXJnZXQtY2xhc3M9dHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzcHJpbmdmb3gtcGx1cy52ZXJzaW9uPjEuMC4wPC9zcHJpbmdmb3gtcGx1cy52ZXJzaW9uPgo=</text>
+        <text encoding="base64">c3ByaW5nLmFvcC5hdXRvPXRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItYW9wPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzcHJpbmctYm9vdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDxzcHJpbmdmb3gtcGx1cy52ZXJzaW9uPjEuMC4wPC9zcHJpbmdmb3gtcGx1cy52ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzcHJpbmctYm9vdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzcHJpbmctYm9vdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
