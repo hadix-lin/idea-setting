@@ -550,6 +550,12 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="24" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1558082747983">
+        <mark key="[" line="266" column="14" />
+        <mark key="]" line="266" column="13" />
+        <mark key="^" line="266" column="13" />
+        <mark key="." line="266" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/TopicHandlerExecutor.java" timestamp="1554082370625">
         <mark key="[" line="9" column="78" />
         <mark key="]" line="9" column="77" />
@@ -885,6 +891,11 @@
         <mark key="]" line="36" column="13" />
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" timestamp="1558083686457">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditResult.java" timestamp="1554729359521">
         <mark key="[" line="16" column="32" />
@@ -1267,6 +1278,12 @@
         <mark key="]" line="78" column="28" />
         <mark key="^" line="78" column="28" />
         <mark key="." line="78" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/RemoteLock.java" timestamp="1558083653734">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/java/Application.java" timestamp="1554288899680">
         <mark key="[" line="0" column="26" />
@@ -1661,10 +1678,11 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/HashResourceLock.java" timestamp="1558081338782">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/HashResourceLock.java" timestamp="1558082714710">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/resources/application-ci.properties" timestamp="1557195429143">
         <mark key="[" line="13" column="0" />
@@ -2328,34 +2346,34 @@
         <text encoding="base64">ICAgICAgICBpbnQgc3RhdGUgPSBnZXRTdGF0ZSgpOwogICAgICAgIGludCBsb2NrU3RhdGUgPSBzdGF0ZSAmIGhhc2g7CiAgICAgICAgaWYgKGxvY2tTdGF0ZSA9PSBzdGF0ZSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb21wYXJlQW5kU2V0U3RhdGUoc3RhdGUsIGxvY2tTdGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW1vdGVMb2NrID0gbmV3IFJlbW90ZUxvY2socmVkaXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBEb3VibGVMb2NrT25jZU9ubHlUYXNrVGVtcGxhdGUoUmVtb3RlTG9jaykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHJlZGlzLmRlbChnZXRMb2NrS2V5KGtleSkpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLndhcm4oIui/nOeoi+ino+mUgeWksei0pSIsIGUpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudHJ5QWNxdWlyZShhcmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBnZXRMb2NrS2V5KFN0cmluZyBrZXkpIHsKICAgIHJldHVybiBsb2NrUHJlZml4ICsga2V5OwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN5bmMgc3luYyAK</text>
+        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBsb2NrS2V5ID0gZ2V0TG9ja0tleShrZXkpOwogICAgdHJ5IHsKICAgICAgYm9vbGVhbiBpc1N1Y2Nlc3MgPSByZWRpcy5zZXRueChsb2NrS2V5LCAiMSIpID09IDFMOwogICAgICBpZiAoaXNTdWNjZXNzKSB7CiAgICAgICAgcmVkaXMuZXhwaXJlKGxvY2tLZXksIDUpOwogICAgICB9CiAgICAgIHJldHVybiBpc1N1Y2Nlc3M7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUmVtb3RlTG9jay5jbGFzcyk7CgogIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBsb2NrUHJlZml4ID0gImxvY2s6IjsKICBwcml2YXRlIGZpbmFsIElSZWRpc0NsaWVudCByZWRpczsKCiAgQEF1dG93aXJlZAogIHB1YmxpYyBSZW1vdGVMb2NrKElSZWRpc0NsaWVudCByZWRpcykgewogICAgdGhpcy5yZWRpcyA9IHJlZGlzOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
