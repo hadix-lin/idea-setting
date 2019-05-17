@@ -370,6 +370,12 @@
         <mark key="^" line="33" column="80" />
         <mark key="." line="33" column="80" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" timestamp="1558085341992">
+        <mark key="[" line="540" column="17" />
+        <mark key="]" line="540" column="16" />
+        <mark key="^" line="540" column="16" />
+        <mark key="." line="540" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/comment/enums/CommentOnlineStatus.java" timestamp="1554297045958">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="13" />
@@ -892,10 +898,12 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" timestamp="1558083686457">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" timestamp="1558087794570">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditResult.java" timestamp="1554729359521">
         <mark key="[" line="16" column="32" />
@@ -1122,7 +1130,7 @@
         <mark key="^" line="41" column="72" />
         <mark key="." line="41" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1557833986778">
+      <file name="/fragment.java" timestamp="1558084742926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -1139,6 +1147,13 @@
         <mark key="]" line="833" column="51" />
         <mark key="^" line="833" column="51" />
         <mark key="." line="833" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/AbstractDoubleLockOnceOnlyTask.java" timestamp="1558090280212">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="37" />
+        <mark key="^" line="55" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-support-maven-plugin/src/main/java/cn/uc/pp/common/doc/JavaDocGenerator.java" timestamp="1556016532692">
         <mark key="[" line="21" column="49" />
@@ -1279,11 +1294,11 @@
         <mark key="^" line="78" column="28" />
         <mark key="." line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/RemoteLock.java" timestamp="1558083653734">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/RemoteLock.java" timestamp="1558089085363">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/java/Application.java" timestamp="1554288899680">
         <mark key="[" line="0" column="26" />
@@ -2225,14 +2240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$MAVEN_REPOSITORY$/com/taobao/parent/1.0.2/parent-1.0.2.pom" />
-      <jump line="18" column="15" filename="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.6.12-SNAPSHOT/csi-common-1.6.12-SNAPSHOT.pom" />
-      <jump line="43" column="17" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/uc/UcAuditor.java" />
-      <jump line="87" column="30" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
-      <jump line="26" column="27" filename="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" />
-      <jump line="27" column="17" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/SubjectCommentDao.java" />
-      <jump line="27" column="17" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" />
-      <jump line="86" column="3" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentReplyDao.java" />
       <jump line="24" column="43" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentReplyDao.java" />
       <jump line="65" column="24" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
       <jump line="18" column="24" filename="$USER_HOME$/Documents/Projects/user_behavior_service/pom.xml" />
@@ -2325,6 +2332,14 @@
       <jump line="395" column="30" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/service/impl/TaskServiceImpl.java" />
       <jump line="155" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" />
       <jump line="706" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" />
+      <jump line="26" column="28" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="7" column="28" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="91" column="3" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="100" column="31" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="105" column="7" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="30" column="65" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/DoubleLockOnceOnlyTaskTemplate.java" />
+      <jump line="56" column="12" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/AbstractDoubleLockOnceOnlyTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2337,43 +2352,43 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>throws TimeoutException, InterruptedException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RhdGUgPSBnZXRTdGF0ZSgpOwogICAgICAgIGludCBsb2NrU3RhdGUgPSBzdGF0ZSAmIGhhc2g7CiAgICAgICAgaWYgKGxvY2tTdGF0ZSA9PSBzdGF0ZSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb21wYXJlQW5kU2V0U3RhdGUoc3RhdGUsIGxvY2tTdGF0ZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Thread.currentThread()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGUgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdGVMb2NrID0gbmV3IFJlbW90ZUxvY2socmVkaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG1vZGU9PSAgV1JJVEU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBEb3VibGVMb2NrT25jZU9ubHlUYXNrVGVtcGxhdGUoUmVtb3RlTG9jaykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHJlZGlzLmRlbChnZXRMb2NrS2V5KGtleSkpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLndhcm4oIui/nOeoi+ino+mUgeWksei0pSIsIGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2sucmVhZExvY2soKS5sb2NrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBnZXRMb2NrS2V5KFN0cmluZyBrZXkpIHsKICAgIHJldHVybiBsb2NrUHJlZml4ICsga2V5OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVvdXQgPD0gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBsb2NrS2V5ID0gZ2V0TG9ja0tleShrZXkpOwogICAgdHJ5IHsKICAgICAgYm9vbGVhbiBpc1N1Y2Nlc3MgPSByZWRpcy5zZXRueChsb2NrS2V5LCAiMSIpID09IDFMOwogICAgICBpZiAoaXNTdWNjZXNzKSB7CiAgICAgICAgcmVkaXMuZXhwaXJlKGxvY2tLZXksIDUpOwogICAgICB9CiAgICAgIHJldHVybiBpc1N1Y2Nlc3M7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfUkVNT1RFX0xPQ0tfVElNRU9VVCA9IDMwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUmVtb3RlTG9jay5jbGFzcyk7CgogIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBsb2NrUHJlZml4ID0gImxvY2s6IjsKICBwcml2YXRlIGZpbmFsIElSZWRpc0NsaWVudCByZWRpczsKCiAgQEF1dG93aXJlZAogIHB1YmxpYyBSZW1vdGVMb2NrKElSZWRpc0NsaWVudCByZWRpcykgewogICAgdGhpcy5yZWRpcyA9IHJlZGlzOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5by65Yi26L+c56iL6ZSB5b+F6aG75pyJ6LaF5pe25pe26Ze0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
