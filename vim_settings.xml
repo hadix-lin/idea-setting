@@ -100,11 +100,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1555470132705">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/UserBehaviorConfiguration.java" timestamp="1558335412228">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json5" timestamp="1555484113768">
         <mark key="[" line="74" column="20" />
@@ -1033,9 +1033,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java" timestamp="1558080946592">
-        <mark key="'" line="706" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/main/resource/api/VideoApi.java" timestamp="1555463994278">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="23" />
@@ -1333,11 +1330,11 @@
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class" timestamp="1558334170947">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class" timestamp="1558335285516">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1556276202987">
         <mark key="[" line="10" column="36" />
@@ -1578,9 +1575,6 @@
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" timestamp="1558058398412">
-        <mark key="'" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/LoginUser.java" timestamp="1555643473437">
         <mark key="[" line="15" column="22" />
@@ -1915,6 +1909,13 @@
         <mark key="^" line="93" column="9" />
         <mark key="." line="93" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" timestamp="1558335336939">
+        <mark key="'" line="135" column="20" />
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="66" column="4" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="66" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/logs/ppcache/cache.log" timestamp="1554100956314">
         <mark key="[" line="2372" column="68" />
         <mark key="]" line="2372" column="67" />
@@ -2095,7 +2096,7 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-base/1.2.9/common-base-1.2.9-sources.jar!/cn/uc/pp/common/base/dao/MybatisPlusConfiguration.java" timestamp="1556178924753">
+      <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-base/1.2.9/common-base-1.2.9-sources.jar!/cn/uc/pp/common/base/dao/MybatisPlusConfiguration.java" timestamp="1558335451035">
         <mark key="[" line="74" column="27" />
         <mark key="]" line="74" column="26" />
         <mark key="^" line="74" column="26" />
@@ -2269,7 +2270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="25" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" />
       <jump line="101" column="35" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" />
       <jump line="484" column="28" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="21" column="6" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
@@ -2369,6 +2369,7 @@
       <jump line="1510" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.0.RELEASE/spring-boot-dependencies-2.1.0.RELEASE.pom" />
       <jump line="22" column="6" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnClassCondition.class" />
       <jump line="186" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnClassCondition.class" />
+      <jump line="135" column="20" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
