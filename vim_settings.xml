@@ -98,6 +98,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-cache/src/main/java/com/meizu/modularize/cache/spring/AbstractDoubleLockOnceOnlyTask.java" timestamp="1558274786335">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryAndNotesReader.kt" timestamp="1555224262855">
         <mark key="[" line="37" column="40" />
         <mark key="]" line="37" column="39" />
@@ -283,6 +288,12 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-cache/src/main/java/com/meizu/modularize/cache/spring/RedisSyncUpdater.java" timestamp="1558275186411">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/java/io/github/hadixlin/springfoxplus/AnnotationUtils.java" timestamp="1556460765669">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="29" />
@@ -306,6 +317,7 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-websocket/src/main/java/com/meizu/modularize/websocket/StompBrokerProperties.java" timestamp="1558275763171" />
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/SpringfoxPlusConfiguration.kt" timestamp="1556547677401">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="13" />
@@ -599,6 +611,7 @@
         <mark key="^" line="49" column="25" />
         <mark key="." line="49" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/context/config/ConfigFileApplicationListener.java" timestamp="1558275752679" />
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="37" column="4" />
@@ -781,6 +794,12 @@
         <mark key="^" line="17" column="60" />
         <mark key="." line="17" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/modularize-spring-boot/module-starter-cache/src/main/java/com/meizu/modularize/cache/spring/RedisRemoteLock.java" timestamp="1558275071854">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="25" column="46" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/DocParse.java" timestamp="1543314547446">
         <mark key="[" line="62" column="24" />
         <mark key="]" line="63" column="26" />
@@ -933,35 +952,35 @@
       <register name="0" type="2">
         <text encoding="base64">QENvbXBvbmVudApAQ29uZmlndXJhdGlvblByb3BlcnRpZXMoInNwcmluZ2ZveC1wbHVzIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2F0Y2ggKFRpbWVvdXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAKICAgICAgICB9IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZWxkVHlwZS5nZXRmaQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGxvY2soU3RyaW5nIGtleSkge30K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oZS5tZXNzYWdlLCBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbG9ja0tleSA9IGdldExvY2tLZXkoa2V5KTsKICAgICAgICB0cnkgewogICAgICAgICAgICBib29sZWFuIGlzU3VjY2VzcyA9IHJlZGlzLnNldG54KGxvY2tLZXksICIxIikgPT0gMUw7CiAgICAgICAgICAgIGlmIChpc1N1Y2Nlc3MpIHsKICAgICAgICAgICAgICAgIHJlZGlzLmV4cGlyZShsb2NrS2V5LCA1KTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gaXNTdWNjZXNzOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBY2Nlc3NFeGNlcHRpb24pIHsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
