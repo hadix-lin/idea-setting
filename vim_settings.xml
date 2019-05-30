@@ -45,11 +45,11 @@
         <mark key="^" line="30" column="53" />
         <mark key="." line="30" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/win/WinInputSourceSwitcher.kt" timestamp="1554542007542">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="21" />
-        <mark key="^" line="33" column="21" />
-        <mark key="." line="33" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/win/WinInputSourceSwitcher.kt" timestamp="1559202045115">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/src/main/kotlin/io/github/hadixlin/springfoxplus/DocAutoConfiguration.kt" timestamp="1556461369857">
         <mark key="[" line="32" column="13" />
@@ -109,11 +109,11 @@
         <mark key="." line="37" column="39" />
         <mark key="^" line="37" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1555826274665">
-        <mark key="[" line="85" column="7" />
-        <mark key="]" line="85" column="6" />
-        <mark key="^" line="85" column="6" />
-        <mark key="." line="85" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/KeepEnglishInNormalAndRestoreInInsertExtension.kt" timestamp="1559199902162">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-javadoc-core/src/main/kotlin/io/github/hadixlin/springfoxplus/javadoc/JsonDocStore.kt" timestamp="1555425692298">
         <mark key="[" line="36" column="53" />
@@ -616,11 +616,11 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/config/Settings.kt" timestamp="1559197990715">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/config/Settings.kt" timestamp="1559199763769">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/pom.xml" timestamp="1543219539241">
         <mark key="[" line="13" column="18" />
@@ -972,43 +972,44 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>parameterType =</text>
+        <text>var inputMethodInNormal: String</text>
       </register>
       <register name="/" type="4">
         <text>jmx</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QENvbXBvbmVudApAQ29uZmlndXJhdGlvblByb3BlcnRpZXMoInNwcmluZ2ZveC1wbHVzIikK</text>
+      <register name="0" type="4">
+        <text>WinNative.INSTANCE.GetForegroundWindow()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2F0Y2ggKFRpbWVvdXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAKICAgICAgICB9IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBnZXRDdXJyZW50SW5wdXRTb3VyY2UoKTogTG9uZyB7CiAgICAgICAgICAgIHZhbCBod25kID0gV2luTmF0aXZlLklOU1RBTkNFLkdldEZvcmVncm91bmRXaW5kb3coKQogICAgICAgICAgICByZXR1cm4gZ2V0Q3VycmVudElucHV0U291cmNlKGh3bmQpCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaHduZCA9PSBudWxsKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGxvY2soU3RyaW5nIGtleSkge30K</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewoKICAgICAgICAKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBpbnB1dE1ldGhvZEluTm9ybWFsOiBTdHJpbmcK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="9" type="4">
+        <text>{
+}</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
