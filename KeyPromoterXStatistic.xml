@@ -164,7 +164,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1787</Count>
+          <Count>1801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -324,6 +324,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <ShortCut>'⌃⇧⌘M'</ShortCut>
+          <Description>Maven</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven Projects">
         <Item>
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
@@ -456,7 +464,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
