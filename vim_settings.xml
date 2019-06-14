@@ -1557,6 +1557,13 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1560483256792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/samples/simple-counter/src/main/resources/application.properties" timestamp="1558063049822">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="3" column="56" />
@@ -2254,8 +2261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="35" filename="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/main/java/cn/uc/pp/common/ppcache/CacheManagerFactory.java" />
-      <jump line="484" column="28" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.0/kafka-clients-0.8.2.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="21" column="6" filename="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/CommonKafkaListener.java" />
       <jump line="90" column="50" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentDao.java" />
@@ -2354,6 +2359,8 @@
       <jump line="22" column="6" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnClassCondition.class" />
       <jump line="186" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnClassCondition.class" />
       <jump line="135" column="20" filename="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/Comment.java" />
+      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2371,38 +2378,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBpbXBsID0gY2wyLmxvYWRDbGFzcygiY24udWMucHAuY29zLmFkbWluLnRhc2suYXBpLmltcGwuVGFza0FwaUltcGwiKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzZXR0aW5ncz4KICA8c2VydmVycz4KICAgIDxzZXJ2ZXI+CiAgICAgIDxpZD5zbmFwc2hvdHM8L2lkPgogICAgICA8dXNlcm5hbWU+c25hcHNob3RzQWRtaW48L3VzZXJuYW1lPgogICAgICA8cGFzc3dvcmQ+MTIzNDU2PC9wYXNzd29yZD4KICAgIDwvc2VydmVyPgogICAgPHNlcnZlcj4KICAgICAgPGlkPnJlbGVhc2VzPC9pZD4KICAgICAgPHVzZXJuYW1lPmFkbWluPC91c2VybmFtZT4KICAgICAgPHBhc3N3b3JkPnNjcmVjdDwvcGFzc3dvcmQ+CiAgICA8L3NlcnZlcj4KICA8L3NlcnZlcnM+CgogIDwhLS0gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IC0tPgogIDwhLS0gIG1pcnJvciBzZXR0aW5ncyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tPgogIDwhLS0gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IC0tPgogIDxtaXJyb3JzPgogICAgPG1pcnJvcj4KICAgICAgPGlkPnRibWlycm9yLWFsbDwvaWQ+CiAgICAgIDxtaXJyb3JPZj4qPC9taXJyb3JPZj4KICAgICAgPG5hbWU+dGFvYmFvIG1pcnJvcjwvbmFtZT4KICAgICAgPHVybD5odHRwOi8vbXZucmVwby5hbGliYWJhLWluYy5jb20vbXZuL3JlcG9zaXRvcnk8L3VybD4KICAgIDwvbWlycm9yPgogIDwvbWlycm9ycz4KCiAgPHByb2ZpbGVzPgogICAgPHByb2ZpbGU+CiAgICAgIDxpZD5uZXh1czwvaWQ+CiAgICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICA8aWQ+Y2VudHJhbDwvaWQ+CiAgICAgICAgICA8dXJsPmh0dHA6Ly9tdm5yZXBvLmFsaWJhYmEtaW5jLmNvbS9tdm4vcmVwb3NpdG9yeTwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4KICAgICAgPC9yZXBvc2l0b3JpZXM+CiAgICAgIDxwbHVnaW5SZXBvc2l0b3JpZXM+CiAgICAgICAgPHBsdWdpblJlcG9zaXRvcnk+CiAgICAgICAgICA8aWQ+Y2VudHJhbDwvaWQ+CiAgICAgICAgICA8dXJsPmh0dHA6Ly9tdm5yZXBvLmFsaWJhYmEtaW5jLmNvbS9tdm4vcmVwb3NpdG9yeTwvdXJsPgogICAgICAgIDwvcGx1Z2luUmVwb3NpdG9yeT4KICAgICAgPC9wbHVnaW5SZXBvc2l0b3JpZXM+CiAgICA8L3Byb2ZpbGU+CiAgPC9wcm9maWxlcz4KCiAgPHBsdWdpbkdyb3Vwcz4KICAgIDxwbHVnaW5Hcm91cD5jb20uYWxpYmFiYS5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L3BsdWdpbkdyb3VwPgogICAgPHBsdWdpbkdyb3VwPmNvbS5hbGliYWJhLm1hdmVuLnBsdWdpbnM8L3BsdWdpbkdyb3VwPgogIDwvcGx1Z2luR3JvdXBzPgoKICA8YWN0aXZlUHJvZmlsZXM+CiAgICA8YWN0aXZlUHJvZmlsZT5uZXh1czwvYWN0aXZlUHJvZmlsZT4KICA8L2FjdGl2ZVByb2ZpbGVzPgo8L3NldHRpbmdzPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigiYXBpID0gIiArIGFwaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigiYXBpID0gIiArIGFwaSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHN5c3RlbUNsYXNzTG9hZGVyLmdldFVSTHMoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVVJMQ2xhc3NMb2FkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHN5c3RlbUNsYXNzTG9hZGVyLmdldFVSTHMoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguZ2V0YmVhbgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVVJMQ2xhc3NMb2FkZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICBjdHguZ2V0YmVhbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGUgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
