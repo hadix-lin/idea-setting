@@ -5,4 +5,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="query" value="LambdaQueryWrapper&lt;$END$&gt; query = Wrappers.lambdaQuery();&#10;" description="mybatis-plus lambda query declare" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>

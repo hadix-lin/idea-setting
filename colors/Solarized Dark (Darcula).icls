@@ -1,10 +1,6 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-07T23:28:55</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-14T14:53:30</property>
-    <property name="originalScheme">Solarized Dark (Darcula) copy</property>
+    <property name="modified">2019-04-15T18:09:26</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -1313,18 +1309,6 @@
         <option name="BACKGROUND" value="73642" />
       </value>
     </option>
-    <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-        <option name="BACKGROUND" value="3b3b3b" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="3b3b3b" />
-      </value>
-    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1652,6 +1636,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_BUILTIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -1674,6 +1664,12 @@
     <option name="KOTLIN_LABEL">
       <value />
     </option>
+    <option name="KOTLIN_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="6c71c4" />
@@ -1684,6 +1680,16 @@
       <value>
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="KOTLIN_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
@@ -3385,7 +3391,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
     <option name="TWIG_BACKGROUND">
@@ -3725,53 +3731,6 @@
     <option name="go.variable">
       <value>
         <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
-    <option name="org.rust.DOC_CODE">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
-    <option name="org.rust.DOC_HEADING">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="org.rust.ENUM">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="org.rust.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="org.rust.METHOD">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="org.rust.MUT_BINDING">
-      <value>
-        <option name="EFFECT_COLOR" value="839496" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="org.rust.STRUCT">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="org.rust.TRAIT">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="org.rust.TYPE_ALIAS">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
   </attributes>
