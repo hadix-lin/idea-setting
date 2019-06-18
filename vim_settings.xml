@@ -337,11 +337,20 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/ForbiddenException.java" timestamp="1560849650212">
+        <mark key="^" line="18" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/GlobalServiceException.java" timestamp="1560849408512">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1557036068323">
         <mark key="[" line="12" column="24" />
@@ -1046,6 +1055,12 @@
         <mark key="^" line="79" column="4" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1560849198108">
+        <mark key="[" line="63" column="42" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/main/java/cn/uc/pp/cos/admin/task/job/SkipExpiredPreReviewTaskJob.java" timestamp="1557468658836">
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="29" />
@@ -1709,6 +1724,9 @@
         <mark key="^" line="61" column="36" />
         <mark key="." line="61" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/AuthorizedException.java" timestamp="1560849621455">
+        <mark key="[" line="18" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1554288086226">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="30" />
@@ -1726,6 +1744,9 @@
         <mark key="]" line="46" column="50" />
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/RpcException.java" timestamp="1560849673129">
+        <mark key="[" line="18" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.1/poi-4.0.1-sources.jar!/org/apache/poi/ss/usermodel/Sheet.java" timestamp="1555557391073">
         <mark key="[" line="374" column="19" />
@@ -1883,7 +1904,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/SystemException.java" timestamp="1560845543537" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/SystemException.java" timestamp="1560849904840">
+        <mark key="^" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/routes" timestamp="1554687317561">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -2003,6 +2026,12 @@
         <mark key="]" line="469" column="66" />
         <mark key="^" line="469" column="66" />
         <mark key="." line="469" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/ArgumentException.java" timestamp="1560849595710">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/api/intercept/ApiExceptionHandleInterceptor.java" timestamp="1543368575462">
         <mark key="[" line="42" column="13" />
@@ -2646,34 +2675,34 @@
         <text encoding="base64">ICAgICAgICAiVmltIEluc2VydCBBZnRlciBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IEFmdGVyIEN1cnNvciIsCiAgICAgICAgIlZpbSBJbnNlcnQgQWZ0ZXIgTGluZSBFbmQiLAogICAgICAgICJWaW0gSW5zZXJ0IEJlZm9yZSBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IEJlZm9yZSBGaXJzdCBub24tQmxhbmsiLAogICAgICAgICJWaW0gSW5zZXJ0IENoYXJhY3RlciBBYm92ZSBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IENoYXJhY3RlciBCZWxvdyBDdXJzb3IiLAogICAgICAgICJWaW0gRGVsZXRlIEluc2VydGVkIFRleHQiLAogICAgICAgICJWaW0gRGVsZXRlIFByZXZpb3VzIFdvcmQiLAogICAgICAgICJWaW0gRW50ZXIiLAogICAgICAgICJWaW0gSW5zZXJ0IGF0IExpbmUgU3RhcnQiLAogICAgICAgICJWaW0gSW5zZXJ0IE5ldyBMaW5lIEFib3ZlIiwKICAgICAgICAiVmltIEluc2VydCBOZXcgTGluZSBCZWxvdyIsCiAgICAgICAgIlZpbSBJbnNlcnQgUHJldmlvdXMgVGV4dCIsCiAgICAgICAgIlZpbSBJbnNlcnQgUHJldmlvdXMgVGV4dCIsCiAgICAgICAgIlZpbSBJbnNlcnQgUmVnaXN0ZXIiLAogICAgICAgICJWaW0gVG9nZ2xlIEluc2VydC9SZXBsYWNlIiwKICAgICAgICAiVmltIENoYW5nZSBMaW5lIiwKICAgICAgICAiVmltIENoYW5nZSBDaGFyYWN0ZXIiLAogICAgICAgICJWaW0gQ2hhbmdlIENoYXJhY3RlcnMiLAogICAgICAgICJWaW0gUmVwbGFjZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3A8PihudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTeXN0ZW1FeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihTWVNURU1fRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFN5c3RlbUV4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoU1lTVEVNX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU3VjY2VzcygpIHsKICAgICAgICByZXR1cm4gCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBpUmVzcENvZGUuU1VDQ0VTUy5lcXVhbHMocmV0dXJuQ29kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3AocmV0dXJuQ29kZSwgcmV0dXJuTWVzc2FnZSwgZXJyb3JNZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBScGNFeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihBcGlSZXNwQ29kZS5SUENfRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFJwY0V4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoQXBpUmVzcENvZGUuUlBDX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN1Y2Nlc3MgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5p6E6YCg5pa55rOVIOS7o+ihqOi/lOWbnuWksei0pQogICAgICoKICAgICAqIEBwYXJhbSByZXR1cm5Db2RlIHRoZSByZXR1cm5Db2RlCiAgICAgKiBAcGFyYW0gcmV0dXJuTWVzc2FnZSB0aGUgcmV0dXJuTWVzc2FnZQogICAgICogQHBhcmFtIGVycm9yTWVzc2FnZSB0aGUgZXJyb3JNZXNzYWdlCiAgICAgKi8KICAgIHB1YmxpYyBSZXNwKFN0cmluZyByZXR1cm5Db2RlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgU3RyaW5nIGVycm9yTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuQ29kZSA9IHJldHVybkNvZGU7CiAgICAgICAgdGhpcy5yZXR1cm5NZXNzYWdlID0gcmV0dXJuTWVzc2FnZTsKICAgICAgICB0aGlzLmVycm9yTWVzc2FnZSA9IGVycm9yTWVzc2FnZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJldHVybk1lc3NhZ2UgPSAic3VjY2VzcyI7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGb3JiaWRkZW5FeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihGT1JCSURERU4sIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIEZvcmJpZGRlbkV4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoRk9SQklEREVOLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJldHVyblZhbHVlID0gcmV0dXJuVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
