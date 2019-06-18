@@ -115,9 +115,6 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="Vcs.Push" />
-  <action id="VimInsertExitMode">
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
-  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
