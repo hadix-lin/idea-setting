@@ -186,6 +186,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-tair-spring-boot-autoconfigure/2019-04-stable/pandora-tair-spring-boot-autoconfigure-2019-04-stable.jar!/com/alibaba/boot/tair/TairAutoConfiguration.class" timestamp="1560925513208">
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="39" />
+        <mark key="^" line="56" column="39" />
+        <mark key="." line="56" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/service/UserActionLogService.java" timestamp="1554293388575">
         <mark key="[" line="38" column="29" />
         <mark key="]" line="38" column="28" />
@@ -389,11 +395,11 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1560772954119">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1560926705732">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="62" column="41" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1555054544516">
         <mark key="[" line="24" column="0" />
@@ -676,6 +682,12 @@
         <mark key="]" line="51" column="33" />
         <mark key="." line="51" column="33" />
         <mark key="^" line="51" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/plugin/tair-plugin/4.1.6/tair-plugin-4.1.6.jar!/conf/export.index" timestamp="1560926291323">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/api/intercept/DevApiCheckInterceptor.java" timestamp="1560772558879">
         <mark key="[" line="2" column="22" />
@@ -1334,6 +1346,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-tair-spring-boot-autoconfigure/2019-04-stable/pandora-tair-spring-boot-autoconfigure-2019-04-stable-sources.jar!/com/alibaba/boot/tair/cachemanager/CacheManagerAutoConfiguration.java" timestamp="1560926353439" />
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/src/test/java/cn/uc/pp/cos/admin/AdminBaseTest.java" timestamp="1556180688551">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="63" />
@@ -2257,7 +2270,8 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" timestamp="1560838832306">
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" timestamp="1560926698509">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="5" />
         <mark key="^" line="21" column="5" />
@@ -2554,8 +2568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/Documents/Projects/pp-common-spring-lib/http/src/main/java/cn/uc/pp/common/http/impl/apache/ApacheHttp.java" />
-      <jump line="114" column="5" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
       <jump line="191" column="24" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rtb/dto/RtbAdRequestVo.java" />
       <jump line="84" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
       <jump line="136" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
@@ -2654,6 +2666,8 @@
       <jump line="98" column="56" filename="$USER_HOME$/Documents/Projects/k-boot/k-doc-spring-boot-starter/src/main/java/com/koubei/doc/CustomApiParameterBuilder.java" />
       <jump line="140" column="0" filename="$USER_HOME$/Documents/Projects/k-boot/k-doc-spring-boot-starter/src/main/java/com/koubei/doc/CustomApiParameterBuilder.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/k-boot/k-doc-spring-boot-starter/src/main/java/com/koubei/doc/CustomApiParameterBuilder.java" />
+      <jump line="7" column="27" filename="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2675,34 +2689,34 @@
         <text encoding="base64">ICAgICAgICAiVmltIEluc2VydCBBZnRlciBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IEFmdGVyIEN1cnNvciIsCiAgICAgICAgIlZpbSBJbnNlcnQgQWZ0ZXIgTGluZSBFbmQiLAogICAgICAgICJWaW0gSW5zZXJ0IEJlZm9yZSBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IEJlZm9yZSBGaXJzdCBub24tQmxhbmsiLAogICAgICAgICJWaW0gSW5zZXJ0IENoYXJhY3RlciBBYm92ZSBDdXJzb3IiLAogICAgICAgICJWaW0gSW5zZXJ0IENoYXJhY3RlciBCZWxvdyBDdXJzb3IiLAogICAgICAgICJWaW0gRGVsZXRlIEluc2VydGVkIFRleHQiLAogICAgICAgICJWaW0gRGVsZXRlIFByZXZpb3VzIFdvcmQiLAogICAgICAgICJWaW0gRW50ZXIiLAogICAgICAgICJWaW0gSW5zZXJ0IGF0IExpbmUgU3RhcnQiLAogICAgICAgICJWaW0gSW5zZXJ0IE5ldyBMaW5lIEFib3ZlIiwKICAgICAgICAiVmltIEluc2VydCBOZXcgTGluZSBCZWxvdyIsCiAgICAgICAgIlZpbSBJbnNlcnQgUHJldmlvdXMgVGV4dCIsCiAgICAgICAgIlZpbSBJbnNlcnQgUHJldmlvdXMgVGV4dCIsCiAgICAgICAgIlZpbSBJbnNlcnQgUmVnaXN0ZXIiLAogICAgICAgICJWaW0gVG9nZ2xlIEluc2VydC9SZXBsYWNlIiwKICAgICAgICAiVmltIENoYW5nZSBMaW5lIiwKICAgICAgICAiVmltIENoYW5nZSBDaGFyYWN0ZXIiLAogICAgICAgICJWaW0gQ2hhbmdlIENoYXJhY3RlcnMiLAogICAgICAgICJWaW0gUmVwbGFjZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTeXN0ZW1FeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihTWVNURU1fRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFN5c3RlbUV4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoU1lTVEVNX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTeXN0ZW1FeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihTWVNURU1fRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFN5c3RlbUV4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoU1lTVEVNX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBScGNFeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihBcGlSZXNwQ29kZS5SUENfRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFJwY0V4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoQXBpUmVzcENvZGUuUlBDX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBScGNFeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihBcGlSZXNwQ29kZS5SUENfRVJST1IsIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIFJwY0V4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoQXBpUmVzcENvZGUuUlBDX0VSUk9SLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGb3JiaWRkZW5FeGNlcHRpb24oU3RyaW5nIGVycm9yTWVzc2FnZSwgU3RyaW5nIHJldHVybk1lc3NhZ2UpIHsKICAgICAgICBzdXBlcihGT1JCSURERU4sIGVycm9yTWVzc2FnZSwgcmV0dXJuTWVzc2FnZSk7CiAgICB9CgogICAgcHVibGljIEZvcmJpZGRlbkV4Y2VwdGlvbihTdHJpbmcgZXJyb3JNZXNzYWdlLCBTdHJpbmcgcmV0dXJuTWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIoRk9SQklEREVOLCBlcnJvck1lc3NhZ2UsIHJldHVybk1lc3NhZ2UsIGNhdXNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHVybk1lc3NhZ2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
