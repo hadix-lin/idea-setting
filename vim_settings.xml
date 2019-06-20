@@ -27,6 +27,12 @@
       <file name="/a.dummy" timestamp="1560845444938">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/resources/META-INF/spring.factories" timestamp="1561014154544">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/common/dto/ClientInfo.java" timestamp="1554285304540">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="19" />
@@ -346,9 +352,6 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/ForbiddenException.java" timestamp="1560849650212">
-        <mark key="^" line="18" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-admin-adv/pp-service-admin-adv-service/src/main/java/cn/uc/pp/admin/support/cardconfig/CardDataSourceTypeConst.java" timestamp="1553828956141">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
@@ -662,10 +665,11 @@
         <mark key="^" line="208" column="49" />
         <mark key="." line="208" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/pom.xml" timestamp="1560932090006">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/pom.xml" timestamp="1561013451426">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-start/src/main/resources/cache/cache-servers.xml" timestamp="1553840394161">
         <mark key="[" line="3" column="9" />
@@ -822,6 +826,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/resources/application-module.yml" timestamp="1561013633492">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.8.RELEASE/spring-boot-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/SearchStrategy.java" timestamp="1558593914331">
         <mark key="[" line="33" column="6" />
@@ -1098,6 +1108,12 @@
         <mark key="]" line="22" column="38" />
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheAutoConfiguration.java" timestamp="1561013000665">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiNormalUserTest.java" timestamp="1557457882916">
         <mark key="[" line="204" column="46" />
@@ -1631,6 +1647,12 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/TairCacheManager.java" timestamp="1561014033173">
+        <mark key="[" line="37" column="58" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+        <mark key="^" line="37" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-tool/pom.xml" timestamp="1554797183659">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -1760,6 +1782,7 @@
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/AuthorizedException.java" timestamp="1560849621455">
         <mark key="[" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPSpringCacheManager.java" timestamp="1561012991125" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/follow/service/impl/FollowServiceCacheImpl.java" timestamp="1554288086226">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="30" />
@@ -1938,9 +1961,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/SystemException.java" timestamp="1560849904840">
-        <mark key="^" line="18" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/conf/routes" timestamp="1554687317561">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -2007,11 +2027,11 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/CacheAutoConfiguration.java" timestamp="1560931552835">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/CacheAutoConfiguration.java" timestamp="1561014607102">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/pom.xml" timestamp="1557997746041">
         <mark key="[" line="70" column="0" />
@@ -2073,11 +2093,11 @@
         <mark key="^" line="469" column="66" />
         <mark key="." line="469" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/resources/application-module.properties" timestamp="1560932521411">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/resources/application-module.properties" timestamp="1561014664158">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/ArgumentException.java" timestamp="1560849595710">
         <mark key="[" line="26" column="44" />
@@ -2133,11 +2153,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/CacheProperties.java" timestamp="1560932494955">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="35" />
-        <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/CacheProperties.java" timestamp="1561014093847">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1560483256792">
         <mark key="'" line="0" column="0" />
@@ -2725,7 +2745,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>) {</text>
+        <text encoding="base64">Y29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKGUgLT4gLCBlIC0+ICkp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
@@ -2734,34 +2754,34 @@
         <text encoding="base64">UmVzdWx0PERhdGFFbnRyeT4gcmVzdWx0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWF1dG9jb25maWd1cmUtcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">b3JnLnNwcmluZ2ZyYW1ld29yay5ib290LmVudi5FbnZpcm9ubWVudFBvc3RQcm9jZXNzb3I9XApjb20ua291YmVpLmJvb3Quc3RhcnR1cC5Nb2R1bGVDb25maWdFbnZpcm9ubWVudFBvc3RQcm9jZXNzb3IKb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZC5ib290c3RyYXAuQm9vdHN0cmFwQ29uZmlndXJhdGlvbj1cCmNvbS5rb3ViZWkuZGlhbW9uZC5EaWFtb25kUHJvcGVydHlTb3VyY2VMb2NhdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFRhaXIuY2xhc3MpCg==</text>
+        <text encoding="base64">Y29tLmtvdWJlaS5kaWFtb25kLkRpYW1vbmRXYXRjaEF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLnNldFJldHVybk1lc3NhZ2UoZS5nZXRSZXR1cm5NZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAodmFsdWUgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIENhY2hlUHJvcGVydGllcy5DYWNoZUNvbmZpZz4gZW50cnkgOiBjYWNoZUNvbmZpZ3MuZW50cnlTZXQoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmFsdWUgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBAbm90bnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUNvbmZpZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhRW50cnkgZGF0YSA9IHJlc3VsdC5nZXRWYWx1ZSgpOwogICAgICAgIHJldHVybiBkYXRhLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWF1dG9jb25maWd1cmUtcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
