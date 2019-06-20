@@ -408,11 +408,11 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1560926705732">
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="62" column="41" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1561027279299">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/ClasspathDocStore.kt" timestamp="1555054544516">
         <mark key="[" line="24" column="0" />
@@ -1239,6 +1239,12 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/CodedException.java" timestamp="1561037624159">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/CustomCardService.java" timestamp="1554189844636">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="67" column="1" />
@@ -1376,6 +1382,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/TopException.java" timestamp="1561037584464">
+        <mark key="[" line="7" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/pandora-tair-spring-boot-autoconfigure/2019-04-stable/pandora-tair-spring-boot-autoconfigure-2019-04-stable-sources.jar!/com/alibaba/boot/tair/cachemanager/CacheManagerAutoConfiguration.java" timestamp="1560926353439" />
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/TairCache.java" timestamp="1560930604024">
@@ -2755,34 +2764,34 @@
         <text encoding="base64">UmVzdWx0PERhdGFFbnRyeT4gcmVzdWx0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JnLnNwcmluZ2ZyYW1ld29yay5ib290LmVudi5FbnZpcm9ubWVudFBvc3RQcm9jZXNzb3I9XApjb20ua291YmVpLmJvb3Quc3RhcnR1cC5Nb2R1bGVDb25maWdFbnZpcm9ubWVudFBvc3RQcm9jZXNzb3IKb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZC5ib290c3RyYXAuQm9vdHN0cmFwQ29uZmlndXJhdGlvbj1cCmNvbS5rb3ViZWkuZGlhbW9uZC5EaWFtb25kUHJvcGVydHlTb3VyY2VMb2NhdG9yCg==</text>
+        <text encoding="base64">ICogQGF1dGhvciBqaWFuZ25hbi56am4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tLmtvdWJlaS5kaWFtb25kLkRpYW1vbmRXYXRjaEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">b3JnLnNwcmluZ2ZyYW1ld29yay5ib290LmVudi5FbnZpcm9ubWVudFBvc3RQcm9jZXNzb3I9XApjb20ua291YmVpLmJvb3Quc3RhcnR1cC5Nb2R1bGVDb25maWdFbnZpcm9ubWVudFBvc3RQcm9jZXNzb3IKb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZC5ib290c3RyYXAuQm9vdHN0cmFwQ29uZmlndXJhdGlvbj1cCmNvbS5rb3ViZWkuZGlhbW9uZC5EaWFtb25kUHJvcGVydHlTb3VyY2VMb2NhdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tLmtvdWJlaS5kaWFtb25kLkRpYW1vbmRXYXRjaEF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIENhY2hlUHJvcGVydGllcy5DYWNoZUNvbmZpZz4gZW50cnkgOiBjYWNoZUNvbmZpZ3MuZW50cnlTZXQoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAbm90bnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUNvbmZpZzsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIENhY2hlUHJvcGVydGllcy5DYWNoZUNvbmZpZz4gZW50cnkgOiBjYWNoZUNvbmZpZ3MuZW50cnlTZXQoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWF1dG9jb25maWd1cmUtcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBAbm90bnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
