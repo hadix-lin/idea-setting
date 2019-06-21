@@ -6,7 +6,7 @@
           <IdeaActionID>Graph.ActualSize</IdeaActionID>
           <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
           <Description>Actual Size</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Show Diagram Popup...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
