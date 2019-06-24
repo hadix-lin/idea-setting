@@ -680,8 +680,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561304387159">
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561343340558">
         <mark key="[" line="13" column="16" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rec/service/RecAppService.java" timestamp="1555415672306">
         <mark key="[" line="2429" column="68" />
@@ -737,11 +740,11 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Channel.java" timestamp="1561303881371">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Channel.java" timestamp="1561343913119">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1558333937281">
         <mark key="[" line="63" column="5" />
@@ -821,10 +824,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/impl/WanChannel.java" timestamp="1561304290612">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/impl/WanChannel.java" timestamp="1561345715053">
+        <mark key="[" line="35" column="31" />
+        <mark key="l" line="40" column="28" />
+        <mark key="]" line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.6.12-SNAPSHOT/csi-common-1.6.12-20171215.091555-7-sources.jar!/com/taobao/csi/csi_common/CsiServiceImpl.java" timestamp="1555418910711">
         <mark key="[" line="974" column="45" />
@@ -1017,6 +1022,9 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/android/mtopsdk_allinone/3.1.1.9/mtopsdk_allinone-3.1.1.9-sources.jar!/mtopsdk/mtop/intf/Mtop.java" timestamp="1561344803316">
+        <mark key="[" line="696" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocAutoConfiguration.kt" timestamp="1555053900665">
         <mark key="[" line="6" column="1" />
@@ -1279,6 +1287,7 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/android/mtopsdk_allinone/3.1.1.9/mtopsdk_allinone-3.1.1.9.jar!/mtopsdk/mtop/util/ReflectUtil.class" timestamp="1561344189909" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/api/impl/CommentApiImpl.java" timestamp="1555321027693">
         <mark key="[" line="53" column="13" />
         <mark key="]" line="53" column="12" />
@@ -2777,34 +2786,34 @@
         <text encoding="base64">UmVzdWx0PERhdGFFbnRyeT4gcmVzdWx0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20udGFvYmFvLnBhbmRvcmE8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBhbmRvcmEtYm9vdC1zdGFydGVyLW10b3A8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBNdG9wUmVxdWVzdCByZXEgPSBuZXcgTXRvcFJlcXVlc3QoKTsKICAgICAgICByZXEuc2V0QXBpTmFtZShhcGkpOwogICAgICAgIHJlcS5zZXRWZXJzaW9uKCIxLjAiKTsKICAgICAgICByZXEuc2V0TmVlZEVjb2RlKHRydWUpOwogICAgICAgIHJlcS5zZXROZWVkU2Vzc2lvbihmYWxzZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTXRvcAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">bXRvcFJlc3AuaXNTeXN0ZW1FcnJvcigpCiAgICAgICAgICAgICAgICB8fCA=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLmFwaS5oYW5kbGVyLk1lc3NhZ2VIYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBNdG9wQnVpbGRlciBidWlsZGVyID0gKE10b3BCdWlsZGVyKSBtdG9wUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRJcCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcHRpb25hbDxTdHJpbmc+IGdldFVzZXJOYW1lKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0VXNlcklkKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXREZXZpY2VJZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8VD4gVCBnZXRBdHRhY2goT2JqZWN0IGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEpzb25UeXBlKEpzb25UeXBlRW51bSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRJcCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcHRpb25hbDxTdHJpbmc+IGdldFVzZXJOYW1lKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0VXNlcklkKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXREZXZpY2VJZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8VD4gVCBnZXRBdHRhY2goT2JqZWN0IGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNdG9wQnVzaW5lc3MuYnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRJcCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcHRpb25hbDxTdHJpbmc+IGdldFVzZXJOYW1lKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0VXNlcklkKCkgewogICAgICAgIHJldHVybiBPcHRpb25hbC5lbXB0eSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXREZXZpY2VJZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyA8VD4gVCBnZXRBdHRhY2goT2JqZWN0IGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0RGF0YShtdG9wUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0TmVlZFNlc3Npb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgTXRvcENvbnRleHQuZ2V0SXAoKQnmiYvmnLrorr7lpIfor7fmsYJtdG9w55qE572R57uc6L+e5o6lSVDlnLDlnYAKICAgIG10b3AgQVBJ5ZCN56ewCU10b3BDb250ZXh0LmdldEFwaSgpCiAgICBtdG9wIEFQSeeJiOacrAlNdG9wQ29udGV4dC5nZXRBcGlWZXJzaW9uKCkKICAgIGFwcGtleQlNdG9wQ29udGV4dC5nZXRBcHBLZXkoKQogICAg5a6i5oi356uv54mI5pysCU10b3BDb250ZXh0LmdldEFwcFZlcnNpb24oKQnmnaXmupDkuo50dGlk5LiK55qE5a6i5oi356uv54mI5pysCiAgICDlrqLmiLfnq6/muKDpgZPlj7cJTXRvcENvbnRleHQuZ2V0Q2hhbm5lbElkKCkJ5p2l5rqQ5LqOdHRpZOS4iueahOWuouaIt+err+a4oOmBk+WPtyhBUFBTdG9yZeWIhuWPkea4oOmBk+e8luWPtykKICAgIGRldmljZUlkCU10b3BDb250ZXh0LmdldERldmljZUlkKCkJYWdvb+eUn+aIkOeahOiuvuWkh+WPt++8jOWtmOWcqOiuvuWkh+WPt+mHjeWkjeWPr+iDveaApwogICAgYXBwa2V5CU10b3BDb250ZXh0LmdldEFwcEtleSgpCiAgICBpbWVpCU10b3BDb250ZXh0LmdldEltZWkoKQogICAgaW1zaQlNdG9wQ29udGV4dC5nZXRJbXNpKCkKICAgIOe7j+W6pglNdG9wQ29udGV4dC5nZXRMYXQoKQogICAg57qs5bqmCU10b3BDb250ZXh0LmdldExuZygpCiAgICDnlKjmiLfnmbvlvZXluJDlj7cJTXRvcENvbnRleHQuZ2V0TmljaygpCiAgICDlrqLmiLfnq6/lubPlj7AJTXRvcENvbnRleHQuZ2V0UGxhdGZvcm0oKQnmnaXmupDkuo50dGlk5LiK55qE5a6i5oi356uv5bmz5Y+wKElPUywgQW5kcm9pZCkKICAgIOaOpeWFpeWxgmFzZXJ2ZXIvd2phcyBpcAlNdG9wQ29udGV4dC5nZXRQcm94eUlwKCkKICAgIHNlc3Npb24gaWQJTXRvcENvbnRleHQuZ2V0U2lkKCkKICAgIHR0aWQJTXRvcENvbnRleHQuZ2V0VHRpZCgpCeagvOW8jzoxMjNAdGFvYmFvX2FuZHJvaWRfNS4xCiAgICB1c2VyTnVtYklkCU10b3BDb250ZXh0LmdldFVzZXJJZCgpCeeUqOaIt+eZu+W9leW4kOWPt3VzZXJJZCwgTG9uZ+exu+WeiwogICAg6K+35rGC5pe26Ze05oizdAlNdG9wQ29udGV4dC5nZXRUKCkJ5a6i5oi356uv6K+35rGC5bim5LiK55qE5pe26Ze05oizdAogICAgTXRvcFVBCU10b3BDb250ZXh0LmdldE10b3BVQSgpCeiOt+WPluino+aekOWQjueahE10b3BVQeWvueixoe+8jOWPr+iDveS4uuepugogICAgdW1pZAlNdG9wQ29udGV4dC5nZXRVbWlkKCkJ6I635Y+W6K6+5aSH5a6J5YWo5a2X5q61dW1pZAogICAgd3VhCU10b3BDb250ZXh0LmdldFd1YSgpCeeUqOS6juiOt+WPlm10ZWXlronlhajlpITnkIZ3dWHlj4LmlbAobmF0aXZlIGFwcCwgaDUp77yM6ZyA6KaB6YWN572u5Y+C5pWw6YCP5LygCiAgICDnmbvlvZXnlKjmiLdtb2JpbGUJTXRvcENvbnRleHQuZ2V0TW9iaWxlKCkKICAgIOeZu+W9leeUqOaIt2VtYWlsCU10b3BDb250ZXh0LmdldEVtYWlsKCkK</text>
+        <text encoding="base64">ICAgICAgICBNdG9wQnVzaW5lc3MuYnVpbGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
