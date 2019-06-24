@@ -1676,6 +1676,11 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Session.java" timestamp="1561374591195">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555587688713">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -1907,11 +1912,6 @@
         <mark key="^" line="461" column="67" />
         <mark key="." line="461" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/api/ObjectDao.java" timestamp="1561101394687">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib-sources/pp-service-common-api-framework-1.4.0-SNAPSHOT-sources.jar!/cn/uc/pp/common/api/TypeSafeApiExecutor.java" timestamp="1555324862175">
         <mark key="[" line="112" column="67" />
         <mark key="]" line="112" column="66" />
@@ -1930,7 +1930,7 @@
         <mark key="^" line="41" column="72" />
         <mark key="." line="41" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1561370347238">
+      <file name="/fragment.java" timestamp="1561374628684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -2668,11 +2668,6 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/api/impl/WebsocketSession.java" timestamp="1561102150249">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/1.0.2/kafka-clients-1.0.2.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class" timestamp="1555038698963">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -2832,7 +2827,7 @@
         <text encoding="base64">UmVzdWx0PERhdGFFbnRyeT4gcmVzdWx0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBTZXNzaW9uIGdldFNlc3Npb24oKXsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2844,22 +2839,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqIOWxgOWfn+e9keaooeW8j+S9v+eUqOeahOmAmumBkyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4g5raI5oGv57G75Z6LCg==</text>
+        <text encoding="base64">LyoqIOWxgOWfn+e9keaooeW8j+S9v+eUqOeahOmAmumBkyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtZXNzYWdlSGFuZGxlciDkuLvpopjmtojmga/lpITnkIblmagK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4g5raI5oGv57G75Z6LCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQXRvbWljTG9uZyBtc2dJZCA9IG5ldyBBdG9taWNMb25nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtZXNzYWdlSGFuZGxlciDkuLvpopjmtojmga/lpITnkIblmagK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQXRvbWljTG9uZyBtc2dJZCA9IG5ldyBBdG9taWNMb25nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjY3MgPSBhY2NzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
