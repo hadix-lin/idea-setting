@@ -24,7 +24,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1560845444938">
+      <file name="/a.dummy" timestamp="1561380124654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/resources/META-INF/spring.factories" timestamp="1561014154544">
@@ -129,11 +129,11 @@
         <mark key="^" line="37" column="42" />
         <mark key="." line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/lan/MenuServiceImpl.java" timestamp="1561375571708">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/lan/MenuServiceImpl.java" timestamp="1561380499191">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/ContentRecommendCardDataProvider.java" timestamp="1555495929178">
         <mark key="[" line="59" column="25" />
@@ -665,6 +665,12 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/AbstractSDK.java" timestamp="1561380264583">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/DataProviderContext.java" timestamp="1554115794615">
         <mark key="[" line="208" column="50" />
         <mark key="]" line="208" column="49" />
@@ -815,11 +821,12 @@
         <mark key="^" line="81" column="26" />
         <mark key="." line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/SDK.java" timestamp="1561378908554">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/SDK.java" timestamp="1561380252692">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/PPCacheProperties.java" timestamp="1554953544744">
         <mark key="[" line="21" column="27" />
@@ -2221,6 +2228,12 @@
         <mark key="^" line="260" column="22" />
         <mark key="." line="260" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/AbstractSdk.java" timestamp="1561380369754">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/kafka-test/src/main/java/KafkaTest.java" timestamp="1555041251561">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="31" />
@@ -2599,10 +2612,9 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/dao/ItemDao.java" timestamp="1561370807529">
-        <mark key="[" line="13" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/dao/ItemDao.java" timestamp="1561381068265">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="13" column="29" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Number.java" timestamp="1561377425156">
@@ -2744,7 +2756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/support/card/data/provider/VideoInfoCardDataProvider.java" />
       <jump line="136" column="25" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/AdParam.java" />
       <jump line="104" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/user/auth/api/AuthApi.java" />
@@ -2844,6 +2855,7 @@
       <jump line="7" column="27" filename="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-04-stable/pandora-boot-starter-bom-2019-04-stable.pom" />
       <jump line="468" column="24" filename="$MAVEN_REPOSITORY$/com/taobao/android/accs_sdk_taobao/3.3.7.7/accs_sdk_taobao-3.3.7.7-sources.jar!/com/taobao/accs/ACCSManager.java" />
+      <jump line="22" column="19" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/SDK.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2859,57 +2871,58 @@
         <text>ReflectUtil.convertMapToDataStr(params)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</text>
+        <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyA8UmVxLCBSZXNwPiBSZXNwIHJlcXVlc3QoU3RyaW5nIGFwaSwgUmVxIHJlcXVlc3QsIENsYXNzPFJlc3A+IHJlc3BDbGFzcykgewogICAgICAgIE10b3BSZXF1ZXN0IG10b3BSZXEgPSBSZWZsZWN0VXRpbC5jb252ZXJ0VG9NdG9wUmVxdWVzdChyZXF1ZXN0KTsKICAgICAgICBtdG9wUmVxLnNldEFwaU5hbWUoYXBpKTsKICAgICAgICBtdG9wUmVxLnNldFZlcnNpb24oIjEuMCIpOwogICAgICAgIG10b3BSZXEuc2V0TmVlZEVjb2RlKHRydWUpOwogICAgICAgIG10b3BSZXEuc2V0TmVlZFNlc3Npb24oZmFsc2UpOwogICAgICAgIE10b3BSZXNwb25zZSBtdG9wUmVzcCA9IG10b3AuYnVpbGQobXRvcFJlcSwgbnVsbCkuc3luY1JlcXVlc3QoKTsKICAgICAgICBpZiAobXRvcFJlc3AuaXNBcGlTdWNjZXNzKCkpIHsKICAgICAgICAgICAgLy8g6K+35rGC5oiQ5YqfCiAgICAgICAgICAgIC8vIOaWueW8jzEg5L2/55So5bel5YW357G75bCG5Y6f5aeLYnl0ZeWPjeW6j+WIl+WMluaIkG91dHB1dERv5a+56LGh77yMb3V0cHV0Q2xhc3PmmK9QT0pPIFJFU1BPTlNF57G755qE57G75Z6LCiAgICAgICAgICAgIHJldHVybiBNdG9wQ29udmVydC5jb252ZXJ0TXRvcFJlc3BvbnNlVG9PdXRwdXRETyhtdG9wUmVzcCwgcmVzcENsYXNzKTsKICAgICAgICAgICAgLy8g5pa55byPMgogICAgICAgICAgICAvLyBtdG9wUmVzcC5nZXRCeXRlZGF0YSgp6L+U5Zue55qE5pivTVRPUOacjeWKoeerr+i+k+WHuueahOWOn+Wni2pzb24gYnl0ZeaVsOaNrizlj6/ku6VuZXcgSnNvbk9iamVjdChieXRlW10p6Ieq5bex6Kej5p6Q57uT5p6ECiAgICAgICAgICAgIC8vIGRvIHNvbWV0aGluZyBidXNpbmVzcwogICAgICAgIH0gZWxzZSBpZiAobXRvcFJlc3AuaXNTZXNzaW9uSW52YWxpZCgpKSB7CiAgICAgICAgICAgIC8vIHNlc3Npb24g5aSx5pWI77yMIGRvIGF1dG9sb2dpbiBvciBsb2dpbiBidXNpbmVzcwogICAgICAgIH0gZWxzZSBpZiAobXRvcFJlc3AuaXNOZXR3b3JrRXJyb3IoKQogICAgICAgICAgICAgICAgfHwgbXRvcFJlc3AuaXNFeHBpcmVkUmVxdWVzdCgpCiAgICAgICAgICAgICAgICB8fCBtdG9wUmVzcC5pczQxWFJlc3VsdCgpCiAgICAgICAgICAgICAgICB8fCBtdG9wUmVzcC5pc0FwaUxvY2tlZFJlc3VsdCgpCiAgICAgICAgICAgICAgICB8fCBtdG9wUmVzcC5pc010b3BTZGtFcnJvcigpKSB7CiAgICAgICAgICAgIC8vIOezu+e7n+mUmeivr++8jOe9kee7nOmUmeivr++8jOmYsuWIt++8jOmYsumbquW0qQogICAgICAgICAgICAvLyBkbyBzb21ldGhpbmcgaGFuZGxlIHN5c3RlbSBlcnJvci4KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDkuJrliqHplJnor68KICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nIGhhbmRsZSAgYXBpIGJ1c2luZXNzIGVycm9yLgogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxhbkNoYW5uZWwgPSBsYW5DaGFubmVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhbkNoYW5uZWwgPSB3YW5DaGFubmVsOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgc2F2ZShJdGVtIGl0ZW0pOwoKICAgIHZvaWQgZGVsZXRlKExvbmcgaWQpOwoKICAgIHZvaWQgZ2V0KExvbmcgaWQpOwoKICAgIHZvaWQgdXBkYXRlKEl0ZW0gbmV3SXRlbSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2hhbm5lbCBsYW5DaGFubmVsOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNZW51U2VydmljZUltcGwoKSB7CiAgICAgICAgQWJzdHJhY3RTZGsucmVnaXN0ZXJPZmZsaW5lU2VydmljZShNZW51U2VydmljZS5jbGFzcywgdGhpcyk7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2hhbm5lbCB3YW5DaGFubmVsOwo=</text>
+      <register name="4" type="4">
+        <text>{
+        return true;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoYW5uZWwgPSBjaGFubmVsOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2hhbm5lbCBjaGFubmVsOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">KFQpCiAgICAgICAgICAgICAgICAgICAgUHJveHkubmV3UHJveHlJbnN0YW5jZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNESy5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLCBuZXcgQ2xhc3M8Pz5bXSB7c2VydmljZUludGVyZmFjZX0sIHdzaWgpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpID0gbWV0aG9kLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxhbkNoYW5uZWwgPSBsYW5DaGFubmVsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndhbkNoYW5uZWwgPSB3YW5DaGFubmVsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</last-search>
+      <last-search encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>do_stop</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry>状态</entry>
         <entry>state</entry>
@@ -2929,6 +2942,7 @@
         <entry>hsf</entry>
         <entry>jmx</entry>
         <entry encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</entry>
+        <entry encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8RXNjPiBpPEVzYz4=</entry>

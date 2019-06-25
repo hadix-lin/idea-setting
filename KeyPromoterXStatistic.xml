@@ -6,7 +6,7 @@
           <IdeaActionID>Graph.ActualSize</IdeaActionID>
           <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
           <Description>Actual Size</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add">
@@ -22,6 +22,14 @@
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Apply Current Layout">
+        <Item>
+          <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Apply Current Layout</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1429,7 +1437,7 @@
           <IdeaActionID>UML.ZoomIn</IdeaActionID>
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom Out">
@@ -1437,7 +1445,7 @@
           <IdeaActionID>Graph.ZoomOut</IdeaActionID>
           <ShortCut>'-' or '-'</ShortCut>
           <Description>Zoom Out</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
