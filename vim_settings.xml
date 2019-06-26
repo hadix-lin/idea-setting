@@ -761,6 +761,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Channel.java" timestamp="1561546313600">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1558333937281">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="63" column="4" />
@@ -1707,11 +1713,6 @@
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Session.java" timestamp="1561374591195">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555587688713">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -2640,6 +2641,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/android/android/r26/android-r26.jar!/android/content/Intent.class" timestamp="1561546560604">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="49" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/model/ResType.java" timestamp="1558489747968">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="3" />
@@ -2881,38 +2888,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIFR5cGUgewogICAgICAgIC8qKiDmlbDmja7lkIzmraUgKi8KICAgICAgICBTWU5DLAogICAgICAgIC8qKiDns7vnu5/mtojmga8s5L6L5aaCOuWkluWNluaOpeWNlemAmuefpSAqLwogICAgICAgIFNZU1RFTSwKICAgICAgICA7CiAgICAgICAgLy8g5YW25LuW5omp5bGV57G75Z6LCiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-    /* 其他待扩展类型*/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6i6ZiF5oSf5YW06Laj55qE5raI5oGv5Li76aKYCiAgICAgKgogICAgICogQHBhcmFtIHRvcGljIOS4u+mimOagh+ivhgogICAgICogQHJldHVybiDorqLpmIXmiJDlip/ov5Tlm550cnVlLOWQpuWImei/lOWbnmZhbHNlCiAgICAgKi8KICAgIGJvb2xlYW4gc3Vic2NyaWJlKFN0cmluZyB0b3BpYyk7CgogICAgLyoqCiAgICAgKiDlj5bmtojorqLpmIUKICAgICAqCiAgICAgKiBAcGFyYW0gdG9waWMg5Li76aKY5qCH6K+GCiAgICAgKiBAcmV0dXJuIOWPlua2iOiuoumYheaIkOWKn+i/lOWbnnRydWUs5ZCm5YiZ6L+U5ZueZmFsc2UKICAgICAqLwogICAgYm9vbGVhbiB1bnN1YnNjcmliZShTdHJpbmcgdG9waWMpOwoKICAgIC8qKgogICAgICog5ZCR5pyN5Yqh5Zmo5Y+R6YCB6K+35rGCLOWcqOe6v+aXtuS4ulNhYVPmnI3liqEs56a757q/5pe25Li65Li7UE9TCiAgICAgKgogICAgICogQHBhcmFtIGFwaSDopoHor7fmsYLnmoTmjqXlj6PmoIfor4YKICAgICAqIEBwYXJhbSByZXF1ZXN0IOivt+axguS9kwogICAgICogQHBhcmFtIHJlc3BDbGFzcyDlk43lupTnsbvlnosKICAgICAqIEBwYXJhbSA8UmVxPiDor7fmsYLnsbvlnosKICAgICAqIEBwYXJhbSA8UmVzcD4g5ZON5bqU57G75Z6LCiAgICAgKiBAcmV0dXJuIOWTjeW6lAogICAgICovCiAgICA8UmVxLCBSZXNwPiBSZXNwIHJlcXVlc3QoU3RyaW5nIGFwaSwgUmVxIHJlcXVlc3QsIENsYXNzPFJlc3A+IHJlc3BDbGFzcyk7CgogICAgQEZ1bmN0aW9uYWxJbnRlcmZhY2UKICAgIGludGVyZmFjZSBNZXNzYWdlSGFuZGxlcjxUPiB7CgogICAgICAgIC8qKgogICAgICAgICAqIOaUtuWIsOa2iOaBr+aXtuiwg+eUqAogICAgICAgICAqCiAgICAgICAgICogQHBhcmFtIG1zZyDmtojmga/lhoXlrrkKICAgICAgICAgKi8KICAgICAgICB2b2lkIG9uTWVzc2FnZShUIG1zZyk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQUNDU0NsaWVudCBhY2NzOwo=</text>
+      <register name="2" type="4">
+        <text>,
+    /* 其他待扩展类型*/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NzLnNlbmREYXRhKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQUNDU0NsaWVudCBhY2NzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NzLnNldExvZ2luSW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY2NzLnNlbmREYXRhKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2NzLnNldExvZ2luSW5mbygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2F2ZShJdGVtIGl0ZW0pOwoKICAgIHZvaWQgZGVsZXRlKExvbmcgaWQpOwoKICAgIHZvaWQgZ2V0KExvbmcgaWQpOwoKICAgIHZvaWQgdXBkYXRlKEl0ZW0gbmV3SXRlbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHZvaWQgc2F2ZShJdGVtIGl0ZW0pOwoKICAgIHZvaWQgZGVsZXRlKExvbmcgaWQpOwoKICAgIHZvaWQgZ2V0KExvbmcgaWQpOwoKICAgIHZvaWQgdXBkYXRlKEl0ZW0gbmV3SXRlbSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBNZW51U2VydmljZUltcGwoKSB7CiAgICAgICAgQWJzdHJhY3RTZGsucmVnaXN0ZXJPZmZsaW5lU2VydmljZShNZW51U2VydmljZS5jbGFzcywgdGhpcyk7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
         return true;
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
