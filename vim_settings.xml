@@ -225,6 +225,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/ACCSServiceSDK.java" timestamp="1561629089433" />
       <file name="$USER_HOME$/Documents/Projects/pp-service/pp-service-admin/app/controllers/PosterSpaceController.java" timestamp="1554191366699">
         <mark key="[" line="70" column="41" />
         <mark key="]" line="70" column="40" />
@@ -1191,6 +1192,9 @@
         <mark key="^" line="184" column="52" />
         <mark key="." line="184" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/ACCSSDKContext.java" timestamp="1561628768919">
+        <mark key="'" line="289" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554173651742">
         <mark key="[" line="115" column="36" />
         <mark key="]" line="115" column="35" />
@@ -1253,6 +1257,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/notify/Message.java" timestamp="1561628318598">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/service/CommentReplyService.java" timestamp="1554720590030">
         <mark key="[" line="41" column="16" />
@@ -1932,6 +1942,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/android/accs_sdk_taobao/3.3.7.7/accs_sdk_taobao-3.3.7.7-sources.jar!/com/taobao/accs/ACCSManager.java" timestamp="1561353802723">
+        <mark key="'" line="468" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" timestamp="1555397227398">
         <mark key="[" line="46" column="51" />
@@ -2809,7 +2822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="38" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
       <jump line="178" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
@@ -2909,6 +2921,7 @@
       <jump line="114" column="26" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
       <jump line="111" column="10" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
+      <jump line="289" column="0" filename="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/ACCSSDKContext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
