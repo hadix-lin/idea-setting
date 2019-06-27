@@ -414,11 +414,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1561027279299">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="16" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/pom.xml" timestamp="1561628282952">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/DaoModule.java" timestamp="1561566655188">
         <mark key="[" line="6" column="0" />
@@ -702,11 +702,10 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561625625685">
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="50" column="23" />
-        <mark key="." line="50" column="13" />
-        <mark key="^" line="34" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561627896186">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rec/service/RecAppService.java" timestamp="1555415672306">
         <mark key="[" line="2429" column="68" />
@@ -1727,6 +1726,11 @@
         <mark key="]" line="37" column="51" />
         <mark key="^" line="37" column="51" />
         <mark key="." line="37" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/api/Session.java" timestamp="1561374591195">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache/src/test/java/cn/uc/pp/common/ppcache/CustomSerializerTest.java" timestamp="1555587688713">
         <mark key="[" line="47" column="0" />
@@ -2926,34 +2930,34 @@
         <text encoding="base64">ICAgICAgICByZWdpc3RlcihNZW51U2VydmljZS5jbGFzcywgTWVudVNlcnZpY2VJbXBsLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgdHlwZQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PiA8Z3JvdXBJZD5jb20udGFvYmFvPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5hY2NzLXNlcnZpY2Utc2RrPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjEuMC4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoVCkgbmV3IEl0ZW1EYW9JbXBsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoSXRlbURhby5jbGFzcywgbmV3IEl0ZW1EYW9JbXBsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgdHlwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudURhby5jbGFzcywgbmV3IE1lbnVEYW9JbXBsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoVCkgbmV3IEl0ZW1EYW9JbXBsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoSXRlbURhby5jbGFzcywgbmV3IEl0ZW1EYW9JbXBsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rb3ViZWkuYmFzZS5sYW4uTWVudVNlcnZpY2VJbXBsOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudURhby5jbGFzcywgbmV3IE1lbnVEYW9JbXBsKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudVNlcnZpY2UuY2xhc3MsIE1lbnVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rb3ViZWkuYmFzZS5sYW4uTWVudVNlcnZpY2VJbXBsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPENsYXNzPD8+LCBPYmplY3Q+IHNlcnZpY2VJbnN0YW5jZXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudVNlcnZpY2UuY2xhc3MsIE1lbnVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
