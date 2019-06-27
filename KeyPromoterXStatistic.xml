@@ -29,7 +29,7 @@
           <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Apply Current Layout</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -172,7 +172,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1834</Count>
+          <Count>1835</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
