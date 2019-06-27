@@ -702,11 +702,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561614112839">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561620264592">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rec/service/RecAppService.java" timestamp="1555415672306">
         <mark key="[" line="2429" column="68" />
@@ -1661,11 +1661,10 @@
         <mark key="^" line="40" column="52" />
         <mark key="." line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Application.java" timestamp="1561614904585">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="16" column="44" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Application.java" timestamp="1561620965452">
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/Conf.java" timestamp="1554288874528">
         <mark key="[" line="12" column="0" />
@@ -1715,12 +1714,11 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" timestamp="1561614181054">
-        <mark key="'" line="20" column="55" />
-        <mark key="[" line="105" column="50" />
-        <mark key="]" line="105" column="49" />
-        <mark key="." line="105" column="49" />
-        <mark key="^" line="105" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" timestamp="1561620915844">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/base/ArticleHsfConfiguration.java" timestamp="1557217649801">
         <mark key="[" line="37" column="60" />
@@ -2792,7 +2790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="53" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
       <jump line="106" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/conf/dependencies.yml" />
       <jump line="280" column="35" filename="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/service/AdService.java" />
       <jump line="382" column="8" filename="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/config/ci.properties" />
@@ -2892,6 +2889,7 @@
       <jump line="14" column="7" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
       <jump line="19" column="55" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2910,37 +2908,37 @@
         <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtIGl0ZW0gPSBuZXcgSXRlbSgpOwogICAgICAgIGl0ZW0uc2V0SWQoMUwpOwogICAgICAgIGl0ZW0uc2V0VGl0bGUoIue6oueDp+iCiSIpOwogICAgICAgIGl0ZW0uc2V0UHJpY2UoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlcihNZW51U2VydmljZS5jbGFzcywgTWVudVNlcnZpY2VJbXBsLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudVNlcnZpY2UuY2xhc3MsIE1lbnVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICByZWdpc3RlcihNZW51U2VydmljZS5jbGFzcywgTWVudVNlcnZpY2VJbXBsLmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51LnNldAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICByZWdpc3RlcihNZW51U2VydmljZS5jbGFzcywgTWVudVNlcnZpY2VJbXBsLmNsYXNzKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2RrIGdldEluc3RhbmNlKCkgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBNZW51U2VydmljZUltcGwoTWVudURhbyBtZW51RGFvLCBJdGVtRGFvIGl0ZW1EYW8pIHsKICAgICAgICB0aGlzLm1lbnVEYW8gPSBtZW51RGFvOwogICAgICAgIHRoaXMuaXRlbURhbyA9IGl0ZW1EYW87CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzZGsucmVnaXN0ZXIoTWVudVNlcnZpY2UuY2xhc3MsIE1lbnVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8cGFyZW50PgogICAgPGFydGlmYWN0SWQ+ay1wYXJlbnQ8L2FydGlmYWN0SWQ+CiAgICA8Z3JvdXBJZD5jb20ua291YmVpPC9ncm91cElkPgogICAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgogIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICBtZW51LnNldAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBoYWRpeAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSAK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHB1YmxpYyBNZW51U2VydmljZUltcGwoTWVudURhbyBtZW51RGFvLCBJdGVtRGFvIGl0ZW1EYW8pIHsKICAgICAgICB0aGlzLm1lbnVEYW8gPSBtZW51RGFvOwogICAgICAgIHRoaXMuaXRlbURhbyA9IGl0ZW1EYW87CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
