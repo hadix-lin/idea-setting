@@ -1942,11 +1942,11 @@
       <file name="$MAVEN_REPOSITORY$/com/taobao/android/accs_sdk_taobao/3.3.7.7/accs_sdk_taobao-3.3.7.7-sources.jar!/com/taobao/accs/ACCSManager.java" timestamp="1561353802723">
         <mark key="'" line="468" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/android-spring/src/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" timestamp="1561961295823">
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" timestamp="1561966117114">
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="24" />
+        <mark key="^" line="91" column="24" />
+        <mark key="." line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-task/app/modules/ads/ddl/CardResourceSchedulePool.java" timestamp="1555397227398">
         <mark key="[" line="46" column="51" />
@@ -2193,6 +2193,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/annotation/processing/AbstractProcessor.java" timestamp="1561966150679">
+        <mark key="[" line="159" column="55" />
+        <mark key="]" line="159" column="54" />
+        <mark key="^" line="159" column="54" />
+        <mark key="." line="159" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/CacheAutoConfiguration.java" timestamp="1561014607102">
         <mark key="[" line="9" column="39" />
@@ -2757,6 +2763,9 @@
         <mark key="^" line="24" column="47" />
         <mark key="." line="24" column="47" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/annotation/processing/Filer.java" timestamp="1561966261568">
+        <mark key="'" line="244" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/pom.xml" timestamp="1557824177821">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -2831,7 +2840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/service/impl/OpenUserServiceImpl.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
       <jump line="73" column="3" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
@@ -2931,6 +2939,7 @@
       <jump line="111" column="10" filename="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/Sdk.java" />
       <jump line="289" column="0" filename="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/ACCSSDKContext.java" />
       <jump line="172" column="4" filename="$MAVEN_REPOSITORY$/com/taobao/accs-sal-api/1.4.0-SNAPSHOT/accs-sal-api-1.4.0-20190611.070349-5-sources.jar!/com/taobao/accs/dataobject/ACCSDataStrategy.java" />
+      <jump line="244" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/annotation/processing/Filer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
