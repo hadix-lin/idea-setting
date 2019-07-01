@@ -724,7 +724,7 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561972446558">
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/pom.xml" timestamp="1561975653162">
         <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/rec/service/RecAppService.java" timestamp="1555415672306">
@@ -1759,6 +1759,7 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/android-spring/1.1.7/android-spring-1.1.7-sources.jar!/com/alibaba/androidspring/beans/factory/impl/ClasspathApplicationContext.java" timestamp="1561976113636" />
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-sample/src/main/resources/application.properties" timestamp="1557827427069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2512,6 +2513,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/resources/application.xml" timestamp="1561976505517">
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/resources/data/mock/citest/apitest/op/ads/GetCustomCardContentRecommendTest/testContentRecommend_hsf_mock.json" timestamp="1555496104503">
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -2656,7 +2663,7 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/Sdk.java" timestamp="1561974710713">
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/Sdk.java" timestamp="1561976081242">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
@@ -2685,6 +2692,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/Application.java" timestamp="1561976656811">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
@@ -2983,34 +2996,34 @@
         <text encoding="base64">ICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKFQpIGNvbXBvbmVudFJlZ2lzdHJ5LmNvbXB1dGVJZkFic2VudChzZXJ2aWNlSW50ZXJmYWNlLCB0aGlzOjpjcmVhdGVTZXJ2aWNlSW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ICA8Y29udGV4dDpob2xkZXItY29uZmlnIGZpbGU9Inh4eDAyLmFTcHJpbmciLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJCdXNpU2VydmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKFQpIGNvbXBvbmVudFJlZ2lzdHJ5LmNvbXB1dGVJZkFic2VudChzZXJ2aWNlSW50ZXJmYWNlLCB0aGlzOjpjcmVhdGVTZXJ2aWNlSW5zdGFuY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJCdXNpU2VydmljZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+YW5kcm9pZC1zcHJpbjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+YW5kcm9pZC1zcHJpbjwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXRLaW5kKCkK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXRLaW5kKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
