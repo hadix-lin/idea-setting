@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="DockerFile" type="Flow" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="dir_holder" type="PLAIN_TEXT" />
       <mapping pattern="nothing" type="PLAIN_TEXT" />
+      <mapping pattern="dir_holder" type="PLAIN_TEXT" />
+      <mapping ext="rpcfilter" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
-      <mapping ext="rpcfilter" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="Flow" />
     </extensionMap>
   </component>
 </application>

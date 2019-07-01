@@ -99,6 +99,9 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/dao/impl/ItemDaoImpl.java" timestamp="1561979781542">
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1555416106393">
         <mark key="[" line="153" column="9" />
         <mark key="]" line="153" column="8" />
@@ -1211,9 +1214,6 @@
         <mark key="^" line="184" column="52" />
         <mark key="." line="184" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/ACCSSDKContext.java" timestamp="1561628768919">
-        <mark key="'" line="289" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/app/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554173651742">
         <mark key="[" line="115" column="36" />
         <mark key="]" line="115" column="35" />
@@ -1628,6 +1628,9 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/service/impl/MenuServiceImpl.java" timestamp="1561979796158">
+        <mark key="[" line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/doc-spring-boot-starter/src/test/java/TaskApi.java" timestamp="1543289739195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1952,9 +1955,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/android/accs_sdk_taobao/3.3.7.7/accs_sdk_taobao-3.3.7.7-sources.jar!/com/taobao/accs/ACCSManager.java" timestamp="1561353802723">
-        <mark key="'" line="468" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/android-spring/src/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" timestamp="1561966117114">
         <mark key="[" line="91" column="25" />
         <mark key="]" line="91" column="24" />
@@ -2098,6 +2098,9 @@
         <mark key="]" line="60" column="29" />
         <mark key="^" line="60" column="29" />
         <mark key="." line="60" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/dao/impl/MenuDaoImpl.java" timestamp="1561979786781">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-boot/src/main/java/com/koubei/boot/startup/ExceptedPandoraSarVersion.java" timestamp="1560772272186">
         <mark key="[" line="0" column="18" />
@@ -2309,6 +2312,12 @@
         <mark key="^" line="260" column="22" />
         <mark key="." line="260" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/target/classes/application.xml" timestamp="1561979711354">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/base/AbstractSdk.java" timestamp="1561602662224">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="20" column="0" />
@@ -2513,7 +2522,7 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/resources/application.xml" timestamp="1561976505517">
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/resources/application.xml" timestamp="1561979613458">
         <mark key="[" line="7" column="58" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
@@ -2693,11 +2702,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/Application.java" timestamp="1561976656811">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/src/main/java/com/koubei/sdk/menu/Application.java" timestamp="1561979987847">
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/throwaway/common-doc/src/main/java/TaskApi.java" timestamp="1543310045049">
         <mark key="[" line="39" column="18" />
@@ -2794,9 +2803,6 @@
         <mark key="]" line="24" column="47" />
         <mark key="^" line="24" column="47" />
         <mark key="." line="24" column="47" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/annotation/processing/Filer.java" timestamp="1561966261568">
-        <mark key="'" line="244" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus/pom.xml" timestamp="1557824177821">
         <mark key="[" line="16" column="0" />
@@ -2996,34 +3002,34 @@
         <text encoding="base64">ICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8Y29udGV4dDpob2xkZXItY29uZmlnIGZpbGU9Inh4eDAyLmFTcHJpbmciLz4K</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNlbGVjdE1lbnUoKQogICAgICAgIFNkayBzZGsgPSBTZGsuZ2V0SW5zdGFuY2UoKTsKCiAgICAgICAgc2RrLnNldERhb0ZhY3RvcnkoCiAgICAgICAgICAgICAgICBuZXcgRGFvRmFjdG9yeSgpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgPFQ+IFQgZ2V0RGFvKENsYXNzPFQ+IGRhb0ludGVyZmFjZSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZGFvSW50ZXJmYWNlLmVxdWFscyhNZW51RGFvLmNsYXNzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChUKSBuZXcgTWVudURhb0ltcGwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChkYW9JbnRlcmZhY2UuZXF1YWxzKEl0ZW1EYW8uY2xhc3MpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gKFQpIG5ldyBJdGVtRGFvSW1wbCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgTWVudVNlcnZpY2Ugc2VydmljZSA9IHNkay5nZXRTZXJ2aWNlKE1lbnVTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKFQpIGNvbXBvbmVudFJlZ2lzdHJ5LmNvbXB1dGVJZkFic2VudChzZXJ2aWNlSW50ZXJmYWNlLCB0aGlzOjpjcmVhdGVTZXJ2aWNlSW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLmRvQnVzaSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJCdXNpU2VydmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQgY3R4ID0gbmV3IENsYXNzcGF0aEFwcGxpY2F0aW9uQ29udGV4dCgiYXBwbGljYXRpb25Db250ZXh0LnhtbCIpOwogICAgICAgIEFTZXJ2aWNlIHNlcnZpY2UgPSBjdHguZ2V0QmVhbihBU2VydmljZS5jbGFzcyk7CiAgICAgICAgc2VydmljZS5kb0J1c2koKTsKICAgICAgICBTZGsgc2RrID0gU2RrLmdldEluc3RhbmNlKCk7CgogICAgICAgIHNkay5zZXREYW9GYWN0b3J5KAogICAgICAgICAgICAgICAgbmV3IERhb0ZhY3RvcnkoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIDxUPiBUIGdldERhbyhDbGFzczxUPiBkYW9JbnRlcmZhY2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRhb0ludGVyZmFjZS5lcXVhbHMoTWVudURhby5jbGFzcykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoVCkgbmV3IE1lbnVEYW9JbXBsKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoZGFvSW50ZXJmYWNlLmVxdWFscyhJdGVtRGFvLmNsYXNzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChUKSBuZXcgSXRlbURhb0ltcGwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICA8Y29udGV4dDpob2xkZXItY29uZmlnIGZpbGU9Inh4eDAyLmFTcHJpbmciLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+YW5kcm9pZC1zcHJpbjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKFQpIGNvbXBvbmVudFJlZ2lzdHJ5LmNvbXB1dGVJZkFic2VudChzZXJ2aWNlSW50ZXJmYWNlLCB0aGlzOjpjcmVhdGVTZXJ2aWNlSW5zdGFuY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0ZXJCdXNpU2VydmljZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudC5nZXRLaW5kKCkK</text>
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+YW5kcm9pZC1zcHJpbjwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
