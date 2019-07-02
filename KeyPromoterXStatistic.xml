@@ -172,7 +172,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1879</Count>
+          <Count>1882</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -337,7 +337,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌃⇧⌘M'</ShortCut>
           <Description>Maven</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maven Projects">
