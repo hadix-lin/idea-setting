@@ -475,6 +475,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" timestamp="1562664317549">
+        <mark key="'" line="104" column="43" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1557036068323">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="47" />
@@ -1452,6 +1458,12 @@
         <mark key="^" line="102" column="26" />
         <mark key="." line="102" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageBox.java" timestamp="1562664059468">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/http/src/main/java/cn/uc/pp/common/http/impl/okhttp/OkHttp.java" timestamp="1560763056548">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="16" />
@@ -1980,8 +1992,8 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/MessageBox.java" timestamp="1562643334910">
-        <mark key="[" line="45" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/MessageBox.java" timestamp="1562664021938">
+        <mark key="[" line="14" column="17" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="18" column="44" />
         <mark key="." line="45" column="53" />
@@ -3210,7 +3222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="170" column="22" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
       <jump line="187" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/api/impl/TaskApiImpl.java" />
@@ -3310,6 +3321,7 @@
       <jump line="35" column="4" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/MessageBoxImpl.java" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" />
+      <jump line="102" column="43" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3331,34 +3343,34 @@
         <text encoding="base64">ICAgICAgICAgIDx2ZXJzaW9uPjMuMC4xPC92ZXJzaW9uPgogICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDxhdHRhY2g+dHJ1ZTwvYXR0YWNoPgogICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgPGlkPmF0dGFjaGUtc291cmNlczwvaWQ+CiAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgPGdvYWw+amFyLW5vLWZvcms8L2dvYWw+CiAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICA8L2V4ZWN1dGlvbnM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2V4ZWN1dGlvbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOmAmui/h+iuvuWkh+euoeeQhuacjeWKoeafpeivouivpeWVhumTuueahOaMh+WumuinkuiJsuiuvuWkh2lkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgIDxnb2FsPnJlcGFja2FnZTwvZ29hbD4KICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOmAmui/h+iuvuWkh+euoeeQhuacjeWKoeafpeivomRldmljZUlk5piv5ZCm5bGe5LqOc3RvcmVJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOmAmui/h+iuvuWkh+euoeeQhuWZqOafpeaJvuaJgOacieeahOiuvuWkhwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8dmVyc2lvbj4xLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGV2aWNlSWRzID0gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGV2aWNlSWRzID0gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYWNrYWdpbmc+cG9tPC9wYWNrYWdpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5tZXNzYWdlPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2V4ZWN1dGlvbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L3BhcmVudD4K</text>
+        <text encoding="base64">ICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgIDxnb2FsPnJlcGFja2FnZTwvZ29hbD4KICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
