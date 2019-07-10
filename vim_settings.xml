@@ -27,7 +27,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1562654108735">
+      <file name="/a.dummy" timestamp="1562758830766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,6 +38,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/beans/factory/impl/ClasspathApplicationContext.java" timestamp="1562758370742" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentSubmitInterceptor.java" timestamp="1556006924670">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="0" />
@@ -457,12 +458,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" timestamp="1562752717725">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" timestamp="1562760138237">
         <mark key="'" line="120" column="0" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="65" column="28" />
-        <mark key="^" line="65" column="28" />
-        <mark key="." line="65" column="28" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="51" column="13" />
+        <mark key="^" line="51" column="13" />
+        <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1555468028278">
         <mark key="[" line="11" column="25" />
@@ -560,6 +561,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/target/generated-sources/annotations/com/alibaba/androidspring/annotation/processor/AnnotationHolder_SDK_0.java" timestamp="1562757835834" />
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1555308750320">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="17" />
@@ -577,6 +579,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/beans/factory/impl/packagescan/impl/AndroidAnnotationScanner.java" timestamp="1562759508651">
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="74" column="50" />
+        <mark key="^" line="74" column="50" />
+        <mark key="." line="74" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/src/main/java/cn/uc/pp/common/kafka/KafkaHandlerExecutor.java" timestamp="1554950194144">
         <mark key="[" line="14" column="23" />
@@ -800,6 +808,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/pom.xml" timestamp="1562760094958">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/doc-spring-boot-starter/pom.xml" timestamp="1560772664183">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="15" />
@@ -853,6 +867,12 @@
         <mark key="]" line="2429" column="67" />
         <mark key="^" line="2429" column="67" />
         <mark key="." line="2429" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/clazz/ClassVersionHelper.java" timestamp="1562759149319">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/core/op/ad/dto/ContentRecommend.java" timestamp="1555493528918">
         <mark key="[" line="19" column="40" />
@@ -998,6 +1018,12 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/parent/1.0.3/parent-1.0.3.pom" timestamp="1562760085671">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/HSFApiConfig.java" timestamp="1553844313564">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="30" column="1" />
@@ -1051,6 +1077,11 @@
         <mark key="]" line="287" column="34" />
         <mark key="." line="287" column="34" />
         <mark key="^" line="287" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/clazz/AnnotationHolderClassHelper.java" timestamp="1562759183605">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/ppcache-spring-boot-starter/src/main/java/cn/uc/pp/common/ppcache/spring/HashableResourceLock.java" timestamp="1558080900398">
         <mark key="[" line="7" column="21" />
@@ -1166,11 +1197,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/demo/Demo.java" timestamp="1562750136443">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/demo/Demo.java" timestamp="1562760331919">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/pom.xml" timestamp="1560922896412">
         <mark key="[" line="23" column="9" />
@@ -1781,6 +1812,13 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" timestamp="1562759123347">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-kafka/src/main/java/cn/uc/pp/common/kafka/KafkaListenManager.java" timestamp="1554946981921">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
@@ -2049,9 +2087,6 @@
         <mark key="]" line="16" column="52" />
         <mark key="^" line="16" column="52" />
         <mark key="." line="16" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/demo/impl/MenuDaoImpl.java" timestamp="1562749205272">
-        <mark key="v" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-spring-boot-starter/pom.xml" timestamp="1557835431757">
         <mark key="[" line="32" column="20" />
@@ -2342,7 +2377,7 @@
         <mark key="^" line="41" column="72" />
         <mark key="." line="41" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1562748888266">
+      <file name="/fragment.java" timestamp="1562758327069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -2510,11 +2545,11 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/README.MD" timestamp="1562653792883">
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/README.MD" timestamp="1562760556353">
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="51" column="65" />
+        <mark key="^" line="51" column="65" />
+        <mark key="." line="51" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-base/src/main/java/cn/uc/pp/common/base/hsf/HsfServerExceptionFilter.java" timestamp="1558936664970">
         <mark key="[" line="59" column="9" />
@@ -2995,12 +3030,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/deploy.sh" timestamp="1562759671714" />
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/common-boot/target/classes/META-INF/spring.factories" timestamp="1554877890879">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/resources/META-INF/services/javax.annotation.processing.Processor" timestamp="1562757796077" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.2/kafka-clients-0.8.2.2-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1555039790991">
         <mark key="[" line="327" column="14" />
         <mark key="]" line="327" column="13" />
@@ -3320,8 +3357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="71" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
-      <jump line="197" column="16" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="33" column="21" filename="$USER_HOME$/Documents/Projects/creator-open-service/pom.xml" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/springfox-plus/pom.xml" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/dto/ReviewQuery.java" />
@@ -3420,6 +3455,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
       <jump line="31" column="19" filename="$MAVEN_REPOSITORY$/com/google/android/android/1.5_r4/android-1.5_r4.jar!/android/util/Log.class" />
+      <jump line="162" column="52" filename="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/ComponentProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3432,7 +3469,7 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>getResult</text>
+        <text>// end class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
@@ -3441,34 +3478,34 @@
         <text encoding="base64">ICAgIC8vICAgIEFwcGxpY2F0aW9uQ29udGV4dCBjdHggPSBuZXcgQ2xhc3NwYXRoQXBwbGljYXRpb25Db250ZXh0KCJhcHBsaWNhdGlvbkNvbnRleHQueG1sIik7CiAgICAvLyAgICBNZW51U2VydmljZSBzZXJ2aWNlID0gY3R4LmdldEJlYW4oTWVudVNlcnZpY2UuY2xhc3MpOwogICAgLy8gICAgTWVudSBtZW51ID0gc2VydmljZS5zZWxlY3RNZW51KCk7CiAgICAvLyAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1lbnUgPSAiICsgbWVudSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tLmFsaWJhYmEuYW5kcm9pZHNwcmluZy5hbm5vdGF0aW9uLnByb2Nlc3Nvci5Bbm5vdGF0aW9uSG9sZGVyXzEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICA8Y29udHJpYnV0b3JzPjxjb250cmlidXRvcj48cHJvcGVydGllcz48cHJvdmlkZXI+aGFkaXgubGluQGdtYWlsLmNvbTwvcHJvdmlkZXI+PGNvZGVOYW1lPm51bGw8L2NvZGVOYW1lPjxjb2RlVXJsPmdpdEBnaXRsYWIuYWxpYmFiYS1pbmMuY29tOnBvcy1saWIvYW5kcm9pZC1zcHJpbmcuZ2l0IGNvbW1pdDo3MzQ0MWM5PC9jb2RlVXJsPjxkZXNjcmlwdGlvbj5jb250cmlidXRvcnMgYWRkZWQgYnkgU0NNIFBsdWdpbiwgcGxlYXNlIGRvbid0IG1vZGlmeSBpdCE8L2Rlc2NyaXB0aW9uPjwvcHJvcGVydGllcz48L2NvbnRyaWJ1dG9yPjwvY29udHJpYnV0b3JzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5kZW50X3N0eWxlID0gc3BhY2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29tLmFsaWJhYmEuYW5kcm9pZHNwcmluZy5hbm5vdGF0aW9uLnByb2Nlc3Nvci5Bbm5vdGF0aW9uSG9sZGVyXzEK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IGFubm90YXRpb25Ib2xkZXJzOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBob2xkZXJDbGFzc05hbWUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhvbGRlckNsYXNzTmFtZSA9IHBhY2thZ2VOYW1lICsgIi4iICsgY2xhc3NCYXNlTmFtZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
