@@ -476,12 +476,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" timestamp="1562731032884">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="113" column="4" />
-        <mark key="]" line="113" column="3" />
-        <mark key="." line="113" column="3" />
-        <mark key="^" line="113" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" timestamp="1562740229341">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="30" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1557036068323">
         <mark key="[" line="12" column="24" />
@@ -3173,11 +3170,11 @@
         <mark key="^" line="112" column="26" />
         <mark key="." line="112" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/resources/application-module.properties" timestamp="1562584376369">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-        <mark key="^" line="0" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/resources/application-module.properties" timestamp="1562739738536">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/base/task/model/Task.java" timestamp="1557468028227">
         <mark key="[" line="241" column="51" />
@@ -3247,8 +3244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="40" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/TaskApi.java" />
-      <jump line="192" column="17" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="282" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="319" column="71" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="197" column="16" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
@@ -3346,6 +3341,8 @@
       <jump line="102" column="43" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
       <jump line="67" column="31" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/AccsChannel.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" />
     </jumps>
     <registers>
