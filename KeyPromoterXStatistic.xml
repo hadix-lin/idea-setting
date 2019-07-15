@@ -172,7 +172,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1961</Count>
+          <Count>1962</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1421,7 +1421,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
