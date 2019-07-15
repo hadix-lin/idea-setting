@@ -9,6 +9,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="spring.factories" />
       <mapping pattern="DockerFile" type="Flow" />
     </extensionMap>
   </component>
