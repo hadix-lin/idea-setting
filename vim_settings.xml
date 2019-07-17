@@ -266,6 +266,12 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="56" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Message.java" timestamp="1563363971460">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/MsgBoxProperties.java" timestamp="1563176409978">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="13" />
@@ -539,6 +545,13 @@
         <mark key="]" line="49" column="13" />
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageBoxImpl.java" timestamp="1563364001356">
+        <mark key="'" line="89" column="28" />
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/open/task/api/dto/TaskSummary.java" timestamp="1557036068323">
         <mark key="[" line="12" column="24" />
@@ -1042,6 +1055,11 @@
         <mark key="^" line="0" column="1219" />
         <mark key="." line="0" column="1219" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/entity/MessageEntity.java" timestamp="1563363982344">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.0.RELEASE/spring-boot-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class" timestamp="1558335285516">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="27" column="0" />
@@ -1256,6 +1274,13 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/settings.xml" timestamp="1563242689091">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/CommentUpdate.java" timestamp="1555309775394">
         <mark key="[" line="19" column="14" />
@@ -1644,9 +1669,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-msgbox/message-start/pom.xml" timestamp="1563281220760">
-        <mark key="[" line="89" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar!/org/slf4j/Logger.java" timestamp="1562059435033">
         <mark key="[" line="178" column="64" />
@@ -3749,34 +3771,34 @@
         <text>&quot;No enum constant &quot; + enumType.getCanonicalName() + &quot;.&quot; + name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0VGFyZ2V0KG1lc3NhZ2UuZ2V0VGFyZ2V0KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5LiK6KGM5pWw5o2uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5raI5oGv55uu5qCHCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIHRhcmdldDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIFMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5LiK6KGM5pWw5o2uCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIFMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLlN0cmluZ1V0aWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLk1lc3NhZ2VVdGlsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vKiogICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLlN0cmluZ1V0aWw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
