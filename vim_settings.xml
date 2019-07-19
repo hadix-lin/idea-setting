@@ -265,10 +265,11 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="56" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Message.java" timestamp="1563442441865">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Message.java" timestamp="1563504369948">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/MsgBoxProperties.java" timestamp="1563176409978">
         <mark key="[" line="16" column="14" />
@@ -1252,11 +1253,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Result.java" timestamp="1562590094818">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Result.java" timestamp="1563504852108">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.9.6/csi-common-1.9.6-sources.jar!/com/taobao/csi/csi_common/CsiServiceImpl.java" timestamp="1554890111879">
         <mark key="[" line="68" column="14" />
@@ -1276,11 +1277,11 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563440664426">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="23" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="45" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563504789481">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/settings.xml" timestamp="1563242689091">
         <mark key="'" line="35" column="20" />
@@ -2163,6 +2164,12 @@
         <mark key="]" line="31" column="26" />
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Target.java" timestamp="1563504564971">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-boot/alsc-base-api/pom.xml" timestamp="1563193082276">
         <mark key="[" line="17" column="29" />
@@ -3796,25 +3803,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTG9uZy5NQVhfVkFMVUUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Y+R6YCB6YCa55+l5raI5oGv57uZ5ZWG6ZO655qE5omA5pyJ6K6+5aSHCiAgICAgKgogICAgICogQHBhcmFtIG93bmVySWQgIOWVhumTuuagh+ivhgogICAgICogQHBhcmFtIG1zZyAgICAgIOa2iOaBr+S9kwogICAgICogQHBhcmFtIHN0cmF0ZWd5IOWPkemAgeetlueVpQogICAgICogQHJldHVybiDmiJDlip/lj5HpgIHmtojmga/ov5Tlm57nlJ/miJDnmoTmtojmga9pZAogICAgICovCiAgICBMaXN0PFJlc3VsdDxMb25nPj4gc2VuZChTdHJpbmcgb3duZXJJZCwgTWVzc2FnZSBtc2csIFN0cmF0ZWd5IHN0cmF0ZWd5KTsKCiAgICAvKioKICAgICAqIOWPkemAgemAmuefpea2iOaBr+e7meWVhumTuueahOaMh+WumuiuvuWkhyzlpoLmnpzorr7lpIfkuI3lsZ7kuo7or6XllYbpk7os5YiZ5oqb5byC5bi4CiAgICAgKgogICAgICogQHBhcmFtIG93bmVySWQgIOWVhumTuuagh+ivhgogICAgICogQHBhcmFtIGRldmljZUlkIOiuvuWkh2lkCiAgICAgKiBAcGFyYW0gbXNnICAgICAg5raI5oGv5L2TCiAgICAgKiBAcGFyYW0gc3RyYXRlZ3kg5Y+R6YCB562W55WlCiAgICAgKiBAcmV0dXJuIOaIkOWKn+WPkemAgea2iOaBr+i/lOWbnueUn+aIkOeahOa2iOaBr2lkCiAgICAgKi8KICAgIFJlc3VsdDxMb25nPiBzZW5kKFN0cmluZyBvd25lcklkLCBTdHJpbmcgZGV2aWNlSWQsIE1lc3NhZ2UgbXNnLCBTdHJhdGVneSBzdHJhdGVneSk7CgogICAgLyoqCiAgICAgKiDlsIbmtojmga/lj5HpgIHnu5nlupfpk7rlhoXmn5Dnp43op5LoibLnmoTorr7lpIcs5L6L5aaCKOS4u+aJk+WNsOiuvuWkhyzkuLtQT1Ms5LuOUE9TLOWOqOaIv+Wxj+aYvuiuvuWkhy4uLikKICAgICAqCiAgICAgKiBAcGFyYW0gc3RvcmVJZCAg5ZWG6ZO6aWQKICAgICAqIEBwYXJhbSByb2xlICAgICDorr7lpIfop5LoibIKICAgICAqIEBwYXJhbSBtc2cgICAgICDmtojmga/kvZMKICAgICAqIEBwYXJhbSBzdHJhdGVneSDlj5HpgIHnrZbnlaUKICAgICAqIEByZXR1cm4g5oiQ5Yqf5Y+R6YCB5raI5oGv6L+U5Zue55Sf5oiQ55qE5raI5oGvaWQKICAgICAqLwogICAgTGlzdDxSZXN1bHQ8TG9uZz4+IHNlbmQoU3RyaW5nIHN0b3JlSWQsIERldmljZVJvbGUgcm9sZSwgTWVzc2FnZSBtc2csIFN0cmF0ZWd5IHN0cmF0ZWd5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmlbDmja7moIfor4Yo6KGo6L6+6KaB5ZCM5q2l55qE5YaF5a655piv5LuA5LmIKQogICAgICAgICAqLwogICAgICAgIHByaXZhdGUgU3RyaW5nIGRhdGFOYW1lOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8UmVzdWx0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGV2aWNlUm9sZSBkZXZpY2VSb2xlOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0VGFyZ2V0KG1lc3NhZ2UuZ2V0VGFyZ2V0KCkpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgVGFyZ2V0IG93bmVySWQoU3RyaW5nIG93bmVySWQpIHsKICAgICAgICBUYXJnZXQgdGFyZ2V0ID0gbmV3IFRhcmdldCgpOwogICAgICAgIHRhcmdldC5zZXRPd25lcklkKG93bmVySWQpOwogICAgICAgIHJldHVybiB0YXJnZXQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBUYXJnZXQgZGV2aWNlSWQoU3RyaW5nIGRldmljZUlkKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5raI5oGv55uu5qCHCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIHRhcmdldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5LiK6KGM5pWw5o2uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTG9uZy5NQVhfVkFMVUUpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
