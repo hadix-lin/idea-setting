@@ -33,6 +33,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/exception/UnknownException.java" timestamp="1563784940587">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/CommentSubmitInterceptor.java" timestamp="1556006924670">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="0" />
@@ -117,10 +123,11 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/.gitignore" timestamp="1563778604855">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-doc-spring-boot-starter/pom.xml" timestamp="1563788092428">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/kafka/KafkaConf.java" timestamp="1554803524363">
         <mark key="[" line="10" column="25" />
@@ -212,6 +219,7 @@
         <mark key="^" line="52" column="40" />
         <mark key="." line="52" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-template/src/main/java/com/alsc/pos/common/template/CommonBizServiceTemplateImpl.java" timestamp="1563788621379" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/diamond-client-sdk/3.8.11--2018-08-stable-hsf-buc-bugfix/diamond-client-sdk-3.8.11--2018-08-stable-hsf-buc-bugfix-sources.jar!/com/taobao/diamond/client/impl/ServerHttpAgent.java" timestamp="1543394609528">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="71" />
@@ -235,6 +243,12 @@
         <mark key="]" line="41" column="23" />
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/exception/SystemException.java" timestamp="1563784778974">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/springfox-plus/springfox-plus-javadoc-parser/pom.xml" timestamp="1557824244257">
         <mark key="[" line="17" column="20" />
@@ -284,8 +298,8 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="56" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Message.java" timestamp="1563538881218">
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/Message.java" timestamp="1563786074065">
+        <mark key="[" line="30" column="7" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
@@ -548,6 +562,12 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-base/pom.xml" timestamp="1563788251312">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base-api/src/main/java/com/koubei/base/exception/GlobalServiceException.java" timestamp="1560849408512">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -565,6 +585,12 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-template/pom.xml" timestamp="1563787548035">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/schedulerx/schedulerx-api/1.0.3/schedulerx-api-1.0.3-sources.jar!/com/alibaba/dts/common/domain/result/ProcessResult.java" timestamp="1554885672279">
         <mark key="[" line="23" column="10" />
@@ -614,7 +640,7 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-bootstrap/2.1.11.3/pandora-boot-bootstrap-2.1.11.3-sources.jar!/com/taobao/pandora/boot/spring/diamond/DiamondProfiles.java" timestamp="1562569857014">
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-bootstrap/2.1.11.3/pandora-boot-bootstrap-2.1.11.3-sources.jar!/com/taobao/pandora/boot/spring/diamond/DiamondProfiles.java" timestamp="1563780814040">
         <mark key="[" line="60" column="54" />
         <mark key="]" line="60" column="53" />
         <mark key="^" line="60" column="53" />
@@ -638,17 +664,20 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/AccessLog.java" timestamp="1563779246682">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/AccessLog.java" timestamp="1563785745665">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
         <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/dao/CommentUpdateDao.java" timestamp="1555308750320">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="42" column="17" />
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/error/Code.java" timestamp="1563784022544">
+        <mark key="[" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/dao/BaseDao.java" timestamp="1560773126319">
         <mark key="[" line="16" column="18" />
@@ -715,6 +744,12 @@
         <mark key="]" line="39" column="36" />
         <mark key="^" line="39" column="36" />
         <mark key="." line="39" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/BaseRequest.java" timestamp="1563786650218">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/lib/repository-client-1.0.6-SNAPSHOT.jar!/cn/uc/pp/repository/video/dto/VideoInfo.class" timestamp="1554878860647">
         <mark key="[" line="35" column="19" />
@@ -950,11 +985,11 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/CommonBizResult.java" timestamp="1563762655297">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/CommonBizResult.java" timestamp="1563784364038">
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/ExceptionLogInfo.java" timestamp="1563764009310">
         <mark key="[" line="0" column="1" />
@@ -1046,7 +1081,6 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/toolkit/common/toolkit-common-lang/1.1.4/toolkit-common-lang-1.1.4.jar!/com/alibaba/common/lang/MessageUtil.class" timestamp="1563777884522" />
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/api/intercept/DevApiCheckInterceptor.java" timestamp="1560772558879">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="16" />
@@ -1119,11 +1153,11 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563779243847">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="43" column="2" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="37" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563785714775">
+        <mark key="[" line="56" column="71" />
+        <mark key="]" line="56" column="70" />
+        <mark key="^" line="56" column="70" />
+        <mark key="." line="56" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-base-api/src/main/java/com/alsc/base/exception/ArgumentException.java" timestamp="1563776468495">
         <mark key="[" line="20" column="28" />
@@ -1137,11 +1171,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/error/CommonErrorCode.java" timestamp="1563776645177">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="37" column="43" />
-        <mark key="^" line="37" column="43" />
-        <mark key="." line="37" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/error/CommonErrorCode.java" timestamp="1563784926596">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/impl/csi/CsiResultParser.java" timestamp="1554797696829">
         <mark key="[" line="77" column="29" />
@@ -1166,6 +1200,12 @@
         <mark key="]" line="21" column="56" />
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/error/ErrorCode.java" timestamp="1563784032062">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/UserComment.java" timestamp="1554298606851">
         <mark key="[" line="29" column="19" />
@@ -1215,11 +1255,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-boot/pom.xml" timestamp="1563508192199">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-boot/pom.xml" timestamp="1563785964588">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="28" />
+        <mark key="." line="78" column="28" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/OpenBaseTest.java" timestamp="1557024370081">
         <mark key="[" line="10" column="19" />
@@ -1311,12 +1351,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/DateUtil.java" timestamp="1563779077993">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/DateUtil.java" timestamp="1563781183232">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="120" column="100" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="147" column="61" />
+        <mark key="]" line="148" column="17" />
+        <mark key="." line="148" column="17" />
+        <mark key="^" line="148" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.9.6/csi-common-1.9.6-sources.jar!/com/taobao/csi/csi_common/CsiServiceImpl.java" timestamp="1554890111879">
         <mark key="[" line="68" column="14" />
@@ -1336,11 +1376,11 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563516895214">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563785841707">
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/model/CommentUpdate.java" timestamp="1555309775394">
         <mark key="[" line="19" column="14" />
@@ -1402,12 +1442,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/LoggerLevel.java" timestamp="1563777942410">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="36" column="16" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/demo/Demo.java" timestamp="1562760331919">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="4" />
@@ -1437,6 +1471,12 @@
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-template/src/main/java/com/alsc/pos/common/template/CommonBizServiceTemplateImpl.java" timestamp="1563786604299">
+        <mark key="[" line="164" column="31" />
+        <mark key="]" line="164" column="30" />
+        <mark key="^" line="164" column="30" />
+        <mark key="." line="164" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/dagger/dagger/2.23.2/dagger-2.23.2-sources.jar!/dagger/Component.java" timestamp="1561567270116">
         <mark key="[" line="248" column="5" />
@@ -1564,12 +1604,6 @@
         <mark key="^" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/exception/CommonBizException.java" timestamp="1563777900924">
-        <mark key="[" line="149" column="71" />
-        <mark key="]" line="150" column="11" />
-        <mark key="." line="150" column="11" />
-        <mark key="^" line="150" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/modules/management/op/audit/dto/UcAuditSendResp.java" timestamp="1554371555202">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="18" />
@@ -1582,8 +1616,8 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-doc-spring-boot-starter/pom.xml" timestamp="1563762473410">
-        <mark key="[" line="17" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-doc-spring-boot-starter/pom.xml" timestamp="1563787891954">
+        <mark key="[" line="12" column="19" />
         <mark key="]" line="17" column="29" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
@@ -1660,11 +1694,14 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/DigestLogInfo.java" timestamp="1563778228370">
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="88" column="15" />
-        <mark key="." line="88" column="15" />
-        <mark key="^" line="88" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/DigestLogInfo.java" timestamp="1563785279976">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="55" />
+        <mark key="^" line="40" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-doc/pom.xml" timestamp="1563788098518">
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/task/OpenTaskApiNormalUserTest.java" timestamp="1557457882916">
         <mark key="[" line="204" column="46" />
@@ -1696,11 +1733,20 @@
         <mark key="^" line="115" column="35" />
         <mark key="." line="115" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/model/DeviceRole.java" timestamp="1563760325784">
+        <mark key="[" line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-msgbox.release" timestamp="1563343688693">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="66" />
         <mark key="^" line="16" column="66" />
         <mark key="." line="16" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563788757010">
+        <mark key="[" line="205" column="26" />
+        <mark key="]" line="206" column="27" />
+        <mark key="." line="206" column="27" />
+        <mark key="^" line="206" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/user/UpdateAccountTest.java" timestamp="1557384295462">
         <mark key="[" line="61" column="24" />
@@ -1984,6 +2030,12 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/BizCode.java" timestamp="1563784000032">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/springfox-extension/src/main/kotlin/hadix/staticdoc/StaticDocOperationSummaryAndNotesReader.kt" timestamp="1555054263619">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -2050,12 +2102,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/template/CommonBizServiceTemplateImpl.java" timestamp="1563778995751">
-        <mark key="'" line="279" column="36" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="44" column="9" />
-        <mark key="^" line="42" column="19" />
-        <mark key="." line="39" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/BaseDTO.java" timestamp="1563782503801">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-cache-spring-boot-starter/src/main/java/com/koubei/cache/TairCache.java" timestamp="1560930604024">
         <mark key="[" line="16" column="108" />
@@ -2189,10 +2240,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/JsonUtil.java" timestamp="1563778903840">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/JsonUtil.java" timestamp="1563780968980">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="19" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" timestamp="1557040022133">
@@ -2345,11 +2396,11 @@
         <mark key="^" line="40" column="52" />
         <mark key="." line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-base/pom.xml" timestamp="1563777193848">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-base/pom.xml" timestamp="1563787268602">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/TraceIdUtil.java" timestamp="1563778137122">
         <mark key="[" line="15" column="3" />
@@ -2387,7 +2438,7 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-start/src/main/resources/application.properties" timestamp="1563368167789">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-start/src/main/resources/application.properties" timestamp="1563780468466">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
@@ -2549,6 +2600,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/validator/ValidatorWraper.java" timestamp="1563785767935">
+        <mark key="[" line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-admin/pom.xml" timestamp="1555918211341">
         <mark key="[" line="77" column="43" />
         <mark key="]" line="78" column="43" />
@@ -2669,13 +2723,6 @@
         <mark key="^" line="23" column="44" />
         <mark key="." line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom-parent.xml" timestamp="1563761221312">
-        <mark key="'" line="393" column="9" />
-        <mark key="[" line="87" column="40" />
-        <mark key="]" line="87" column="39" />
-        <mark key="^" line="87" column="39" />
-        <mark key="." line="87" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/comment/audit/AuditTask.java" timestamp="1555309497427">
         <mark key="[" line="57" column="63" />
         <mark key="]" line="57" column="53" />
@@ -2760,11 +2807,11 @@
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/AssertUtil.java" timestamp="1563777682611">
-        <mark key="[" line="222" column="21" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/AssertUtil.java" timestamp="1563781308153">
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="147" column="25" />
+        <mark key="^" line="147" column="25" />
+        <mark key="." line="147" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-test/src/main/java/cn/uc/pp/cos/cache/AdminTairManager.java" timestamp="1557024887473">
         <mark key="[" line="461" column="68" />
@@ -2790,7 +2837,7 @@
         <mark key="^" line="41" column="72" />
         <mark key="." line="41" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1563519241830">
+      <file name="/fragment.java" timestamp="1563786468301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -2850,11 +2897,11 @@
         <mark key="^" line="47" column="56" />
         <mark key="." line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-cache-spring-boot-starter/pom.xml" timestamp="1563762454130">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-cache-spring-boot-starter/pom.xml" timestamp="1563787848926">
         <mark key="[" line="11" column="19" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/csi/csi-common/1.9.6/csi-common-1.9.6.jar!/com/taobao/csi/csi_common/CsiServiceImpl.class" timestamp="1554797659424">
         <mark key="[" line="688" column="15" />
@@ -2904,11 +2951,11 @@
         <mark key="^" line="27" column="48" />
         <mark key="." line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/BaseResult.java" timestamp="1563762621756">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/base/BaseResult.java" timestamp="1563784378721">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/user/filter/AuthInterceptor.java" timestamp="1557287006517">
         <mark key="[" line="24" column="14" />
@@ -3018,6 +3065,12 @@
         <mark key="^" line="5512" column="27" />
         <mark key="." line="5512" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-boot/src/main/java/com/alsc/boot/Boot.java" timestamp="1563780553286">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/k-boot/common-base-api/src/main/java/com/koubei/base/api/Resp.java" timestamp="1560765243742">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="20" />
@@ -3108,6 +3161,9 @@
         <mark key="^" line="294" column="3" />
         <mark key="." line="294" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/constants/CommonConstants.java" timestamp="1563784402005">
+        <mark key="[" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/common-doc/static-doc-core/src/main/kotlin/hadix/staticdoc/DiskDocStore.kt" timestamp="1555056340966">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="29" column="5" />
@@ -3149,6 +3205,9 @@
         <mark key="]" line="54" column="22" />
         <mark key="^" line="54" column="22" />
         <mark key="." line="54" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1563788316990">
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/tair-plugin-sdk/4.1.5--2019-01-release/tair-plugin-sdk-4.1.5--2019-01-release-sources.jar!/com/taobao/tair/impl/DefaultTairManager.java" timestamp="1556525596414">
         <mark key="[" line="260" column="23" />
@@ -3276,10 +3335,10 @@
         <mark key="." line="53" column="37" />
         <mark key="^" line="53" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/pom.xml" timestamp="1563779184768">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/pom.xml" timestamp="1563786677996">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
         <mark key="^" line="39" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/accs-service-sdk/2.3.0.1-online-retry/accs-service-sdk-2.3.0.1-online-retry-sources.jar!/com/taobao/accs/util/IDGenerator.java" timestamp="1562588564377">
@@ -3390,11 +3449,11 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/http/pom.xml" timestamp="1563762832676">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/http/pom.xml" timestamp="1563787876947">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/samples/simple-counter/docker-image/docker-compose.yml" timestamp="1558343706159">
         <mark key="[" line="5" column="19" />
@@ -3425,6 +3484,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-tool/pom.xml" timestamp="1563788136765">
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/model/UserActionLog.java" timestamp="1554287264389">
         <mark key="[" line="13" column="1" />
@@ -3510,18 +3572,25 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1563778453028">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
-        <mark key="^" line="51" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1563788353187">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
+        <mark key="^" line="361" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageServiceImpl.java" timestamp="1563517159657">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="66" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageServiceImpl.java" timestamp="1563786066748">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="54" column="21" />
+        <mark key="^" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-cache-spring-boot-starter/src/main/java/com/alsc/cache/CacheProperties.java" timestamp="1563787127183">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.2/kafka-clients-0.8.2.2-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1555039790991">
         <mark key="[" line="327" column="14" />
@@ -3564,6 +3633,12 @@
         <mark key="]" line="42" column="8" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common/pom.xml" timestamp="1563787566918">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-common-spring-lib/pom.xml" timestamp="1556015627462">
         <mark key="[" line="413" column="33" />
@@ -3841,10 +3916,6 @@
         <mark key="." line="44" column="4" />
         <mark key="^" line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/validator/ValidatorWrapperImpl.java" timestamp="1563779144291">
-        <mark key="[" line="19" column="10" />
-        <mark key="^" line="21" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/dao/DaoPackage.java" timestamp="1563177955663">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="29" />
@@ -3853,8 +3924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/src/main/java/cn/uc/pp/cos/open/user/util/RequestUtil.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" />
       <jump line="222" column="49" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="60" column="24" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
@@ -3953,6 +4022,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" />
       <jump line="275" column="36" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/template/CommonBizServiceTemplateImpl.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/DateUtil.java" />
+      <jump line="14" column="34" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3965,43 +4036,47 @@
         <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICog6ZyA6KaB5aaC5LiL5L6d6LWWOgogKiA8cHJlPgogKiB7QGNvZGUKICogPGRlcGVuZGVuY3k+CiAqICAgPGdyb3VwSWQ+b3JnLmFzcGVjdGo8L2dyb3VwSWQ+CiAqICAgPGFydGlmYWN0SWQ+YXNwZWN0anJ0PC9hcnRpZmFjdElkPgogKiA8L2RlcGVuZGVuY3k+CiAqIDxkZXBlbmRlbmN5PgogKiAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAqICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvbnRleHQ8L2FydGlmYWN0SWQ+CiAqIDwvZGVwZW5kZW5jeT4KICogPGRlcGVuZGVuY3k+CiAqICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogKiAgIDxhcnRpZmFjdElkPnNsZjRqLWFwaTwvYXJ0aWZhY3RJZD4KICogPC9kZXBlbmRlbmN5PgogKiB9CiAqIDwvcHJlPgogKgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb21tb25CaXpFeGNlcHRpb24oVGhyb3dhYmxlIHRocm93YWJsZSwgRXJyb3JDb2RlIGVycm9yQ29kZSwgU3RyaW5nIGVycm9yTXNnLAogICAgICAgIE9iamVjdC4uLiBwYXJhbXMpIHsKICAgICAgICBzdXBlcih0aHJvd2FibGUpOwogICAgICAgIHRoaXMuZXJyb3JDb2RlID0gZXJyb3JDb2RlOwogICAgICAgIHRoaXMuZXJyb3JNc2cgPSBmb3JtYXQoZXJyb3JNc2csIHBhcmFtcyk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJCRUFO5qCh6aqM6ZSZ6K+vLGJlYW7kuI3lhYHorrjkuLrnqboiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGJlZm9yZUxvZ0luZm8udG9Mb2dTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEYXRlVXRpbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGJlZm9yZUxvZ0luZm8udG9Mb2dTdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
+      <register name="5" type="8">
+        <text>alsc-
+alsc-
+alsc-
+alsc-
+alsc-</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICA8dmVyc2lvbj4xLjAuNy1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJobVN0cmluZzJEYXRl5byC5bi4LGRhdGVTdHI9IiArIGRhdGVTdHIgKyAiLGU9IiArIGUudG9TdHJpbmcoKSwgZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwhLS0gc3ByaW5nLXR4IC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy10eDwvYXJ0aWZhY3RJZD4KICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgPC9kZXBlbmRlbmN5PgoKICAgIDwhLS0gamF2YXgudmFsaWRhdGlvbiAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuaGliZXJuYXRlLnZhbGlkYXRvcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
