@@ -117,6 +117,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alsc/pos/organization-client/1.0.0-SNAPSHOT/organization-client-1.0.0-SNAPSHOT.pom" timestamp="1563863689281">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/resources/application-ci.properties" timestamp="1556612666842">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="29" />
@@ -550,11 +556,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" timestamp="1563502969885">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="16" />
-        <mark key="^" line="35" column="16" />
-        <mark key="." line="35" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/pom.xml" timestamp="1563864124227">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-api-framework/pom.xml" timestamp="1555468028278">
         <mark key="[" line="11" column="25" />
@@ -1063,11 +1069,11 @@
         <mark key="^" line="2429" column="67" />
         <mark key="." line="2429" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/manager/accs/AccsMsgAckHandler.java" timestamp="1563847230390">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/manager/accs/AccsMsgAckHandler.java" timestamp="1563864813292">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/android-spring/src/main/java/com/alibaba/androidspring/annotation/processor/clazz/ClassVersionHelper.java" timestamp="1562759149319">
         <mark key="[" line="7" column="13" />
@@ -1779,7 +1785,7 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563788804671">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563863359303">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
@@ -2289,11 +2295,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563852274275">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1563864594037">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp-service-common-ppcache/pp-service-common-ppcache-config/pom.xml" timestamp="1562589058494">
         <mark key="[" line="23" column="21" />
@@ -3270,6 +3276,7 @@
         <mark key="^" line="40" column="12" />
         <mark key="." line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/DeviceManager.java" timestamp="1563864163901" />
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-sdk/target/classes/application.xml" timestamp="1561979711354">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="7" />
@@ -4100,34 +4107,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBDb21tb25CaXpFeGNlcHRpb24oVGhyb3dhYmxlIHRocm93YWJsZSwgRXJyb3JDb2RlIGVycm9yQ29kZSwgU3RyaW5nIGVycm9yTXNnLAogICAgICAgIE9iamVjdC4uLiBwYXJhbXMpIHsKICAgICAgICBzdXBlcih0aHJvd2FibGUpOwogICAgICAgIHRoaXMuZXJyb3JDb2RlID0gZXJyb3JDb2RlOwogICAgICAgIHRoaXMuZXJyb3JNc2cgPSBmb3JtYXQoZXJyb3JNc2csIHBhcmFtcyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLkFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLlN5c3RlbUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLkFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN1Y2Nlc3MpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigi5L+d5a2YTWVzc2FnZS5BY2tbIiArIGFjayArICJd5aSx6LSlIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLlN5c3RlbUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZGFvLlN0b3JlQXNKc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN1Y2Nlc3MpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigi5L+d5a2YTWVzc2FnZS5BY2tbIiArIGFjayArICJd5aSx6LSlIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZGFvLlN0b3JlQXNKc29uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKG1zZyk7Cg==</text>
+        <text encoding="base64">ICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKG1zZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
