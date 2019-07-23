@@ -1742,11 +1742,11 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563788757010">
-        <mark key="[" line="205" column="26" />
-        <mark key="]" line="206" column="27" />
-        <mark key="." line="206" column="27" />
-        <mark key="^" line="206" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/AccessLogAspect.java" timestamp="1563788804671">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="^" line="204" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/test/java/cn/uc/pp/cos/open/user/UpdateAccountTest.java" timestamp="1557384295462">
         <mark key="[" line="61" column="24" />
@@ -4045,38 +4045,38 @@
         <text encoding="base64">ICAgIHB1YmxpYyBDb21tb25CaXpFeGNlcHRpb24oVGhyb3dhYmxlIHRocm93YWJsZSwgRXJyb3JDb2RlIGVycm9yQ29kZSwgU3RyaW5nIGVycm9yTXNnLAogICAgICAgIE9iamVjdC4uLiBwYXJhbXMpIHsKICAgICAgICBzdXBlcih0aHJvd2FibGUpOwogICAgICAgIHRoaXMuZXJyb3JDb2RlID0gZXJyb3JDb2RlOwogICAgICAgIHRoaXMuZXJyb3JNc2cgPSBmb3JtYXQoZXJyb3JNc2csIHBhcmFtcyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKG1zZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGJlZm9yZUxvZ0luZm8udG9Mb2dTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGJlZm9yZUxvZ0luZm8udG9Mb2dTdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGJlZm9yZUxvZ0luZm8udG9Mb2dTdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>alsc-
 alsc-
 alsc-
 alsc-
 alsc-</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8dmVyc2lvbj4xLjAuNy1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gc3ByaW5nLXR4IC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy10eDwvYXJ0aWZhY3RJZD4KICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgPC9kZXBlbmRlbmN5PgoKICAgIDwhLS0gamF2YXgudmFsaWRhdGlvbiAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuaGliZXJuYXRlLnZhbGlkYXRvcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
