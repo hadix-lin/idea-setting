@@ -327,11 +327,11 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageServiceImpl.java" timestamp="1563866680654">
-        <mark key="[" line="90" column="26" />
-        <mark key="]" line="90" column="27" />
-        <mark key="^" line="90" column="27" />
-        <mark key="." line="90" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/PosMessageServiceImpl.java" timestamp="1563869763823">
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+        <mark key="^" line="61" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-service/src/main/java/cn/uc/pp/ubr/log/service/UserActionLogService.java" timestamp="1554293388575">
         <mark key="[" line="38" column="29" />
@@ -1119,6 +1119,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/toolkit/common/toolkit-common-lang/1.1.4/toolkit-common-lang-1.1.4.jar!/com/alibaba/common/lang/MessageUtil.class" timestamp="1563869394444" />
       <file name="$USER_HOME$/Documents/Projects/k-boot/k-base/src/main/java/com/koubei/base/api/intercept/DevApiCheckInterceptor.java" timestamp="1560772558879">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="16" />
@@ -1478,6 +1479,13 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/LoggerUtil.java" timestamp="1563870139020">
+        <mark key="'" line="155" column="18" />
+        <mark key="[" line="162" column="36" />
+        <mark key="]" line="162" column="35" />
+        <mark key="^" line="162" column="35" />
+        <mark key="." line="162" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/demo/Demo.java" timestamp="1562760331919">
         <mark key="[" line="20" column="5" />
@@ -2012,6 +2020,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/pom.xml" timestamp="1563869458646">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.0.RELEASE/spring-boot-starter-parent-2.1.0.RELEASE.pom" timestamp="1557995908953">
         <mark key="[" line="16" column="22" />
@@ -3549,6 +3562,7 @@
         <mark key="^" line="237" column="11" />
         <mark key="." line="238" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-template/src/main/java/com/alsc/pos/common/validator/ValidatorWrapperImpl.java" timestamp="1563870213140" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/order/service/impl/OrderServiceImpl.java" timestamp="1562748744729">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="5" column="9" />
@@ -3608,6 +3622,13 @@
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1563872942631">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="361" column="0" />
+        <mark key="^" line="361" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-cache-spring-boot-starter/src/main/java/com/alsc/cache/CacheProperties.java" timestamp="1563787127183">
         <mark key="[" line="15" column="39" />
@@ -3953,7 +3974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base/pom.xml" />
       <jump line="222" column="49" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-open/src/main/java/cn/uc/pp/cos/open/task/service/impl/TaskServiceImpl.java" />
       <jump line="60" column="24" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/creator-open-service/cos-base-api/src/main/java/cn/uc/pp/cos/admin/task/api/TaskApi.java" />
@@ -4053,6 +4073,7 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-pos-common/src/main/java/com/alsc/pos/common/util/DateUtil.java" />
       <jump line="14" column="34" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" />
+      <jump line="155" column="18" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/LoggerUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4071,37 +4092,37 @@
         <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb21tb25CaXpFeGNlcHRpb24oVGhyb3dhYmxlIHRocm93YWJsZSwgRXJyb3JDb2RlIGVycm9yQ29kZSwgU3RyaW5nIGVycm9yTXNnLAogICAgICAgIE9iamVjdC4uLiBwYXJhbXMpIHsKICAgICAgICBzdXBlcih0aHJvd2FibGUpOwogICAgICAgIHRoaXMuZXJyb3JDb2RlID0gZXJyb3JDb2RlOwogICAgICAgIHRoaXMuZXJyb3JNc2cgPSBmb3JtYXQoZXJyb3JNc2csIHBhcmFtcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+CiAgPGFydGlmYWN0SWQ+Y29tbW9uLXBhcmVudDwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5hbm5vdGF0aW9uLkVudW1WYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRW50aXR5IGVudGl0eSA9IE1lc3NhZ2VFbnRpdHkuZnJvbShtc2cpOwogICAgICAgIGVudGl0eS5zZXRDaGFubmVsTXNnSWQocmVzdWx0LmdldE1zZ0lkKCkpOwogICAgICAgIGVudGl0eS5zZXRPd25lcklkKHN0b3JlSWQpOwogICAgICAgIGVudGl0eS5zZXRUYXJnZXQoZGV2aWNlSWQpOwogICAgICAgIGVudGl0eS5zZXRTdGF0dXMoTWVzc2FnZUVudGl0eS5TdGF0dXMuU0VOVCk7CiAgICAgICAgbWVzc2FnZURhby5pbnNlcnQoZW50aXR5KTsKICAgICAgICBpZiAobG9nLmlzSW5mb0VuYWJsZWQoKSkgewogICAgICAgICAgICBsb2cuaW5mbygKICAgICAgICAgICAgICAgICJ7fS17fS17fS17fS17fS17fS17fSIsCiAgICAgICAgICAgICAgICBlbnRpdHkuZ2V0SWQoKSwKICAgICAgICAgICAgICAgIHJlc3VsdC5nZXRNc2dJZCgpLAogICAgICAgICAgICAgICAgc3RvcmVJZCwKICAgICAgICAgICAgICAgIGRldmljZUlkLAogICAgICAgICAgICAgICAgcmVzdWx0LmdldFN1Y2Nlc3MoKSwKICAgICAgICAgICAgICAgIHJlc3VsdC5nZXRFcnJvcigpLAogICAgICAgICAgICAgICAgc3RyYXRlZ3kpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnBvcy5tc2cubW9kZWwuUmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIDxjb21tb24tdG9vbGtpdC1sYW5nLnZlcnNpb24+MS4xLjQ8L2NvbW1vbi10b29sa2l0LWxhbmcudmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV2aWNlSWRzLnN0cmVhbSgpCiAgICAgICAgICAgIC5tYXAoZGV2aWNlSWQgLT4gc2VuZFRvRGV2aWNlKHN0b3JlSWQsIGRldmljZUlkLCBtc2csIHN0cmF0ZWd5KSkKICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLk1lc3NhZ2VVdGlsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVmFsaWRhdG9yIHZhbGlkYXRvcjsKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLkFycmF5VXRpbDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLkFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmNvbW1vbi5sYW5nLlN0cmluZ1V0aWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLmJhc2UuZXhjZXB0aW9uLlN5c3RlbUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5hbm5vdGF0aW9uLkVudW1WYWx1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN1Y2Nlc3MpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigi5L+d5a2YTWVzc2FnZS5BY2tbIiArIGFjayArICJd5aSx6LSlIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnBvcy5tc2cubW9kZWwuUmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
