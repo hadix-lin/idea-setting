@@ -29,7 +29,7 @@
           <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Apply Current Layout</Description>
-          <Count>35</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
