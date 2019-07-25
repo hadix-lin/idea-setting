@@ -402,9 +402,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/pom.xml" timestamp="1563944561268">
         <mark key="[" line="69" column="17" />
-        <mark key="]" line="72" column="27" />
-        <mark key="." line="72" column="27" />
-        <mark key="^" line="72" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/uc/pp/common/common-parent/1.2.9/common-parent-1.2.9.pom" timestamp="1557039567550">
         <mark key="[" line="202" column="60" />
@@ -609,6 +606,12 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/print/core/RowResolve.java" timestamp="1564023561759">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="25" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="39" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-template/pom.xml" timestamp="1563787548035">
         <mark key="[" line="11" column="14" />
@@ -1449,10 +1452,10 @@
         <mark key="." line="62" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/resources/applicationContext.xml" timestamp="1562748805419">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/alsc-common-base-api/src/main/java/com/alsc/base/api/Resp.java" timestamp="1563765925444">
         <mark key="[" line="44" column="0" />
@@ -1484,20 +1487,13 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common/src/main/java/com/alsc/pos/common/log/LoggerUtil.java" timestamp="1563870139020">
-        <mark key="'" line="155" column="18" />
-        <mark key="[" line="162" column="36" />
-        <mark key="]" line="162" column="35" />
-        <mark key="^" line="162" column="35" />
-        <mark key="." line="162" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/demo/Demo.java" timestamp="1563960347212">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/util/Serializer.java" timestamp="1563276804047">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/util/Serializer.java" timestamp="1564026596234">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="15" column="3" />
         <mark key="^" line="15" column="3" />
@@ -2107,6 +2103,12 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
         <mark key="^" line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/java/com/alsc/pos/prod/sdk/print/service/PrintServiceTest.java" timestamp="1564024156227">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/app/common/external/provider/UserBehaviorProvider.java" timestamp="1555552800056">
         <mark key="[" line="35" column="33" />
@@ -3456,6 +3458,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/resources/application-print.xml" timestamp="1564024255575">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/resources/holder.list" timestamp="1562752434543">
         <mark key="[" line="0" column="65" />
         <mark key="]" line="1" column="0" />
@@ -3701,6 +3708,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/manager/Hessian2Serializer.java" timestamp="1564026376959">
+        <mark key="^" line="15" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/pp_server-dev/test/citest/apitest/resource/app/GetDetailTest.java" timestamp="1555473710398">
         <mark key="[" line="112" column="77" />
         <mark key="]" line="112" column="76" />
@@ -3875,6 +3885,12 @@
         <mark key="^" line="28" column="49" />
         <mark key="." line="28" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/test/resources/com/alsc/pos/prod/sdk/print/applicationContext.xml" timestamp="1564023990685">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/user_behavior_service/ubr-base/src/main/java/cn/uc/pp/ubr/follow/model/ResType.java" timestamp="1558489747968">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="3" />
@@ -4000,6 +4016,11 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="4" />
         <mark key="^" line="44" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-prod-sdk/src/main/java/com/alsc/pos/prod/sdk/print/core/impl/PrintResolveImpl.java" timestamp="1564024179791">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/dao/DaoPackage.java" timestamp="1563177955663">
         <mark key="[" line="2" column="30" />
@@ -4127,37 +4148,37 @@
         <text encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgRG9jR3JvdXAgbXNnRG9jKCkgewogICAgICAgIERvY0dyb3VwIGRvY0dyb3VwID0gbmV3IERvY0dyb3VwKCk7CiAgICAgICAgZG9jR3JvdXAuc2V0TmFtZSgi5raI5oGv5Lit5b+D5o6l5Y+jIik7CiAgICAgICAgZG9jR3JvdXAuc2V0UGF0aFByZWZpeCgiL2NvbS5hbHNjLnBvcy5tc2cuc2VydmljZSIpOwogICAgICAgIHJldHVybiBkb2NHcm91cDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTZXJpYWxpemVyRmFjdG9yeSBzZXJpYWxpemVyRmFjdG9yeSA9IG5ldyBTZXJpYWxpemVyRmFjdG9yeSgpOwogICAgICAgIHNlcmlhbGl6ZXJGYWN0b3J5LnNldEFsbG93Tm9uU2VyaWFsaXphYmxlKHRydWUpOwogICAgICAgIHRoaXMuc2VyaWFsaXplckZhY3RvcnkgPSBzZXJpYWxpemVyRmFjdG9yeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLnRhaXIuY29uZgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIZXNzaWFuMlNlcmlhbGl6ZXIoKSB7CiAgICAgICAgU2VyaWFsaXplckZhY3Rvcnkgc2VyaWFsaXplckZhY3RvcnkgPSBuZXcgU2VyaWFsaXplckZhY3RvcnkoKTsKICAgICAgICBzZXJpYWxpemVyRmFjdG9yeS5zZXRBbGxvd05vblNlcmlhbGl6YWJsZSh0cnVlKTsKICAgICAgICB0aGlzLnNlcmlhbGl6ZXJGYWN0b3J5ID0gc2VyaWFsaXplckZhY3Rvcnk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLnRhaXIudXNlci1uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MjAxOS0wNC1zdGFibGU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qIC0tLS0tLS0tLS0tLS0t57O757uf6ZSZ6K+vLS0tLS0tLS0tLS0tLS0tLSAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZighc3VjY2VzcyAmJiBlcnJvckNvZGUgIT0gbnVsbCl7CiAgICAgICAgICAgcmV0dXJuICBlcnJvckNvZGUuc3RhcnRzV2l0aCgiIikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJpYWxpemVyRmFjdG9yeSBzZXJpYWxpemVyRmFjdG9yeSA9IG5ldyBTZXJpYWxpemVyRmFjdG9yeSgpOwogICAgICAgIHNlcmlhbGl6ZXJGYWN0b3J5LnNldEFsbG93Tm9uU2VyaWFsaXphYmxlKHRydWUpOwogICAgICAgIHJldHVybiBzZXJpYWxpemVyRmFjdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TXNnQ29kZSgpIHsKICAgICAgICBpZighc3VjY2VzcyAmJiBlcnJvckNvZGUgIT0gbnVsbCl7CiAgICAgICAgICAgcmV0dXJuICBlcnJvckNvZGUuc3RhcnRzV2l0aCgiIikKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGVycm9yQ29kZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRW50aXR5IGVudGl0eSA9IE1lc3NhZ2VFbnRpdHkuZnJvbShtc2cpOwogICAgICAgIGVudGl0eS5zZXRDaGFubmVsTXNnSWQocmVzdWx0LmdldE1zZ0lkKCkpOwogICAgICAgIGVudGl0eS5zZXRPd25lcklkKHN0b3JlSWQpOwogICAgICAgIGVudGl0eS5zZXRUYXJnZXQoZGV2aWNlSWQpOwogICAgICAgIGVudGl0eS5zZXRTdGF0dXMoTWVzc2FnZUVudGl0eS5TdGF0dXMuU0VOVCk7CiAgICAgICAgbWVzc2FnZURhby5pbnNlcnQoZW50aXR5KTsKICAgICAgICBpZiAobG9nLmlzSW5mb0VuYWJsZWQoKSkgewogICAgICAgICAgICBsb2cuaW5mbygKICAgICAgICAgICAgICAgICJ7fS17fS17fS17fS17fS17fS17fSIsCiAgICAgICAgICAgICAgICBlbnRpdHkuZ2V0SWQoKSwKICAgICAgICAgICAgICAgIHJlc3VsdC5nZXRNc2dJZCgpLAogICAgICAgICAgICAgICAgc3RvcmVJZCwKICAgICAgICAgICAgICAgIGRldmljZUlkLAogICAgICAgICAgICAgICAgcmVzdWx0LmdldFN1Y2Nlc3MoKSwKICAgICAgICAgICAgICAgIHJlc3VsdC5nZXRFcnJvcigpLAogICAgICAgICAgICAgICAgc3RyYXRlZ3kpOwogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaHNmLmNvbS5jYXVjaG8uaGVzc2lhbi5pby5IZXNzaWFuMklucHV0OwppbXBvcnQgY29tLnRhb2Jhby5oc2YuY29tLmNhdWNoby5oZXNzaWFuLmlvLkhlc3NpYW4yT3V0cHV0OwppbXBvcnQgY29tLnRhb2Jhby5oc2YuY29tLmNhdWNoby5oZXNzaWFuLmlvLlNlcmlhbGl6ZXJGYWN0b3J5OwppbXBvcnQgY29tLnRhb2Jhby5oc2YuaW8uc2VyaWFsaXplLlVuc2FmZUJ5dGVBcnJheUlucHV0U3RyZWFtOwppbXBvcnQgY29tLnRhb2Jhby5oc2YuaW8uc2VyaWFsaXplLlVuc2FmZUJ5dGVBcnJheU91dHB1dFN0cmVhbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb21tb24tdG9vbGtpdC1sYW5nLnZlcnNpb24+MS4xLjQ8L2NvbW1vbi10b29sa2l0LWxhbmcudmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
