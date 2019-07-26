@@ -175,6 +175,14 @@
           <Count>2050</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete Row">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
@@ -472,7 +480,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
