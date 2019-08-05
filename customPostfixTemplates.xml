@@ -128,6 +128,12 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="id" value="xylo.java-math" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/java-math.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/xylo.java-math.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.java-reflect" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/java-reflect.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/xylo.java-reflect.postfixTemplates" />
