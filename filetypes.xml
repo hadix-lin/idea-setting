@@ -7,6 +7,7 @@
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
       <mapping ext="rpcfilter" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
