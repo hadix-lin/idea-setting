@@ -14,6 +14,9 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
   <action id="CheckinProject" />
   <action id="ConvertJavaToKotlin" />
   <action id="EditorCutLineEnd" />
