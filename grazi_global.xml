@@ -7,6 +7,11 @@
       </set>
     </option>
     <option name="enabledSpellcheck" value="true" />
+    <option name="userWords">
+      <set>
+        <option value="databus" />
+      </set>
+    </option>
     <option name="userDisabledRules">
       <set>
         <option value="E_PRIME_LOOSE" />
