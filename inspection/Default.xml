@@ -6,6 +6,7 @@
     <option name="CHECK_TRY_CATCH_SECTION" value="true" />
     <option name="CHECK_METHOD_BODY" value="true" />
   </inspection_tool>
+  <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true" ignoreAccessors="true">
     <option name="LOCAL_VARIABLE" value="true" />
     <option name="FIELD" value="true" />
