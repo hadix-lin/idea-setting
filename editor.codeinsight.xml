@@ -1,6 +1,7 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
@@ -24,9 +25,9 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
     <option name="collapseInnerClasses" value="true" />
+    <option name="collapseLambdas" value="false" />
     <option name="collapseMultilineComments" value="true" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="replaceVarWithInferredType" value="true" />
