@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Dockerfile_project" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_sls_base" type="PLAIN_TEXT" />
       <mapping pattern="dir_holder" type="PLAIN_TEXT" />
