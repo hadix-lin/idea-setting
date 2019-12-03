@@ -122,7 +122,7 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="Vcs.Push" />
-  <action id="VimPluginToggle">
+  <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
   <action id="emacsIDEAs.AceJump" />
