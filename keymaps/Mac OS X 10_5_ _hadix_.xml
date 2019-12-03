@@ -79,6 +79,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="NextSplitter" />
   <action id="PopupHector" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
