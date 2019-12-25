@@ -8,9 +8,9 @@
       <mapping pattern="dir_holder" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_staging" type="PLAIN_TEXT" />
       <mapping pattern="nothing" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_production" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_base" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_production" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping ext="release-1157028027" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
