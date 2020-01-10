@@ -24,6 +24,8 @@
         <option value="E_PRIME_STRICT" />
         <option value="READABILITY_RULE_DIFFICULT" />
         <option value="READABILITY_RULE_SIMPLE" />
+        <option value="WHITESPACE_PARAGRAPH_BEGIN" />
+        <option value="WHITESPACE_RULE" />
       </set>
     </option>
     <option name="userEnabledRules">
@@ -265,7 +267,6 @@
         <option value="WAITING_MY_PATIENT" />
         <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
         <option value="WHITESPACE_PARAGRAPH" />
-        <option value="WHITESPACE_PARAGRAPH_BEGIN" />
         <option value="WITH_OR_IN_REFERENCE_OR_REGARD_TO" />
         <option value="WORD_CONTAINS_UNDERSCORE" />
         <option value="WORLD_AROUND_IT" />
