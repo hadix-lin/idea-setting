@@ -24,6 +24,7 @@
         <option value="E_PRIME_STRICT" />
         <option value="READABILITY_RULE_DIFFICULT" />
         <option value="READABILITY_RULE_SIMPLE" />
+        <option value="UPPERCASE_SENTENCE_START" />
         <option value="WHITESPACE_PARAGRAPH_BEGIN" />
         <option value="WHITESPACE_RULE" />
       </set>
@@ -263,7 +264,6 @@
         <option value="TOO_LONG_SENTENCE" />
         <option value="TYPE_OF" />
         <option value="UNTIL_SUCH_TIME_AS" />
-        <option value="UPPERCASE_SENTENCE_START" />
         <option value="WAITING_MY_PATIENT" />
         <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
         <option value="WHITESPACE_PARAGRAPH" />
