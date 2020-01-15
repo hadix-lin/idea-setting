@@ -20,6 +20,7 @@
     </option>
     <option name="userDisabledRules">
       <set>
+        <option value="EUPUB_SERVICE" />
         <option value="E_PRIME_LOOSE" />
         <option value="E_PRIME_STRICT" />
         <option value="READABILITY_RULE_DIFFICULT" />
@@ -180,7 +181,6 @@
         <option value="EUPUB_RESPONSIBLE" />
         <option value="EUPUB_RETAIN" />
         <option value="EUPUB_SEMESTER_TRIMESTER" />
-        <option value="EUPUB_SERVICE" />
         <option value="EUPUB_SHALL" />
         <option value="EUPUB_SICKNESS_INSURANCE" />
         <option value="EUPUB_SO_CALLED" />
