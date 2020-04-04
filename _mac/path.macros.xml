@@ -4,7 +4,7 @@
     <macro name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home" />
     <macro name="JAVA_OPTS" value="-Dapple.awt.UIElement=true" />
     <macro name="JAVA_TOOL_OPTIONS" value="-Daddress.server.domain=address.dev.uae.uc.cn -Daddress.server.port=80" />
-    <macro name="KOTLIN_BUNDLED" value="/Users/hadix/Library/Application Support/IntelliJIdea2019.3/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/hadix/Library/Application Support/JetBrains/IntelliJIdea2020.1/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/hadix/.m2/repository" />
     <macro name="PATH" value="/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin" />
   </component>
