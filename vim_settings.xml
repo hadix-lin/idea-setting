@@ -127,40 +127,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586501935710">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/MessageSerializer.java" timestamp="1586014789810">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="21" column="4" />
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxy.java" timestamp="1583461391436">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="111" column="35" />
-        <mark key="." line="111" column="35" />
-        <mark key="^" line="111" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1583411898712">
-        <mark key="[" line="221" column="38" />
-        <mark key="]" line="221" column="37" />
-        <mark key="^" line="221" column="37" />
-        <mark key="." line="221" column="37" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586495540977">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="40" column="1" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1586496850826" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1583409787393">
-        <mark key="[" line="185" column="29" />
-        <mark key="]" line="185" column="27" />
-        <mark key="^" line="185" column="27" />
-        <mark key="." line="185" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/.gitignore" timestamp="1586501765944">
         <mark key="[" line="22" column="7" />
@@ -174,31 +151,20 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/resources/application.properties" timestamp="1586504241059">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/MessageOpServiceImpl.java" timestamp="1586015409941">
         <mark key="[" line="45" column="77" />
         <mark key="]" line="45" column="76" />
         <mark key="^" line="45" column="76" />
         <mark key="." line="45" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/JacksonCborCodec.java" timestamp="1583411025954">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="39" column="65" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586491661275">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="3" />
-      </file>
       <file name="/Dummy.groovy" timestamp="1586014926966">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" timestamp="1586015927761">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.java" timestamp="1586494465173">
         <mark key="[" line="0" column="0" />
@@ -214,6 +180,35 @@
         <mark key="]" line="13" column="18" />
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586501935710">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxy.java" timestamp="1583461391436">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="111" column="36" />
+        <mark key="]" line="111" column="35" />
+        <mark key="." line="111" column="35" />
+        <mark key="^" line="111" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1583411898712">
+        <mark key="[" line="221" column="38" />
+        <mark key="]" line="221" column="37" />
+        <mark key="^" line="221" column="37" />
+        <mark key="." line="221" column="37" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1586496850826" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1586504066241" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586491661275">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" timestamp="1586015927761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1583414128948">
         <mark key="[" line="42" column="20" />
