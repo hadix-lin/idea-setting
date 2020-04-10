@@ -29,11 +29,6 @@
         <entry encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>let mapleader=&quot; &quot;</entry>
-        <entry>h ic</entry>
-        <entry>is</entry>
-        <entry>h is</entry>
-        <entry>h mps</entry>
         <entry>echo g:EasyMotion_do_mapping</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
@@ -49,6 +44,11 @@
         <entry>action AceAction</entry>
         <entry>noh</entry>
         <entry>set nu</entry>
+        <entry>set ideastatusicon=gray</entry>
+        <entry>set ideastatusicon</entry>
+        <entry>set ideastatusicon=enabled</entry>
+        <entry>sc</entry>
+        <entry>set sc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,7 +127,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586014758867">
+      <file name="/Dummy.txt" timestamp="1586494593478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" timestamp="1583404372095">
@@ -161,6 +161,12 @@
         <mark key="]" line="16" column="29" />
         <mark key="." line="16" column="29" />
         <mark key="^" line="56" column="14" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1586495540977">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/CarrierCodec.java" timestamp="1583404868614">
         <mark key="[" line="48" column="0" />
@@ -206,7 +212,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.java" timestamp="1586491625828">
+      <file name="/Dummy.java" timestamp="1586494465173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" timestamp="1583461604543">
@@ -337,7 +343,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -358,7 +364,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEh0dHBHd1Byb3h5VHJhY2luZ09wZXJhdG9yPD4ocmVzdWx0LCBDT01QT05FTlQsIGhlYWRlcnMsIHJlcSwgdHJhY2luZ1Rvb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -370,25 +376,25 @@
         <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50ZXJmYWNlIFNpbXBsZVZpZXcge30K</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgaW50ZXJmYWNlIFNpbXBsZVZpZXcge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgRnVsbFZpZXcgZXh0ZW5kcyBTaW1wbGVWaWV3e30K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnRsbigpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgRnVsbFZpZXcgZXh0ZW5kcyBTaW1wbGVWaWV3e30K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnRsbigpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRnVuY3Rpb248Ynl0ZVtdLCBSZXNwPE9iamVjdD4+IGRlY29kZShBZXNDcnlwdENvZGVjIGFlc0NyeXB0KSB7CiAgICAgICAgcmV0dXJuIGRhdGEgLT4gewogICAgICAgICAgICBieXRlW10gZGVjcnlwdCA9IGFlc0NyeXB0LmRlY3J5cHQoZGF0YSk7CiAgICAgICAgICAgIHJldHVybiBtc2dDb2RlYy5kZWNvZGUoZGVjcnlwdCwgUmVzcC5jbGFzcyk7CiAgICAgICAgfTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set nu</text>
+        <text>set sc</text>
       </register>
     </registers>
   </component>
@@ -400,7 +406,7 @@
       <last-replace>^v^m</last-replace>
       <last-substitute>do_stop</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
