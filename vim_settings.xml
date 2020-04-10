@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>Agent</entry>
+        <entry>instances.put</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry>model</entry>
+        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDx1cGxvYWRTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDx1cGxvYWRGaWxlU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxzeW5jQXBwXD4=</entry>
+        <entry encoding="base64">XDx0YXNrSWRcPg==</entry>
+        <entry>hsf</entry>
+        <entry>jmx</entry>
+        <entry encoding="base64">XDxnZXRNdWxpdEJ5SWRzXD4=</entry>
+        <entry encoding="base64">XDxvbmxpbmVTZXJ2aWNlSW5zdGFuY2VzXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
+        <entry>null</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry encoding="base64">XDxCb290XD4=</entry>
+        <entry encoding="base64">XDzlvZNTZXJ2aWNlQ2xpZW505pyq5oyH5a6a6Lev55Sx55uu5qCH5LiU5b2T5YmNR3dQcm94eei/nuaOpeeahOi3r+eUseebruagh+S4jeWUr+S4gFw+</entry>
+        <entry encoding="base64">XDxUYWtlT3V0T3BlcmF0ZUZhY2FkZVw+</entry>
+        <entry encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>let mapleader=&quot; &quot;</entry>
+        <entry>h ic</entry>
+        <entry>is</entry>
+        <entry>h is</entry>
+        <entry>h mps</entry>
+        <entry>echo g:EasyMotion_do_mapping</entry>
+        <entry>action Forward</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry>set keep-english-in-normal-and-restore-in-insert</entry>
+        <entry>set nonu</entry>
+        <entry>q</entry>
+        <entry>set noh</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>set nu</entry>
+        <entry>action Back</entry>
+        <entry>action AceLineAction</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action AceAction</entry>
+        <entry>noh</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
@@ -69,9 +123,288 @@
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586014758867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" timestamp="1583404372095">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/MessageSerializer.java" timestamp="1586014789810">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxy.java" timestamp="1583461391436">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="111" column="36" />
+        <mark key="]" line="111" column="35" />
+        <mark key="." line="111" column="35" />
+        <mark key="^" line="111" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1583411898712">
+        <mark key="[" line="221" column="38" />
+        <mark key="]" line="221" column="37" />
+        <mark key="^" line="221" column="37" />
+        <mark key="." line="221" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Carriable.java" timestamp="1583404495433">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="56" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/CarrierCodec.java" timestamp="1583404868614">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1583409787393">
+        <mark key="[" line="185" column="29" />
+        <mark key="]" line="185" column="27" />
+        <mark key="^" line="185" column="27" />
+        <mark key="." line="185" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Carriage.java" timestamp="1583404881627">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/MessageOpServiceImpl.java" timestamp="1586015409941">
+        <mark key="[" line="45" column="77" />
+        <mark key="]" line="45" column="76" />
+        <mark key="^" line="45" column="76" />
+        <mark key="." line="45" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/JacksonCborCodec.java" timestamp="1583411025954">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="39" column="65" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586488543586">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1586014926966">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" timestamp="1586015927761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.java" timestamp="1586488409775">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" timestamp="1583461604543">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="33" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Serializer.java" timestamp="1583413583726">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1583414128948">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+      </file>
+      <file name="/fragment.java" timestamp="1586013452308">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwServer.java" />
+      <jump line="48" column="25" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" />
+      <jump line="34" column="7" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" />
+      <jump line="32" column="33" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/Launcher.java" />
+      <jump line="7" column="46" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClient.java" />
+      <jump line="15" column="7" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/OnsAliyunQueueCluster.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/AcceptConnManager.java" />
+      <jump line="12" column="7" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsAliyunQueueClusterConfig.java" />
+      <jump line="8" column="27" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/QueueConfig.java" />
+      <jump line="17" column="42" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" />
+      <jump line="18" column="57" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsAliyunQueueCluster.java" />
+      <jump line="12" column="3" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsAliyunQueueCluster.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/test/java/com/alsc/saas/gw/mq/MetaqSyncTest.java" />
+      <jump line="193" column="7" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="61" column="11" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/QueueSynchronizer.java" />
+      <jump line="76" column="19" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
+      <jump line="23" column="75" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsQueueCluster.java" />
+      <jump line="53" column="52" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/config/ConfigChangedHandler.java" />
+      <jump line="27" column="13" filename="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.1.4-SNAPSHOT/common-boot-1.1.4-20200117.071213-2.jar!/com/alsc/diamond/DiamondWatchAutoConfiguration.class" />
+      <jump line="37" column="16" filename="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.1.4-SNAPSHOT/common-boot-1.1.4-20200117.071213-2-sources.jar!/com/alsc/diamond/DiamondWatchAutoConfiguration.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" />
+      <jump line="36" column="23" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
+      <jump line="40" column="24" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" />
+      <jump line="31" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" />
+      <jump line="35" column="19" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
+      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.1.4-SNAPSHOT/common-boot-1.1.4-SNAPSHOT-sources.jar!/com/alsc/diamond/DiamondWatchAutoConfiguration.java" />
+      <jump line="62" column="43" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondPropertySource.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondPropertySource.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" />
+      <jump line="32" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/DeferredReturnUtils.java" />
+      <jump line="778" column="73" filename="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.7/byte-buddy-1.10.7-sources.jar!/net/bytebuddy/matcher/ElementMatchers.java" />
+      <jump line="30" column="34" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/ApiUtils.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/java/com/alsc/saas/gw/hsf/client/HsfClientTest.java" />
+      <jump line="18" column="33" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/trace/SessionManager.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/SaasSpanContext.java" />
+      <jump line="23" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/SaasSpan.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
+      <jump line="21" column="65" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/ReqCodec.java" />
+      <jump line="42" column="46" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasSpan.java" />
+      <jump line="14" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/Trace.java" />
+      <jump line="27" column="43" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasTracer.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
+      <jump line="20" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasSpan.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
+      <jump line="71" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
+      <jump line="19" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
+      <jump line="39" column="3" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" />
+      <jump line="0" column="30" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/PairUtils.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/PairUtils.java" />
+      <jump line="65" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
+      <jump line="80" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
+      <jump line="21" column="5" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="43" column="20" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
+      <jump line="49" column="19" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
+      <jump line="44" column="23" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingSubscriber.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingSubscriber.java" />
+      <jump line="16" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
+      <jump line="12" column="11" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
+      <jump line="17" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="74" column="37" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerSaasGwTracer.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerSaasGwSpan.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwSpan.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerTracingAutoConfiguration.java" />
+      <jump line="28" column="24" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="58" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClient.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracingTool.java" />
+      <jump line="22" column="18" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
+      <jump line="29" column="24" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" />
+      <jump line="249" column="0" filename="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/1.1.0/jaeger-core-1.1.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" />
+      <jump line="90" column="4" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.5--2019-09-stable/eagleeye-core-sdk-1.8.4.5--2019-09-stable-sources.jar!/com/taobao/eagleeye/EagleEye.java" />
+      <jump line="3055" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.5--2019-09-stable/eagleeye-core-sdk-1.8.4.5--2019-09-stable-sources.jar!/com/taobao/eagleeye/EagleEye.java" />
+      <jump line="203" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpClientTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" />
+      <jump line="52" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
+      <jump line="51" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
+      <jump line="10" column="18" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
+      <jump line="65" column="5" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" />
+      <jump line="90" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" />
+      <jump line="33" column="35" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" />
+      <jump line="75" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxy.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+      </register>
+      <register name="i" type="4">
+        <text>x</text>
+      </register>
+      <register name="j" type="4">
+        <text>jjj</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IGV4dGVuZHMgVHJhY2VOYW1lZA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEh0dHBHd1Byb3h5VHJhY2luZ09wZXJhdG9yPD4ocmVzdWx0LCBDT01QT05FTlQsIGhlYWRlcnMsIHJlcSwgdHJhY2luZ1Rvb2wpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgaW50ZXJmYWNlIFNpbXBsZVZpZXcge30K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgRnVsbFZpZXcgZXh0ZW5kcyBTaW1wbGVWaWV3e30K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnRsbigpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRnVuY3Rpb248Ynl0ZVtdLCBSZXNwPE9iamVjdD4+IGRlY29kZShBZXNDcnlwdENvZGVjIGFlc0NyeXB0KSB7CiAgICAgICAgcmV0dXJuIGRhdGEgLT4gewogICAgICAgICAgICBieXRlW10gZGVjcnlwdCA9IGFlc0NyeXB0LmRlY3J5cHQoZGF0YSk7CiAgICAgICAgICAgIHJldHVybiBtc2dDb2RlYy5kZWNvZGUoZGVjcnlwdCwgUmVzcC5jbGFzcyk7CiAgICAgICAgfTsKICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>noh</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</last-pattern>
+      <last-replace>^v^m</last-replace>
+      <last-substitute>do_stop</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
