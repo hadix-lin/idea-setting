@@ -42,13 +42,13 @@
         <entry>q</entry>
         <entry>set noh</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>set nu</entry>
         <entry>action Back</entry>
         <entry>action AceLineAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
         <entry>noh</entry>
+        <entry>set nu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -192,11 +192,11 @@
         <mark key="^" line="39" column="65" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586488543586">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586491661275">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="/Dummy.groovy" timestamp="1586014926966">
         <mark key="[" line="0" column="0" />
@@ -206,7 +206,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.java" timestamp="1586488409775">
+      <file name="/Dummy.java" timestamp="1586491625828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" timestamp="1583461604543">
@@ -388,7 +388,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgRnVuY3Rpb248Ynl0ZVtdLCBSZXNwPE9iamVjdD4+IGRlY29kZShBZXNDcnlwdENvZGVjIGFlc0NyeXB0KSB7CiAgICAgICAgcmV0dXJuIGRhdGEgLT4gewogICAgICAgICAgICBieXRlW10gZGVjcnlwdCA9IGFlc0NyeXB0LmRlY3J5cHQoZGF0YSk7CiAgICAgICAgICAgIHJldHVybiBtc2dDb2RlYy5kZWNvZGUoZGVjcnlwdCwgUmVzcC5jbGFzcyk7CiAgICAgICAgfTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set nu</text>
       </register>
     </registers>
   </component>
