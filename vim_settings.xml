@@ -145,6 +145,12 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/Http.java" timestamp="1586576214364">
+        <mark key="[" line="87" column="30" />
+        <mark key="]" line="87" column="33" />
+        <mark key="^" line="87" column="33" />
+        <mark key="." line="87" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1586501899061">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="40" />
@@ -190,12 +196,6 @@
         <mark key="]" line="111" column="35" />
         <mark key="." line="111" column="35" />
         <mark key="^" line="111" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1583411898712">
-        <mark key="[" line="221" column="38" />
-        <mark key="]" line="221" column="37" />
-        <mark key="^" line="221" column="37" />
-        <mark key="." line="221" column="37" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1586496850826" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1586504066241" />
@@ -332,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,43 +344,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4dGVuZHMgVHJhY2VOYW1lZA==</text>
+        <text>req(url).method(GET)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEh0dHBHd1Byb3h5VHJhY2luZ09wZXJhdG9yPD4ocmVzdWx0LCBDT01QT05FTlQsIGhlYWRlcnMsIHJlcSwgdHJhY2luZ1Rvb2wpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSU5TVEFOQ0UuZG9Qb3N0KHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBBVENIKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBVVCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKERFTEVURSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50ZXJmYWNlIFNpbXBsZVZpZXcge30K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBPU1QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0IGRvR2V0KFN0cmluZyB1cmwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgRnVsbFZpZXcgZXh0ZW5kcyBTaW1wbGVWaWV3e30K</text>
+        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set sc</text>
