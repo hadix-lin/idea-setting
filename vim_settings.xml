@@ -139,6 +139,12 @@
         <mark key="^" line="40" column="1" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1586584222160">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/.gitignore" timestamp="1586501765944">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="7" />
@@ -169,33 +175,26 @@
         <mark key="^" line="45" column="76" />
         <mark key="." line="45" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1586584247835">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="46" column="11" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1586014926966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.java" timestamp="1586494465173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" timestamp="1583461604543">
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="33" />
-        <mark key="^" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Serializer.java" timestamp="1583413583726">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
       <file name="/Dummy.txt" timestamp="1586501935710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxy.java" timestamp="1583461391436">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="111" column="35" />
-        <mark key="." line="111" column="35" />
-        <mark key="^" line="111" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/utils/TraceIdGenerator.java" timestamp="1586584054698">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1586496850826" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1586504066241" />
@@ -210,20 +209,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1583414128948">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10-sources.jar!/lombok/experimental/Wither.java" timestamp="1586500725030">
         <mark key="[" line="30" column="1" />
         <mark key="]" line="30" column="1" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1586013452308">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
