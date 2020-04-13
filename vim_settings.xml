@@ -127,11 +127,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/MessageSerializer.java" timestamp="1586014789810">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="4" />
-        <mark key="^" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+      <file name="/Dummy.txt" timestamp="1586501935710">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/utils/TraceIdGenerator.java" timestamp="1586584054698">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586495540977">
         <mark key="[" line="25" column="12" />
@@ -157,6 +160,7 @@
         <mark key="^" line="87" column="33" />
         <mark key="." line="87" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-interceptor/1.0.1/common-interceptor-1.0.1-sources.jar!/com/alsc/common/hsf/ApiExceptionHandleInterceptor.java" timestamp="1586763373583" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1586501899061">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="40" />
@@ -169,35 +173,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/impl/MessageOpServiceImpl.java" timestamp="1586015409941">
-        <mark key="[" line="45" column="77" />
-        <mark key="]" line="45" column="76" />
-        <mark key="^" line="45" column="76" />
-        <mark key="." line="45" column="76" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" timestamp="1586763060186" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1586584247835">
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="12" />
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="11" />
       </file>
-      <file name="/Dummy.groovy" timestamp="1586014926966">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.java" timestamp="1586494465173">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1586501935710">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/utils/TraceIdGenerator.java" timestamp="1586584054698">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="23" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1586496850826" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1586504066241" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586491661275">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
@@ -209,11 +191,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.java" timestamp="1586494465173">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/ApiExceptionHandleInterceptor.java" timestamp="1586763423107">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10-sources.jar!/lombok/experimental/Wither.java" timestamp="1586500725030">
         <mark key="[" line="30" column="1" />
         <mark key="]" line="30" column="1" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1586763414099">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -322,7 +315,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
+        <text encoding="base64">QE9yZGVyKEludGVyY2VwdE9yZGVyLkVYQ0VQVElPTl9IQU5ETEUpCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -343,31 +336,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gSU5TVEFOQ0UuZG9Qb3N0KHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
+        <text encoding="base64">QE9yZGVyKEludGVyY2VwdE9yZGVyLkVYQ0VQVElPTl9IQU5ETEUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBBVENIKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBVVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBBVENIKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKERFTEVURSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBVVCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBPU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKERFTEVURSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0IGRvR2V0KFN0cmluZyB1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBPU1QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0IGRvR2V0KFN0cmluZyB1cmwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
