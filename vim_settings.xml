@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>echo g:EasyMotion_do_mapping</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
@@ -41,7 +40,6 @@
         <entry>action AceLineAction</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
-        <entry>action AceAction</entry>
         <entry>noh</entry>
         <entry>set nu</entry>
         <entry>set ideastatusicon=gray</entry>
@@ -49,6 +47,8 @@
         <entry>set ideastatusicon=enabled</entry>
         <entry>sc</entry>
         <entry>set sc</entry>
+        <entry>wq</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -136,11 +136,17 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1586495540977">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1586791498018">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/InputMethodAutoSwitcher.kt" timestamp="1586829660297">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="^" line="124" column="12" />
+        <mark key="." line="124" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1586584222160">
         <mark key="[" line="45" column="35" />
@@ -160,7 +166,6 @@
         <mark key="^" line="87" column="33" />
         <mark key="." line="87" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-interceptor/1.0.1/common-interceptor-1.0.1-sources.jar!/com/alsc/common/hsf/ApiExceptionHandleInterceptor.java" timestamp="1586763373583" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1586501899061">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="40" />
@@ -173,12 +178,22 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" timestamp="1586763060186" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/build.gradle.kts" timestamp="1586830508756">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1586584247835">
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="12" />
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/security/impl/RsaCryptCodec.java" timestamp="1586791554635">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+        <mark key="." line="66" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfReq.java" timestamp="1586491661275">
         <mark key="[" line="25" column="4" />
@@ -191,6 +206,12 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/kotlin/io/github/hadixlin/iss/win/WinInputMethodSwitcher.kt" timestamp="1586792637375">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="/Dummy.java" timestamp="1586765586492">
         <mark key="[" line="0" column="0" />
@@ -316,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QE9yZGVyKEludGVyY2VwdE9yZGVyLkVYQ0VQVElPTl9IQU5ETEUpCg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -337,37 +358,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gSU5TVEFOQ0UuZG9Qb3N0KHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE9yZGVyKEludGVyY2VwdE9yZGVyLkVYQ0VQVElPTl9IQU5ETEUpCg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBBVENIKTsK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luIDogJ29yZy5qZXRicmFpbnMuaW50ZWxsaWonCmFwcGx5IHBsdWdpbiA6ICdrb3RsaW4nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBVVCk7Cg==</text>
+        <text encoding="base64">QE9yZGVyKEludGVyY2VwdE9yZGVyLkVYQ0VQVElPTl9IQU5ETEUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKERFTEVURSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKEhFQUQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBPU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBBVENIKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0IGRvR2V0KFN0cmluZyB1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBVVCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm1hcCA8bGVhZGVyPmcgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Y3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKERFTEVURSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhTaW1wbGVWaWV3LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxKHVybCkubWV0aG9kKFBPU1QpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set sc</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
