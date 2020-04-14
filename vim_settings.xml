@@ -145,17 +145,17 @@
         <mark key="^" line="66" column="25" />
         <mark key="." line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/security/CryptCodec.java" timestamp="1586770374903">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingSubscriber.java" timestamp="1586847017429">
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="27" />
+        <mark key="^" line="86" column="27" />
+        <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfGwProxyPort.java" timestamp="1586846603353">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="48" column="52" />
-        <mark key="." line="48" column="51" />
-        <mark key="^" line="48" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfGwProxyPort.java" timestamp="1586847289111">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="/Dummy.java" timestamp="1586834716075">
         <mark key="[" line="0" column="0" />
@@ -166,8 +166,14 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586846050921">
+      <file name="/Dummy.txt" timestamp="1586847572439">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/utils/TraceIdGenerator.java" timestamp="1586847554432">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="38" />
+        <mark key="^" line="23" column="38" />
+        <mark key="." line="23" column="37" />
       </file>
       <file name="/fragment.kt" timestamp="1586845034102">
         <mark key="[" line="0" column="0" />
@@ -219,11 +225,6 @@
         <mark key="]" line="26" column="5" />
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/service/ApiExceptionHandleInterceptor.java" timestamp="1586763423107">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -332,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KHJlc3AgLT4gewogICAgICAgICAgICAgICAgRHVyYXRpb24gZXhlY3V0aW9uVGltZSA9IHJlc3AuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgcHJveHlWMS5sb2dHd1RpbWUoc3RhcnRUaW1lLCBleGVjdXRpb25UaW1lKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,43 +345,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>kotlin</text>
+        <text encoding="base64">bmV3IFJlc3BDYXJyaWVyPD4ocmVzcCkubWV0YSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNT05JVE9SX1BBVFRFUk5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUgPSBuZXcgUmVzcENhcnJpZXI8PihyZXNwKS5tZXRhKCkuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgcHJveHlWMi5sb2dHd1RpbWUoc3RhcnRUaW1lLCBleGVjdXRpb25UaW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KHJlc3AgLT4gewogICAgICAgICAgICAgICAgY29udGV4dC53cml0ZShyZXNwKTsKICAgICAgICAgICAgICAgIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUgPSBuZXcgUmVzcENhcnJpZXI8PihyZXNwKS5tZXRhKCkuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgcHJveHlWMi5sb2dHd1RpbWUoc3RhcnRUaW1lLCBleGVjdXRpb25UaW1lKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KHJlc3AgLT4gewogICAgICAgICAgICAgICAgRHVyYXRpb24gZXhlY3V0aW9uVGltZSA9IHJlc3AuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgcHJveHlWMS5sb2dHd1RpbWUoc3RhcnRUaW1lLCBleGVjdXRpb25UaW1lKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUgPSBuZXcgUmVzcENhcnJpZXI8PihyZXNwKS5tZXRhKCkuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgbG9nR3dUaW1lKHN0YXJ0VGltZSwgZXhlY3V0aW9uVGltZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUgPSBuZXcgUmVzcENhcnJpZXI8PihyZXNwKS5tZXRhKCkuZ2V0RXhlY3V0aW9uVGltZSgpOwogICAgICAgICAgICAgICAgbG9nR3dUaW1lKHN0YXJ0VGltZSwgZXhlY3V0aW9uVGltZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2dHd1RpbWUobG9uZyBzdGFydFRpbWUsIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUpIHsKICAgICAgICBpZiAoZXhlY3V0aW9uVGltZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgRHVyYXRpb24gZ3dUaW1lID0gRHVyYXRpb24ub2ZNaWxsaXMoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpLm1pbnVzKGV4ZWN1dGlvblRpbWUpOwogICAgICAgIHRyYWNpbmdUb29sLmxvZyhUcmFjZUV2ZW50LklORk8sIG51bGwsIG51bGwsCiAgICAgICAgICAgICJndy10aW1lIiwgZ3dUaW1lLnRvTWlsbGlzKCksCiAgICAgICAgICAgICJzZXJ2ZXItdGltZSIsIGV4ZWN1dGlvblRpbWUudG9NaWxsaXMoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2dHd1RpbWUobG9uZyBzdGFydFRpbWUsIER1cmF0aW9uIGV4ZWN1dGlvblRpbWUpIHsKICAgICAgICBpZiAoZXhlY3V0aW9uVGltZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgRHVyYXRpb24gZ3dUaW1lID0gRHVyYXRpb24ub2ZNaWxsaXMoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWUpLm1pbnVzKGV4ZWN1dGlvblRpbWUpOwogICAgICAgIHRyYWNpbmdUb29sLmxvZyhUcmFjZUV2ZW50LklORk8sIG51bGwsIG51bGwsCiAgICAgICAgICAgICJndy10aW1lIiwgZ3dUaW1lLnRvTWlsbGlzKCksCiAgICAgICAgICAgICJzZXJ2ZXItdGltZSIsIGV4ZWN1dGlvblRpbWUudG9NaWxsaXMoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>cmd.javaClass.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxieXRlLWJ1ZGR5LnZlcnNpb24+MS4xMC42PC9ieXRlLWJ1ZGR5LnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text>cmd.javaClass.</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxieXRlLWJ1ZGR5LnZlcnNpb24+MS4xMC42PC9ieXRlLWJ1ZGR5LnZlcnNpb24+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsgbWF2ZW5DZW50cmFsKCkgfQogICAgZGVwZW5kZW5jaWVzIHsgY2xhc3NwYXRoKGtvdGxpbigiZ3JhZGxlLXBsdWdpbiIsICIxLjIuMzAiKSkgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
