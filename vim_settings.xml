@@ -29,10 +29,8 @@
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
-        <entry>set nonu</entry>
         <entry>q</entry>
         <entry>set noh</entry>
         <entry>action GotoDeclaration</entry>
@@ -41,13 +39,15 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action ReformatCode</entry>
         <entry>noh</entry>
-        <entry>set nu</entry>
         <entry>set ideastatusicon=gray</entry>
         <entry>set ideastatusicon</entry>
         <entry>set ideastatusicon=enabled</entry>
         <entry>sc</entry>
         <entry>set sc</entry>
         <entry>action AceAction</entry>
+        <entry>set nu</entry>
+        <entry>nonu</entry>
+        <entry>set nonu</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
@@ -127,14 +127,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1586940291550">
+        <mark key="'" line="110" column="11" />
+        <mark key="[" line="127" column="79" />
+        <mark key="]" line="127" column="80" />
+        <mark key="^" line="127" column="80" />
+        <mark key="." line="127" column="79" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1586947767600">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1586941507805">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1586942396580">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1586948114973">
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="37" />
+        <mark key="^" line="78" column="37" />
+        <mark key="." line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/Target.java" timestamp="1586938438169">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxyV1.java" timestamp="1586939763758">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="50" />
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="50" />
+      </file>
+      <file name="/Dummy.kt" timestamp="1586943521915">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1586939257264">
         <mark key="[" line="80" column="11" />
@@ -148,11 +182,39 @@
         <mark key="." line="125" column="16" />
         <mark key="^" line="125" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpGwClient.java" timestamp="1586941335703">
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="38" />
+        <mark key="^" line="71" column="38" />
+        <mark key="." line="71" column="37" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1586943520811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.java" timestamp="1586943511160">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-core/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1586947705319">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxyV2.java" timestamp="1586939781410">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="49" />
+      </file>
+      <file name="/Dummy.java" timestamp="1586948026070">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketProperties.java" timestamp="1586943896581">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketServerAutoConfiguration.java" timestamp="1586944265788">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/security/Signature.java" timestamp="1586934366484">
         <mark key="[" line="190" column="5" />
@@ -165,57 +227,6 @@
         <mark key="]" line="70" column="9" />
         <mark key="." line="70" column="8" />
         <mark key="^" line="70" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1586940291550">
-        <mark key="'" line="110" column="11" />
-        <mark key="[" line="127" column="79" />
-        <mark key="]" line="127" column="80" />
-        <mark key="^" line="127" column="80" />
-        <mark key="." line="127" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1586942396580">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/Target.java" timestamp="1586938438169">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="28" column="5" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="4" />
-      </file>
-      <file name="/Dummy.kt" timestamp="1586943521915">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47-sources.jar!/org/bouncycastle/crypto/Signer.java" timestamp="1586932594959" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpGwClient.java" timestamp="1586941335703">
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="38" />
-        <mark key="^" line="71" column="38" />
-        <mark key="." line="71" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-core/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1586944451242">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="25" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwProxyV2.java" timestamp="1586939781410">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="50" />
-        <mark key="^" line="18" column="50" />
-        <mark key="." line="18" column="49" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketProperties.java" timestamp="1586943896581">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="52" column="11" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketServerAutoConfiguration.java" timestamp="1586944265788">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="150" column="0" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/netty/reactor-netty/0.9.5.RELEASE/reactor-netty-0.9.5.RELEASE-sources.jar!/reactor/netty/tcp/TcpClient.java" timestamp="1586934690843">
         <mark key="[" line="636" column="114" />
@@ -330,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVuY29kZWQgPSBlbmNvZGVkOwogICAgICAgIHRoaXMubWV0YVR5cGUgPSBtZXRhVHlwZTsKICAgICAgICB0aGlzLnBheWxvYWRUeXBlID0gcGF5bG9hZFR5cGU7CiAgICAgICAgdGhpcy5zZXJpYWxpemVyID0gU2VyaWFsaXplclJlZ2lzdHJ5LmdldFNlcmlhbGl6ZXIoZW5jb2RlZFswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb2Zmc2V0LAogICAgICAgIGludCBsZW5ndGgsCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -351,34 +362,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmVuY29kZWQgPSBlbmNvZGVkOwogICAgICAgIHRoaXMubWV0YVR5cGUgPSBtZXRhVHlwZTsKICAgICAgICB0aGlzLnBheWxvYWRUeXBlID0gcGF5bG9hZFR5cGU7CiAgICAgICAgdGhpcy5zZXJpYWxpemVyID0gU2VyaWFsaXplclJlZ2lzdHJ5LmdldFNlcmlhbGl6ZXIoZW5jb2RlZFswXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVuY29kZWQgPSBlbmNvZGVkOwogICAgICAgIHRoaXMubWV0YVR5cGUgPSBtZXRhVHlwZTsKICAgICAgICB0aGlzLnBheWxvYWRUeXBlID0gcGF5bG9hZFR5cGU7CiAgICAgICAgdGhpcy5zZXJpYWxpemVyID0gU2VyaWFsaXplclJlZ2lzdHJ5LmdldFNlcmlhbGl6ZXIoZW5jb2RlZFswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb2Zmc2V0LAogICAgICAgIGludCBsZW5ndGgsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG9mZnNldDsKICAgIHByaXZhdGUgZmluYWwgaW50IGxlbmd0aDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9mZnNldCA9IG9mZnNldDsKICAgICAgICB0aGlzLmxlbmd0aCA9IGxlbmd0aDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG9mZnNldDsKICAgIHByaXZhdGUgaW50IGxlbmd0aDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmVuY29kZWQgPSBlbmNvZGVkOwogICAgICAgIHRoaXMubWV0YVR5cGUgPSBtZXRhVHlwZTsKICAgICAgICB0aGlzLnBheWxvYWRUeXBlID0gcGF5bG9hZFR5cGU7CiAgICAgICAgdGhpcy5zZXJpYWxpemVyID0gU2VyaWFsaXplclJlZ2lzdHJ5LmdldFNlcmlhbGl6ZXIoZW5jb2RlZFswXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gc3NsOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG9mZnNldDsKICAgIHByaXZhdGUgZmluYWwgaW50IGxlbmd0aDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgR3dTZXJ2ZXJWMSBnd1NlcnZlcjsKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gc3NsOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1vbm88Ynl0ZVtdPiBleGVjdXRlTG9jYWxseShDYXJyaWFibGU8TWV0YSwgPz4gcmVxKSB7CiAgICAgICAgcmV0dXJuIGd3U2VydmVyLmRvRXhlY3V0ZShyZXEpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
