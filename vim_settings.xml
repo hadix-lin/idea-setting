@@ -29,9 +29,7 @@
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
-        <entry>q</entry>
         <entry>set noh</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
@@ -49,6 +47,8 @@
         <entry>set nonu</entry>
         <entry>wq</entry>
         <entry>action AceAction</entry>
+        <entry>exit</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -177,7 +177,6 @@
       <file name="/" timestamp="1587265934070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/src/test/java/com/alsc/saas/gw/test/http/HttpGwClientTest.java" timestamp="1587181936492" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1587115841765">
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="0" />
@@ -209,6 +208,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/enable-HiDPI.sh" timestamp="1587266973293">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketGwClient.java" timestamp="1587115696720">
         <mark key="[" line="55" column="5" />
         <mark key="]" line="55" column="5" />
@@ -224,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="24" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClient.java" />
       <jump line="15" column="7" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" />
       <jump line="44" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" />
       <jump line="12" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/saas-gw-mq-ons/src/main/java/com/alsc/saas/gw/mq/OnsAliyunQueueCluster.java" />
@@ -324,6 +325,7 @@
       <jump line="52" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/util/MimeType.java" />
       <jump line="161" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
       <jump line="44" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/InsecureConnManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/enable-HiDPI.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -380,7 +382,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gUlNvY2tldFJlcXVlc3Rlci5idWlsZGVyKCkKICAgICAgICAgICAgLnJzb2NrZXRTdHJhdGVnaWVzKHJzb2NrZXRTdHJhdGVnaWVzKQogICAgICAgICAgICAuc2V0dXBEYXRhKGNvbm5lY3RTZXR1cCkKICAgICAgICAgICAgLmRhdGFNaW1lVHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fQ0JPUikKICAgICAgICAgICAgLnNldHVwUm91dGUoR3dDb25zdGFudHMuUk9VVEVfQ09OTkVDVF9TRVRVUF9WMSkKICAgICAgICAgICAgLmNvbm5lY3QoY2xpZW50VHJhbnNwb3J0KQogICAgICAgICAgICAudGltZW91dChEdXJhdGlvbi5vZlNlY29uZHMoNSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
