@@ -133,14 +133,24 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1587382002679">
-        <mark key="[" line="0" column="0" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/Inet4Address.java" timestamp="1587389139996" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpGwClientTest.java" timestamp="1587388542136">
+        <mark key="[" line="168" column="28" />
+        <mark key="]" line="168" column="28" />
+        <mark key="^" line="168" column="28" />
+        <mark key="." line="168" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/RsocketRegistry.java" timestamp="1587383615110">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="42" />
         <mark key="^" line="22" column="42" />
         <mark key="." line="22" column="41" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.45.Final/netty-transport-4.1.45.Final-sources.jar!/io/netty/channel/socket/nio/NioSocketChannel.java" timestamp="1587389659216">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="25" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="56" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/ConnManager.java" timestamp="1587386199150">
         <mark key="[" line="9" column="5" />
@@ -149,12 +159,6 @@
         <mark key="^" line="9" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketStrategiesAutoConfiguration.java" timestamp="1587384774439" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1587381558758">
-        <mark key="[" line="38" column="53" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1587386354650">
         <mark key="[" line="94" column="33" />
         <mark key="]" line="94" column="26" />
@@ -176,11 +180,11 @@
         <mark key="^" line="17" column="63" />
         <mark key="." line="17" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1587386717392">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="70" column="39" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1587388669888">
+        <mark key="[" line="126" column="36" />
+        <mark key="]" line="126" column="48" />
+        <mark key="^" line="126" column="48" />
+        <mark key="." line="126" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClientProperties.java" timestamp="1587385285160">
         <mark key="[" line="18" column="10" />
@@ -206,17 +210,11 @@
         <mark key="^" line="47" column="48" />
         <mark key="." line="47" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/RsocketGwProxyPort.java" timestamp="1587384344414">
-        <mark key="[" line="59" column="33" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1587382000852">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/RsocketGwProxyPort.java" timestamp="1587389681909">
+        <mark key="[" line="53" column="88" />
+        <mark key="]" line="53" column="108" />
+        <mark key="." line="53" column="107" />
+        <mark key="^" line="53" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1587387174617">
         <mark key="[" line="84" column="61" />
@@ -334,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbm5lY3Rpb24gPSBGaWVsZFV0aWxzLnJlYWRGaWVsZChzb3VyY2UsICJjb25uZWN0aW9uIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -352,39 +350,39 @@
         <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGNvbS5hbHNjLnNhYXMuZ3cucnNvY2tldC5jbGllbnQuUnNvY2tldEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbm5lY3Rpb24gPSBGaWVsZFV0aWxzLnJlYWRGaWVsZChzb3VyY2UsICJjb25uZWN0aW9uIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yik5pat6K+35rGC55qE5p2l5rqQSVDlnLDlnYDmmK/lkKblnKjlsYDln5/nvZHlhoUKICAgICAgICAgICAgLy8g5aaC5p6c5LiN5Zyo5ZCM5LiA5Liq572R57uc5Lit77yM55u05o6l5oqb5Ye65byC5bi4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmllbGRVdGlscy5yZWFkRmllbGQocmVxdWVzdGVyLCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxleGNsdXNpb24+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxleGNsdXNpb24+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>TcpClientTransport.create(TcpClient.create()
                 .host(targetConfig.getAddress())
                 .port(targetConfig.getPort()).secure())</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb25udWxsCiAgICBwdWJsaWMgc3RhdGljIENsaWVudFRyYW5zcG9ydCBjcmVhdGVUcmFuc3BvcnQoVGFyZ2V0Q29uZmlnIHRhcmdldENvbmZpZykgewogICAgICAgIGZpbmFsIENsaWVudFRyYW5zcG9ydCBjbGllbnRUcmFuc3BvcnQ7CiAgICAgICAgUlNvY2tldFNlcnZlci5UcmFuc3BvcnQgdHJhbnNwb3J0ID0gdGFyZ2V0Q29uZmlnLmdldFRyYW5zcG9ydCgpOwogICAgICAgIGlmICh0cmFuc3BvcnQgPT0gUlNvY2tldFNlcnZlci5UcmFuc3BvcnQuVENQKSB7CiAgICAgICAgICAgIFRjcENsaWVudCB0Y3BDbGllbnQgPSBUY3BDbGllbnQuY3JlYXRlKCkKICAgICAgICAgICAgICAgIC5ob3N0KHRhcmdldENvbmZpZy5nZXRBZGRyZXNzKCkpCiAgICAgICAgICAgICAgICAucG9ydCh0YXJnZXRDb25maWcuZ2V0UG9ydCgpKTsKICAgICAgICAgICAgaWYgKHRhcmdldENvbmZpZy5pc1NzbCgpKSB7CiAgICAgICAgICAgICAgICB0Y3BDbGllbnQgPSB0Y3BDbGllbnQuc2VjdXJlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2xpZW50VHJhbnNwb3J0ID0gVGNwQ2xpZW50VHJhbnNwb3J0LmNyZWF0ZSh0Y3BDbGllbnQpOwogICAgICAgIH0gZWxzZSBpZiAodHJhbnNwb3J0ID09IFJTb2NrZXRTZXJ2ZXIuVHJhbnNwb3J0LldFQlNPQ0tFVCkgewogICAgICAgICAgICBjbGllbnRUcmFuc3BvcnQgPSBXZWJzb2NrZXRDbGllbnRUcmFuc3BvcnQuY3JlYXRlKFVSSS5jcmVhdGUodGFyZ2V0Q29uZmlnLmdldEFkZHJlc3MoKSkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIuS4jeaUr+aMgeivpXRyYW5zcG9ydD0iICsgdHJhbnNwb3J0KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNsaWVudFRyYW5zcG9ydDsKICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb25udWxsCiAgICBzdGF0aWMgQ2xpZW50VHJhbnNwb3J0IGNyZWF0ZVRyYW5zcG9ydChUYXJnZXRDb25maWcgdGFyZ2V0Q29uZmlnKSB7CiAgICAgICAgZmluYWwgQ2xpZW50VHJhbnNwb3J0IGNsaWVudFRyYW5zcG9ydDsKICAgICAgICBSU29ja2V0U2VydmVyLlRyYW5zcG9ydCB0cmFuc3BvcnQgPSB0YXJnZXRDb25maWcuZ2V0VHJhbnNwb3J0KCk7CiAgICAgICAgaWYgKHRyYW5zcG9ydCA9PSBSU29ja2V0U2VydmVyLlRyYW5zcG9ydC5UQ1ApIHsKICAgICAgICAgICAgVGNwQ2xpZW50IHRjcENsaWVudCA9IFRjcENsaWVudC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLmhvc3QodGFyZ2V0Q29uZmlnLmdldEFkZHJlc3MoKSkKICAgICAgICAgICAgICAgIC5wb3J0KHRhcmdldENvbmZpZy5nZXRQb3J0KCkpOwogICAgICAgICAgICBpZiAodGFyZ2V0Q29uZmlnLmlzU3NsKCkpIHsKICAgICAgICAgICAgICAgIHRjcENsaWVudCA9IHRjcENsaWVudC5zZWN1cmUoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjbGllbnRUcmFuc3BvcnQgPSBUY3BDbGllbnRUcmFuc3BvcnQuY3JlYXRlKHRjcENsaWVudCk7CiAgICAgICAgfSBlbHNlIGlmICh0cmFuc3BvcnQgPT0gUlNvY2tldFNlcnZlci5UcmFuc3BvcnQuV0VCU09DS0VUKSB7CiAgICAgICAgICAgIGNsaWVudFRyYW5zcG9ydCA9IFdlYnNvY2tldENsaWVudFRyYW5zcG9ydC5jcmVhdGUoVVJJLmNyZWF0ZSh0YXJnZXRDb25maWcuZ2V0QWRkcmVzcygpKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigi5LiN5pSv5oyB6K+ldHJhbnNwb3J0PSIgKyB0cmFuc3BvcnQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gY2xpZW50VHJhbnNwb3J0OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
