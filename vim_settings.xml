@@ -133,8 +133,11 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1587471442208">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1587521098484">
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="83" column="40" />
+        <mark key="." line="83" column="39" />
+        <mark key="^" line="83" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" timestamp="1587473077910">
         <mark key="[" line="33" column="0" />
@@ -145,6 +148,7 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1587521209520" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/security/SignType.java" timestamp="1587474319872">
         <mark key="[" line="6" column="16" />
       </file>
@@ -160,6 +164,9 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1587521061038">
+        <mark key="]" line="57" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/server/GwConstants.java" timestamp="1587473764491">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -172,27 +179,16 @@
         <mark key="^" line="35" column="53" />
         <mark key="." line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-core/src/main/java/com/alsc/saas/gw/transport/Carrier.java" timestamp="1587470232467">
-        <mark key="[" line="117" column="53" />
-        <mark key="]" line="118" column="15" />
-        <mark key="^" line="118" column="15" />
-        <mark key="." line="118" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptor.java" timestamp="1587473789471">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="32" />
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1587471877938">
-        <mark key="[" line="68" column="57" />
-        <mark key="]" line="68" column="57" />
-        <mark key="." line="68" column="56" />
-        <mark key="^" line="68" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587474106107">
+      <file name="/Dummy.txt" timestamp="1587520833564">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/choice/cloud/gray-spring-boot-starter/H.0.0.10-SNAPSHOT/gray-spring-boot-starter-H.0.0.10-20200417.055112-2.jar!/com/choice/cloud/gray/plugin/webclient/WebClientHeaderConfig.class" timestamp="1587521633101" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/META-INF/spring.factories" timestamp="1587473963736">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -210,12 +206,6 @@
         <mark key="]" line="39" column="4" />
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/security/impl/WhiteListHsfReqPredicate.java" timestamp="1587470722118">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1587473690335">
         <mark key="'" line="36" column="23" />
@@ -339,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29tLmFsc2Muc2Fhcy5ndy5zZWN1cml0eS5pbXBsLkhzZlNlY3VyaXR5QXV0b0NvbmZpZ3VyYXRpb24sXAo=</text>
+        <text encoding="base64">ICAgIDwvcmVwb3NpdG9yeT4K</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -357,40 +347,37 @@
         <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGNvbm5Qb29sLnNpemUoKTsKICAgICAgICBpZiAoc2l6ZSA9PSAwKSB7CiAgICAgICAgICAgIGxvZy53YXJuKCJMYXVuY2hlclt7fTp7fV3ov57mjqXmlq3lvIAs562J5b6F6YeN6L+eLi4uIiwgbmFtZSwgc2V0dXAuZ2V0SXAoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbG9nLndhcm4oIkxhdW5jaGVyW3t9Ont9Xei/nuaOpeaWreW8gCzlvZPliY3ov57mjqXmlbA6e30iLCBuYW1lLCBzZXR1cC5nZXRJcCgpLCBzaXplKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uY2hvaWNlLmNsb3VkPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPkguMC4wLjEwLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tLmFsc2Muc2Fhcy5ndy5zZWN1cml0eS5pbXBsLkhzZlNlY3VyaXR5QXV0b0NvbmZpZ3VyYXRpb24sXAo=</text>
+        <text encoding="base64">ICAgIDwvcmVwb3NpdG9yeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>else {
-            // 传输数据没有签名授信校验，只能调用白名单内才接口
-            return null;
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5NYW5hZ2VyLmFkZChyZXF1ZXN0ZXIsIHNldHVwKTsK</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+SC4wLjAuMTAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzb2NrZXRSZWdpc3RyeS5yZWdpc3RlcihyZXF1ZXN0ZXIucnNvY2tldCgpLCBzZXR1cCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnNlY3VyZUFjY2VwdG9yKEd3UHJveHlWMiBnd1Byb3h5LCBHd1NlcnZlclByb3BlcnRpZXMgY29uZmlnKSB7CiAgICAgICAgdGhpcy5nd1Byb3h5ID0gZ3dQcm94eTsKICAgICAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZzsKICAgICAgICB0aGlzLmNvbm5NYW5hZ2VyID0gOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSW5zZWN1cmVBY2NlcHRDb25uTWFuYWdlciBjb25uTWFuYWdlciA9IG5ldyBJbnNlY3VyZUFjY2VwdENvbm5NYW5hZ2VyKHJzb2NrZXRSZWdpc3RyeSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5jaG9pY2UuY2xvdWQ8L2dyb3VwSWQ+CiAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICA8dmVyc2lvbj5ILjAuMC4xMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
