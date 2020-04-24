@@ -136,14 +136,12 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-hsf/src/test/java/com/alsc/saas/gw/test/hsf/Apply.java" timestamp="1587641564563">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/APP-META/docker-config/Dockerfile_production" timestamp="1587641025815">
-        <mark key="[" line="4" column="64" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1587695348014">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/AbstractApi.java" timestamp="1587712071435" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/resources/META-INF/additional-spring-configuration-metadata.json" timestamp="1587708650999">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="27" />
@@ -188,6 +186,7 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClient.java" timestamp="1587712037697" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application-daily_test.yml" timestamp="1587711081739">
         <mark key="[" line="0" column="53" />
       </file>
@@ -209,8 +208,8 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application.yml" timestamp="1587711218667">
-        <mark key="[" line="3" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application.yml" timestamp="1587712639196">
+        <mark key="[" line="3" column="35" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="30" />
@@ -221,12 +220,6 @@
         <mark key="]" line="64" column="62" />
         <mark key="^" line="64" column="62" />
         <mark key="." line="64" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/server/ProfileConstants.java" timestamp="1587641077421">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1587708750704">
         <mark key="[" line="0" column="0" />
