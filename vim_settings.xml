@@ -164,11 +164,10 @@
         <mark key="^" line="73" column="71" />
         <mark key="." line="73" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/resources/META-INF/additional-spring-configuration-metadata.json" timestamp="1587708650999">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1587872520194">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587866694561">
         <mark key="[" line="0" column="0" />
@@ -330,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9kdWxlQ29uZmlnRHVwbGljYXRlQ2hlY2tlcgo=</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5kZXBsb3kuc2tpcD50cnVlPC9tYXZlbi5kZXBsb3kuc2tpcD4K</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -351,36 +350,36 @@
         <text encoding="base64">ICAgICAgICBNb2R1bGVDb25maWdEdXBsaWNhdGVDaGVja2VyIGR1cGxpY2F0ZUNoZWNrZXIgPSBuZXcgTW9kdWxlQ29uZmlnRHVwbGljYXRlQ2hlY2tlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9kdWxlQ29uZmlnRHVwbGljYXRlQ2hlY2tlcgo=</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5kZXBsb3kuc2tpcD50cnVlPC9tYXZlbi5kZXBsb3kuc2tpcD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlhbW9uZFByb3BlcnR5U291cmNlIGRpYW1vbmRQcm9wZXJ0eVNvdXJjZSA9IChEaWFtb25kUHJvcGVydHlTb3VyY2UpcHJvcGVydHlTb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kdWxlQ29uZmlnRHVwbGljYXRlQ2hlY2tlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb3NpdGVQcm9wZXJ0eVNvdXJjZSBkaWFtb25kUHJvcGVydHlTb3VyY2VzID0gZGlhbW9uZFByb3BlcnR5U291cmNlczEKICAgICAgICAgICAgLmdldFByb3BlcnR5U291cmNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGlhbW9uZFByb3BlcnR5U291cmNlIGRpYW1vbmRQcm9wZXJ0eVNvdXJjZSA9IChEaWFtb25kUHJvcGVydHlTb3VyY2UpcHJvcGVydHlTb3VyY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpYW1vbmRQcm9wZXJ0eVNvdXJjZXMgPSBkaWFtb25kUHJvcGVydHlTb3VyY2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb21wb3NpdGVQcm9wZXJ0eVNvdXJjZSBkaWFtb25kUHJvcGVydHlTb3VyY2VzID0gZGlhbW9uZFByb3BlcnR5U291cmNlczEKICAgICAgICAgICAgLmdldFByb3BlcnR5U291cmNlcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxEaWFtb25kUHJvcGVydHlTb3VyY2U+IGRpYW1vbmRQcm9wZXJ0eVNvdXJjZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpYW1vbmRQcm9wZXJ0eVNvdXJjZXMgPSBkaWFtb25kUHJvcGVydHlTb3VyY2VzOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxEaWFtb25kUHJvcGVydHlTb3VyY2U+IGRpYW1vbmRQcm9wZXJ0eVNvdXJjZXM7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>rsocket acceptor 端口号改为9999
 
 原本使用7001会导致aone发布时被识别为tomcat,导致nginx启动.</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTcGFuIHNwYW4gPSB0cmFjZXIuYWN0aXZlU3BhbigpOwogICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBzc2w6IHRydWUKICB0cnVzdC1hbnktY2VydGlmaWNhdGU6IHRydWUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJzb2NrZXRUZXN0UHJvcGVydGllcyB7Cgo=</text>
+        <text encoding="base64">ICBzc2w6IHRydWUKICB0cnVzdC1hbnktY2VydGlmaWNhdGU6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
