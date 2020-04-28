@@ -130,17 +130,11 @@
       <file name="/a.dummy" timestamp="1587977706438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/RsocketRegistry.java" timestamp="1587970370301">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/pos/device/client/service/MockDeviceAuthService.java" timestamp="1587974050138">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/RsocketRegistry.java" timestamp="1588057910197">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1587974830086">
         <mark key="[" line="55" column="0" />
@@ -153,7 +147,7 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestProperties.java" timestamp="1587977478512">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestProperties.java" timestamp="1588057721679">
         <mark key="[" line="11" column="78" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
@@ -164,23 +158,30 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/TokenUtilTest.java" timestamp="1588057455603">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/device-client/1.0.4-SNAPSHOT/device-client-1.0.4-20200427.080346-5-sources.jar!/com/alsc/pos/device/client/utils/TokenUtil.java" timestamp="1587978326028" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/TokenUtilsTest.java" timestamp="1588057157504">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/AsyncHsfInvoker.java" timestamp="1587980804335">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
         <mark key="^" line="35" column="30" />
         <mark key="." line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfServerAutoConfiguration.java" timestamp="1587969701216">
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="37" column="42" />
-        <mark key="." line="37" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/pos/device/client/service/DeviceAuthServiceMockImpl.java" timestamp="1587974317650">
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/pos/device/client/service/DeviceAuthServiceMockImpl.java" timestamp="1588057994568">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/pom.xml" timestamp="1587974807291" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1587977682475">
@@ -190,18 +191,18 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1587979108509">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1588058052550">
         <mark key="'" line="62" column="13" />
-        <mark key="[" line="138" column="13" />
-        <mark key="]" line="142" column="21" />
-        <mark key="." line="142" column="20" />
-        <mark key="^" line="142" column="21" />
+        <mark key="[" line="142" column="43" />
+        <mark key="]" line="138" column="39" />
+        <mark key="." line="138" column="38" />
+        <mark key="^" line="138" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1587975017139">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="28" />
-        <mark key="^" line="35" column="28" />
-        <mark key="." line="35" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1588056914312">
+        <mark key="[" line="33" column="76" />
+        <mark key="]" line="33" column="77" />
+        <mark key="^" line="33" column="77" />
+        <mark key="." line="33" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application.yml" timestamp="1587981525030">
         <mark key="[" line="2" column="32" />
@@ -209,12 +210,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1587979275877">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1588057670746">
         <mark key="'" line="126" column="25" />
-        <mark key="[" line="83" column="14" />
-        <mark key="]" line="83" column="14" />
-        <mark key="^" line="83" column="14" />
-        <mark key="." line="83" column="13" />
+        <mark key="[" line="181" column="94" />
+        <mark key="]" line="181" column="94" />
+        <mark key="^" line="181" column="94" />
+        <mark key="." line="181" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/pom.xml" timestamp="1587974776471">
         <mark key="[" line="54" column="0" />
