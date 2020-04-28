@@ -161,8 +161,12 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" timestamp="1588067412103">
-        <mark key="'" line="63" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" timestamp="1588072895145">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="1" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/device-client/1.0.4-SNAPSHOT/device-client-1.0.4-20200427.080346-5-sources.jar!/com/alsc/pos/device/client/utils/TokenUtil.java" timestamp="1587978326028" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/TokenUtilsTest.java" timestamp="1588057157504">
@@ -189,12 +193,12 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1588067613860">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="88" column="47" />
-        <mark key="]" line="89" column="58" />
-        <mark key="^" line="89" column="58" />
-        <mark key="." line="89" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1588073111675">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="97" column="68" />
+        <mark key="]" line="98" column="48" />
+        <mark key="^" line="98" column="48" />
+        <mark key="." line="98" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnClass.java" timestamp="1588061436323" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1588067362636">
@@ -228,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.1.4-SNAPSHOT/common-boot-1.1.4-20200117.071213-2.jar!/com/alsc/diamond/DiamondWatchAutoConfiguration.class" />
-      <jump line="37" column="16" filename="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.1.4-SNAPSHOT/common-boot-1.1.4-20200117.071213-2-sources.jar!/com/alsc/diamond/DiamondWatchAutoConfiguration.java" />
       <jump line="30" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" />
       <jump line="36" column="23" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" />
@@ -328,12 +330,14 @@
       <jump line="28" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
       <jump line="70" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
       <jump line="63" column="30" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" />
+      <jump line="35" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">T3B0aW9uYWw8SW5zZWN1cmVDb25uZWN0U2V0dXA+IHJlZ2lzdGVyZWQgPSByc29ja2V0UmVnaXN0cnkuZmluZENvbm5lY3RTZXR1cChyZXF1ZXN0ZXIucnNvY2tldCgpKTsKICAgICAgICAgICAgICAgIGlmIChyZWdpc3RlcmVkLmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICAgICAgSW5zZWN1cmVDb25uZWN0U2V0dXAgY3VycmVudCA9IHJlZ2lzdGVyZWQuZ2V0KCk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRUb2tlbkV4cGlyZWRTdWJzY3JpcHRpb24oc2V0dXAuZ2V0VG9rZW5FeHBpcmVkU3Vic2NyaXB0aW9uKCkpOwogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQuc2V0SWQoc2V0dXAuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRTaWduZXIoc2V0dXAuZ2V0U2lnbmVyKCkpOwogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQuc2V0U2lnblR5cGUoc2V0dXAuZ2V0U2lnblR5cGUoKSk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRUb2tlbihzZXR1cC5nZXRUb2tlbigpKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -354,13 +358,13 @@
         <text encoding="base64">T3B0aW9uYWw8SW5zZWN1cmVDb25uZWN0U2V0dXA+IHJlZ2lzdGVyZWQgPSByc29ja2V0UmVnaXN0cnkuZmluZENvbm5lY3RTZXR1cChyZXF1ZXN0ZXIucnNvY2tldCgpKTsKICAgICAgICAgICAgICAgIGlmIChyZWdpc3RlcmVkLmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICAgICAgSW5zZWN1cmVDb25uZWN0U2V0dXAgY3VycmVudCA9IHJlZ2lzdGVyZWQuZ2V0KCk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRUb2tlbkV4cGlyZWRTdWJzY3JpcHRpb24oc2V0dXAuZ2V0VG9rZW5FeHBpcmVkU3Vic2NyaXB0aW9uKCkpOwogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQuc2V0SWQoc2V0dXAuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRTaWduZXIoc2V0dXAuZ2V0U2lnbmVyKCkpOwogICAgICAgICAgICAgICAgICAgIGN1cnJlbnQuc2V0U2lnblR5cGUoc2V0dXAuZ2V0U2lnblR5cGUoKSk7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudC5zZXRUb2tlbihzZXR1cC5nZXRUb2tlbigpKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEluc2VjdXJlQ29ubmVjdFNldHVwPiByZWdpc3RlcmVkID0gcnNvY2tldFJlZ2lzdHJ5LmZpbmRDb25uZWN0U2V0dXAocmVxdWVzdGVyLnJzb2NrZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEluc2VjdXJlQ29ubmVjdFNldHVwPiByZWdpc3RlcmVkID0gcnNvY2tldFJlZ2lzdHJ5LmZpbmRDb25uZWN0U2V0dXAocmVxdWVzdGVyLnJzb2NrZXQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
@@ -369,19 +373,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnNvY2tldFJlZ2lzdHJ5LnJlZ2lzdGVyKHJzb2NrZXQsIHNldHVwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnNvY2tldFJlZ2lzdHJ5LnJlZ2lzdGVyKHJzb2NrZXQsIHNldHVwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudC5zZXRSZXF1ZXN0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
