@@ -130,6 +130,11 @@
       <file name="/a.dummy" timestamp="1588321734321">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" timestamp="1588323960782">
+        <mark key="[" line="142" column="62" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1588318067403">
         <mark key="[" line="59" column="37" />
         <mark key="]" line="59" column="37" />
@@ -193,6 +198,12 @@
         <mark key="." line="75" column="10" />
         <mark key="^" line="75" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfApi.java" timestamp="1588323592162">
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="83" column="36" />
+        <mark key="^" line="83" column="36" />
+        <mark key="." line="83" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportLoadBalancerConfiguration.java" timestamp="1588301649893">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="28" column="29" />
@@ -205,18 +216,6 @@
         <mark key="]" line="30" column="8" />
         <mark key="^" line="30" column="8" />
         <mark key="." line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportProcessor.java" timestamp="1588247988918">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/annotation/LoadBalancerClientConfiguration.java" timestamp="1588248868959">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="66" column="52" />
-        <mark key="^" line="67" column="54" />
-        <mark key="." line="67" column="53" />
       </file>
       <file name="$USER_HOME$/Downloads/EurekaApplicationContextInitializer.java" timestamp="1588321891392">
         <mark key="[" line="66" column="24" />
@@ -334,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>增加辰森的预发环境支持</text>
+        <text encoding="base64">ICAgICAgICBFYWdsZUV5ZUNvbnRleHQucHV0VXNlckRhdGEoKTsK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -355,34 +354,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBpbnRlcmNlcHRvci5iZWZvcmVFeGVjdXRlKHJlcSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>增加辰森的预发环境支持</text>
+        <text encoding="base64">ICAgICAgICBFYWdsZUV5ZUNvbnRleHQucHV0VXNlckRhdGEoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text>增加辰森的预发环境支持</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2hvaWNlc2Fhcwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0QpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2hvaWNlc2Fhcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEVudiB7CiAgICAgICAgLyoqIOi+sOajrueOr+Wig+aemuS4viAqLwogICAgICAgIFBST0QoImNob2ljZXNhYXMtcHJvIiksCiAgICAgICAgUFJPRF9QUkUoImNob2ljZXNhYXMtcHJvcHJlIiksCiAgICAgICAgUFJFKCJjaG9pY2VzYWFzLXByZSIpLAogICAgICAgIFRTVCgiY2hvaWNlc2Fhcy10c3QiKSwKICAgICAgICBERVYoImNob2ljZXNhYXMtZGV2IiksCiAgICAgICAgTE9DQUwoImNob2ljZXNhYXMtbG9jYWwiKTsKCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgRW52PiBFTlZfTUFQID0gbmV3IEhhc2hNYXA8PigpOwoKICAgICAgICBzdGF0aWMgewogICAgICAgICAgICBmb3IgKEVudiB2YWx1ZSA6IEVudi5jbGFzcy5nZXRFbnVtQ29uc3RhbnRzKCkpIHsKICAgICAgICAgICAgICAgIEVOVl9NQVAucHV0KHZhbHVlLmNvZGUsIHZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgY29kZTsKCiAgICAgICAgRW52KFN0cmluZyBjb2RlKSB7CiAgICAgICAgICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENvZGUoKSB7CiAgICAgICAgICAgIHJldHVybiBjb2RlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBPcHRpb25hbDxFbnY+IGZpbmQoU3RyaW5nIGNvZGUpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mTnVsbGFibGUoRU5WX01BUC5nZXQoY29kZSkpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBhY3RpdmVQcm9maWxlcyA9IHNwcmluZ0Vudi5nZXRBY3RpdmVQcm9maWxlcygpOwogICAgICAgIGZvciAoU3RyaW5nIHByb2ZpbGUgOiBhY3RpdmVQcm9maWxlcykgewogICAgICAgICAgICBPcHRpb25hbDxFbnY+IGVudiA9IEVudi5maW5kKHByb2ZpbGUpOwogICAgICAgICAgICBpZiAoZW52LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICB0aGlzLnNhYXNHd0VudiA9IGVudi5nZXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEVudiB7CiAgICAgICAgLyoqIOi+sOajrueOr+Wig+aemuS4viAqLwogICAgICAgIFBST0QoImNob2ljZXNhYXMtcHJvIiksCiAgICAgICAgUFJPRF9QUkUoImNob2ljZXNhYXMtcHJvcHJlIiksCiAgICAgICAgUFJFKCJjaG9pY2VzYWFzLXByZSIpLAogICAgICAgIFRTVCgiY2hvaWNlc2Fhcy10c3QiKSwKICAgICAgICBERVYoImNob2ljZXNhYXMtZGV2IiksCiAgICAgICAgTE9DQUwoImNob2ljZXNhYXMtbG9jYWwiKTsKCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgRW52PiBFTlZfTUFQID0gbmV3IEhhc2hNYXA8PigpOwoKICAgICAgICBzdGF0aWMgewogICAgICAgICAgICBmb3IgKEVudiB2YWx1ZSA6IEVudi5jbGFzcy5nZXRFbnVtQ29uc3RhbnRzKCkpIHsKICAgICAgICAgICAgICAgIEVOVl9NQVAucHV0KHZhbHVlLmNvZGUsIHZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgY29kZTsKCiAgICAgICAgRW52KFN0cmluZyBjb2RlKSB7CiAgICAgICAgICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENvZGUoKSB7CiAgICAgICAgICAgIHJldHVybiBjb2RlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBPcHRpb25hbDxFbnY+IGZpbmQoU3RyaW5nIGNvZGUpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mTnVsbGFibGUoRU5WX01BUC5nZXQoY29kZSkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgc3ByaW5nRW52Owo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBhY3RpdmVQcm9maWxlcyA9IHNwcmluZ0Vudi5nZXRBY3RpdmVQcm9maWxlcygpOwogICAgICAgIGZvciAoU3RyaW5nIHByb2ZpbGUgOiBhY3RpdmVQcm9maWxlcykgewogICAgICAgICAgICBPcHRpb25hbDxFbnY+IGVudiA9IEVudi5maW5kKHByb2ZpbGUpOwogICAgICAgICAgICBpZiAoZW52LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICB0aGlzLnNhYXNHd0VudiA9IGVudi5nZXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW52IHNhYXNHd0VudjsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgc3ByaW5nRW52Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
