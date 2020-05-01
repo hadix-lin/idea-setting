@@ -148,13 +148,7 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="35" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/cache/LoadBalancerCacheProperties.java" timestamp="1588232841153">
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="84" column="33" />
-        <mark key="^" line="84" column="33" />
-        <mark key="." line="84" column="32" />
-      </file>
-      <file name="/a.dummy" timestamp="1588300126921">
+      <file name="/a.dummy" timestamp="1588309680689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1588298968682">
@@ -169,17 +163,23 @@
         <mark key="^" line="60" column="5" />
         <mark key="." line="60" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" timestamp="1588310222795">
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="75" column="12" />
+        <mark key="." line="75" column="11" />
+        <mark key="^" line="75" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/SpeAopManager.java" timestamp="1588235112962">
         <mark key="'" line="35" column="13" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="93" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptor.java" timestamp="1588299145658">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptor.java" timestamp="1588308356102">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="23" />
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportLoadBalancerConfiguration.java" timestamp="1588301649893">
         <mark key="[" line="27" column="35" />
@@ -193,11 +193,12 @@
         <mark key="." line="9" column="77" />
         <mark key="^" line="9" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588304878993">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="28" />
-        <mark key="^" line="51" column="28" />
-        <mark key="." line="51" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588309580757">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="50" column="41" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/core/CachingServiceInstanceListSupplier.java" timestamp="1588242533511">
         <mark key="[" line="67" column="53" />
@@ -228,12 +229,11 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1588301654830">
+      <file name="/fragment.java" timestamp="1588308996424">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/DeferredReturnUtils.java" />
       <jump line="778" column="73" filename="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.7/byte-buddy-1.10.7-sources.jar!/net/bytebuddy/matcher/ElementMatchers.java" />
       <jump line="30" column="34" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/ApiUtils.java" />
       <jump line="42" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/java/com/alsc/saas/gw/hsf/client/HsfClientTest.java" />
@@ -333,12 +333,13 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="35" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/SpeAopManager.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgIDxncm91cElkPmNvbS5jaG9pY2UuY2xvdWQ8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1jbG91ZC1nYXRld2F5LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4wLjAuOS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICA8Z3JvdXBJZD5jb20uY2hvaWNlLmNsb3VkPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+Z3JheS1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+SC4wLjAuMTAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGVwVmVyaWZpZXIuY3JlYXRlKHNlcnZpY2VJbnN0YW5jZUZsdXgpLmV4cGVjdG5leHQKICAgICAgICAgICAgLmV4cGVjdE5leHRNYXRjaGVzKGluc3RhbmNlcyAtPiB7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -350,43 +351,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>EurekaReactiveDiscoveryClientConfiguration</text>
+        <text>= ImmutableMap.of(META_SERVICE_GROUP, serviceGroup);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWZhdWx0LXRhcmdldC1jbHVzdGVyLW5hbWU6IGFsaWJhYmEtcHJvZAogIHJzYS1wcml2YXRlLWtleToKICAgIE1JSUNkZ0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQW1Bd2dnSmNBZ0VBQW9HQkFLV2VjSXc1akwyUWUrSFkKICAgIHlNcTNUQ1d3VWF4SGdIZnZmeHZ1Rlkxa0krMEs1N2RIVGhYamFUdGgzb255ZWNFZGhnOTJnSk41NDljUWw5TXYKICAgIDhqR2ZnWENpdll5TGtmZVJqaTJWMTlwRnZOT3FqV1BOcnFQSUJGQlMvMnZHeXBxdW56QTBxNzM0L1VKYVZTWU8KICAgIFA2Y3Q0TUFLenFlRERydlR3aFMvYTV5cjZOaGhBZ01CQUFFQ2dZQm95QWZldjU1S1pIbnNGbEphNW9MWHFXalMKICAgIHZWNExBMHdBNksxY0Nnb3NzMlNNY1NGMitheWZORGt1UDJsR2c1NUlkQ20rcERSQTRhK2NuazMxbFR1M2VadjIKICAgIG1yZ09oeExoMmlhNi9kV3lFSnBaaDhIWFpIQmdrS0V6dHZUOHlKUm9PSmphOVpiV3kzemNuajBranhNSllZd3QKICAgIG5PbExXb2ljaUZDc0EwS0hRUUpCQU5VTjFKU1o2TlBLcG41cTRIeFhwM3cwUmtycWI4ZHIwZnorUU1UUGtpTlAKICAgIDhFTzB1QlJsOTBoT2Q4WUZtZ3BCMkNPWnBFM3o0NDBOOEpKUTFLd2ZlcWtDUVFESEFOUFdRUXdWNTJHeHZWSEgKICAgIEVjamthT1ZKdnQ0aTQzUkZvYy9WS0d2ZThaNmNKTUlHQ3orRnpuSWFEc2NhcFY0UG5SYjFSVVdyM2ltUkUxN0YKICAgIDVucjVBa0VBdENLc2NUUXNZaDIrWmJhUnRUQWJnTzFsM1dPWVBPRlJ1M2x4WTdZbzFraDVXWldMNmx0SUY4K1kKICAgIGYwb3ZNcXIzUnlwWmZEdFFVdXZOVXJpYkNDalplUUpBWHY1eUlMQmtTSUJ2RGgxRlVEV1pKQTgraEhsc0tGTlQKICAgIFNYbjRiOVFmeWdpa29meVo4YkNrM2dheVNPWU0vUmM3VTFDMWlOZE1ic0phTFRxRjN3b3FZUUpBVTB0YTFpWVgKICAgIGN5TUF5NmhPWGkwNjFDdkttM3FJOWFLeFFTZHRZYlRXNC9aL0ozSzE3eGZqWFo0a2txWTZFOHBxRGdUbnI4Z3oKICAgIDA1Y2h6SFRtWWlEV3R3PT0K</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZUxpc3QuYWRkKG1vY2tTZXJ2aWNlSW5zdGFuY2UoU1RBQkxFX0dST1VQKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgIDxncm91cElkPmNvbS5jaG9pY2UuY2xvdWQ8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1jbG91ZC1nYXRld2F5LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4wLjAuOS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICA8Z3JvdXBJZD5jb20uY2hvaWNlLmNsb3VkPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+Z3JheS1zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+SC4wLjAuMTAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGVwVmVyaWZpZXIuY3JlYXRlKHNlcnZpY2VJbnN0YW5jZUZsdXgpLmV4cGVjdG5leHQKICAgICAgICAgICAgLmV4cGVjdE5leHRNYXRjaGVzKGluc3RhbmNlcyAtPiB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUdyb3VwID0gZGVmYXVsdElmQmxhbmsoCiAgICAgICAgICAgICAgICBzcGFuICE9IG51bGwgPyAgOm51bGwsCiAgICAgICAgICAgICAgICBTVEFCTEVfR1JPVVApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGluc3RhbmNlcy4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUdyb3VwID0gZGVmYXVsdElmQmxhbmsoCiAgICAgICAgICAgICAgICBzcGFuICE9IG51bGwgPyAgOm51bGwsCiAgICAgICAgICAgICAgICBTVEFCTEVfR1JPVVApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2VHcm91cCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZUxpc3QuYWRkKG1vY2tTZXJ2aWNlSW5zdGFuY2UoU1RBQkxFX0dST1VQKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwYW4gIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZihzZXJ2aWNlR3JvdXAhPW51bGwpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aW5zdGFuY2VMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGluc3RhbmNlIC0+IHsKICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1ldGFkYXRhID0gaW5zdGFuY2UuZ2V0TWV0YWRhdGEoKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZ3JvdXAgPSBtZXRhZGF0YS5nZXQoTUVUQV9TRVJWSUNFX0dST1VQKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RyaW5nVXRpbHMuZXF1YWxzKHNlcnZpY2VHcm91cCwgZ3JvdXApOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
