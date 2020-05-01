@@ -127,21 +127,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1588309680689">
+      <file name="/a.dummy" timestamp="1588321734321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptor.java" timestamp="1588316112237">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1588318067403">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="59" column="37" />
+        <mark key="^" line="59" column="37" />
+        <mark key="." line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1588248887300">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="78" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptor.java" timestamp="1588321045406">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1588321880042">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/client/Content.java" timestamp="1588316321545">
         <mark key="[" line="10" column="3" />
@@ -149,37 +155,29 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/core/CachingServiceInstanceListSupplier.java" timestamp="1588242533511">
-        <mark key="[" line="67" column="53" />
-        <mark key="]" line="67" column="53" />
-        <mark key="^" line="67" column="53" />
-        <mark key="." line="67" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1588318939703" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/Choicesaas.java" timestamp="1588321732936">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1588317552699">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/Choicesaas.java" timestamp="1588317794067">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="49" />
-        <mark key="^" line="25" column="50" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/addons/reactor-extra/3.3.2.RELEASE/reactor-extra-3.3.2.RELEASE-sources.jar!/reactor/cache/CacheFlux.java" timestamp="1588242558318">
-        <mark key="[" line="149" column="39" />
-        <mark key="]" line="149" column="39" />
-        <mark key="^" line="149" column="39" />
-        <mark key="." line="149" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588299462214">
+      <file name="/Dummy.txt" timestamp="1588322134132">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptorTest.java" timestamp="1588317036495">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="14" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.2.RELEASE/spring-cloud-netflix-eureka-client-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java" timestamp="1588321632753">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/ChoicesaasMsgReqInterceptorTest.java" timestamp="1588321210049">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="75" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1588298968682">
         <mark key="[" line="111" column="70" />
@@ -188,18 +186,12 @@
         <mark key="^" line="111" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/client/MsgReq.java" timestamp="1588316271076" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/annotation/LoadBalancerClient.java" timestamp="1588247807487">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="60" column="5" />
-        <mark key="^" line="60" column="5" />
-        <mark key="." line="60" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" timestamp="1588315905195">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="87" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" timestamp="1588321310386">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="11" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="75" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportLoadBalancerConfiguration.java" timestamp="1588301649893">
         <mark key="[" line="27" column="35" />
@@ -207,12 +199,12 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588314920012">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588321538361">
         <mark key="'" line="20" column="13" />
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="27" />
-        <mark key="^" line="70" column="27" />
-        <mark key="." line="70" column="26" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportProcessor.java" timestamp="1588247988918">
         <mark key="[" line="11" column="0" />
@@ -226,7 +218,13 @@
         <mark key="^" line="67" column="54" />
         <mark key="." line="67" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1588317070739">
+      <file name="$USER_HOME$/Downloads/EurekaApplicationContextInitializer.java" timestamp="1588321891392">
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="24" />
+        <mark key="^" line="66" column="24" />
+        <mark key="." line="66" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1588321808479">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -336,7 +334,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>增加辰森的预发环境支持</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -348,7 +346,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE1zZ1JlcQ==</text>
+        <text>env != Choicesaas.Env.PROD_PRE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
@@ -357,34 +355,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBpbnRlcmNlcHRvci5iZWZvcmVFeGVjdXRlKHJlcSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>增加辰森的预发环境支持</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1lbnVtPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuMTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2hvaWNlc2Fhcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0QpOwogICAgICAgIHJlc3VsdCA9IGludGVyY2VwdG9yLmJlZm9yZUV4ZWN1dGUocmVxKTsKICAgICAgICByZXN1bHQuZ2V0Q29udGVudHMoKS5mb3JFYWNoKGNvbiAtPiB7CiAgICAgICAgICAgIFN0cmluZyB0YWcgPSBjb24uZ2V0VGFnKCk7CiAgICAgICAgICAgIEFzc2VydC5hc3NlcnROdWxsKHRhZyk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0QpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGVzdFRhZyA9ICJ0ZXN0IjsKICAgICAgICBjb250ZW50LnNldFRhZyh0ZXN0VGFnKTsKICAgICAgICAKICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0RfUFJFKTsKICAgICAgICByZXN1bHQgPSBpbnRlcmNlcHRvci5iZWZvcmVFeGVjdXRlKHJlcSk7CiAgICAgICAgcmVzdWx0LmdldENvbnRlbnRzKCkuZm9yRWFjaChjb24gLT4gewogICAgICAgICAgICBTdHJpbmcgdGFnID0gY29uLmdldFRhZygpOwogICAgICAgICAgICBBc3NlcnQuYXNzZXJ0Tm90TnVsbCh0YWcpOwogICAgICAgICAgICBBc3NlcnQuYXNzZXJ0VGhhdCh0YWcsIGVuZHNXaXRoKFBSRV9TVUZGSVgpKTsKICAgICAgICB9KTsKCiAgICAgICAgd2hlbihjaG9pY2VzYWFzLmVudigpKS50aGVuUmV0dXJuKEVudi5QUk9EX1BSRSk7CiAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEVudiB7CiAgICAgICAgLyoqIOi+sOajrueOr+Wig+aemuS4viAqLwogICAgICAgIFBST0QoImNob2ljZXNhYXMtcHJvIiksCiAgICAgICAgUFJPRF9QUkUoImNob2ljZXNhYXMtcHJvcHJlIiksCiAgICAgICAgUFJFKCJjaG9pY2VzYWFzLXByZSIpLAogICAgICAgIFRTVCgiY2hvaWNlc2Fhcy10c3QiKSwKICAgICAgICBERVYoImNob2ljZXNhYXMtZGV2IiksCiAgICAgICAgTE9DQUwoImNob2ljZXNhYXMtbG9jYWwiKTsKCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgRW52PiBFTlZfTUFQID0gbmV3IEhhc2hNYXA8PigpOwoKICAgICAgICBzdGF0aWMgewogICAgICAgICAgICBmb3IgKEVudiB2YWx1ZSA6IEVudi5jbGFzcy5nZXRFbnVtQ29uc3RhbnRzKCkpIHsKICAgICAgICAgICAgICAgIEVOVl9NQVAucHV0KHZhbHVlLmNvZGUsIHZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgY29kZTsKCiAgICAgICAgRW52KFN0cmluZyBjb2RlKSB7CiAgICAgICAgICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENvZGUoKSB7CiAgICAgICAgICAgIHJldHVybiBjb2RlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBPcHRpb25hbDxFbnY+IGZpbmQoU3RyaW5nIGNvZGUpIHsKICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mTnVsbGFibGUoRU5WX01BUC5nZXQoY29kZSkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBhY3RpdmVQcm9maWxlcyA9IHNwcmluZ0Vudi5nZXRBY3RpdmVQcm9maWxlcygpOwogICAgICAgIGZvciAoU3RyaW5nIHByb2ZpbGUgOiBhY3RpdmVQcm9maWxlcykgewogICAgICAgICAgICBPcHRpb25hbDxFbnY+IGVudiA9IEVudi5maW5kKHByb2ZpbGUpOwogICAgICAgICAgICBpZiAoZW52LmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICB0aGlzLnNhYXNHd0VudiA9IGVudi5nZXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNob2ljZXNhYXMuZW52KCkpLnRoZW5SZXR1cm4oRW52LlBST0RfUFJFKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgc3ByaW5nRW52Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUodGFnLmVuZHNXaXRoKFBSRV9TVSkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRW52IHNhYXNHd0VudjsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
