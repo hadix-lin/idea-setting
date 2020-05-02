@@ -47,8 +47,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>set noh</entry>
         <entry>set nohl</entry>
-        <entry>action AceAction</entry>
         <entry>noh</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -153,12 +153,10 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" timestamp="1588392294081">
-        <mark key="'" line="28" column="12" />
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" timestamp="1588396119440">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueue.java" timestamp="1588392063709">
         <mark key="[" line="11" column="0" />
@@ -201,11 +199,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.2.RELEASE/spring-cloud-netflix-eureka-client-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java" timestamp="1588321632753">
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="14" />
-        <mark key="^" line="44" column="14" />
-        <mark key="." line="44" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1588395352996">
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588390800360">
         <mark key="'" line="14" column="13" />
@@ -243,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="43" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasTracer.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
       <jump line="20" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasSpan.java" />
       <jump line="20" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
       <jump line="71" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
@@ -343,12 +339,14 @@
       <jump line="13" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/TagSupportQueue.java" />
       <jump line="17" column="32" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="23" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
+      <jump line="73" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgIT0gbnVsbCkgewogICAgICAgICAgICBpbnRlcmNlcHRvci5iZWZvcmVFeGVjdXRlKG1zZ1JlcSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -369,37 +367,37 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRhZ0V4cDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgIT0gbnVsbCkgewogICAgICAgICAgICBpbnRlcmNlcHRvci5iZWZvcmVFeGVjdXRlKG1zZ1JlcSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g6Kej5p6Q5b6X5Yiw55qEVGFnTWFwcGluZ+WvueixoQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkKICAgIHByaXZhdGUgSW50ZXJjZXB0b3I8TXNnUmVxPiBpbnRlcmNlcHRvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcGluZyA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSBJbnRlcmNlcHRvcjxUIGV4dGVuZHMgUmVxPD8+PiB7CiAgICAgICAgLyoqCiAgICAgICAgICog5Zyo6K+35rGC5omn6KGM5YmN6LCD55SoCiAgICAgICAgICoKICAgICAgICAgKiBAcGFyYW0gcmVxIOWwhuiiq+aJp+ihjOeahOivt+axggogICAgICAgICAqIEByZXR1cm4g5aSE55CG5ZCO55qE6K+35rGCLCDlj6/ku6Xnm7TmjqXov5Tlm57ljp/lp4vor7fmsYIKICAgICAgICAgKi8KICAgICAgICBUIGJlZm9yZUV4ZWN1dGUoVCByZXEpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogIntrMTp2MSxrMTp2MX0sa2V5Oua6kOa2iOaBr3RhZyx2YWx1ZTrnm67moIfmtojmga90YWcKICAgICAqCiAgICAgKiBAcGFyYW0gZXhwcmVzc2lvbiDmtojmga/ooajovr7lvI8KICAgICAqIEBwYXJhbSBrZXkgICAgICAgIHtrMTp2MSxrMTp2MX0KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgZ2V0VGFnc0Zyb21GaWx0ZXJFeHAoU3RyaW5nIGV4cHJlc3Npb24sIFN0cmluZyBrZXkpIHsKICAgICAgICBpZiAoaXNCbGFuayhleHByZXNzaW9uKSkgewogICAgICAgICAgICByZXR1cm4ga2V5OwogICAgICAgIH0KCiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBwYXJzZUV4cChleHByZXNzaW9uKTsKICAgICAgICBTdHJpbmcgc2VhcmNoS2V5ID0gbWFwLmNvbnRhaW5zS2V5KGtleSkgPyBrZXkgOiAiKiI7CiAgICAgICAgcmV0dXJuIG1hcC5nZXRPckRlZmF1bHQoc2VhcmNoS2V5LCBrZXkpOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgU3RyaW5nPiBwYXJzZUV4cChTdHJpbmcgZXhwcmVzc2lvbikgewogICAgICAgIFN0cmluZyBzdWIgPSBleHByZXNzaW9uLnN1YnN0cmluZyhleHByZXNzaW9uLmluZGV4T2YoJ3snKSArIDEsIGV4cHJlc3Npb24uaW5kZXhPZignfScpKTsKICAgICAgICBTdHJpbmdbXSBwaWVjZXMgPSBzdWIuc3BsaXQoIiwiKTsKICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCA9IG5ldyBIYXNoTWFwPD4ocGllY2VzLmxlbmd0aCk7CiAgICAgICAgZm9yIChTdHJpbmcgcyA6IHBpZWNlcykgewogICAgICAgICAgICBTdHJpbmdbXSBzdHIyID0gcy5zcGxpdCgiOiIpOwogICAgICAgICAgICBtYXAucHV0KHN0cjJbMF0udHJpbSgpLCBzdHIyWzFdLnRyaW0oKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWdNYXBwaW5nIGdldFRhZ01hcHBpbmcoKSB7CiAgICAgICAgaWYgKHRhZ01hcHBpbmcgPT0gbnVsbCkgewogICAgICAgICAgICB0YWdNYXBwaW5nID0gbmV3IFRhZ01hcHBpbmcodGFnRXhwKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRhZ01hcHBpbmc7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRhZ01hcHBpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFnTWFwcGluZygpIHsKICAgICAgICAgICAgbWFwcGluZyA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdNYXBwaW5nID0gbmV3IFRhZ01hcHBpbmcodGFnRXhwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRhcmdldFRhZyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0YXJnZXRUYWcgPSBtYXBwaW5nLmdldE9yRGVmYXVsdChBTExfU09VUkNFX1RBRywgc291cmNlVGFnKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
@@ -411,7 +409,7 @@
       <last-replace>^v^m</last-replace>
       <last-substitute encoding="base64">XDxleGNlcHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
