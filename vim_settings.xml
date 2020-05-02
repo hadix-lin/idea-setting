@@ -132,11 +132,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" timestamp="1588323960782">
-        <mark key="[" line="142" column="62" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1588409150233" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1588405591375">
         <mark key="[" line="44" column="39" />
         <mark key="]" line="44" column="39" />
@@ -162,11 +158,18 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" timestamp="1588398538008">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="36" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" timestamp="1588409716457">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-event-bus-metaq/src/main/java/com/alsc/saas/gw/event/metaq/MetaqBroadcasterProperties.java" timestamp="1588409093443">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueue.java" timestamp="1588392063709">
         <mark key="[" line="11" column="0" />
@@ -185,15 +188,8 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/TagSupportQueue.java" timestamp="1588391891215">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588399082290">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1588409842886">
+        <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -209,12 +205,12 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588399015624">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588409941719">
         <mark key="'" line="12" column="13" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="40" />
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="48" column="55" />
+        <mark key="^" line="48" column="55" />
+        <mark key="." line="48" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/OnsQueue.java" timestamp="1588392101596">
         <mark key="[" line="8" column="27" />
@@ -228,24 +224,27 @@
         <mark key="." line="111" column="69" />
         <mark key="^" line="111" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfApi.java" timestamp="1588323592162">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="36" />
-        <mark key="^" line="83" column="36" />
-        <mark key="." line="83" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1588397211222">
         <mark key="[" line="132" column="33" />
         <mark key="]" line="132" column="31" />
         <mark key="^" line="132" column="31" />
         <mark key="." line="132" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1588391807723">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-event-bus/src/main/java/com/alsc/saas/gw/event/EventBusAutoConfiguration.java" timestamp="1588408873839">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588409520171">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasSpan.java" />
       <jump line="20" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
       <jump line="71" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
       <jump line="19" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
@@ -345,14 +344,13 @@
       <jump line="23" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="73" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
+      <jump line="19" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>重构消息同步的tagMapping映射相关代码
-
-删除消息同步对辰森预发环境的定制代码</text>
+        <text encoding="base64">ICAgICAgICBNZXRhcVF1ZXVlIHF1ZXVlID0gKE1ldGFxUXVldWUpdXBkYXRlZFF1ZXVlOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -373,36 +371,36 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRhZ0V4cDsK</text>
       </register>
       <register name="1" type="2">
-        <text>重构消息同步的tagMapping映射相关代码
-
-删除消息同步对辰森预发环境的定制代码</text>
+        <text encoding="base64">ICAgICAgICBNZXRhcVF1ZXVlIHF1ZXVlID0gKE1ldGFxUXVldWUpdXBkYXRlZFF1ZXVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXRhcVF1ZXVlIHF1ZXVlID0gKE1ldGFxUXVldWUpdXBkYXRlZFF1ZXVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawogICAgcHJpdmF0ZSBTdHJpbmcgdG9waWM7Cg==</text>
+        <text>重构消息同步的tagMapping映射相关代码
+
+删除消息同步对辰森预发环境的定制代码</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QERhdGEK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBOb3RCbGFuawogICAgcHJpdmF0ZSBTdHJpbmcgdG9waWM7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWdNYXBwaW5nIGdldFRhZ01hcHBpbmcoKSB7CiAgICAgICAgaWYgKHRhZ01hcHBpbmcgPT0gbnVsbCkgewogICAgICAgICAgICB0YWdNYXBwaW5nID0gbmV3IFRhZ01hcHBpbmcodGFnRXhwKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRhZ01hcHBpbmc7CiAgICB9Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g6Kej5p6Q5b6X5Yiw55qEVGFnTWFwcGluZ+WvueixoQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWdNYXBwaW5nIGdldFRhZ01hcHBpbmcoKSB7CiAgICAgICAgaWYgKHRhZ01hcHBpbmcgPT0gbnVsbCkgewogICAgICAgICAgICB0YWdNYXBwaW5nID0gbmV3IFRhZ01hcHBpbmcodGFnRXhwKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRhZ01hcHBpbmc7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcGluZyA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
