@@ -127,13 +127,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1588397295766">
+        <mark key="[" line="154" column="38" />
+        <mark key="]" line="154" column="25" />
+        <mark key="^" line="154" column="25" />
+        <mark key="." line="154" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588731913694">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1588407232483">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588412496077">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+        <mark key="." line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1588407161972">
+        <mark key="[" line="111" column="70" />
+        <mark key="]" line="111" column="70" />
+        <mark key="." line="111" column="69" />
+        <mark key="^" line="111" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1588414462110">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="130" column="28" />
+        <mark key="]" line="130" column="28" />
+        <mark key="^" line="130" column="28" />
+        <mark key="." line="130" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsQueueServiceInstance.java" timestamp="1588414486172">
         <mark key="[" line="60" column="5" />
         <mark key="]" line="60" column="5" />
         <mark key="^" line="60" column="5" />
         <mark key="." line="60" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1588409150233" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1588418578535">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="58" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSynchronizer.java" timestamp="1588397687268">
         <mark key="[" line="58" column="10" />
         <mark key="]" line="58" column="11" />
@@ -151,30 +193,23 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1588499118694">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1588397295766">
-        <mark key="[" line="154" column="38" />
-        <mark key="]" line="154" column="25" />
-        <mark key="^" line="154" column="25" />
-        <mark key="." line="154" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588412496077">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="13" />
-        <mark key="^" line="42" column="13" />
-        <mark key="." line="42" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1588418109189">
         <mark key="[" line="83" column="26" />
         <mark key="]" line="83" column="26" />
         <mark key="^" line="83" column="26" />
         <mark key="." line="83" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-event-bus-metaq/src/main/java/com/alsc/saas/gw/event/metaq/MetaqBroadcasterProperties.java" timestamp="1588409093443">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+        <mark key="." line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-event-bus/src/main/java/com/alsc/saas/gw/event/EventBusAutoConfiguration.java" timestamp="1588408873839">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588409520171">
         <mark key="'" line="20" column="13" />
@@ -182,25 +217,6 @@
         <mark key="]" line="30" column="8" />
         <mark key="^" line="30" column="8" />
         <mark key="." line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1588414462110">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="130" column="28" />
-        <mark key="]" line="130" column="28" />
-        <mark key="^" line="130" column="28" />
-        <mark key="." line="130" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1588418578535">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="58" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-event-bus-metaq/src/main/java/com/alsc/saas/gw/event/metaq/MetaqBroadcasterProperties.java" timestamp="1588409093443">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1588397177636">
         <mark key="[" line="93" column="33" />
@@ -213,28 +229,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588419599052">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1588407232483">
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="^" line="42" column="17" />
-        <mark key="." line="42" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/application.yml" timestamp="1588407161972">
-        <mark key="[" line="111" column="70" />
-        <mark key="]" line="111" column="70" />
-        <mark key="." line="111" column="69" />
-        <mark key="^" line="111" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-event-bus/src/main/java/com/alsc/saas/gw/event/EventBusAutoConfiguration.java" timestamp="1588408873839">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="55" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="17" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1588499118694">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1588419149282">
         <mark key="[" line="0" column="0" />
