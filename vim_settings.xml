@@ -127,6 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1588838697764">
+        <mark key="[" line="123" column="40" />
+        <mark key="]" line="123" column="40" />
+        <mark key="^" line="123" column="40" />
+        <mark key="." line="123" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-util/src/main/java/com/alsc/pos/common/util/RunEnvUtil.java" timestamp="1588837271463" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1588835302268">
         <mark key="[" line="35" column="0" />
@@ -165,11 +171,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HealthChecker.java" timestamp="1588820930709">
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/pom.xml" timestamp="1588834502980">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="31" column="17" />
@@ -181,11 +182,11 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/executor/HttpExecutorAutoConfiguration.java" timestamp="1588835648179">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/executor/HttpExecutorAutoConfiguration.java" timestamp="1588838869948">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" timestamp="1588834565183">
         <mark key="[" line="28" column="62" />
@@ -214,12 +215,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/0.31.0/jaeger-core-0.31.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" timestamp="1588838880548">
+        <mark key="'" line="62" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1588834429112">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
       <jump line="19" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/EagleEyeHelper.java" />
       <jump line="39" column="3" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" />
       <jump line="0" column="30" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/PairUtils.java" />
@@ -319,6 +322,7 @@
       <jump line="73" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="19" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="78" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" />
+      <jump line="62" column="13" filename="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/0.31.0/jaeger-core-0.31.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
