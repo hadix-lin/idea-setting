@@ -127,45 +127,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1588414462110">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="130" column="28" />
-        <mark key="]" line="130" column="28" />
-        <mark key="^" line="130" column="28" />
-        <mark key="." line="130" column="27" />
+      <file name="/a.dummy" timestamp="1588820661059">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/pom.xml" timestamp="1588817846686" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsQueueServiceInstance.java" timestamp="1588414486172">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="60" column="5" />
-        <mark key="^" line="60" column="5" />
-        <mark key="." line="60" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteMonitor.java" timestamp="1588752780001">
         <mark key="[" line="45" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1588418578535">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="58" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/eureka/EurekaHealthHandler.java" timestamp="1588820530685">
+        <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/ConfigUtils.java" timestamp="1588419440371">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="24" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" timestamp="1588419588149">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="27" column="15" />
-        <mark key="^" line="27" column="15" />
-        <mark key="." line="27" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptor.java" timestamp="1588752161730">
-        <mark key="[" line="60" column="44" />
-        <mark key="]" line="60" column="44" />
-        <mark key="^" line="60" column="44" />
-        <mark key="." line="60" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-choicesaas/src/main/java/com/alsc/saas/gw/http/eureka/EurekaLoadbalancerAutoConfiguration.java" timestamp="1588822287901">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" timestamp="1588753939958">
         <mark key="[" line="17" column="0" />
@@ -174,66 +149,76 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1588752457982">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="13" column="4" />
-        <mark key="^" line="13" column="4" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1588822841731">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1588737383097">
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="56" column="38" />
-        <mark key="^" line="56" column="38" />
-        <mark key="." line="56" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpHealthCheckHandler.java" timestamp="1588820658405">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1588748471535">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1588822580839">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588767866341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/NotifyQueue.java" timestamp="1588412496077">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="13" />
-        <mark key="^" line="42" column="13" />
-        <mark key="." line="42" column="12" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.4.RELEASE/spring-webflux-5.2.4.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1588821233628">
+        <mark key="[" line="257" column="55" />
+        <mark key="]" line="257" column="55" />
+        <mark key="^" line="257" column="55" />
+        <mark key="." line="257" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1588748536392">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/eureka/EurekaLoadbalancerAutoConfiguration.java" timestamp="1588819375096">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/eureka/EurekaLoadbalancerAutoConfiguration.java" timestamp="1588818620952">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/eureka/EurekaHealthCheckHandler.java" timestamp="1588820896833">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1588418109189">
-        <mark key="[" line="83" column="26" />
-        <mark key="]" line="83" column="26" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="83" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" timestamp="1588821742005">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureConnectSetup.java" timestamp="1588749014337">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpServerAutoConfiguration.java" timestamp="1588822326311">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/ServiceGroupRegister.java" timestamp="1588752259628">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-choicesaas/pom.xml" timestamp="1588822597812">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588419149282">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HealthChecker.java" timestamp="1588820930709">
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1588820967903">
+        <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-choicesaas/src/main/resources/META-INF/spring.factories" timestamp="1588822254888">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="1" column="63" />
+        <mark key="^" line="1" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -342,9 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>修正tagMapping的值绑定错误
-
-RouteRegistry.status避免发生mapper value null的问题</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -356,45 +339,43 @@ RouteRegistry.status避免发生mapper value null的问题</text>
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>String queueTypeName</text>
+        <text encoding="base64">IGltcGxlbWVudHMgSGVhbHRoQ2hlY2tIYW5kbGVy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9uRXJyb3JSZXN1bWUoZXJyb3IgLT4gewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCLov57mjqXmo4Dmn6Xlh7rplJksIiArIGdldEVyck1zZyhlcnJvciksIGVycm9yKTsKICAgICAgICAgICAgICAgIHJldHVybiBNb25vLmp1c3QoZmFsc2UpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXRyYWNlLWphZWdlcjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text>修正tagMapping的值绑定错误
-
-RouteRegistry.status避免发生mapper value null的问题</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctY2xvdWQtbG9hZGJhbGFuY2VyPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uY2hvaWNlLmNsb3VkPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1jbG91ZC1nYXRld2F5LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">QEltcG9ydChKYWVnZXJUcmFjaW5nQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmNob2ljZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5ncmF5LXNwcmluZy1jbG91ZC1nYXRld2F5LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MC4wLjktU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRhZ01hcHBpbmdFeHAoU3RyaW5nIHRhZ01hcHBpbmdFeHByZXNzaW9uKSB7CiAgICAgICAgdGFnTWFwcGluZyA9IG5ldyBUYWdNYXBwaW5nKHRhZ01hcHBpbmdFeHByZXNzaW9uKTsKICAgICAgICB0aGlzLnRhZ01hcHBpbmcKICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmNvbS5hbHNjLnNhYXMuZ3cuYXBvbGxvLkFwb2xsb1dhdGNoQXV0b0NvbmZpZ3VyYXRpb24sXApjb20uYWxzYy5zYWFzLmd3Lmh0dHAudGVzdC5FY2hvU2VydmljZUNvbnRyb2xsZXIsXApjb20uYWxzYy5zYWFzLmd3Lm1xLk1xQXV0b0NvbmZpZ3VyYXRpb24sXApjb20uYWxzYy5zYWFzLmd3LmNob2ljZXNhYXMuQ2hvaWNlc2Fhc0F1dG9Db25maWd1cmF0aW9uCm9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQuYm9vdHN0cmFwLkJvb3RzdHJhcENvbmZpZ3VyYXRpb249XApjb20uYWxzYy5zYWFzLmd3LmFwb2xsby5BcG9sbG9Db25maWdMb2NhdG9y</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHlBY2Nlc3NvclV0aWxzLgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXRyYWNlLWphZWdlcjwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIEZsdXguZnJvbUl0ZXJhYmxlKGNsdXN0ZXJOYW1lcykKICAgICAgICAgICAgLm1hcCh0YXJnZXRzOjpnZXQpCiAgICAgICAgICAgIC5mbGF0TWFwKFRhcmdldDo6cmVhZHkpCiAgICAgICAgICAgIC5vbkVycm9yUmVzdW1lKGVycm9yIC0+IHsKICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi6L+e5o6l5qOA5p+l5Ye66ZSZLCIgKyBnZXRFcnJNc2coZXJyb3IpLCBlcnJvcik7CiAgICAgICAgICAgICAgICByZXR1cm4gTW9uby5qdXN0KGZhbHNlKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmVtcAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5pbmplY3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmphdmF4LmluamVjdDwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRhcVF1ZXVlIHF1ZXVlID0gKE1ldGFxUXVldWUpdXBkYXRlZFF1ZXVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21pemVyLmN1c3RvbWl6ZShidWlsZGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -409,7 +390,7 @@ RouteRegistry.status避免发生mapper value null的问题</text>
       <last-replace>^v^m</last-replace>
       <last-substitute encoding="base64">XDxleGNlcHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
