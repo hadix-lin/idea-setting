@@ -136,32 +136,24 @@
         <mark key="^" line="123" column="40" />
         <mark key="." line="123" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-util/src/main/java/com/alsc/pos/common/util/RunEnvUtil.java" timestamp="1588837271463" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.4.RELEASE/spring-webflux-5.2.4.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClient.java" timestamp="1588839919900">
         <mark key="[" line="55" column="1" />
         <mark key="]" line="55" column="1" />
         <mark key="^" line="55" column="1" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1588835327604">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="100" column="19" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1588843962984" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/RpcTracingOperator.java" timestamp="1588844393381">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="10" />
+        <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/RpcTracingOperator.java" timestamp="1588842375996">
-        <mark key="[" line="32" column="82" />
-        <mark key="]" line="32" column="83" />
-        <mark key="^" line="32" column="83" />
-        <mark key="." line="32" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/META-INF/spring.factories" timestamp="1588835392927">
-        <mark key="[" line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1588841369272">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1588843550408">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" timestamp="1588841813644">
         <mark key="'" line="78" column="42" />
@@ -189,6 +181,9 @@
         <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" timestamp="1588840868792" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" timestamp="1588843571705">
+        <mark key="'" line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1588841035812">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="22" column="6" />
@@ -198,21 +193,22 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerContextMapper.java" timestamp="1588841889123">
         <mark key="'" line="13" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588841450355">
+      <file name="/Dummy.txt" timestamp="1588844403587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContextMapper.java" timestamp="1588842094085">
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="39" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="43" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContextMapper.java" timestamp="1588843113863">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="51" column="24" />
+        <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpServerAutoConfiguration.java" timestamp="1588835364692">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1588844274969">
+        <mark key="[" line="2891" column="5" />
+        <mark key="]" line="2891" column="5" />
+        <mark key="^" line="2891" column="5" />
+        <mark key="." line="2891" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/0.31.0/jaeger-core-0.31.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" timestamp="1588838880548">
         <mark key="'" line="62" column="13" />
@@ -222,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="30" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/PairUtils.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/utils/PairUtils.java" />
       <jump line="65" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
       <jump line="80" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
       <jump line="21" column="5" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
@@ -322,12 +316,14 @@
       <jump line="62" column="13" filename="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/0.31.0/jaeger-core-0.31.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" />
       <jump line="78" column="42" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" />
       <jump line="13" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerContextMapper.java" />
+      <jump line="43" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" />
+      <jump line="96" column="6" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ContextMapper.KEY_BAGGAGE_PREFIX</text>
+        <text>StringUtils.substringAfter(k, prefix)</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -339,7 +335,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>mplements BeanPostProcessor</text>
+        <text>StringUtils.substringAfter(k, prefix)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
@@ -348,34 +344,34 @@
         <text>ContextMapper.KEY_BAGGAGE_PREFIX</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJhY2VJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJhY2VJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Bhbi5zZXRCYWdnYWdlSXRlbShTdHJpbmdVdGlscy5zdWJzdHJpbmdBZnRlcihrLCBwcmVmaXgpLCB2KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgV2ViQ2xpZW50Q3VzdG9taXplciBsb2FkQmFsYW5jZXJDbGllbnRXZWJDbGllbnRDdXN0b21pemVyKAogICAgICAgIFJlYWN0b3JMb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uIGZpbHRlckZ1bmN0aW9uKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkZXIgLT4gYnVpbGRlci5maWx0ZXIoZmlsdGVyRnVuY3Rpb24pOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24gbG9hZEJhbGFuY2VyRXhjaGFuZ2VGaWx0ZXJGdW5jdGlvbigKICAgICAgICBSZWFjdGl2ZUxvYWRCYWxhbmNlci5GYWN0b3J5PFNlcnZpY2VJbnN0YW5jZT4gbG9hZEJhbGFuY2VyRmFjdG9yeSkgewogICAgICAgIHJldHVybiBuZXcgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24obG9hZEJhbGFuY2VyRmFjdG9yeSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHByZWZpeExlbmd0aCA9IHByZWZpeC5sZW5ndGgoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgV2ViQ2xpZW50IHdlYkNsaWVudChXZWJDbGllbnQuQnVpbGRlciBidWlsZGVyKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkZXIuYnVpbGQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2Muc2Fhcy5ndzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwLWV4ZWN1dG9yPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS40LjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlmKGsuc3RhcnRzV2l0aChwcmVmaXgpKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgIDxncm91cElkPmNvbS5hbHNjLnNhYXMuZ3c8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LWV2ZW50LWJ1cy1tZXRhcTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAtLT4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHJhY2VJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHJhY2VJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2ViZmx1eDwvYXJ0aWZhY3RJZD4KICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqLXRvLXNsZjRqPC9hcnRpZmFjdElkPgogICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqPC9ncm91cElkPgogICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXZhbGlkYXRpb248L2FydGlmYWN0SWQ+CiAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgV2ViQ2xpZW50Q3VzdG9taXplciBsb2FkQmFsYW5jZXJDbGllbnRXZWJDbGllbnRDdXN0b21pemVyKAogICAgICAgIFJlYWN0b3JMb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uIGZpbHRlckZ1bmN0aW9uKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkZXIgLT4gYnVpbGRlci5maWx0ZXIoZmlsdGVyRnVuY3Rpb24pOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24gbG9hZEJhbGFuY2VyRXhjaGFuZ2VGaWx0ZXJGdW5jdGlvbigKICAgICAgICBSZWFjdGl2ZUxvYWRCYWxhbmNlci5GYWN0b3J5PFNlcnZpY2VJbnN0YW5jZT4gbG9hZEJhbGFuY2VyRmFjdG9yeSkgewogICAgICAgIHJldHVybiBuZXcgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24obG9hZEJhbGFuY2VyRmFjdG9yeSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
