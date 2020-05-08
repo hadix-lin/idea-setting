@@ -127,6 +127,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1588921756233">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/security/impl/Md5Signer.java" timestamp="1588918770113">
         <mark key="[" line="35" column="17" />
         <mark key="]" line="35" column="17" />
@@ -143,6 +146,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/GwClientFactory.java" timestamp="1588920409153">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1588903967031">
         <mark key="[" line="233" column="60" />
         <mark key="]" line="234" column="16" />
@@ -150,28 +159,11 @@
         <mark key="." line="234" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1588918806652" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1588854742221">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="0" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfServerAutoConfiguration.java" timestamp="1588904730186">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="15" column="90" />
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1588855202835">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-loader/2.1.11.9/pandora-boot-loader-2.1.11.9-sources.jar!/com/taobao/pandora/boot/loader/ReLaunchURLClassLoader.java" timestamp="1588855085209">
-        <mark key="[" line="224" column="65" />
-        <mark key="]" line="224" column="65" />
-        <mark key="^" line="224" column="65" />
-        <mark key="." line="224" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588919404433">
         <mark key="'" line="20" column="13" />
@@ -180,16 +172,23 @@
         <mark key="^" line="54" column="13" />
         <mark key="." line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/pom.xml" timestamp="1588854752690">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/DelegatedGwClient.java" timestamp="1588921096174">
+        <mark key="[" line="35" column="100" />
+        <mark key="]" line="35" column="101" />
+        <mark key="^" line="35" column="101" />
+        <mark key="." line="35" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/pom.xml" timestamp="1588853658072">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1588921645516">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="47" />
+        <mark key="^" line="52" column="47" />
+        <mark key="." line="52" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1588921803153">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/executor/HttpExecutorAutoConfiguration.java" timestamp="1588904155028">
         <mark key="[" line="11" column="14" />
@@ -214,11 +213,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/HttpEncodingAutoConfiguration.java" timestamp="1588854259795">
-        <mark key="[" line="67" column="68" />
-        <mark key="]" line="67" column="68" />
-        <mark key="^" line="67" column="68" />
-        <mark key="." line="67" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketAutoConfiguration.java" timestamp="1588921155313">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" timestamp="1588919629941">
         <mark key="[" line="43" column="47" />
@@ -226,8 +225,8 @@
         <mark key="^" line="43" column="47" />
         <mark key="." line="43" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1588904743967">
-        <mark key="[" line="0" column="37" />
+      <file name="/fragment.java" timestamp="1588920566382">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -335,8 +334,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>{
+        };</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -348,7 +348,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0YW5kYWxvbmU9Im5vIg==</text>
+        <text encoding="base64">ID09IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
@@ -356,38 +356,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="1" type="4">
+        <text>{
+        };</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>将HttpExecutor模块独立出来
-
-1. 修正客户端对final类型创建DeferredValue的错误
-2. eureka集成代码移动到choicesaas定制模块中与server-http解耦</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3RUb1NlcnZlcihsYXVuY2hlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>修正baggage传递多余前缀&quot;ctx-bi-&quot;的问题</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEltcG9ydChIdHRwRXhlY3V0b3JBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgSHR0cEFwaSBodHRwQXBpKEd3Q2xpZW50IGd3Q2xpZW50LCBHd0NsaWVudFByb3BlcnRpZXMgY29uZmlnKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIdHRwQXBpKGd3Q2xpZW50LCBjb25maWcpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkLmNsaWVudC5sb2FkYmFsYW5jZXIucmVhY3RpdmUuUmVhY3RvckxvYWRCYWxhbmNlckNsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0Iik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoImhhZGl4Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgcmV0dXJuIGxhdW5jaGVyLmNvbm5lY3Qoc2V0dXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICBSZXE8Pz4gcmVxLCBUeXBlIHJlc3BUeXBlKSB7CiAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+My4wLWFscGhhLTE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
