@@ -166,6 +166,13 @@
         <mark key="^" line="224" column="65" />
         <mark key="." line="224" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588909088359">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="7" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE-sources.jar!/org/springframework/boot/web/reactive/context/ReactiveWebServerApplicationContext.java" timestamp="1588852227542">
         <mark key="[" line="40" column="84" />
         <mark key="]" line="40" column="84" />
@@ -189,12 +196,6 @@
         <mark key="]" line="31" column="17" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpGwClientTest.java" timestamp="1588903647120">
-        <mark key="[" line="206" column="80" />
-        <mark key="]" line="207" column="31" />
-        <mark key="^" line="207" column="31" />
-        <mark key="." line="207" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/executor/HttpExecutorAutoConfiguration.java" timestamp="1588904155028">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="12" column="14" />
@@ -213,7 +214,7 @@
         <mark key="^" line="78" column="12" />
         <mark key="." line="78" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588853979959">
+      <file name="/Dummy.txt" timestamp="1588909132989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -230,12 +231,6 @@
         <mark key="]" line="32" column="18" />
         <mark key="." line="32" column="17" />
         <mark key="^" line="32" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588851677562">
-        <mark key="[" line="52" column="52" />
-        <mark key="]" line="52" column="52" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1588904743967">
         <mark key="[" line="0" column="37" />
@@ -347,7 +342,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEltcG9ydChIdHRwRXhlY3V0b3JBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text>将HttpExecutor模块独立出来
+
+1. 修正客户端对final类型创建DeferredValue的错误
+2. eureka集成代码移动到choicesaas定制模块中与server-http解耦</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -368,31 +366,34 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEltcG9ydChIdHRwRXhlY3V0b3JBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
+        <text>将HttpExecutor模块独立出来
+
+1. 修正客户端对final类型创建DeferredValue的错误
+2. eureka集成代码移动到choicesaas定制模块中与server-http解耦</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgSHR0cEFwaSBodHRwQXBpKEd3Q2xpZW50IGd3Q2xpZW50LCBHd0NsaWVudFByb3BlcnRpZXMgY29uZmlnKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIdHRwQXBpKGd3Q2xpZW50LCBjb25maWcpOwogICAgfQoK</text>
+        <text>修正baggage传递多余前缀&quot;ctx-bi-&quot;的问题</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">QEltcG9ydChIdHRwRXhlY3V0b3JBdXRvQ29uZmlndXJhdGlvbi5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkLmNsaWVudC5sb2FkYmFsYW5jZXIucmVhY3RpdmUuUmVhY3RvckxvYWRCYWxhbmNlckNsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgSHR0cEFwaSBodHRwQXBpKEd3Q2xpZW50IGd3Q2xpZW50LCBHd0NsaWVudFByb3BlcnRpZXMgY29uZmlnKSB7CiAgICAgICAgcmV0dXJuIG5ldyBIdHRwQXBpKGd3Q2xpZW50LCBjb25maWcpOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+My4wLWFscGhhLTE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgLSBvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkLmNsaWVudC5sb2FkYmFsYW5jZXIucmVhY3RpdmUuUmVhY3RvckxvYWRCYWxhbmNlckNsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vQEJlYW4KICAgIC8vcHVibGljIFdlYkNsaWVudEN1c3RvbWl6ZXIgbG9hZEJhbGFuY2VyQ2xpZW50V2ViQ2xpZW50Q3VzdG9taXplcigKICAgIC8vICAgIFJlYWN0b3JMb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uIGZpbHRlckZ1bmN0aW9uKSB7CiAgICAvLyAgICByZXR1cm4gYnVpbGRlciAtPiBidWlsZGVyLmZpbHRlcihmaWx0ZXJGdW5jdGlvbik7CiAgICAvL30KICAgIC8vCiAgICAvL0BCZWFuCiAgICAvL3B1YmxpYyBSZWFjdG9yTG9hZEJhbGFuY2VyRXhjaGFuZ2VGaWx0ZXJGdW5jdGlvbiBsb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uKAogICAgLy8gICAgUmVhY3RpdmVMb2FkQmFsYW5jZXIuRmFjdG9yeTxTZXJ2aWNlSW5zdGFuY2U+IGxvYWRCYWxhbmNlckZhY3RvcnkpIHsKICAgIC8vICAgIHJldHVybiBuZXcgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24obG9hZEJhbGFuY2VyRmFjdG9yeSk7CiAgICAvL30K</text>
+        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndlYkNsaWVudCA9IHdlYkNsaWVudDsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+My4wLWFscGhhLTE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC8vQEJlYW4KICAgIC8vcHVibGljIFdlYkNsaWVudEN1c3RvbWl6ZXIgbG9hZEJhbGFuY2VyQ2xpZW50V2ViQ2xpZW50Q3VzdG9taXplcigKICAgIC8vICAgIFJlYWN0b3JMb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uIGZpbHRlckZ1bmN0aW9uKSB7CiAgICAvLyAgICByZXR1cm4gYnVpbGRlciAtPiBidWlsZGVyLmZpbHRlcihmaWx0ZXJGdW5jdGlvbik7CiAgICAvL30KICAgIC8vCiAgICAvL0BCZWFuCiAgICAvL3B1YmxpYyBSZWFjdG9yTG9hZEJhbGFuY2VyRXhjaGFuZ2VGaWx0ZXJGdW5jdGlvbiBsb2FkQmFsYW5jZXJFeGNoYW5nZUZpbHRlckZ1bmN0aW9uKAogICAgLy8gICAgUmVhY3RpdmVMb2FkQmFsYW5jZXIuRmFjdG9yeTxTZXJ2aWNlSW5zdGFuY2U+IGxvYWRCYWxhbmNlckZhY3RvcnkpIHsKICAgIC8vICAgIHJldHVybiBuZXcgUmVhY3RvckxvYWRCYWxhbmNlckV4Y2hhbmdlRmlsdGVyRnVuY3Rpb24obG9hZEJhbGFuY2VyRmFjdG9yeSk7CiAgICAvL30K</text>
