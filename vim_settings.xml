@@ -213,11 +213,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketAutoConfiguration.java" timestamp="1588921155313">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="10" column="40" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketAutoConfiguration.java" timestamp="1588923389230">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" timestamp="1588919629941">
         <mark key="[" line="43" column="47" />
@@ -334,9 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        };</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKEd3Q2xpZW50RmFjdG9yeS5jbGFzcykK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -356,36 +354,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        };</text>
+      <register name="1" type="2">
+        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKEd3Q2xpZW50RmFjdG9yeS5jbGFzcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3RUb1NlcnZlcihsYXVuY2hlcik7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+        };</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3RUb1NlcnZlcihsYXVuY2hlcik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0Iik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoImhhZGl4Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgcmV0dXJuIGxhdW5jaGVyLmNvbm5lY3Qoc2V0dXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXE8Pz4gcmVxLCBUeXBlIHJlc3BUeXBlKSB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0Iik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoImhhZGl4Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgcmV0dXJuIGxhdW5jaGVyLmNvbm5lY3Qoc2V0dXApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXE8Pz4gcmVxLCBUeXBlIHJlc3BUeXBlKSB7CiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
