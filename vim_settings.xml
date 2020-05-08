@@ -127,82 +127,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1588921756233">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfServerAutoConfiguration.java" timestamp="1588932363263">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="9" />
+        <mark key="^" line="42" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-web-servlet-filter/0.2.0/opentracing-web-servlet-filter-0.2.0-sources.jar!/io/opentracing/contrib/web/servlet/filter/TracingFilter.java" timestamp="1588925420608" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" timestamp="1588929161039" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/GwClientFactory.java" timestamp="1588920409153">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" timestamp="1588929732206">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="m" line="46" column="7" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="m" line="45" column="7" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-web-servlet-filter/0.2.0/opentracing-web-servlet-filter-0.2.0-sources.jar!/io/opentracing/contrib/web/servlet/filter/ServletFilterSpanDecorator.java" timestamp="1588925464343" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1588929722707">
         <mark key="'" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/RpcTracingOperator.java" timestamp="1588928525671">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1588919404433">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="13" />
-        <mark key="^" line="54" column="13" />
-        <mark key="." line="54" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/DelegatedGwClient.java" timestamp="1588921096174">
-        <mark key="[" line="35" column="100" />
-        <mark key="]" line="35" column="101" />
-        <mark key="^" line="35" column="101" />
-        <mark key="." line="35" column="100" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1588921803153" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/pom.xml" timestamp="1588925343707" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/SignConnectSetup.java" timestamp="1588929666984">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588926513949">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1588932145526">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="23" />
+        <mark key="^" line="63" column="23" />
+        <mark key="." line="63" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketAutoConfiguration.java" timestamp="1588923389230">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpExecutor.java" timestamp="1588919629941">
-        <mark key="[" line="43" column="47" />
-        <mark key="]" line="43" column="47" />
-        <mark key="^" line="43" column="47" />
-        <mark key="." line="43" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1588928849350">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="35" />
-        <mark key="^" line="61" column="35" />
-        <mark key="." line="61" column="34" />
-      </file>
-      <file name="/fragment.java" timestamp="1588920566382">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-spring-web-starter/1.1.2/opentracing-spring-web-starter-1.1.2-sources.jar!/io/opentracing/contrib/spring/web/starter/ServerTracingAutoConfiguration.java" timestamp="1588925435907" />
     </filemarks>
     <jumps>
       <jump line="43" column="20" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
@@ -310,7 +264,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKEd3Q2xpZW50RmFjdG9yeS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -322,7 +276,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IG51bGw=</text>
+        <text>return null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
@@ -331,35 +285,35 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qYXZheC5zZXJ2bGV0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZheC5zZXJ2bGV0LWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKEd3Q2xpZW50RmFjdG9yeS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERldmljZVRva2VuU2VydmljZU1vY2tJbXBsKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QENvbmRpdGlvbmFsT25CZWFuKEd3Q2xpZW50RmFjdG9yeS5jbGFzcykK</text>
+      </register>
+      <register name="4" type="4">
         <text>{
         };</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3RUb1NlcnZlcihsYXVuY2hlcik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0Iik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoImhhZGl4Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgcmV0dXJuIGxhdW5jaGVyLmNvbm5lY3Qoc2V0dXApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXE8Pz4gcmVxLCBUeXBlIHJlc3BUeXBlKSB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
