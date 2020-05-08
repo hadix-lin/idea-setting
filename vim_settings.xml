@@ -130,21 +130,26 @@
       <file name="/a.dummy" timestamp="1588921756233">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/security/impl/Md5Signer.java" timestamp="1588918770113">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="16" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-web-servlet-filter/0.2.0/opentracing-web-servlet-filter-0.2.0-sources.jar!/io/opentracing/contrib/web/servlet/filter/TracingFilter.java" timestamp="1588925420608" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" timestamp="1588929161039" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/GwClientFactory.java" timestamp="1588920409153">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1588918806652" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" timestamp="1588929732206">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="m" line="46" column="7" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-web-servlet-filter/0.2.0/opentracing-web-servlet-filter-0.2.0-sources.jar!/io/opentracing/contrib/web/servlet/filter/ServletFilterSpanDecorator.java" timestamp="1588925464343" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1588929722707">
+        <mark key="'" line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/trace/RpcTracingOperator.java" timestamp="1588928525671">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="24" column="9" />
@@ -166,11 +171,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1588921803153" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/pom.xml" timestamp="1588925343707" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/ImportAutoConfiguration.java" timestamp="1588904378631">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="1" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/SignConnectSetup.java" timestamp="1588929666984">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1588926513949">
         <mark key="[" line="0" column="0" />
@@ -200,8 +205,6 @@
       <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-spring-web-starter/1.1.2/opentracing-spring-web-starter-1.1.2-sources.jar!/io/opentracing/contrib/spring/web/starter/ServerTracingAutoConfiguration.java" timestamp="1588925435907" />
     </filemarks>
     <jumps>
-      <jump line="80" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwTracer.java" />
-      <jump line="21" column="5" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
       <jump line="43" column="20" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
       <jump line="60" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/AbstractSaasGwTracer.java" />
       <jump line="49" column="19" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
@@ -300,6 +303,8 @@
       <jump line="43" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" />
       <jump line="96" column="6" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-executor/src/main/java/com/alsc/saas/gw/http/server/executor/HttpExecutor.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
