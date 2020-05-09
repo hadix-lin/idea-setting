@@ -143,11 +143,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/HttpRequest.java" timestamp="1588941605044">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="76" column="57" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/HttpRequest.java" timestamp="1588990709419">
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="47" />
+        <mark key="^" line="50" column="48" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java" timestamp="1588937109811">
         <mark key="[" line="27" column="1" />
@@ -162,16 +162,16 @@
         <mark key="^" line="73" column="45" />
         <mark key="." line="73" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/AbstractHttpRequest.java" timestamp="1588991435299">
+        <mark key="[" line="77" column="91" />
+        <mark key="]" line="77" column="90" />
+        <mark key="^" line="77" column="90" />
+        <mark key="." line="77" column="89" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1588936661159">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestConfiguration.java" timestamp="1588933508947">
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="47" />
-        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteMonitor.java" timestamp="1588936561754">
         <mark key="[" line="45" column="37" />
@@ -344,7 +344,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5PFN0cmluZywgTGlzdDxTdHJpbmc+PiBlbnRyeSA6IGhlYWRlcnMuZW50cnlTZXQoKSkgewogICAgICAgICAgICBoZWFkZXIoZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -365,34 +365,34 @@
         <text encoding="base64">ICAgICAgICB0cnkgKElucHV0U3RyZWFtIGlucHV0U3RyZWFtID0gc3VibWl0KCkpIHsKICAgICAgICAgICAgcmV0dXJuIGlucHV0SGFuZGxlci5hcHBseShpbnB1dFN0cmVhbSk7CiAgICAgICAgfSBjYXRjaCAoSHR0cEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGVycm9ySGFuZGxlci5oYW5kbGVFcnJvcihlKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlcnJvckhhbmRsZXIuaGFuZGxlRXJyb3Iod3JhcFRoZW5SZXRocm93KGUpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5PFN0cmluZywgTGlzdDxTdHJpbmc+PiBlbnRyeSA6IGhlYWRlcnMuZW50cnlTZXQoKSkgewogICAgICAgICAgICBoZWFkZXIoZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRvT25FcnJvcihFeGNlcHRpb24uY2xhc3MsIGUgLT4gZXJyb3JIYW5kbGVyLmhhbmRsZUVycm9yKHdyYXBUaGVuUmV0aHJvdyhlKSkpOwo=</text>
+        <text encoding="base64">ICAgIEh0dHBSZXF1ZXN0IGhlYWRlcnMoTWFwPFN0cmluZyxMaXN0PFN0cmluZz4+IGhlYWRlcnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ySGFuZGxlci5oYW5kbGVFcnJvcih3cmFwVGhlblJldGhyb3coZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ySGFuZGxlci5oYW5kbGVFcnJvcihlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSHR0cEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlcnJvckhhbmRsZXIuaGFuZGxlRXJyb3IoZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlcnJvckhhbmRsZXIuaGFuZGxlRXJyb3Iod3JhcFRoZW5SZXRocm93KGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25FcnJvcihFeGNlcHRpb24uY2xhc3MsIGUgLT4gZXJyb3JIYW5kbGVyLmhhbmRsZUVycm9yKHdyYXBUaGVuUmV0aHJvdyhlKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ySGFuZGxlci5oYW5kbGVFcnJvcih3cmFwVGhlblJldGhyb3coZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9ySGFuZGxlci5oYW5kbGVFcnJvcihlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSHR0cEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlcnJvckhhbmRsZXIuaGFuZGxlRXJyb3IoZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlcnJvckhhbmRsZXIuaGFuZGxlRXJyb3Iod3JhcFRoZW5SZXRocm93KGUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
