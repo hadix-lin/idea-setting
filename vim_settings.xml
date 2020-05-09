@@ -139,6 +139,13 @@
         <mark key="^" line="23" column="61" />
         <mark key="." line="23" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589017032240">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1589012146139">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="16" column="8" />
@@ -178,7 +185,7 @@
         <mark key="^" line="38" column="8" />
         <mark key="." line="38" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589013950421">
+      <file name="/Dummy.txt" timestamp="1589016788716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -225,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
       <jump line="12" column="11" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/SaasGwSpan.java" />
       <jump line="17" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" />
@@ -325,12 +331,13 @@
       <jump line="209" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
       <jump line="26" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" />
       <jump line="10" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="65" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -351,34 +358,36 @@
         <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0X3Rva2VuIik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoInRlc3Rfa2V5Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgSW5zZWN1cmVSc29ja2V0R3dDbGllbnQgZ3dDbGllbnQgPSBsYXVuY2hlci5jb25uZWN0KCgpIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpICsgIiBjb25uZWN0IHNldHVwIHN1cHBsaWVyIik7CiAgICAgICAgICAgIHJldHVybiBzZXR1cDsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS40LjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text>连接管理器重构,单独实现InsecureConnManager
+
+删除saas-gw-server-http-executor模块</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2VydmljZUZhY3RvcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS40LjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgIEBPdmVycmlkZSBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQWZ0ZXJJbml0aWFsaXphdGlvbihPYmplY3QgYmVhbiwgU3RyaW5nIGJlYW5OYW1lKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgIGlmIChiZWFuIGluc3RhbmNlb2YgRXVyZWthSW5zdGFuY2VDb25maWdCZWFuKSB7CiAgICAgRXVyZWthSW5zdGFuY2VDb25maWdCZWFuIGV1cmVrYSA9IChFdXJla2FJbnN0YW5jZUNvbmZpZ0JlYW4pYmVhbjsKICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1ldGFkYXRhTWFwID0gZXVyZWthLmdldE1ldGFkYXRhTWFwKCk7CiAgICAgbWV0YWRhdGFNYXAucHV0KENob2ljZXNhYXMuTUVUQV9TRVJWSUNFX0dST1VQLCBDaG9pY2VzYWFzLmdldFNlcnZpY2VHcm91cCgpKTsKICAgICB9CiAgICAgcmV0dXJuIGJlYW47CiAgICAgfQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgU2VydmljZUZhY3RvcnkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBHd0NsaWVudCBnd0NsaWVudCA9IGNvbm5lY3QobGF1bmNoZXIpOwo=</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSArICIgY29ubmVjdCBzZXR1cCBzdXBwbGllciIpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgIEBPdmVycmlkZSBwdWJsaWMgT2JqZWN0IHBvc3RQcm9jZXNzQWZ0ZXJJbml0aWFsaXphdGlvbihPYmplY3QgYmVhbiwgU3RyaW5nIGJlYW5OYW1lKSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgIGlmIChiZWFuIGluc3RhbmNlb2YgRXVyZWthSW5zdGFuY2VDb25maWdCZWFuKSB7CiAgICAgRXVyZWthSW5zdGFuY2VDb25maWdCZWFuIGV1cmVrYSA9IChFdXJla2FJbnN0YW5jZUNvbmZpZ0JlYW4pYmVhbjsKICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1ldGFkYXRhTWFwID0gZXVyZWthLmdldE1ldGFkYXRhTWFwKCk7CiAgICAgbWV0YWRhdGFNYXAucHV0KENob2ljZXNhYXMuTUVUQV9TRVJWSUNFX0dST1VQLCBDaG9pY2VzYWFzLmdldFNlcnZpY2VHcm91cCgpKTsKICAgICB9CiAgICAgcmV0dXJuIGJlYW47CiAgICAgfQogICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCA9IG5ldyBJbnNlY3VyZUNvbm5lY3RTZXR1cCgpOwogICAgICAgIHNldHVwLnNldFRva2VuKCJ0ZXN0X3Rva2VuIik7CiAgICAgICAgc2V0dXAuc2V0U2lnblR5cGUoU2lnblR5cGUuTUQ1d2l0aFNhbHQpOwogICAgICAgIHNldHVwLnNldElkKCJ0ZXN0X3Jzb2NrZXRfY2xpZW50Iik7CiAgICAgICAgU2lnbmVyIHNpZ25lciA9IG5ldyBNZDVTaWduZXIoInRlc3Rfa2V5Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CiAgICAgICAgSW5zZWN1cmVSc29ja2V0R3dDbGllbnQgZ3dDbGllbnQgPSBsYXVuY2hlci5jb25uZWN0KCgpIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpICsgIiBjb25uZWN0IHNldHVwIHN1cHBsaWVyIik7CiAgICAgICAgICAgIHJldHVybiBzZXR1cDsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBHd0NsaWVudCBnd0NsaWVudCA9IGNvbm5lY3QobGF1bmNoZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3dDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSArICIgY29ubmVjdCBzZXR1cCBzdXBwbGllciIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
