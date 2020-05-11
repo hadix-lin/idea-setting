@@ -127,15 +127,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589184758147">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-base/pom.xml" timestamp="1589187259802">
+        <mark key="[" line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589187658471">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="41" />
+      </file>
+      <file name="/a.dummy" timestamp="1589186898469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1589183015826">
         <mark key="'" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589169033539">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="177" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589187484404">
+        <mark key="[" line="166" column="19" />
+        <mark key="]" line="167" column="6" />
+        <mark key="^" line="167" column="6" />
+        <mark key="." line="167" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/ServerHealthChecker.java" timestamp="1589186933842">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/AbstractCheckResult.java" timestamp="1589185682357">
         <mark key="[" line="88" column="66" />
@@ -149,31 +167,23 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-base/src/main/java/com/alsc/pos/common/base/MtopBizResult.java" timestamp="1589181360670" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClientAutoConfiguration.java" timestamp="1589181849822" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589184508062">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1589187673412">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1589170149489">
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="75" column="16" />
-        <mark key="^" line="75" column="16" />
-        <mark key="." line="75" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589187685086">
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-hsf/src/main/resources/application.properties" timestamp="1589181483106">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-dal/src/main/java/com/alsc/common/dal/TddlUtils.java" timestamp="1589178545264">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1589188620153">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="32" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandlerImpl.java" timestamp="1589184775446">
         <mark key="[" line="11" column="0" />
@@ -181,13 +191,19 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" timestamp="1589181997909" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-enum/src/main/java/com/alsc/pos/common/emums/pay/PayOrgEnum.java" timestamp="1589186532949" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1589183275108">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589184787535">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-util/src/main/java/com/alsc/pos/common/util/RegexUtil.java" timestamp="1589186286560">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="16" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589188241586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,13 +215,7 @@
         <mark key="^" line="115" column="3" />
         <mark key="." line="115" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1589170569119">
-        <mark key="[" line="148" column="48" />
-        <mark key="]" line="148" column="58" />
-        <mark key="^" line="148" column="58" />
-        <mark key="." line="148" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589184128015">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589186875493">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="50" />
         <mark key="^" line="23" column="8" />
@@ -323,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修改模块名称,尝试解决编译问题</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,37 +354,34 @@
         <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2MucG9zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmRldmljZS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wLjQtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修改模块名称,尝试解决编译问题</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y2dsaWI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+Y2dsaWI8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+My4zLjA8L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text>排除http-choicesaas模块</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2Muc2Fhcy5ndzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text>修改一下EurekaHealthCheckHandler,尝试编译</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNOdWxsKHN0cikpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text>修正会话无法保持路由的问题
-
-1. Route.putInTraceContext改为在onSubscribe中执行
-2. 增加http-keruyun模块,准备支持客如云部署</text>
+        <text>排除http-choicesaas模块</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
+        <text>修改一下EurekaHealthCheckHandler,尝试编译</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
