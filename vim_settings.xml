@@ -140,9 +140,6 @@
       <file name="/a.dummy" timestamp="1589186898469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1589183015826">
-        <mark key="'" line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589187484404">
         <mark key="[" line="166" column="19" />
         <mark key="]" line="167" column="6" />
@@ -173,6 +170,13 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-flowtask/pom.xml" timestamp="1589194287641">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1589193607826" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589190074839">
         <mark key="[" line="27" column="54" />
         <mark key="]" line="27" column="54" />
@@ -215,16 +219,16 @@
         <mark key="^" line="115" column="3" />
         <mark key="." line="115" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-redis/src/main/java/com/alsc/pos/common/redis/springcache/PersistenceCache.java" timestamp="1589193707538">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589186875493">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="50" />
         <mark key="^" line="23" column="8" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1589182676653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -333,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>修改模块名称,尝试解决编译问题</text>
+        <text encoding="base64">QENhY2hlQ29uZmlnKCkK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -354,34 +358,34 @@
         <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2MucG9zPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmRldmljZS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wLjQtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>修改模块名称,尝试解决编译问题</text>
+        <text encoding="base64">QENhY2hlQ29uZmlnKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y2dsaWI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+Y2dsaWI8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+My4zLjA8L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text>修改模块名称,尝试解决编译问题</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2Muc2Fhcy5ndzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y2dsaWI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+Y2dsaWI8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+My4zLjA8L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNOdWxsKHN0cikpIHsK</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2Muc2Fhcy5ndzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LXNlcnZlci1odHRwPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNOdWxsKHN0cikpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>排除http-choicesaas模块</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text>修改一下EurekaHealthCheckHandler,尝试编译</text>
+        <text>排除http-choicesaas模块</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuaHR0cC5zZXJ2ZXIuSGVhbHRoQ2hlY2tlcjsK</text>
+        <text>修改一下EurekaHealthCheckHandler,尝试编译</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
