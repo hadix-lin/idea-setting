@@ -180,8 +180,8 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1589170124418">
-        <mark key="[" line="72" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/src/main/resources/META-INF/plugin.xml" timestamp="1589170149489">
+        <mark key="[" line="75" column="14" />
         <mark key="]" line="75" column="16" />
         <mark key="^" line="75" column="16" />
         <mark key="." line="75" column="15" />
@@ -203,7 +203,7 @@
         <mark key="^" line="38" column="8" />
         <mark key="." line="38" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589166910190">
+      <file name="/Dummy.txt" timestamp="1589170134682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -215,7 +215,7 @@
         <mark key="^" line="115" column="3" />
         <mark key="." line="115" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1589170059551">
+      <file name="$USER_HOME$/Documents/Projects/ideavim_extension/README.md" timestamp="1589170569119">
         <mark key="[" line="148" column="48" />
         <mark key="]" line="148" column="58" />
         <mark key="^" line="148" column="58" />
@@ -338,8 +338,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4wLjQtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>兼容IdeaVim 0.56, Intellij IDEA 2020.1</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -351,7 +351,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>/** implements BeanPostProcessor*/</text>
+        <text>兼容IdeaVim 0.56, Intellij IDEA 2020.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
