@@ -208,11 +208,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcException.java" timestamp="1589202160980">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcException.java" timestamp="1589251340626">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589186875493">
         <mark key="[" line="10" column="0" />
@@ -327,7 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBScGNFeGNlcHRpb24oU3RyaW5nIG1lc3NhZ2UpIHsKICAgICAgICB0aGlzKCJ1bmtub3duIiwgbWVzc2FnZSwgbnVsbCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -339,7 +339,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>Route.of(req.meta()).putInTraceContext(tracingTool.tracer());</text>
+        <text>return super.getMessage();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlcHRcPg==</text>
@@ -348,34 +348,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBScGNFeGNlcHRpb24oU3RyaW5nIG1lc3NhZ2UpIHsKICAgICAgICB0aGlzKCJ1bmtub3duIiwgbWVzc2FnZSwgbnVsbCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGVycm9yTWVzc2FnZShpbnZvY2F0aW9uLCBycGNSZXN1bHQuZ2V0RXJyb3JNc2coKSkpOwo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGVycm9yTWVzc2FnZShpbnZvY2F0aW9uLCBycGNSZXN1bHQuZ2V0RXJyb3JNc2coKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBPYmplY3QgYXBwUmVzcDsKICAgICAgICBDbGFzczw/PiByZXR1cm5UeXBlID0gaW52b2NhdGlvbi5nZXRSZXR1cm5DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcCBpbnN0YW5jZW9mIFJwY0V4Y2VwdGlvbikgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIuaWueazlTp7fSzlj4LmlbDmoKHpqozlvILluLg6e30iLCBpbnZvY2F0aW9uLmdldE1ldGhvZFNpZ25hdHVyZSgpLCBlcnJvck1lc3NhZ2UpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfSBlbHNlIGlmIChyZXNwIGluc3RhbmNlb2YgRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIEV4Y2VwdGlvbiBleHBSZXNwID0gKEV4Y2VwdGlvbilyZXNwOwogICAgICAgICAgICBycGNSZXN1bHQuc2V0QXBwUmVzcG9uc2UobmV3IFJwY0V4Y2VwdGlvbihleHBSZXNwLmdldE1lc3NhZ2UoKSwgZXhwUmVzcCkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBPYmplY3QgYXBwUmVzcDsKICAgICAgICBDbGFzczw/PiByZXR1cm5UeXBlID0gaW52b2NhdGlvbi5nZXRSZXR1cm5DbGFzcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcCBpbnN0YW5jZW9mIFJwY0V4Y2VwdGlvbikgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIuaWueazlTp7fSzlj4LmlbDmoKHpqozlvILluLg6e30iLCBpbnZvY2F0aW9uLmdldE1ldGhvZFNpZ25hdHVyZSgpLCBlcnJvck1lc3NhZ2UpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfSBlbHNlIGlmIChyZXNwIGluc3RhbmNlb2YgRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIEV4Y2VwdGlvbiBleHBSZXNwID0gKEV4Y2VwdGlvbilyZXNwOwogICAgICAgICAgICBycGNSZXN1bHQuc2V0QXBwUmVzcG9uc2UobmV3IFJwY0V4Y2VwdGlvbihleHBSZXNwLmdldE1lc3NhZ2UoKSwgZXhwUmVzcCkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc0luZm9FbmFibGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
