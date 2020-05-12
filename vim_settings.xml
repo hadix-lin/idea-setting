@@ -127,18 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-base/pom.xml" timestamp="1589187259802">
-        <mark key="[" line="10" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589187658471">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="41" />
-      </file>
-      <file name="/a.dummy" timestamp="1589186898469">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcExceptionServerFilter.java" timestamp="1589202016333">
         <mark key="[" line="38" column="54" />
@@ -152,23 +146,23 @@
         <mark key="^" line="39" column="74" />
         <mark key="." line="39" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/NotifySubscriber.java" timestamp="1589267850098">
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="20" />
+        <mark key="^" line="126" column="20" />
+        <mark key="." line="126" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcExceptionFilter.java" timestamp="1589201750682">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="38" column="99" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589187484404">
-        <mark key="[" line="166" column="19" />
-        <mark key="]" line="167" column="6" />
-        <mark key="^" line="167" column="6" />
-        <mark key="." line="167" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/ServerHealthChecker.java" timestamp="1589186933842">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="14" />
-        <mark key="^" line="25" column="14" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1589267788620">
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="67" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/hsf/HsfServerExceptionFilter.java" timestamp="1589201490016">
         <mark key="[" line="60" column="0" />
@@ -181,6 +175,12 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1589193607826" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1589267799795">
+        <mark key="[" line="124" column="17" />
+        <mark key="]" line="124" column="18" />
+        <mark key="^" line="124" column="18" />
+        <mark key="." line="124" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589190074839">
         <mark key="[" line="27" column="54" />
         <mark key="]" line="27" column="54" />
@@ -197,7 +197,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-enum/src/main/java/com/alsc/pos/common/emums/pay/PayOrgEnum.java" timestamp="1589186532949" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/Result.java" timestamp="1589267646472" />
       <file name="/Dummy.txt" timestamp="1589188775571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -214,11 +214,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589186875493">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" timestamp="1589267813109">
+        <mark key="[" line="51" column="17" />
+        <mark key="]" line="51" column="18" />
+        <mark key="^" line="51" column="18" />
+        <mark key="." line="51" column="17" />
       </file>
     </filemarks>
     <jumps>
