@@ -217,11 +217,6 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589351159946">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" timestamp="1589352636175">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="116" column="58" />
@@ -341,7 +336,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修正消息队列同步追踪日志缺少COMPONENT的问题</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -362,34 +357,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgR3dTZWN1cml0eUV4Y2VwdGlvbigi6ZyA6KaB5L2/55So562+5ZCN5omN6IO96LCD55So6K+l5pyN5Yqh77yaIiArIHJlcS5tZXRhKCkudHJhY2VOYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修正消息队列同步追踪日志缺少COMPONENT的问题</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLnNldHVwKEluc2VjdXJlR3dDbGllbnRNYW5hZ2VyLlRFU1RfREVWSUNFX0lEKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25BcHBsaWNhdGlvbkV2ZW50KEFwcGxpY2F0aW9uUHJlcGFyZWRFdmVudCBldmVudCkgewogICAgICAgIHNldHVwKFRFU1RfREVWSUNFX0lEKTsKICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5zZWN1cmVHd0NsaWVudE1hbmFnZXIgbWFuYWdlcjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRhcmdldENsdXN0ZXJOYW1lKCJsb2NhbCIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYWNlciB0cmFjZXIgPSB0cmFjaW5nVG9vbC50cmFjZXIoKTsKICAgICAgICAgICAgICAgIHRyYWNlci5idWlsZFNwYW4oIklOU0VDVVJFX0NPTk5FQ1RfU0VUVVAiKS5zdGFydEFjdGl2ZShmYWxzZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLnNldHVwKEluc2VjdXJlR3dDbGllbnRNYW5hZ2VyLlRFU1RfREVWSUNFX0lEKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25BcHBsaWNhdGlvbkV2ZW50KEFwcGxpY2F0aW9uUHJlcGFyZWRFdmVudCBldmVudCkgewogICAgICAgIHNldHVwKFRFU1RfREVWSUNFX0lEKTsKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5zZWN1cmVHd0NsaWVudE1hbmFnZXIgbWFuYWdlcjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRhcmdldENsdXN0ZXJOYW1lKCJsb2NhbCIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYWNlciB0cmFjZXIgPSB0cmFjaW5nVG9vbC50cmFjZXIoKTsKICAgICAgICAgICAgICAgIHRyYWNlci5idWlsZFNwYW4oIklOU0VDVVJFX0NPTk5FQ1RfU0VUVVAiKS5zdGFydEFjdGl2ZShmYWxzZSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB8IEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
