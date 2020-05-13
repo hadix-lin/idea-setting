@@ -201,11 +201,12 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/DeviceTokenQuery.java" timestamp="1589364149578">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/DeviceTokenQuery.java" timestamp="1589367241539">
+        <mark key="'" line="24" column="61" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/device-client/1.0.4-SNAPSHOT/device-client-1.0.4-20200511.080914-16-sources.jar!/com/alsc/pos/device/client/response/DeviceTokenKeyRelationResponse.java" timestamp="1589361339446" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/insecure/server/InsecureConnectSetupProvider.java" timestamp="1589361218443">
@@ -228,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" />
       <jump line="249" column="0" filename="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/1.1.0/jaeger-core-1.1.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" />
       <jump line="90" column="4" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.5--2019-09-stable/eagleeye-core-sdk-1.8.4.5--2019-09-stable-sources.jar!/com/taobao/eagleeye/EagleEye.java" />
       <jump line="3055" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.5--2019-09-stable/eagleeye-core-sdk-1.8.4.5--2019-09-stable-sources.jar!/com/taobao/eagleeye/EagleEye.java" />
@@ -328,6 +328,7 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
       <jump line="16" column="36" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientManager.java" />
       <jump line="1" column="59" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/resources/META-INF/spring.factories" />
+      <jump line="25" column="61" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/DeviceTokenQuery.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
