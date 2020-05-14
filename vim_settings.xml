@@ -231,11 +231,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589422050135">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1589423218324" />
       <file name="/fragment.java" timestamp="1589379533064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -348,7 +344,11 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy10ZXN0PC9tb2R1bGU+Cg==</text>
+        <text>client-rsocket完善测试用例,支持设备管理服务版本配置
+
+1. 增加socketTestProperties.DeviceService
+2. 根据环境测试用例使用不同的配置文件
+3. saas-gw-http模块从父pom中移除以提升aone上的构建速度</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -369,15 +369,22 @@
         <text encoding="base64">Z3cudGVzdC5jbGllbnQucnNjb2tldC5kZXZpY2Utc2VydmljZToKICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBhbGliYWJhLWluYwogIGhzZi12ZXJzaW9uOiAnMS4wLjAuREFJTFknCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy10ZXN0PC9tb2R1bGU+Cg==</text>
+        <text>client-rsocket完善测试用例,支持设备管理服务版本配置
+
+1. 增加socketTestProperties.DeviceService
+2. 根据环境测试用例使用不同的配置文件
+3. saas-gw-http模块从父pom中移除以提升aone上的构建速度</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy1odHRwPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy10ZXN0PC9tb2R1bGU+Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy1odHRwPC9tb2R1bGU+Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>server-http支持insecure-connect
 
 1. 将insecure-connect相关内容拆分到server-insecure模块中
@@ -385,23 +392,20 @@
 3. server-hsf依赖server-insecure
 4. 将设备授权相关代码重构,将获取设备授权信息相关内容抽象出来</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkYWlseV90ZXN0IikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKSkuZ2V0KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gdHJhY2luZ1Rvb2wuc3RhcnRUcmFjaW5nKCJJbnNlY3VyZUd3Q2xpZW50RmFjdG9yeSIsICJHRVRfREVWSUNFX0FVVEhfSU5GTyIsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">SW5zZWN1cmVBY2NlcHRvcuWinuWKoOi/vei4qjvlrozlloTplJnor6/lpITnkIYKCjEuIGNvbW1vbi1ib290LGNvbW1vbi1odHRwLT4xLjIuMS1TTkFQU0hPVAoyLiDlop7liqBEZXZpY2VBdXRoU2VydmljZeeahOiBlOiwg+a1i+ivleeUqOS+iwozLiDkv67mlLlHd0V4Y2VwdGlvbizliKDpmaTpu5jorqTplJnor6/noIEKNC4gc2VydmVyLWhzZuWinuWKoEh0dHBFeGVjdXRvcg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgUlNvY2tldFN0cmF0ZWdpZXNDdXN0b21pemVyIHNpZ25hdHVyZUV4dHJhY3RTdHJhdGVneSgpIHsKICAgICAgICByZXR1cm4gc3RyYXRlZ2llcyAtPiBzdHJhdGVnaWVzLm1ldGFkYXRhRXh0cmFjdG9yUmVnaXN0cnkoCiAgICAgICAgICAgIHJlZ2lzdHJ5IC0+IHJlZ2lzdHJ5Lm1ldGFkYXRhVG9FeHRyYWN0KAogICAgICAgICAgICAgICAgQVBQTElDQVRJT05fT0NURVRfU1RSRUFNLCBieXRlW10uY2xhc3MsICJzaWduYXR1cmUiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">SW5zZWN1cmVBY2NlcHRvcuWinuWKoOi/vei4qjvlrozlloTplJnor6/lpITnkIYKCjEuIGNvbW1vbi1ib290LGNvbW1vbi1odHRwLT4xLjIuMS1TTkFQU0hPVAoyLiDlop7liqBEZXZpY2VBdXRoU2VydmljZeeahOiBlOiwg+a1i+ivleeUqOS+iwozLiDkv67mlLlHd0V4Y2VwdGlvbizliKDpmaTpu5jorqTplJnor6/noIEKNC4gc2VydmVyLWhzZuWinuWKoEh0dHBFeGVjdXRvcg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
