@@ -127,12 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/docker-context/Dockerfile" timestamp="1589526481187">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/docker-context/Dockerfile" timestamp="1589530397345">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589514532700">
         <mark key="[" line="141" column="9" />
@@ -140,8 +140,6 @@
         <mark key="." line="142" column="33" />
         <mark key="^" line="142" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.2.5.RELEASE/spring-boot-actuator-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1589508750273" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/health/CompositeHealthContributorConfiguration.java" timestamp="1589509099689" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589523419790">
         <mark key="[" line="18" column="64" />
       </file>
@@ -151,14 +149,21 @@
         <mark key="^" line="294" column="25" />
         <mark key="." line="294" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.1-SNAPSHOT/common-boot-1.2.1-SNAPSHOT.pom" timestamp="1589510631336" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestProperties.java" timestamp="1589531627088">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1589522204591">
         <mark key="[" line="124" column="55" />
         <mark key="]" line="124" column="55" />
         <mark key="^" line="124" column="55" />
         <mark key="." line="124" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.2.5.RELEASE/spring-boot-actuator-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/health/Health.java" timestamp="1589508700073" />
+      <file name="/Dummy.java" timestamp="1589530819733">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" timestamp="1589527237930">
         <mark key="[" line="88" column="6" />
         <mark key="]" line="88" column="6" />
@@ -170,7 +175,20 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589526985844">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/LocalGwClient.java" timestamp="1589531427060">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1589531744191">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="121" column="35" />
+        <mark key="]" line="121" column="35" />
+        <mark key="^" line="121" column="35" />
+        <mark key="." line="121" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589531002352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -185,31 +203,38 @@
         <mark key="]" line="49" column="66" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/system/DiskSpaceHealthContributorAutoConfiguration.class" timestamp="1589508909004" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1589514361259">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.txt" timestamp="1589512540555">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1589527171889">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1589530003144">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="173" column="0" />
+        <mark key="[" line="254" column="28" />
         <mark key="]" line="187" column="30" />
         <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1589530792175">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application.yml" timestamp="1589530893396">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589514182137" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/health/CompositeHealthIndicatorConfiguration.java" timestamp="1589509029161" />
+      <file name="/fragment.java" timestamp="1589531002343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
-      <jump line="51" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
-      <jump line="10" column="18" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/resources/logback-spring.xml" />
-      <jump line="65" column="5" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" />
-      <jump line="90" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" />
       <jump line="33" column="35" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" />
@@ -305,12 +330,17 @@
       <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfApi.java" />
       <jump line="1959" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" />
       <jump line="29" column="33" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/docker-context/Dockerfile" />
+      <jump line="143" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="245" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -322,7 +352,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>admin    104603      0  0  2021 ?        00:23:04 /opt/taobao/java/bin/java</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
@@ -331,34 +361,34 @@
         <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBjaG9pY2VzYWFzLXRzdApndy5zZXJ2ZXI6CiAgY2x1c3Rlci1uYW1lOiBjaG9pY2VzYWFzLXRzdAogIGRlZmF1bHQtdGFyZ2V0LWNsdXN0ZXItbmFtZTogYWxpYmFiYS1pbmMKZ3cucm91dGVzOgogIGFsaWJhYmEtaW5jOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQy9JV0JsaCtwbXVDSFY2bGt3M3p5OGJpWm5mVGZhS01ScTY5d1UzL2NaZjJGbnlsQkM2VTZIZTFTaDQxZU9BZ1NyTnV6RjNzQ0ZSMzR0OUQ5bVQxa3RYVC9tOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZVVnNmZ0V2w4ZHdxTi9aZjdud0lEQVFBQgogIHNhYXN0b29sOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQ1ZJZER4TE8rT3hvUXREdk93bXEyaEY4aFcKICAgICAgVUNUdTZROGdkZFRGRndBZlBpcjBSMDQrQWZyV0JJSDR0MU5mSWdSWXBHbVFOVjRIVE5rWVdOajluUVlCVTVwKwogICAgICAzTUFkelZDTFhWMkp3WFlpeUVrZWdhZjRaRnQybEVjUGswVzNiczBUZWd2elQ2R3o4bWZCUDJOWCtGdXhmekVqCiAgICAgIHpQbWR6NU5NY0hlRHowamVUd0lEQVFBQgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIEVOVl9PUFRTPSIiCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LURwYW5kb3JhLnBsdWdpbi5kaXNhYmxlZD1zd2l0Y2gsbWV0YXEtc2NtLG9ucy1zZGssaHNmLW5vdGlmeS1jbGllbnQsdGFpci1wbHVnaW4scGFuZG9yYS1mcmFtZXdvcmssdGRkbC1jbGllbnQsdGJzZXNzaW9uLGJ1Yy5zc28uY2xpZW50LnBsdWdpbixtdG9wLXVuY2VudGVyLHNjbTIsYWxpbW9uaXRvci1qbW9uaXRvcixmaWxlc3luYy1jbGllbnQscGFuZG9yYS1mcmFtZXdvcmssdHRsLXBsdWdpbixhY2wucGx1Z2luLG1vbml0b3IK</text>
+        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uY3RyaXAuZnJhbWV3b3JrLmFwb2xsby5zcHJpbmcuYm9vdC5BcG9sbG9BdXRvQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">RU5WIEVOVl9PUFRTPSIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
