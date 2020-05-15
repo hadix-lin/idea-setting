@@ -146,11 +146,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589536412056">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="66" />
-        <mark key="^" line="18" column="66" />
-        <mark key="." line="18" column="65" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589539094031">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589521673811">
         <mark key="[" line="294" column="25" />
@@ -158,6 +158,7 @@
         <mark key="^" line="294" column="25" />
         <mark key="." line="294" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1589538863695" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestProperties.java" timestamp="1589531627088">
         <mark key="[" line="22" column="56" />
         <mark key="]" line="19" column="9" />
@@ -178,11 +179,6 @@
         <mark key="]" line="88" column="6" />
         <mark key="." line="88" column="5" />
         <mark key="^" line="88" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1589514246144">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/LocalGwClient.java" timestamp="1589531427060">
         <mark key="[" line="23" column="0" />
@@ -347,12 +343,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>增加额客如云的镜像构建支持
-
-1. LocalGwClient设置默认路由目标为自身
-2. 解决http-choicesaas模块无法编译的问题
-3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
+      <register name="&quot;" type="4">
+        <text>!saas-gw-http,!saas-gw-test</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -364,7 +356,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!saas-gw-http,!saas-gw-test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
