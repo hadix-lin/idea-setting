@@ -146,8 +146,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589535641535">
-        <mark key="[" line="18" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589536412056">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="18" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589521673811">
         <mark key="[" line="294" column="25" />
@@ -194,7 +197,7 @@
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589535294348">
+      <file name="/Dummy.txt" timestamp="1589535648320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,28 +383,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
+        <text>增加额客如云的镜像构建支持
+
+1. LocalGwClient设置默认路由目标为自身
+2. 解决http-choicesaas模块无法编译的问题
+3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
+        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
