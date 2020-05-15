@@ -140,7 +140,13 @@
         <mark key="." line="142" column="33" />
         <mark key="^" line="142" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589523419790">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/.gitignore" timestamp="1589535002709">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589535641535">
         <mark key="[" line="18" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589521673811">
@@ -188,7 +194,7 @@
         <mark key="^" line="121" column="35" />
         <mark key="." line="121" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589532920853">
+      <file name="/Dummy.txt" timestamp="1589535294348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -227,7 +233,6 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589514182137" />
       <file name="/fragment.java" timestamp="1589531002343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -340,7 +345,11 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
+        <text>增加额客如云的镜像构建支持
+
+1. LocalGwClient设置默认路由目标为自身
+2. 解决http-choicesaas模块无法编译的问题
+3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -361,34 +370,38 @@
         <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBjaG9pY2VzYWFzLXRzdApndy5zZXJ2ZXI6CiAgY2x1c3Rlci1uYW1lOiBjaG9pY2VzYWFzLXRzdAogIGRlZmF1bHQtdGFyZ2V0LWNsdXN0ZXItbmFtZTogYWxpYmFiYS1pbmMKZ3cucm91dGVzOgogIGFsaWJhYmEtaW5jOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQy9JV0JsaCtwbXVDSFY2bGt3M3p5OGJpWm5mVGZhS01ScTY5d1UzL2NaZjJGbnlsQkM2VTZIZTFTaDQxZU9BZ1NyTnV6RjNzQ0ZSMzR0OUQ5bVQxa3RYVC9tOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZVVnNmZ0V2w4ZHdxTi9aZjdud0lEQVFBQgogIHNhYXN0b29sOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQ1ZJZER4TE8rT3hvUXREdk93bXEyaEY4aFcKICAgICAgVUNUdTZROGdkZFRGRndBZlBpcjBSMDQrQWZyV0JJSDR0MU5mSWdSWXBHbVFOVjRIVE5rWVdOajluUVlCVTVwKwogICAgICAzTUFkelZDTFhWMkp3WFlpeUVrZWdhZjRaRnQybEVjUGswVzNiczBUZWd2elQ2R3o4bWZCUDJOWCtGdXhmekVqCiAgICAgIHpQbWR6NU5NY0hlRHowamVUd0lEQVFBQgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
+        <text>增加额客如云的镜像构建支持
+
+1. LocalGwClient设置默认路由目标为自身
+2. 解决http-choicesaas模块无法编译的问题
+3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
+        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBrZXJ1eXVuLXRlc3QKZ3cuc2VydmVyLmNsdXN0ZXItbmFtZToga2VydXl1bi10ZXN0Cmd3LnJvdXRlczoKICBhbGliYWJhLWluYzoKICAgIHJzYS1wdWJsaWMta2V5OgogICAgICBNSUdmTUEwR0NTcUdTSWIzRFFFQkFRVUFBNEdOQURDQmlRS0JnUUMvSVdCbGgrcG11Q0hWNmxrdzN6eThiaVpuCiAgICAgIGZUZmFLTVJxNjl3VTMvY1pmMkZueWxCQzZVNkhlMVNoNDFlT0FnU3JOdXpGM3NDRlIzNHQ5RDltVDFrdFhUL20KICAgICAgOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZQogICAgICBVZzZmdFdsOGR3cU4vWmY3bndJREFRQUIKICAgIGNvbm4tY291bnQ6IDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIEVOVl9PUFRTPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
