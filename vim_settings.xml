@@ -134,7 +134,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.2.5.RELEASE/spring-boot-actuator-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1589508750273" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/health/CompositeHealthContributorConfiguration.java" timestamp="1589509099689" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589510003909" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589511757028">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589511713253">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1589460778418" />
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.1-SNAPSHOT/common-boot-1.2.1-SNAPSHOT.pom" timestamp="1589510631336" />
       <file name="/Dummy.java" timestamp="1589459645485">
@@ -162,12 +170,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/system/DiskSpaceHealthContributorAutoConfiguration.class" timestamp="1589508909004" />
       <file name="/" timestamp="1589456197095">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/docker-context/dockerfile" timestamp="1589455994073">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application-daily_test.yml" timestamp="1589458423864">
         <mark key="[" line="11" column="23" />
