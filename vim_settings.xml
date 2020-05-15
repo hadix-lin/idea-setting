@@ -127,17 +127,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/docker-context/Dockerfile" timestamp="1589456539884">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589514532700">
+        <mark key="[" line="141" column="9" />
+        <mark key="]" line="142" column="34" />
+        <mark key="." line="142" column="33" />
+        <mark key="^" line="142" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.2.5.RELEASE/spring-boot-actuator-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1589508750273" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/health/CompositeHealthContributorConfiguration.java" timestamp="1589509099689" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/alsc-saas-gw.release" timestamp="1589511757028">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589511713253">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589514290652">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="30" column="24" />
         <mark key="^" line="30" column="24" />
@@ -145,37 +146,42 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteRegistry.java" timestamp="1589460778418" />
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.1-SNAPSHOT/common-boot-1.2.1-SNAPSHOT.pom" timestamp="1589510631336" />
-      <file name="/Dummy.java" timestamp="1589459645485">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.2.5.RELEASE/spring-boot-actuator-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/health/Health.java" timestamp="1589508700073" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" timestamp="1589457108165">
-        <mark key="[" line="59" column="84" />
-        <mark key="]" line="59" column="84" />
-        <mark key="^" line="59" column="84" />
-        <mark key="." line="59" column="83" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" timestamp="1589514808126">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1589458526620">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="113" column="14" />
-        <mark key="]" line="113" column="2" />
-        <mark key="." line="113" column="1" />
-        <mark key="^" line="113" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1589514246144">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589460371718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589514346693">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/system/DiskSpaceHealthContributorAutoConfiguration.class" timestamp="1589508909004" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1589514361259">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.txt" timestamp="1589512540555">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application-daily_test.yml" timestamp="1589458423864">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1589514775003">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/insecure/server/InsecureAcceptor.java" timestamp="1589460270416">
         <mark key="[" line="75" column="57" />
@@ -183,17 +189,12 @@
         <mark key="." line="75" column="55" />
         <mark key="^" line="75" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/eureka/EurekaHealthCheckHandler.java" timestamp="1589514182137" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.5.RELEASE/spring-boot-actuator-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/health/CompositeHealthIndicatorConfiguration.java" timestamp="1589509029161" />
       <file name="/fragment.java" timestamp="1589459949049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/insecure/server/DeviceAuthHandler.java" timestamp="1589458135330">
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="51" column="55" />
-        <mark key="^" line="51" column="55" />
-        <mark key="." line="51" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -302,10 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>重构非安全连接相关代码
-
-1. 删除DeviceTokenQuery,统一使用HsfApi来创建DeviceTokenService
-2. 将获取设备授权信息相关代码集中到server-insecure模块中</text>
+        <text encoding="base64">ICAgICAgLSBjb20uY3RyaXAuZnJhbWV3b3JrLmFwb2xsby5zcHJpbmcuYm9vdC5BcG9sbG9BdXRvQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -326,37 +324,37 @@
         <text>&quot;向Acceptor[&quot; + config.getTarget().getClusterName() + &quot;]发起连接&quot;</text>
       </register>
       <register name="1" type="2">
-        <text>重构非安全连接相关代码
-
-1. 删除DeviceTokenQuery,统一使用HsfApi来创建DeviceTokenService
-2. 将获取设备授权信息相关代码集中到server-insecure模块中</text>
+        <text encoding="base64">ICAgICAgLSBjb20uY3RyaXAuZnJhbWV3b3JrLmFwb2xsby5zcHJpbmcuYm9vdC5BcG9sbG9BdXRvQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGRvY2tlciBwdWxsIG9wZW5qZGs6OHUyNTItamRrLXNsaW0K</text>
+        <text encoding="base64">ICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLmFsc2MuYm9vdC5Cb290PC9tYWluQ2xhc3M+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGNvbS5hbHNjLnNhYXMuZ3cuY2xpZW50Lkd3Q2xpZW50QXV0b0NvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLmFsc2MuYm9vdC5Cb290PC9tYWluQ2xhc3M+CiAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV2aWNlVG9rZW5RdWVyeS5hcHBseSh0b2tlbikubWFwKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cmVzcCAtPiB7CiAgICAgICAgICAgIExpc3Q8RGV2aWNlS2V5RFRPPiBkZXZpY2VLZXlzID0gcmVzcC5nZXRLZXlMaXN0KCk7CiAgICAgICAgICAgIERldmljZVRva2VuRFRPIGRldmljZVRva2VuID0gcmVzcC5nZXRUb2tlbigpOwogICAgICAgICAgICBpZiAoZGV2aWNlVG9rZW4gPT0gbnVsbCB8fCBkZXZpY2VLZXlzID09IG51bGwgfHwgZGV2aWNlS2V5cy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBHd1NlY3VyaXR5RXhjZXB0aW9uKCJ0b2tlbuS4jeWQiOazleaIlui/h+acnzp0b2tlbj0iICsgdG9rZW4pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyDorr7nva7nrb7lkI3mlrnlvI8KICAgICAgICAgICAgZmluYWwgRGV2aWNlS2V5VHlwZUVudW0ga2V5VHlwZSA9IGdldEtleVR5cGUoc2lnblR5cGUpOwogICAgICAgICAgICBTdHJpbmcgc2lnbktleSA9IGZpbmRTaWduS2V5KGRldmljZUtleXMsIGtleVR5cGUpOwogICAgICAgICAgICBmaW5hbCBTaWduZXIgc2lnbmVyID0gY3JlYXRlU2luZ2VyKHNpZ25UeXBlLCBzaWduS2V5KTsKICAgICAgICAgICAgc2V0dXAuc2V0U2lnbmVyKHNpZ25lcik7CgogICAgICAgICAgICAvLyDorr7nva7lrqLmiLfnq69pZAogICAgICAgICAgICBzZXR1cC5zZXRJZChkZXZpY2VUb2tlbi5nZXREZXZpY2VJZCgpKTsKCiAgICAgICAgICAgIC8vIOiuvue9rui/h+acn+aXtumXtAogICAgICAgICAgICBMb25nIGV4cGlyYXRpb24gPSBkZXZpY2VUb2tlbi5nZXRFeHBpcmF0aW9uKCk7CiAgICAgICAgICAgIGlmIChleHBpcmF0aW9uID09IG51bGwgfHwgZXhwaXJhdGlvbiA8PSAwKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgR3dTZWN1cml0eUV4Y2VwdGlvbigidG9rZW7ov4fmnJ86dG9rZW49IiArIHRva2VuKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZXR1cC5zZXRFeHBpcmVkVGltZShleHBpcmF0aW9uKTsKCiAgICAgICAgICAgIHJldHVybiBzZXR1cDsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9idWlsZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuZ2V0VG9rZW5LZXlSZWxhdGlvbih0b2tlbikK</text>
+        <text encoding="base64">ICAgICAgPGJ1aWxkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRnVuY3Rpb248U3RyaW5nLCBNb25vPERldmljZVRva2VuS2V5UmVsYXRpb25SZXNwb25zZT4+IGRldmljZVRva2VuUXVlcnk7Cg==</text>
+        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPG1haW5DbGFzcz5jb20uYWxzYy5ib290LkJvb3Q8L21haW5DbGFzcz4KICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgIDwvcGx1Z2luPgogICAgPC9wbHVnaW5zPgogIDwvYnVpbGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>重构非安全连接相关代码
+
+1. 删除DeviceTokenQuery,统一使用HsfApi来创建DeviceTokenService
+2. 将获取设备授权信息相关代码集中到server-insecure模块中</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
