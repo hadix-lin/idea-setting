@@ -134,17 +134,11 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpGwClientTest.java" timestamp="1589601388736">
-        <mark key="[" line="185" column="15" />
-        <mark key="]" line="185" column="8" />
-        <mark key="." line="185" column="7" />
-        <mark key="^" line="185" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589514532700">
-        <mark key="[" line="141" column="9" />
-        <mark key="]" line="142" column="34" />
-        <mark key="." line="142" column="33" />
-        <mark key="^" line="142" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpGwClientTest.java" timestamp="1589613915675">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="99" />
+        <mark key="." line="184" column="31" />
+        <mark key="^" line="184" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/.gitignore" timestamp="1589535002709">
         <mark key="[" line="1" column="31" />
@@ -158,12 +152,6 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589521673811">
-        <mark key="[" line="294" column="25" />
-        <mark key="]" line="294" column="25" />
-        <mark key="^" line="294" column="25" />
-        <mark key="." line="294" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1589538863695" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketTestProperties.java" timestamp="1589531627088">
         <mark key="[" line="22" column="56" />
@@ -176,6 +164,11 @@
         <mark key="]" line="124" column="55" />
         <mark key="^" line="124" column="55" />
         <mark key="." line="124" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HsfProxy.java" timestamp="1589613698295">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.java" timestamp="1589530819733">
         <mark key="[" line="0" column="0" />
@@ -215,6 +208,12 @@
         <mark key="]" line="187" column="30" />
         <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/java/com/alsc/saas/gw/hsf/client/HsfProxy.java" timestamp="1589613993736">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1589530792175">
         <mark key="[" line="42" column="0" />
@@ -341,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -353,47 +352,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>!saas-gw-http,!saas-gw-test</text>
+        <text>echoService.echo(100)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IHJlc3VsdHMgPSBuZXcgQXJyYXlMaXN0PD4oMTApOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgewogICAgICAgICAgICBMb25nIHJlc3VsdCA9IGVjaG9TZXJ2aWNlLmVjaG8oMTAwKTsKICAgICAgICAgICAgcmVzdWx0cy5hZGQocmVzdWx0KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdHMuc3RyZWFtKCkucmVkdWNlKExvbmc6OnN1bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcDxMb25nPiByZXNwUHJveHkgPSBEZWZlcnJlZFZhbHVlLmNyZWF0ZShSZXNwLmNsYXNzLCBmdXR1cmUsIER1cmF0aW9uLm9mU2Vjb25kcyg1KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXNwPExvbmc+IHJlc3BQcm94eSA9IERlZmVycmVkVmFsdWUuY3JlYXRlKFJlc3AuY2xhc3MsIGZ1dHVyZSwgRHVyYXRpb24ub2ZTZWNvbmRzKDUpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9uZyByZXN1bHQgPSBlY2hvU2VydmljZS5lY2hvKDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRzLmFkZChmdXR1cmUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZTxMb25nPiBmdXR1cmUgPSBDb21wbGV0YWJsZUZ1dHVyZS5zdXBwbHlBc3luYygoKSAtPiBlY2hvU2VydmljZS5lY2hvKDEwMCkpOwogICAgICAgICAgICAgICAgICAgIHJlc3VsdHMuYWRkKGZ1dHVyZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvU2VydmljZS5lY2hvKDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text>修正自定义aone构建指令</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBIc2ZQcm94eSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>修正自定义aone构建指令</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>增加额客如云的镜像构建支持
-
-1. LocalGwClient设置默认路由目标为自身
-2. 解决http-choicesaas模块无法编译的问题
-3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhzZlByb3h5IHsKICAgIHB1YmxpYyA8VD4gVCBjcmVhdGUoQ2xhc3M8VD4gaW50ZXJmYWNlQ2xhc3MpewogICAgICAgU2VydmljZWZhY3RvcnkgCiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
