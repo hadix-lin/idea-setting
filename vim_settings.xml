@@ -134,6 +134,12 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HttpGwClientTest.java" timestamp="1589597109353">
+        <mark key="[" line="180" column="31" />
+        <mark key="]" line="180" column="32" />
+        <mark key="." line="180" column="31" />
+        <mark key="^" line="180" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1589514532700">
         <mark key="[" line="141" column="9" />
         <mark key="]" line="142" column="34" />
@@ -197,11 +203,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1589514346693">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" timestamp="1589525561808">
         <mark key="[" line="49" column="0" />
@@ -344,7 +345,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>修正自定义aone构建指令</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -365,42 +366,42 @@
         <text encoding="base64">LS0tCnNwcmluZy5wcm9maWxlczogYWNjZXB0b3IgJiBjaG9pY2VzYWFzLXRzdApndy5zZXJ2ZXI6CiAgY2x1c3Rlci1uYW1lOiBjaG9pY2VzYWFzLXRzdAogIGRlZmF1bHQtdGFyZ2V0LWNsdXN0ZXItbmFtZTogYWxpYmFiYS1pbmMKZ3cucm91dGVzOgogIGFsaWJhYmEtaW5jOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQy9JV0JsaCtwbXVDSFY2bGt3M3p5OGJpWm5mVGZhS01ScTY5d1UzL2NaZjJGbnlsQkM2VTZIZTFTaDQxZU9BZ1NyTnV6RjNzQ0ZSMzR0OUQ5bVQxa3RYVC9tOEpFTXM2dFNLMmFxbmdwc2k4TktzOU0xaVpjMThaTzVrVnowZVFtWnpybXlhZWxnS1B2K2wwRWZVamY3dXhrZVVnNmZ0V2w4ZHdxTi9aZjdud0lEQVFBQgogIHNhYXN0b29sOgogICAgcnNhLXB1YmxpYy1rZXk6CiAgICAgIE1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQ1ZJZER4TE8rT3hvUXREdk93bXEyaEY4aFcKICAgICAgVUNUdTZROGdkZFRGRndBZlBpcjBSMDQrQWZyV0JJSDR0MU5mSWdSWXBHbVFOVjRIVE5rWVdOajluUVlCVTVwKwogICAgICAzTUFkelZDTFhWMkp3WFlpeUVrZWdhZjRaRnQybEVjUGswVzNiczBUZWd2elQ2R3o4bWZCUDJOWCtGdXhmekVqCiAgICAgIHpQbWR6NU5NY0hlRHowamVUd0lEQVFBQgo=</text>
       </register>
       <register name="1" type="2">
-        <text>修正自定义aone构建指令</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>修正自定义aone构建指令</text>
+        <text encoding="base64">ICAgICAgICBlY2hvU2VydmljZS5lY2hvKDEwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text>增加额客如云的镜像构建支持
-
-1. LocalGwClient设置默认路由目标为自身
-2. 解决http-choicesaas模块无法编译的问题
-3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text>修正自定义aone构建指令</text>
+      </register>
+      <register name="5" type="2">
+        <text>修正自定义aone构建指令</text>
+      </register>
+      <register name="6" type="2">
         <text>增加额客如云的镜像构建支持
 
 1. LocalGwClient设置默认路由目标为自身
 2. 解决http-choicesaas模块无法编译的问题
 3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOmFsaWJhYmEtaW5jCg==</text>
+        <text>增加额客如云的镜像构建支持
+
+1. LocalGwClient设置默认路由目标为自身
+2. 解决http-choicesaas模块无法编译的问题
+3. 修改aone构建脚本,排除saas-gw-http,saas-gw-test两个模块</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRWNob1NlcnZpY2UgZWNob1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0YXJnZXQtY2x1c3Rlci1uYW1lOiBsb2NhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
