@@ -5,5 +5,10 @@
       <option name="name" value="DockerRegistry" />
       <option name="username" value="hadix" />
     </DockerRegistry>
+    <DockerRegistry email="hadix.ly@alibaba-inc.com">
+      <option name="address" value="registry.cn-hangzhou.aliyuncs.com" />
+      <option name="name" value="客如云" />
+      <option name="username" value="saas-gw@shishike" />
+    </DockerRegistry>
   </component>
 </application>
