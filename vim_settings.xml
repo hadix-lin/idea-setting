@@ -145,6 +145,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/resources/application.yml" timestamp="1589880290830">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1589877876656" />
       <file name="$USER_HOME$/Documents/Projects/alsc-hht-common-sdk/alsc-hht-common-sdk-demo/src/test/resources/application.properties" timestamp="1589818738912">
         <mark key="[" line="8" column="33" />
@@ -174,17 +179,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/java/com/alsc/saas/gw/hsf/client/HsfProxy.java" timestamp="1589615143161">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/java/com/alsc/saas/gw/http/client/HsfProxy.java" timestamp="1589613698295">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpGwClient.java" timestamp="1589880740535" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1589813965888">
         <mark key="[" line="67" column="24" />
         <mark key="]" line="42" column="0" />
@@ -196,8 +191,8 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" timestamp="1589878789461">
-        <mark key="[" line="8" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" timestamp="1589880316445">
+        <mark key="[" line="95" column="30" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -207,6 +202,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1589880154621">
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="67" column="34" />
+        <mark key="^" line="67" column="34" />
+        <mark key="." line="67" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1589880877123" />
       <file name="/fragment.java" timestamp="1589871199344">
         <mark key="[" line="0" column="0" />
       </file>
@@ -323,7 +325,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTE9HX0ZJTEUiIHZhbHVlPSIke0xPR19QQVRIfS9zbHMtYXBwbGljYXRpb24ubG9nIi8+Cg==</text>
+        <text encoding="base64">Z3cuY2xpZW50Lmh0dHAucHJveHktc2VydmVyLW5hbWU6IGNpc2Fhcy1ndy5zaGlzaGlrZS5jb20K</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,34 +346,34 @@
         <text>\n \</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTE9HX0ZJTEUiIHZhbHVlPSIke0xPR19QQVRIfS9zbHMtYXBwbGljYXRpb24ubG9nIi8+Cg==</text>
+        <text encoding="base64">Z3cuY2xpZW50Lmh0dHAucHJveHktc2VydmVyLW5hbWU6IGNpc2Fhcy1ndy5zaGlzaGlrZS5jb20K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTE9HX1BBVEgiIHZhbHVlPSIke3VzZXIuaG9tZX0vJHtBUFBfTkFNRX0vbG9ncyIvPgo=</text>
+        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTE9HX0ZJTEUiIHZhbHVlPSIke0xPR19QQVRIfS9zbHMtYXBwbGljYXRpb24ubG9nIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTU9OSVRPUl9GSUxFIiB2YWx1ZT0iJHtMT0dfUEFUSH0vbW9uaXRvci5sb2ciLz4KICA8cHJvcGVydHkgbmFtZT0iTU9OSVRPUl9QQVRURVJOIgogICAgICAgICAgICB2YWx1ZT0iJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9ICVwICR7UElEOi19IFske0FQUF9OQU1FfV0gLS0tIFsldF0gOiAlbSVuJWV4e2Z1bGwsCiAgICAgICAgICAgIGNvbS5hbHNjLnNhYXMuZ3cudHJhY2UuUmVhY3RvclRyYWNpbmdTdWJzY3JpYmVyfSIvPgo=</text>
+        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTE9HX1BBVEgiIHZhbHVlPSIke3VzZXIuaG9tZX0vJHtBUFBfTkFNRX0vbG9ncyIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8cHJvcGVydHkgbmFtZT0iTU9OSVRPUl9GSUxFIiB2YWx1ZT0iJHtMT0dfUEFUSH0vbW9uaXRvci5sb2ciLz4KICA8cHJvcGVydHkgbmFtZT0iTU9OSVRPUl9QQVRURVJOIgogICAgICAgICAgICB2YWx1ZT0iJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9ICVwICR7UElEOi19IFske0FQUF9OQU1FfV0gLS0tIFsldF0gOiAlbSVuJWV4e2Z1bGwsCiAgICAgICAgICAgIGNvbS5hbHNjLnNhYXMuZ3cudHJhY2UuUmVhY3RvclRyYWNpbmdTdWJzY3JpYmVyfSIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2xvZ2dlcj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImNvbS5hbHNjLnNhYXMuZ3cuc2VydmVyLnJvdXRlLlJvdXRlTW9uaXRvciIgYWRkaXRpdml0eT0iZmFsc2UiPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19DT05TT0xFIi8+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8L2xvZ2dlcj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8bG9nZ2VyIG5hbWU9ImNvbS5hbHNjLnNhYXMuZ3cuc2VydmVyLnJvdXRlLlJvdXRlTW9uaXRvciIgYWRkaXRpdml0eT0iZmFsc2UiPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxhcHBlbmRlci1yZWYgcmVmPSJBU1lOQ19DT05TT0xFIi8+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgPGFwcGVuZGVyIG5hbWU9IkFQUExJQ0FUSU9OIgogICAgICAgICAgICBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlJvbGxpbmdGaWxlQXBwZW5kZXIiPgogICAgPGZpbGU+JHtMT0dfRklMRX08L2ZpbGU+CiAgICA8ZW5jb2Rlcj4KICAgICAgPHBhdHRlcm4+JHtMT0dfUEFUVEVSTn08L3BhdHRlcm4+CiAgICAgIDxjaGFyc2V0PnV0Zjg8L2NoYXJzZXQ+CiAgICA8L2VuY29kZXI+CiAgICA8cm9sbGluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlNpemVBbmRUaW1lQmFzZWRSb2xsaW5nUG9saWN5Ij4KICAgICAgPGZpbGVOYW1lUGF0dGVybj4ke0xPR19GSUxFfS4lZHt5eXl5LU1NLWRkfS4laS5sb2c8L2ZpbGVOYW1lUGF0dGVybj4KICAgICAgPG1heEhpc3Rvcnk+NzwvbWF4SGlzdG9yeT4KICAgICAgPG1heEZpbGVTaXplPjUwTUI8L21heEZpbGVTaXplPgogICAgICA8dG90YWxTaXplQ2FwPjIwR0I8L3RvdGFsU2l6ZUNhcD4KICAgIDwvcm9sbGluZ1BvbGljeT4KICA8L2FwcGVuZGVyPgoKICA8YXBwZW5kZXIgbmFtZT0iQVNZTkNfQVBQTElDQVRJT04iIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLkFzeW5jQXBwZW5kZXIiPgogICAgPGRpc2NhcmRpbmdUaHJlc2hvbGQ+MDwvZGlzY2FyZGluZ1RocmVzaG9sZD4KICAgIDxxdWV1ZVNpemU+MjU2PC9xdWV1ZVNpemU+CiAgICA8YXBwZW5kZXItcmVmIHJlZj0iQVBQTElDQVRJT04iLz4KICA8L2FwcGVuZGVyPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
