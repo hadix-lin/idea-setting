@@ -133,11 +133,14 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589957099404">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="197" column="42" />
+      <file name="/a.dummy" timestamp="1589965384210">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589966363821">
+        <mark key="[" line="316" column="24" />
+        <mark key="]" line="312" column="21" />
+        <mark key="^" line="312" column="21" />
+        <mark key="." line="312" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/pom.xml" timestamp="1589957142346">
         <mark key="[" line="13" column="0" />
@@ -160,12 +163,11 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/src/main/resources/application.yml" timestamp="1589959449743">
         <mark key="[" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/RouteInfoCollector.java" timestamp="1589953380096">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="53" column="48" />
-        <mark key="]" line="54" column="12" />
-        <mark key="^" line="54" column="12" />
-        <mark key="." line="54" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/hsf/RpcLoggingClientFilter.java" timestamp="1589966159308">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" timestamp="1589959323667">
         <mark key="[" line="4" column="0" />
@@ -188,6 +190,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="48" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcException.java" timestamp="1589965467429">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunTraceExchangeFilterFunction.java" timestamp="1589960610908">
         <mark key="[" line="39" column="0" />
@@ -212,14 +220,13 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1589953515473" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/pom.xml" timestamp="1589959418613">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="14" column="15" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1589959248991">
+      <file name="/fragment.java" timestamp="1589965384225">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -328,8 +335,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>saas-gw-test-http</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx1cmw+aHR0cDovL3JlcG8uY2hvaWNlc2Fhcy5jbi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy88L3VybD4K</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -347,37 +354,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5ZyoTURD5Lit6K6+572u5Lia5Yqh55qE5raI5oGvaWQKICAgICAqCiAgICAgKiBAcGFyYW0gbXNnSWQg5Lia5Yqh5raI5oGvaWQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgPGlkPmNob2ljZXNhYXM8L2lkPgogICAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgIDxpZD5jaG9pY2VzYWFzLXJlbGVhc2VzPC9pZD4KICAgICAgICAgIDx1cmw+aHR0cDovL3JlcG8uY2hvaWNlc2Fhcy5jbi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgIDxpZD5jaG9pY2VzYWFzLXNuYXBzaG90czwvaWQ+CiAgICAgICAgICA8dXJsPmh0dHA6Ly9yZXBvLmNob2ljZXNhYXMuY24vbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLzwvdXJsPgogICAgICAgIDwvc25hcHNob3RSZXBvc2l0b3J5PgogICAgICA8L2Rpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmhlYWRlcnMoKS5hZGQoS0VZX0tFUlVZVU5fTVNHX0lELCBtc2dJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx1cmw+aHR0cDovL3JlcG8uY2hvaWNlc2Fhcy5jbi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy88L3VybD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx1cmw+aHR0cDovL3JlcG8uY2hvaWNlc2Fhcy5jbi9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvPC91cmw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uYWxzYy5zYWFzLmd3LmNsaWVudC5Hd0NsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gbG9nZ2VyIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtc2dJZCDkuJrliqHmtojmga9pZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXJyb3JDb2RlICsgIiA6ICIgKyBzdXBlci5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmhlYWRlcnMoKS5hZGQoS0VZX0tFUlVZVU5fTVNHX0lELCBtc2dJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
