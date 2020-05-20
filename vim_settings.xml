@@ -189,16 +189,16 @@
         <mark key="]" line="21" column="48" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunTraceExchangeFilterFunction.java" timestamp="1589959665781">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunTraceExchangeFilterFunction.java" timestamp="1589960610908">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ReporterProperties.java" timestamp="1589953274340">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-hsf/src/main/java/com/alsc/saas/gw/test/hsf/TestServiceImpl.java" timestamp="1589960763729">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpGwClient.java" timestamp="1589959210530">
         <mark key="[" line="24" column="0" />
@@ -328,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>saas-gw-test-http</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -341,7 +341,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>this_is_test_id</text>
+        <text>saas-gw-test-http</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
@@ -350,34 +350,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5ZyoTURD5Lit6K6+572u5Lia5Yqh55qE5raI5oGvaWQKICAgICAqCiAgICAgKiBAcGFyYW0gbXNnSWQg5Lia5Yqh5raI5oGvaWQKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmhlYWRlcnMoKS5hZGQoS0VZX0tFUlVZVU5fTVNHX0lELCBtc2dJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uYWxzYy5zYWFzLmd3LmNsaWVudC5Hd0NsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgLSBjb20uYWxzYy5zYWFzLmd3LmNsaWVudC5Hd0NsaWVudEF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtc2dJZCDkuJrliqHmtojmga9pZAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtc2dJZCDkuJrliqHmtojmga9pZAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+c2Fhcy1ndy1jbGllbnQtaHR0cC1rZXJ1eXVuPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
