@@ -47,8 +47,8 @@
         <entry>set noh</entry>
         <entry>set nohl</entry>
         <entry>noh</entry>
-        <entry>action AceAction</entry>
         <entry>w</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,11 +142,11 @@
       <file name="/a.dummy" timestamp="1590027749028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1589967266768">
-        <mark key="[" line="316" column="24" />
-        <mark key="]" line="312" column="21" />
-        <mark key="^" line="312" column="21" />
-        <mark key="." line="312" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/test/EchoServiceImpl.java" timestamp="1590041317196">
+        <mark key="[" line="27" column="119" />
+        <mark key="]" line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+        <mark key="." line="28" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/annotation/Order.java" timestamp="1590028768166">
         <mark key="[" line="17" column="19" />
@@ -217,11 +217,11 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedClientFilter.java" timestamp="1590032757592">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="29" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedClientFilter.java" timestamp="1590040677896">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="8" />
         <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="11" />
+        <mark key="." line="58" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-util/src/main/java/com/alsc/pos/common/util/DependencyNotSatisfyException.java" timestamp="1589967991822">
         <mark key="[" line="2" column="33" />
@@ -345,7 +345,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SXRlcmF0b3I8Q2xpZW50RmlsdGVyPiBmaWx0ZXJJdGVyYXRvcg==</text>
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -357,7 +357,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SXRlcmF0b3I8Q2xpZW50RmlsdGVyPiBmaWx0ZXJJdGVyYXRvcg==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
@@ -396,7 +396,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoaW52b2NhdGlvbi5nZXRNZXRob2ROYW1lKCkgKyAiOiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
