@@ -127,69 +127,95 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcFilterAutoConfiguration.java" timestamp="1590067110980">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcFilterAutoConfiguration.java" timestamp="1590133210955">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1590069095739">
+      <file name="/a.dummy" timestamp="1590132072961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1590126633043" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcLoggingFilter.java" timestamp="1590132268644">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="61" column="16" />
+        <mark key="^" line="61" column="16" />
+        <mark key="." line="61" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/hsf/ApiExceptionHandleInterceptor.java" timestamp="1590132570411">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1590127900897" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcLoggingClientFilter.java" timestamp="1590131950312">
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="18" column="72" />
+        <mark key="^" line="18" column="72" />
+        <mark key="." line="18" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/hsf/RpcExceptionServerFilter.java" timestamp="1590070444712">
         <mark key="[" line="12" column="63" />
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/src/main/java/com/alsc/saas/gw/http/client/keruyun/KeruyunGwContext.java" timestamp="1590066330930">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcLoggingServerFilter.java" timestamp="1590130943139">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcLoggingServerFilter.java" timestamp="1590131886434">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/server/MsgExecutor.java" timestamp="1590129892722" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLauncher.java" timestamp="1590066471917">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedServerFilter.java" timestamp="1590134053301">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/logging/LoggingRebinder.java" timestamp="1590067691896" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/resources/META-INF/spring.factories" timestamp="1590067134988">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="65" />
-        <mark key="." line="1" column="64" />
-        <mark key="^" line="1" column="65" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/invocation/RPCResult.java" timestamp="1590131833030">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1590127900897" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/src/test/java/com/alsc/saas/gw/test/http/Application.java" timestamp="1590066600701">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/RpcException.java" timestamp="1590132387988">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="13" />
+        <mark key="^" line="29" column="13" />
+        <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcLoggingClientFilter.java" timestamp="1590130039132" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcExceptionServerFilter.java" timestamp="1590131126303">
-        <mark key="[" line="16" column="80" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedRpcFilter.java" timestamp="1590134045100">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcFilterProperties.java" timestamp="1590069549919">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/resources/META-INF/services/com.taobao.hsf.invocation.filter.RPCFilter" timestamp="1590134030018">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1590066530115">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcExceptionServerFilter.java" timestamp="1590132671642">
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="46" column="62" />
+        <mark key="." line="46" column="61" />
+        <mark key="^" line="46" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedClientFilter.java" timestamp="1590134058279">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcFilterProperties.java" timestamp="1590133146807">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/utils/RespUtils.java" timestamp="1590132618245" />
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseReq.java" />
@@ -309,13 +335,13 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">Q2xhc3M8Q2xpZW50RmlsdGVyPiBmaWx0ZXJUeXBl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImhzZi1jbGllbnQgc3VjY2VzcyIKICAgICAgICAgICAgICAgICsgIiA6OiAiICsgZWxhcHNlZCArICJtcyIKICAgICAgICAgICAgICAgICsgIiA6OiAiICsgbWV0aG9kTmFtZQogICAgICAgICAgICAgICAgKyAiIDo6ICIgKyB0b0pzb24obWV0aG9kQXJncykKICAgICAgICAgICAgICAgICsgIiA6OiAiICsgdG9Kc29uKHJlc3ApKTsK</text>
+        <text>com.alsc.saas.common.interceptor.hsf.SpringDelegatedClientFilter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -324,28 +350,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvcmUuYW5ub3RhdGlvbi5PcmRlclV0aWxzLmdldE9yZGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnZvY2F0aW9uLmdldENsaWVudEludm9jYXRpb25Db250ZXh0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2NhdGlvbi5nZXRTZXJ2ZXJJbnZvY2F0aW9uQ29udGV4dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIiA6OiAiICsgdG9Kc29uKG1ldGhvZEFyZ3MpCiAgICAgICAgICAgICAgICArICIgOjogIiArIHRvSnNvbihyZXNwKSk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
