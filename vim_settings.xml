@@ -127,9 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590399552018">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590400720235">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1590398117642">
         <mark key="[" line="0" column="0" />
@@ -140,28 +142,22 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySource.java" timestamp="1590399339071">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySource.java" timestamp="1590400745664">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590399614292">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="65" />
-        <mark key="^" line="32" column="65" />
-        <mark key="." line="32" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590400790304">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/resources/META-INF/spring.factories" timestamp="1590398163687">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="59" />
-        <mark key="." line="4" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondPropertySource.java" timestamp="1590397403992">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="15" />
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="59" />
+        <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/pom.xml" timestamp="1590399451915">
         <mark key="[" line="18" column="36" />
@@ -169,17 +165,28 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/resources/META-INF/spring.factories" timestamp="1590398210236">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1590401250299">
+        <mark key="[" line="44" column="54" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="44" column="54" />
+        <mark key="." line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590398352522">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="55" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/resources/META-INF/spring.factories" timestamp="1590401704763">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590400811052">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590401404751">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/pom.xml" timestamp="1590399396424">
         <mark key="[" line="16" column="0" />
@@ -193,28 +200,19 @@
         <mark key="^" line="27" column="26" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590396641137" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceSpringBoot15x.java" timestamp="1590397511250">
-        <mark key="[" line="2" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondPropertySourceLocator.java" timestamp="1590397809398">
         <mark key="[" line="27" column="7" />
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySourceLocator.java" timestamp="1590399972628">
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="64" column="21" />
-        <mark key="." line="64" column="20" />
-        <mark key="^" line="64" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySourceLocator.java" timestamp="1590401116389">
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" timestamp="1590397249029">
-        <mark key="[" line="92" column="44" />
-        <mark key="]" line="92" column="44" />
-        <mark key="^" line="92" column="44" />
-        <mark key="." line="92" column="43" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590401512722" />
       <file name="/Dummy.txt" timestamp="1590398298080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,7 +224,7 @@
         <mark key="^" line="94" column="18" />
         <mark key="." line="27" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1590399641861">
+      <file name="/fragment.java" timestamp="1590401675637">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -336,7 +334,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -354,37 +352,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5U291cmNlPD8+PiBsb2FkZWQgPSBsb2FkZXIubG9hZChnZXROYW1lKCksIG5ldyBTdHJpbmdSZXNvdXJjZShjb25maWcpKTsKICAgICAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKTsKICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7CiAgICAgICAgICAgIGlmICghKHBzIGluc3RhbmNlb2YgRW51bWVyYWJsZVByb3BlcnR5U291cmNlKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZm9yIChTdHJpbmcgcHJvcGVydHlOYW1lIDogKChFbnVtZXJhYmxlUHJvcGVydHlTb3VyY2U8Pz4pcHMpLmdldFByb3BlcnR5TmFtZXMoKSkgewogICAgICAgICAgICAgICAgcHJvcHMucHV0KHByb3BlcnR5TmFtZSwgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChwcy5nZXRQcm9wZXJ0eShwcm9wZXJ0eU5hbWUpKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7CiAgICAgICAgUHJvcGVydHlTb3VyY2VMb2FkZXIgbG9hZGVyID0gZmluZExvYWRlcihkYXRhSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vewogICAgLy8gICAgTGlzdDxQcm9wZXJ0eVNvdXJjZTw/Pj4gbG9hZGVkID0gbG9hZGVyLmxvYWQoZ2V0TmFtZSgpLCBuZXcgU3RyaW5nUmVzb3VyY2UoY29uZmlnKSk7CiAgICAvLyAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKTsKICAgIC8vICAgIGZvciAoUHJvcGVydHlTb3VyY2U8Pz4gcHMgOiBsb2FkZWQpIHsKICAgIC8vICAgICAgICBpZiAoIShwcyBpbnN0YW5jZW9mIEVudW1lcmFibGVQcm9wZXJ0eVNvdXJjZSkpIHsKICAgIC8vICAgICAgICAgICAgY29udGludWU7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgICAgIGZvciAoU3RyaW5nIHByb3BlcnR5TmFtZSA6ICgoRW51bWVyYWJsZVByb3BlcnR5U291cmNlPD8+KXBzKS5nZXRQcm9wZXJ0eU5hbWVzKCkpIHsKICAgIC8vICAgICAgICAgICAgcHJvcHMucHV0KHByb3BlcnR5TmFtZSwgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChwcy5nZXRQcm9wZXJ0eShwcm9wZXJ0eU5hbWUpKSk7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIHByb3BzOwogICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KQENvbmRpdGlvbmFsT25DbGFzcyhuYW1lID0gImNvbS50YW9iYW8uZGlhbW9uZC5jbGllbnQuRGlhbW9uZCIpCkBFbmFibGVDb25maWd1cmF0aW9uUHJvcGVydGllcyhEaWFtb25kUHJvcGVydGllcy5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cm9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQuYm9vdHN0cmFwLkJvb3RzdHJhcENvbmZpZ3VyYXRpb249XApjb20uYWxzYy5kaWFtb25kLkJhc2VEaWFtb25kUHJvcGVydHlTb3VyY2VMb2NhdG9y</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vewogICAgLy8gICAgTGlzdDxQcm9wZXJ0eVNvdXJjZTw/Pj4gbG9hZGVkID0gbG9hZGVyLmxvYWQoZ2V0TmFtZSgpLCBuZXcgU3RyaW5nUmVzb3VyY2UoY29uZmlnKSk7CiAgICAvLyAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKTsKICAgIC8vICAgIGZvciAoUHJvcGVydHlTb3VyY2U8Pz4gcHMgOiBsb2FkZWQpIHsKICAgIC8vICAgICAgICBpZiAoIShwcyBpbnN0YW5jZW9mIEVudW1lcmFibGVQcm9wZXJ0eVNvdXJjZSkpIHsKICAgIC8vICAgICAgICAgICAgY29udGludWU7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgICAgIGZvciAoU3RyaW5nIHByb3BlcnR5TmFtZSA6ICgoRW51bWVyYWJsZVByb3BlcnR5U291cmNlPD8+KXBzKS5nZXRQcm9wZXJ0eU5hbWVzKCkpIHsKICAgIC8vICAgICAgICAgICAgcHJvcHMucHV0KHByb3BlcnR5TmFtZSwgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChwcy5nZXRQcm9wZXJ0eShwcm9wZXJ0eU5hbWUpKSk7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIHByb3BzOwogICAgLy99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
