@@ -127,49 +127,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/resources/application.properties" timestamp="1590154071839">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="56" />
-        <mark key="." line="0" column="55" />
-        <mark key="^" line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590374452416" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Dalston.SR5/spring-cloud-dependencies-Dalston.SR5.pom" timestamp="1590376295911" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.2.RELEASE/spring-boot-2.2.2.RELEASE-sources.jar!/org/springframework/boot/env/PropertySourceLoader.java" timestamp="1590393618850" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590377090405">
         <mark key="[" line="41" column="62" />
         <mark key="]" line="42" column="17" />
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/test/java/com/alsc/saas/common/interceptor/hsf/EchoServiceTest.java" timestamp="1590374164416">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1590391439833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.22.RELEASE/spring-boot-1.5.22.RELEASE-sources.jar!/org/springframework/boot/context/config/ConfigFileApplicationListener.java" timestamp="1590391426599" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590391254923" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor15.java" timestamp="1590391165533">
         <mark key="[" line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590392449012">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/resources/bootstrap.properties" timestamp="1590154075149">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590374075978">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590393496572">
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="50" column="28" />
+        <mark key="^" line="50" column="28" />
+        <mark key="." line="50" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Application.java" timestamp="1590376932970">
         <mark key="[" line="12" column="48" />
@@ -183,11 +159,36 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java" timestamp="1590375779742" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-09-stable/pandora-boot-starter-bom-2019-09-stable.pom" timestamp="1590373481748" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.2.RELEASE/spring-boot-2.2.2.RELEASE-sources.jar!/org/springframework/boot/context/config/ConfigFileApplicationListener.java" timestamp="1590393970432">
+        <mark key="[" line="575" column="37" />
+        <mark key="]" line="575" column="37" />
+        <mark key="^" line="575" column="37" />
+        <mark key="." line="575" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590374452416" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Dalston.SR5/spring-cloud-dependencies-Dalston.SR5.pom" timestamp="1590376295911" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/test/java/com/alsc/saas/common/interceptor/hsf/EchoServiceTest.java" timestamp="1590374164416">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590391254923" />
+      <file name="/Dummy.txt" timestamp="1590374075978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java" timestamp="1590393177792">
+        <mark key="[" line="209" column="9" />
+        <mark key="]" line="209" column="9" />
+        <mark key="^" line="209" column="9" />
+        <mark key="." line="209" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1590377143342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-starter-bom/2019-09-stable/pandora-boot-starter-bom-2019-09-stable.pom" timestamp="1590373481748" />
       <file name="/fragment.java" timestamp="1590391747516">
         <mark key="[" line="0" column="0" />
       </file>
