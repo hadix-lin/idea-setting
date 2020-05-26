@@ -133,14 +133,8 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1590398117642">
+      <file name="/a.dummy" timestamp="1590458046573">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceSpringBoot2x.java" timestamp="1590397999693">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySource.java" timestamp="1590400745664">
         <mark key="[" line="29" column="36" />
@@ -148,16 +142,18 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590458481383">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/spring-boot-alibaba-context/2019-09-stable/spring-boot-alibaba-context-2019-09-stable-sources.jar!/com/alibaba/boot/autoconfigure/condition/ConditionalOnSpringBoot1.java" timestamp="1590458207151" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590400790304">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="14" />
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/resources/META-INF/spring.factories" timestamp="1590398163687">
-        <mark key="[" line="3" column="59" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/pom.xml" timestamp="1590399451915">
         <mark key="[" line="18" column="36" />
@@ -176,11 +172,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590400811052">
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="8" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/spring-boot-alibaba-context/2019-09-stable/spring-boot-alibaba-context-2019-09-stable-sources.jar!/com/alibaba/boot/autoconfigure/condition/ConditionalOnSpringBoot2.java" timestamp="1590458123154" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot15x.java" timestamp="1590458515371">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590457762517">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590401404751">
         <mark key="[" line="11" column="0" />
@@ -188,23 +190,11 @@
         <mark key="^" line="23" column="8" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/pom.xml" timestamp="1590399396424">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="89" column="17" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/AbstractDiamondPropertySourceLocator.java" timestamp="1590398109333">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondPropertySourceLocator.java" timestamp="1590397809398">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="29" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/ConditionalOnSpringBoot2.java" timestamp="1590458490246">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySourceLocator.java" timestamp="1590401116389">
         <mark key="[" line="65" column="24" />
@@ -213,17 +203,6 @@
         <mark key="^" line="65" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590401512722" />
-      <file name="/Dummy.txt" timestamp="1590398298080">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/AbstractDiamondPropertySource.java" timestamp="1590397592127">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="70" column="7" />
-        <mark key="^" line="94" column="18" />
-        <mark key="." line="27" column="50" />
-      </file>
       <file name="/fragment.java" timestamp="1590401675637">
         <mark key="[" line="0" column="0" />
       </file>
@@ -334,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -355,7 +334,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7CiAgICAgICAgUHJvcGVydHlTb3VyY2VMb2FkZXIgbG9hZGVyID0gZmluZExvYWRlcihkYXRhSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -364,25 +343,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vewogICAgLy8gICAgTGlzdDxQcm9wZXJ0eVNvdXJjZTw/Pj4gbG9hZGVkID0gbG9hZGVyLmxvYWQoZ2V0TmFtZSgpLCBuZXcgU3RyaW5nUmVzb3VyY2UoY29uZmlnKSk7CiAgICAvLyAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKTsKICAgIC8vICAgIGZvciAoUHJvcGVydHlTb3VyY2U8Pz4gcHMgOiBsb2FkZWQpIHsKICAgIC8vICAgICAgICBpZiAoIShwcyBpbnN0YW5jZW9mIEVudW1lcmFibGVQcm9wZXJ0eVNvdXJjZSkpIHsKICAgIC8vICAgICAgICAgICAgY29udGludWU7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgICAgIGZvciAoU3RyaW5nIHByb3BlcnR5TmFtZSA6ICgoRW51bWVyYWJsZVByb3BlcnR5U291cmNlPD8+KXBzKS5nZXRQcm9wZXJ0eU5hbWVzKCkpIHsKICAgIC8vICAgICAgICAgICAgcHJvcHMucHV0KHByb3BlcnR5TmFtZSwgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChwcy5nZXRQcm9wZXJ0eShwcm9wZXJ0eU5hbWUpKSk7CiAgICAvLyAgICAgICAgfQogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIHByb3BzOwogICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
