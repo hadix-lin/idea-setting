@@ -127,12 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySource.java" timestamp="1590400720235">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="13" />
-      </file>
       <file name="/a.dummy" timestamp="1590458046573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,7 +149,7 @@
         <mark key="^" line="20" column="14" />
         <mark key="." line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1590401250299">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1590477181687">
         <mark key="[" line="44" column="54" />
         <mark key="]" line="44" column="54" />
         <mark key="^" line="44" column="54" />
@@ -190,6 +184,11 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/ServiceGroupRegistrar.java" timestamp="1590477658675">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/ConfigFileApplicationListener.java" timestamp="1590463920253">
         <mark key="[" line="118" column="5" />
         <mark key="]" line="118" column="5" />
@@ -203,7 +202,7 @@
         <mark key="^" line="65" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590401512722" />
-      <file name="/fragment.java" timestamp="1590401675637">
+      <file name="/fragment.java" timestamp="1590477839223">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -313,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -334,13 +333,13 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7CiAgICAgICAgUHJvcGVydHlTb3VyY2VMb2FkZXIgbG9hZGVyID0gZmluZExvYWRlcihkYXRhSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,19 +348,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5U291cmNlPD8+IHBzIDogbG9hZGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
