@@ -130,6 +130,18 @@
       <file name="/a.dummy" timestamp="1590458046573">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunAutoConfiguration.java" timestamp="1590549098496">
+        <mark key="[" line="42" column="80" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="39" column="12" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1590549129066">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="58" column="8" />
+        <mark key="^" line="58" column="8" />
+        <mark key="." line="58" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590458481383">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
@@ -167,12 +179,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocator.java" timestamp="1590401404751">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/ConditionalOnSpringBoot2.java" timestamp="1590458490246">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="7" />
@@ -190,7 +196,6 @@
         <mark key="^" line="118" column="5" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590401512722" />
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.0/common-boot-1.2.0-sources.jar!/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590546972679" />
       <file name="/fragment.java" timestamp="1590477839223">
         <mark key="[" line="0" column="0" />
@@ -302,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3JzICE9IG51bGwgJiYgIWludGVyY2VwdG9ycy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYXN5bmNSZXN0VGVtcGxhdGUuc2V0SW50ZXJjZXB0b3JzKGludGVyY2VwdG9ycyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -314,7 +319,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9ncm91cD4=</text>
+        <text encoding="base64">QEF1dG93aXJlZChyZXF1aXJlZCA9IGZhbHNlKSBMaXN0PEFzeW5jQ2xpZW50SHR0cFJlcXVlc3RJbnRlcmNlcHRvcj4gaW50ZXJjZXB0b3Jz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
@@ -323,16 +328,16 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7CiAgICAgICAgUHJvcGVydHlTb3VyY2VMb2FkZXIgbG9hZGVyID0gZmluZExvYWRlcihkYXRhSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3JzICE9IG51bGwgJiYgIWludGVyY2VwdG9ycy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYXN5bmNSZXN0VGVtcGxhdGUuc2V0SW50ZXJjZXB0b3JzKGludGVyY2VwdG9ycyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,16 +346,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
