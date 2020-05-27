@@ -136,16 +136,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/MyBatisSqliteInterceptor.java" timestamp="1590560622959" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/Producer.java" timestamp="1590564632605" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/config/OnsQueue.java" timestamp="1590559411059">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1590570757908">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="87" column="35" />
-        <mark key="." line="87" column="34" />
-        <mark key="^" line="87" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1590574661682">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="124" column="70" />
+        <mark key="]" line="124" column="69" />
+        <mark key="." line="124" column="68" />
+        <mark key="^" line="124" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/notify-tr-client-sdk/5.0.4--2019-09-stable-rocketmq-optimize/notify-tr-client-sdk-5.0.4--2019-09-stable-rocketmq-optimize.jar!/com/taobao/notify/common/config/threadpool/ThreadPoolConfig.class" timestamp="1590567848847">
         <mark key="[" line="10" column="12" />
@@ -165,6 +161,10 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1590559945584" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" timestamp="1590574514974">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1590565020767">
         <mark key="[" line="34" column="82" />
         <mark key="]" line="34" column="70" />
@@ -178,12 +178,6 @@
         <mark key="." line="197" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1590572188671" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueue.java" timestamp="1590559424404">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1590559481701">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="12" column="4" />
@@ -197,6 +191,9 @@
         <mark key="]" line="32" column="34" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar!/org/apache/kafka/common/TopicPartition.java" timestamp="1590574639796">
+        <mark key="'" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1590564753989">
         <mark key="[" line="29" column="0" />
@@ -214,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/Req.java" />
-      <jump line="44" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/InsecureConnManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/enable-HiDPI.sh" />
       <jump line="21" column="40" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientFactory.java" />
       <jump line="47" column="16" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" />
@@ -314,12 +308,15 @@
       <jump line="39" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" />
       <jump line="25" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" />
+      <jump line="24" column="19" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar!/org/apache/kafka/common/TopicPartition.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uc3VtZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQmFzZVRyYWNpbmdUb29sIHRyYWNpbmdUb29sID0gTXFBdXRvQ29uZmlndXJhdGlvbi5nZXRUcmFjaW5nVG9vbCgpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -337,37 +334,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVNZXNzYWdlVGhyZWFkUG9vbC5leGVjdXRlKCgpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgUmVzdWx0IHJlc3VsdCA9IHN1YnNjcmlwdGlvbi5nZXRIYW5kbGVyKCkuYXBwbHkobXNnUmVxKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5nZXRTdGF0dXMoKSA9PSBTdGF0dXMuU1VDQ0VTUykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3VtZXIuY29tbWl0U3luYyhuZXcgVG9waWNQYXJ0aXRpb24oKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQmFzZVRyYWNpbmdUb29sIHRyYWNpbmdUb29sID0gTXFBdXRvQ29uZmlndXJhdGlvbi5nZXRUcmFjaW5nVG9vbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uc3VtZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWNpbmdUb29sIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgLT4gewogICAgICAgICAgICAgICAgICAgIFN0cmluZyB0b3BpYyA9IHJlY29yZC50b3BpYygpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8Q29uc3VtZXJSZWNvcmQ8U3RyaW5nLCBieXRlW10+PiB0b3BpY01lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgICAgID0gbWVzc2FnZXMuY29tcHV0ZUlmQWJzZW50KHRvcGljLCBrIC0+IG5ldyBMaW5rZWRMaXN0PD4oKSk7CiAgICAgICAgICAgICAgICAgICAgdG9waWNNZXNzYWdlcy5hZGQocmVjb3JkKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmZvckVhY2goKHRvcGljLCByZWNvcmRMaXN0KSAtPiB7CiAgICAgICAgICAgICAgICAgICAgU3Vic2NyaXB0aW9uIHN1YnNjcmlwdGlvbiA9IHN1YnNjcmlwdGlvbnMuZ2V0KHRvcGljKTsKICAgICAgICAgICAgICAgICAgICBNc2dSZXEgbXNnUmVxID0gbmV3IE1zZ1JlcSgpOwogICAgICAgICAgICAgICAgICAgIG1zZ1JlcS5zZXRDb250ZW50cyhjb250ZW50cyk7CiAgICAgICAgICAgICAgICAgICAgbXNnUmVxLnNldEZyb20oc3Vic2NyaXB0aW9uLmdldFF1ZXVlKCkpOwogICAgICAgICAgICAgICAgICAgIGhhbmRsZU1lc3NhZ2VUaHJlYWRQb29sLmV4ZWN1dGUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBSZXN1bHQgcmVzdWx0ID0gc3Vic2NyaXB0aW9uLmdldEhhbmRsZXIoKS5hcHBseShtc2dSZXEpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LmdldFN0YXR1cygpID09IFN0YXR1cy5TVUNDRVNTKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5jb21taXRTeW5jKG5ldyBUb3BpY1BhcnRpdGlvbigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BpY1JlY29yZHMuc3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PENvbnRlbnQ+IGNvbnRlbnRzID0gcmVjb3JkTGlzdC5zdHJlYW0oKS5tYXAociAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIENvbnRlbnQgY29udGVudCA9IG5ldyBDb250ZW50KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQuc2V0TXNnSWQoci5rZXkoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQuc2V0Qm9keShyLnZhbHVlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udGVudDsKICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5nZXRTdGF0dXMoKSA9PSBTdGF0dXMuU1VDQ0VTUykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZyBsYXN0T2Zmc2V0ID0gdG9waWNSZWNvcmRzLmdldCh0b3BpY1JlY29yZHMuc2l6ZSgpIC0gMSkub2Zmc2V0KCk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3VtZXIuY29tbWl0U3luYygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAocGFydGl0aW9uLCBuZXcgT2Zmc2V0QW5kTWV0YWRhdGEobGFzdE9mZnNldCArIDEpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRvcGljUmVjb3Jkcy4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uc3VtZXIgIT0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2dyZXEuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgLT4gewogICAgICAgICAgICAgICAgICAgIFN0cmluZyB0b3BpYyA9IHJlY29yZC50b3BpYygpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8Q29uc3VtZXJSZWNvcmQ8U3RyaW5nLCBieXRlW10+PiB0b3BpY01lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgICAgID0gbWVzc2FnZXMuY29tcHV0ZUlmQWJzZW50KHRvcGljLCBrIC0+IG5ldyBMaW5rZWRMaXN0PD4oKSk7CiAgICAgICAgICAgICAgICAgICAgdG9waWNNZXNzYWdlcy5hZGQocmVjb3JkKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmZvckVhY2goKHRvcGljLCByZWNvcmRMaXN0KSAtPiB7CiAgICAgICAgICAgICAgICAgICAgU3Vic2NyaXB0aW9uIHN1YnNjcmlwdGlvbiA9IHN1YnNjcmlwdGlvbnMuZ2V0KHRvcGljKTsKICAgICAgICAgICAgICAgICAgICBNc2dSZXEgbXNnUmVxID0gbmV3IE1zZ1JlcSgpOwogICAgICAgICAgICAgICAgICAgIG1zZ1JlcS5zZXRDb250ZW50cyhjb250ZW50cyk7CiAgICAgICAgICAgICAgICAgICAgbXNnUmVxLnNldEZyb20oc3Vic2NyaXB0aW9uLmdldFF1ZXVlKCkpOwogICAgICAgICAgICAgICAgICAgIGhhbmRsZU1lc3NhZ2VUaHJlYWRQb29sLmV4ZWN1dGUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBSZXN1bHQgcmVzdWx0ID0gc3Vic2NyaXB0aW9uLmdldEhhbmRsZXIoKS5hcHBseShtc2dSZXEpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LmdldFN0YXR1cygpID09IFN0YXR1cy5TVUNDRVNTKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5jb21taXRTeW5jKG5ldyBUb3BpY1BhcnRpdGlvbigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BpY1JlY29yZHMuc3RyZWFtKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gc3Vic2NyaXB0aW9ucy5nZXQodG9waWMpOwogICAgICAgICAgICAgICAgICAgIE1zZ1JlcSBtc2dSZXEgPSBuZXcgTXNnUmVxKCk7CiAgICAgICAgICAgICAgICAgICAgbXNnUmVxLnNldEZyb20oc3Vic2NyaXB0aW9uLmdldFF1ZXVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PENvbnRlbnQ+IGNvbnRlbnRzID0gcmVjb3JkTGlzdC5zdHJlYW0oKS5tYXAociAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIENvbnRlbnQgY29udGVudCA9IG5ldyBDb250ZW50KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQuc2V0TXNnSWQoci5rZXkoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQuc2V0Qm9keShyLnZhbHVlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udGVudDsKICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRvcGljUmVjb3Jkcy4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
