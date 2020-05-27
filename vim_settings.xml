@@ -127,20 +127,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1590458046573">
+      <file name="/a.dummy" timestamp="1590550415890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunAutoConfiguration.java" timestamp="1590549098496">
-        <mark key="[" line="42" column="80" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="39" column="12" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1590549129066">
-        <mark key="[" line="58" column="42" />
-        <mark key="]" line="58" column="8" />
-        <mark key="^" line="58" column="8" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientAutoConfiguration.java" timestamp="1590550430604">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="81" column="44" />
+        <mark key="^" line="81" column="44" />
+        <mark key="." line="81" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590458481383">
         <mark key="[" line="14" column="25" />
@@ -166,6 +160,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/main/java/com/alsc/saas/gw/http/client/HttpClientProperties.java" timestamp="1590549997775">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/spring-boot-alibaba-context/2019-09-stable/spring-boot-alibaba-context-2019-09-stable-sources.jar!/com/alibaba/boot/autoconfigure/condition/ConditionalOnSpringBoot2.java" timestamp="1590458123154" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot15x.java" timestamp="1590458515371">
@@ -197,7 +197,7 @@
         <mark key="." line="118" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.0/common-boot-1.2.0-sources.jar!/com/alsc/boot/startup/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590546972679" />
-      <file name="/fragment.java" timestamp="1590477839223">
+      <file name="/fragment.java" timestamp="1590550415900">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -307,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3JzICE9IG51bGwgJiYgIWludGVyY2VwdG9ycy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYXN5bmNSZXN0VGVtcGxhdGUuc2V0SW50ZXJjZXB0b3JzKGludGVyY2VwdG9ycyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -325,37 +325,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7CiAgICAgICAgUHJvcGVydHlTb3VyY2VMb2FkZXIgbG9hZGVyID0gZmluZExvYWRlcihkYXRhSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzeW5jUmVzdFRlbXBsYXRlLnNldEludGVyY2VwdG9ycyhpbnRlcmNlcHRvckxpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3JzICE9IG51bGwgJiYgIWludGVyY2VwdG9ycy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYXN5bmNSZXN0VGVtcGxhdGUuc2V0SW50ZXJjZXB0b3JzKGludGVyY2VwdG9ycyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBpZighY29uZmlnLmlzVXNlRXVyZWthKCkpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3JzICE9IG51bGwgJiYgIWludGVyY2VwdG9ycy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYXN5bmNSZXN0VGVtcGxhdGUuc2V0SW50ZXJjZXB0b3JzKGludGVyY2VwdG9ycyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGludGVyZmFjZSBDb25kaXRpb25hbE9uU3ByaW5nQm9vdDIgewoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZmlnTmFtZSA9IGdyb3VwSWQgKyAiOiIgKyBkYXRhSWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
