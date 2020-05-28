@@ -127,29 +127,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/gs-centralized-configuration/initial/configuration-client/src/main/resources/application.properties" timestamp="1590662354146">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Config1.java" timestamp="1590656380512">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="14" column="1" />
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" timestamp="1590657076314">
-        <mark key="[" line="133" column="68" />
-        <mark key="]" line="133" column="69" />
-        <mark key="^" line="133" column="69" />
-        <mark key="." line="133" column="68" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScopeRefreshedEvent.java" timestamp="1590658667847">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1590658212350">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-        <mark key="." line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Config2.java" timestamp="1590657606818">
         <mark key="[" line="8" column="0" />
@@ -163,17 +151,51 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySource.java" timestamp="1590654819847">
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="36" column="20" />
-        <mark key="^" line="36" column="20" />
-        <mark key="." line="36" column="19" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationAwareOrderComparator.java" timestamp="1590655451159">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590654408482">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="18" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScope.java" timestamp="1590658662604" />
+      <file name="$USER_HOME$/Documents/Projects/gs-centralized-configuration/initial/configuration-service/src/main/resources/application.properties" timestamp="1590661569499">
+        <mark key="[" line="0" column="71" />
+        <mark key="]" line="0" column="71" />
+        <mark key="^" line="0" column="71" />
+        <mark key="." line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590655569822">
+        <mark key="[" line="47" column="62" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/EchoServiceImpl.java" timestamp="1590656510949">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" timestamp="1590662809259">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="137" column="38" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScopeRefreshedEvent.java" timestamp="1590658667847">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1590658212350">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/gs-centralized-configuration/initial/configuration-service/src/main/java/com/example/centralizedconfigurationservice/CentralizedConfigurationServiceApplication.java" timestamp="1590661269874">
+        <mark key="[" line="6" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1590655202848">
         <mark key="[" line="0" column="0" />
@@ -186,50 +208,28 @@
         <mark key="^" line="30" column="57" />
         <mark key="." line="30" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/gs-centralized-configuration/initial/configuration-client/src/main/java/com/example/centralizedconfigurationclient/CentralizedConfigurationClientApplication.java" timestamp="1590661979332">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedRpcFilter.java" timestamp="1590656145044">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceSpringBoot15x.java" timestamp="1590654491595">
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="40" />
-        <mark key="^" line="26" column="40" />
-        <mark key="." line="26" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/gs-centralized-configuration/initial/configuration-client/src/main/resources/bootstrap.properties" timestamp="1590661818613">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationAwareOrderComparator.java" timestamp="1590655451159">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590654835724">
-        <mark key="[" line="26" column="77" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.2.RELEASE/spring-cloud-context-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScope.java" timestamp="1590658662604" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot15x.java" timestamp="1590654828287">
-        <mark key="[" line="25" column="78" />
-        <mark key="]" line="25" column="85" />
-        <mark key="^" line="25" column="85" />
-        <mark key="." line="25" column="84" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590655569822">
-        <mark key="[" line="47" column="62" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590654300556">
-        <mark key="[" line="56" column="24" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.0.M3/spring-cloud-context-2.2.0.M3-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScope.java" timestamp="1590662678396">
+        <mark key="[" line="161" column="22" />
+        <mark key="]" line="161" column="22" />
+        <mark key="^" line="161" column="22" />
+        <mark key="." line="161" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1590655202835">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/EchoServiceImpl.java" timestamp="1590656510949">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -338,7 +338,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyLnB1Ymxpc2hFdmVudChuZXcgUmVmcmVzaFNjb3BlUmVmcmVzaGVkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -359,31 +359,31 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1ib290LXNwcmluZy1ib290LTJ4LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaGVyLnB1Ymxpc2hFdmVudChuZXcgUmVmcmVzaFNjb3BlUmVmcmVzaGVkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlZnJlc2hTY29wZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">QFJlZnJlc2hTY29wZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
