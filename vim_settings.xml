@@ -127,103 +127,108 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportLoadBalancerConfiguration.java" timestamp="1590650946535">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Config1.java" timestamp="1590656380512">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1590646821689">
-        <mark key="[" line="229" column="24" />
-        <mark key="]" line="44" column="54" />
-        <mark key="^" line="44" column="54" />
-        <mark key="." line="44" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/DiamondWatchAutoConfiguration.java" timestamp="1590657076314">
+        <mark key="[" line="133" column="68" />
+        <mark key="]" line="133" column="69" />
+        <mark key="^" line="133" column="69" />
+        <mark key="." line="133" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590652112158">
-        <mark key="[" line="3" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Config2.java" timestamp="1590657606818">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/pom.xml" timestamp="1590654042533">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.25.RELEASE/spring-core-4.3.25.RELEASE-sources.jar!/org/springframework/core/annotation/Order.java" timestamp="1590656043444">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="19" />
+        <mark key="^" line="65" column="19" />
+        <mark key="." line="65" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/diamond/BaseDiamondPropertySource.java" timestamp="1590654819847">
+        <mark key="[" line="35" column="49" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/resources/META-INF/spring.factories" timestamp="1590654222916">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590654408482">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590655202848">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1590579523896">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="140" column="39" />
-        <mark key="]" line="140" column="44" />
-        <mark key="." line="140" column="43" />
-        <mark key="^" line="140" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Application.java" timestamp="1590657614438">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1590650940486">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/SpringDelegatedRpcFilter.java" timestamp="1590656145044">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/Subscriber.java" timestamp="1590578211979">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceSpringBoot15x.java" timestamp="1590654491595">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/resources/application.properties" timestamp="1590647074266">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="32" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationAwareOrderComparator.java" timestamp="1590655451159">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSynchronizer.java" timestamp="1590578237128">
-        <mark key="[" line="52" column="99" />
-        <mark key="]" line="52" column="124" />
-        <mark key="^" line="52" column="124" />
-        <mark key="." line="52" column="123" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590654835724">
+        <mark key="[" line="26" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/Choicesaas.java" timestamp="1590584021285">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="24" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-15x-starter/src/main/java/com/alsc/boot/diamond/DiamondPropertySourceLocatorSpringBoot15x.java" timestamp="1590654828287">
+        <mark key="[" line="25" column="78" />
+        <mark key="]" line="25" column="85" />
+        <mark key="^" line="25" column="85" />
+        <mark key="." line="25" column="84" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/annotation/LoadBalancerClientConfigurationRegistrar.java" timestamp="1590650825007" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1590646841245">
-        <mark key="[" line="228" column="38" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590655569822">
+        <mark key="[" line="47" column="62" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsSubscriber.java" timestamp="1590579133625">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/boot/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590654300556">
+        <mark key="[" line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfGwProxy.java" timestamp="1590583399128">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar!/org/apache/kafka/common/TopicPartition.java" timestamp="1590574639796">
-        <mark key="'" line="24" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-loadbalancer/2.2.2.RELEASE/spring-cloud-loadbalancer-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/loadbalancer/annotation/LoadBalancerClientConfiguration.java" timestamp="1590649814758" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1590651865645">
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="45" column="1" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="1" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.3.1/kafka-clients-2.3.1-sources.jar!/org/apache/kafka/clients/consumer/OffsetAndMetadata.java" timestamp="1590569589493">
-        <mark key="[" line="24" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/test/java/com/alsc/saas/gw/hsf/client/HsfGwClientTest.java" timestamp="1590651871916">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="42" column="91" />
-        <mark key="^" line="42" column="91" />
-        <mark key="." line="42" column="90" />
-      </file>
-      <file name="/fragment.java" timestamp="1590649170448">
+      <file name="/fragment.java" timestamp="1590655202835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/notify-tr-client-sdk/5.0.4--2019-09-stable-rocketmq-optimize/notify-tr-client-sdk-5.0.4--2019-09-stable-rocketmq-optimize.jar!/com/taobao/notify/common/config/threadpool/ThreadPoolConfig.class" timestamp="1590567848847">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/EchoServiceImpl.java" timestamp="1590656510949">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -332,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,43 +349,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>consumer.subscribe(subscriptions.keySet())</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygic2VydmljZSBncm91cCA9IHt9IG5vdCBmb3VuZCIsIHNlcnZpY2VHcm91cCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5wb3M8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1ib290LXNwcmluZy1ib290LTJ4LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlZnJlc2hTY29wZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCk7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
