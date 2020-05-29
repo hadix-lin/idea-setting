@@ -127,100 +127,111 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Fastjson.java" timestamp="1590669833488">
-        <mark key="'" line="45" column="49" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="29" column="49" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="39" column="86" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/common/boot/ModuleConfigDuplicateChecker.java" timestamp="1590732822258">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="25" />
+        <mark key="^" line="75" column="25" />
+        <mark key="." line="75" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" timestamp="1590718677049">
-        <mark key="'" line="8" column="50" />
-        <mark key="[" line="95" column="15" />
-        <mark key="]" line="95" column="20" />
-        <mark key="^" line="95" column="20" />
-        <mark key="." line="95" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" timestamp="1590734983544">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonFacade.java" timestamp="1590665818705">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/HttpRequest.java" timestamp="1590734461265">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="169" column="7" />
+        <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfApi.java" timestamp="1590665313597" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/test/java/com/alsc/common/json/Person.java" timestamp="1590668945223">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-log/src/main/java/com/alsc/pos/common/log/AfterLogInfo.java" timestamp="1590733343337">
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/test/java/com/alsc/common/json/JsonTest.java" timestamp="1590718553359">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-test/pom.xml" timestamp="1590733357377">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/test/java/com/alsc/common/json/JacksonTest.java" timestamp="1590718451887">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="52" column="36" />
-        <mark key="." line="52" column="35" />
-        <mark key="^" line="52" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/impl/reactornetty/ReactorNettyHttpRequest.java" timestamp="1590734905521">
+        <mark key="[" line="143" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/ObjectConverter.java" timestamp="1590668049394">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/AsyncHttpRequest.java" timestamp="1590734482748">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-util/src/main/java/com/alsc/pos/common/util/JsonUtil.java" timestamp="1590664880963">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="26" />
-        <mark key="^" line="66" column="26" />
-        <mark key="." line="66" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/impl/okhttp/OkHttpRequest.java" timestamp="1590734948572">
+        <mark key="[" line="196" column="44" />
+        <mark key="]" line="196" column="44" />
+        <mark key="." line="196" column="43" />
+        <mark key="^" line="196" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonProcessException.java" timestamp="1590718607064">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590734812213">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/test/java/com/alsc/common/json/JsonConverterTest.java" timestamp="1590718532520">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="53" column="5" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonComponent.java" timestamp="1590668694475">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="73" column="38" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Jackson.java" timestamp="1590718278671">
-        <mark key="[" line="13" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/common/diamond/BaseDiamondPropertySource.java" timestamp="1590732861486">
+        <mark key="[" line="73" column="25" />
         <mark key="]" line="73" column="25" />
-        <mark key="." line="73" column="24" />
         <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590669453147">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/common/boot/Boot.java" timestamp="1590732795350">
+        <mark key="[" line="167" column="21" />
+        <mark key="]" line="167" column="21" />
+        <mark key="^" line="167" column="21" />
+        <mark key="." line="167" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/pom.xml" timestamp="1590668794792">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/BaseLoggingRpcFilter.java" timestamp="1590733113434">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/interceptor/hsf/RpcExceptionServerFilter.java" timestamp="1590719270673">
-        <mark key="[" line="41" column="48" />
-        <mark key="]" line="41" column="57" />
-        <mark key="." line="41" column="56" />
-        <mark key="^" line="41" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1590732779135">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="16" />
+        <mark key="^" line="36" column="16" />
+        <mark key="." line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonConverter.java" timestamp="1590718805457" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-test/src/test/java/com/alsc/saas/gw/transport/SerializerTest.java" timestamp="1590668902100" />
-      <file name="/fragment.java" timestamp="1590718429720">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Jackson.java" timestamp="1590735849049">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="41" />
+        <mark key="^" line="40" column="41" />
+        <mark key="." line="40" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590734820662">
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/src/main/java/com/alsc/common/boot/PandoraSarVersionValidator.java" timestamp="1590732829995">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="^" line="47" column="13" />
+        <mark key="." line="47" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonConverter.java" timestamp="1590735760994">
+        <mark key="[" line="110" column="44" />
+        <mark key="]" line="110" column="43" />
+        <mark key="^" line="110" column="43" />
+        <mark key="." line="110" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/pom.xml" timestamp="1590734893351">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1590734719042">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -329,8 +340,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoY2F1c2UgaW5zdGFuY2VvZiBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24pIHsKICAgICAgICAgICAgZXJyb3JNZXNzYWdlID0gY2F1c2UuZ2V0TWVzc2FnZSgpOwogICAgICAgIH0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwcGVyLnJlYWRWYWx1ZShqc29uU3RyaW5nLCB0YXJnZXRUeXBlKTsK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -348,39 +359,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0VG9Kc29uKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgUGVyc29uIHBlcnNvbiA9IFBlcnNvbi5iYXNpYygpOwogICAgICAgIFN0cmluZyBqc29uVGV4dCA9IGNvbnZlcnRlci50b0pzb24ocGVyc29uKTsKICAgICAgICBQZXJzb24gcmVzdWx0ID0gY29udmVydGVyLnRvT2JqZWN0KGpzb25UZXh0LCBQZXJzb24uY2xhc3MpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocGVyc29uLCByZXN1bHQpOwoKICAgICAgICBQZXJzb24gcmVzdWx0MiA9IGNvbnZlcnRlci50b09iamVjdChqc29uVGV4dCwgKFR5cGUpUGVyc29uLmNsYXNzKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHBlcnNvbiwgcmVzdWx0Mik7CiAgICB9CgogICAgQFN1cHByZXNzV2FybmluZ3MoInJhd3R5cGVzIikKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0Q29udmVydCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFBlcnNvbiBwZXJzb24gPSBQZXJzb24uYmFzaWMoKTsKICAgICAgICBNYXAgbWFwID0gY29udmVydGVyLmNvbnZlcnQocGVyc29uLCBNYXAuY2xhc3MpOwogICAgICAgIGJ5dGVbXSBqc29uQnl0ZXMgPSBjb252ZXJ0ZXIudG9CeXRlcyhtYXApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigianNvbkJ5dGVzID0gIiArIG5ldyBTdHJpbmcoanNvbkJ5dGVzKSk7CiAgICAgICAgUGVyc29uIHJlc3VsdCA9IGNvbnZlcnRlci50b09iamVjdChqc29uQnl0ZXMsIFBlcnNvbi5jbGFzcyk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhwZXJzb24sIHJlc3VsdCk7CgogICAgICAgIFBlcnNvbiByZXN1bHQyID0gY29udmVydGVyLnRvT2JqZWN0KGpzb25CeXRlcywgKFR5cGUpUGVyc29uLmNsYXNzKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHBlcnNvbiwgcmVzdWx0Mik7CgogICAgICAgIE1hcCBtYXAyID0gY29udmVydGVyLmNvbnZlcnQocGVyc29uLCAoVHlwZSlNYXAuY2xhc3MpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobWFwLCBtYXAyKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwcGVyLnJlYWRWYWx1ZShqc29uU3RyaW5nLCB0YXJnZXRUeXBlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoY2F1c2UgaW5zdGFuY2VvZiBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24pIHsKICAgICAgICAgICAgZXJyb3JNZXNzYWdlID0gY2F1c2UuZ2V0TWVzc2FnZSgpOwogICAgICAgIH0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSnNvblByb2Nlc3NFeGNlcHRpb24oVGhyb3dhYmxlIGNhdXNlKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uUHJvY2Vzc0V4Y2VwdGlvbigpIHsKICAgIH0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uUHJvY2Vzc0V4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIHN1cGVyKG1lc3NhZ2UpOwogICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uUHJvY2Vzc0V4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UpOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uUHJvY2Vzc0V4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlLCBib29sZWFuIGVuYWJsZVN1cHByZXNzaW9uLAogICAgICAgIGJvb2xlYW4gd3JpdGFibGVTdGFja1RyYWNlKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UsIGVuYWJsZVN1cHByZXNzaW9uLCB3cml0YWJsZVN0YWNrVHJhY2UpOwogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>final</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="8">
-        <text>final
-final
-final</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnRvb2wuaHR0cC5Kc29uOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWxzYy5wb3MuY29tbW9uLnV0aWwuSnNvblV0aWwudG9Kc29uOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8udGFpci5qc29uLkpzb247Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8Z3JvdXBJZD5jb20uYWxzYy5jb21tb248L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
