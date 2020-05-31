@@ -130,31 +130,52 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/EchoServiceTestConfiguration.java" timestamp="1590928272747">
         <mark key="[" line="15" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1590919259970">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/SpringDelegatedRpcFilter.java" timestamp="1590919386946">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="60" />
-        <mark key="^" line="23" column="60" />
-        <mark key="." line="23" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/LoggingClientFilter.java" timestamp="1590924025907">
         <mark key="[" line="16" column="92" />
         <mark key="]" line="14" column="48" />
         <mark key="^" line="14" column="48" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/LoggingServerFilter.java" timestamp="1590924061673">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/LoggingServerFilter.java" timestamp="1590929976552">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="43" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/BaseLoggingRpcFilter.java" timestamp="1590928102074">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/BaseLoggingRpcFilter.java" timestamp="1590931123793">
+        <mark key="[" line="119" column="9" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="116" column="28" />
+        <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/EmailRpcValidationServerFilter.java" timestamp="1590929781614">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcFilterProperties.java" timestamp="1590930981050">
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionClientFilter.java" timestamp="1590929483569">
+        <mark key="^" line="40" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionServerFilter.java" timestamp="1590929841201">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="41" column="9" />
+        <mark key="^" line="46" column="88" />
+        <mark key="." line="46" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/ConstraintViolationExceptionServerFilter.java" timestamp="1590930046991">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="86" />
+        <mark key="." line="21" column="85" />
+        <mark key="^" line="21" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/manager/impl/DeviceFacadeImpl.java" timestamp="1590922254557" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/TestRpcValidationServerFilter.java" timestamp="1590921097447">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -162,52 +183,18 @@
         <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-client/src/main/java/com/alsc/pos/msg/service/PosMessageService.java" timestamp="1590922789808" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcValidationServerFilter.java" timestamp="1590919004555">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/AbstractRpcValidationServerFilter.java" timestamp="1590920305491">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/EmailRpcValidationServerFilter.java" timestamp="1590921541023">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/HsfRpcException.java" timestamp="1590924925297">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="36" />
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1590920948779">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="54" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcFilterAutoConfiguration.java" timestamp="1590928057288" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionClientFilter.java" timestamp="1590924596126">
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="10" />
-        <mark key="^" line="47" column="10" />
-        <mark key="." line="47" column="9" />
+      <file name="/Dummy.txt" timestamp="1590928304204">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionServerFilter.java" timestamp="1590924769401">
-        <mark key="[" line="46" column="75" />
-        <mark key="]" line="46" column="88" />
-        <mark key="^" line="46" column="88" />
-        <mark key="." line="46" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/pom.xml" timestamp="1590920143804">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="37" column="20" />
-        <mark key="^" line="37" column="20" />
-        <mark key="." line="37" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/EchoServiceTest.java" timestamp="1590928416703">
+        <mark key="[" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcException.java" timestamp="1590921909710">
         <mark key="[" line="8" column="13" />
@@ -215,10 +202,15 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1590924647462">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1590930670803">
+        <mark key="[" line="1" column="71" />
+        <mark key="]" line="1" column="59" />
+        <mark key="^" line="1" column="59" />
+        <mark key="." line="1" column="58" />
+      </file>
+      <file name="/fragment.java" timestamp="1590929860293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-message/message-service/src/main/java/com/alsc/pos/msg/manager/impl/DeviceFacadeImpl.java" timestamp="1590922254557" />
     </filemarks>
     <jumps>
       <jump line="32" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/RsocketAcceptor.java" />
@@ -326,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIEkgKyB0b0pzb24obWV0aG9kQXJncykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -338,43 +330,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>ALSC_HSF_RPC_FILTER_ORDER - 1</text>
+        <text>return null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIEkgKyB0b0pzb24obWV0aG9kQXJncykK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgcmVzcCA9IHJwY1Jlc3VsdC5nZXRBcHBSZXNwb25zZSgpOwogICAgICAgIGlmICghKHJlc3AgaW5zdGFuY2VvZiBUaHJvd2FibGUpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIFRocm93YWJsZSBjYXVzZSA9IChUaHJvd2FibGUpcmVzcDsKICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlOwogICAgICAgIGlmIChjYXVzZSBpbnN0YW5jZW9mIENvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pIHsKICAgICAgICAgICAgZXJyb3JNZXNzYWdlID0gYnVpbGRFcnJvck1lc3NhZ2UoKENvbnN0cmFpbnRWaW9sYXRpb25FeGNlcHRpb24pY2F1c2UpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGVycm9yTWVzc2FnZSA9IGNhdXNlLmdldE1lc3NhZ2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yQ29kZSA9IGNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihtZXNzYWdlLCBjYXVzZSwgdHJ1ZSwgd3JpdGFibGVTdGFja1RyYWNlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjYXVzZS5nZXRNZXNzYWdlKCksIG51bGwsIGZhbHNlLCB0cnVlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text />
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yQ29kZSA9IGNvZGU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihtZXNzYWdlLCBjYXVzZSwgdHJ1ZSwgd3JpdGFibGVTdGFja1RyYWNlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihjYXVzZS5nZXRNZXNzYWdlKCksIG51bGwsIGZhbHNlLCB0cnVlKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXB0ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE9yZGVyKEFMU0NfUlBDX0xPR0dJTkdfRklMVEVSX09SREVSKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXB0ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
