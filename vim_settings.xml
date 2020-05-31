@@ -127,84 +127,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/pom.xml" timestamp="1590844812646">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/pos/common/validator/annotation/rule/WithinEnumValidator.java" timestamp="1590846377843">
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590844959570">
-        <mark key="]" line="385" column="12" />
-        <mark key="^" line="385" column="12" />
-        <mark key="." line="385" column="11" />
+      <file name="/a.dummy" timestamp="1590913339356">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-enum/src/main/java/com/alsc/pos/common/emums/base/Codec.java" timestamp="1590846323459">
         <mark key="[" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/common/boot/ModuleConfigEnvironmentPostProcessor.java" timestamp="1590845461596">
-        <mark key="[" line="336" column="78" />
-        <mark key="]" line="328" column="56" />
-        <mark key="^" line="328" column="56" />
-        <mark key="." line="328" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/resources/services/com.alsc.common.json.JsonConverter" timestamp="1590914389964">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-/pom.xml" timestamp="1590844714861">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/common/validate/annotation/WithinEnumValidator.java" timestamp="1590908891406">
+        <mark key="[" line="72" column="49" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="42" />
+        <mark key="^" line="72" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/pos/common/validator/annotation/rule/WithInEnumValidateRule.java" timestamp="1590846366282">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="29" column="34" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="29" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/env/Profiles.java" timestamp="1590845417946">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1590844828554">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-dal/pom.xml" timestamp="1590844919282">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-/common-boot-spring-boot-2x-starter/pom.xml" timestamp="1590844651070">
-        <mark key="[" line="50" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/src/main/java/com/alsc/common/boot/diamond/DiamondPropertySourceLocatorSpringBoot2x.java" timestamp="1590845193856">
-        <mark key="[" line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/pom.xml" timestamp="1590845874079">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot-/common-boot-core/pom.xml" timestamp="1590844696409">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-15x-starter/pom.xml" timestamp="1590845696748">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-template/pom.xml" timestamp="1590908155976">
         <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/common/validate/annotation/WithinEnum.java" timestamp="1590909110710">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="52" />
+        <mark key="^" line="36" column="78" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" timestamp="1590914329534">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/NotBlank.java" timestamp="1590909108465">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/pos/common/validator/annotation/WithinEnum.java" timestamp="1590846198315">
         <mark key="[" line="53" column="37" />
@@ -212,17 +167,50 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnum.java" timestamp="1590909714915">
+        <mark key="[" line="44" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnumValidator.java" timestamp="1590913453092">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="72" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-enum/pom.xml" timestamp="1590845811120">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/pom.xml" timestamp="1590845639643">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcValidationServerFilter.java" timestamp="1590913858309">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/pos/common/validator/annotation/rule/WithinEnumValidator.java" timestamp="1590907909158">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/src/main/java/com/alsc/pos/common/validator/annotation/rule/WithInEnumValidateRule.java" timestamp="1590846366282">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590909199873">
+        <mark key="[" line="380" column="28" />
+        <mark key="]" line="380" column="29" />
+        <mark key="^" line="380" column="29" />
+        <mark key="." line="380" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validator/pom.xml" timestamp="1590909143159">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -331,7 +319,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4yLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -343,44 +331,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9jb2RlPg==</text>
+        <text>throws IllegalAccessException, InvocationTargetException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MS4yLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjb2RlVHlwZSA9IFN0cmluZy5jbGFzczsKICAgICAgICBNZXRob2QgY29kZUdldHRlck1ldGhvZCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgY29kZUdldHRlck1ldGhvZCA9IGVudW1DbGFzcy5nZXRNZXRob2QoY29kZUdldHRlck1ldGhvZE5hbWUpOwogICAgICAgICAgICBjb2RlVHlwZSA9IGNvZGVHZXR0ZXJNZXRob2QuZ2V0UmV0dXJuVHlwZSgpOwogICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBpZ25vcmUpIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8dmVyc2lvbj4yLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihFY2hvU2VydmljZUltcGwuY2xhc3MpOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSHR0cEFwaSBodHRwQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEludm9jYXRpb25UYXJnZXRFeGNlcHRpb24gZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KAogICAgICAgICAgICAgICAgZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJlc3AgPSBodHRwQXBpLmdldCgiaHR0cDovL2NpdGVzdGluZnJhLXNhc3MtZGVtby1wcml2YXRlLnNoaXNoaWtlLmNvbS9zYXNzL3Zpc2l0IikKICAgICAgICAgICAgICAgICAgICAgICAgLnNlbmRGb3IoU3RyaW5nLmNsYXNzKTsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbyhyZXNwKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmJvdW5kZWRFbGFzdGljKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F1c2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlsbGVnYWxBY2Nlc3NFeGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjb2RlVHlwZSA9IFN0cmluZy5jbGFzczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjb2RlVHlwZSA9IFN0cmluZy5jbGFzczsKICAgICAgICBNZXRob2QgY29kZUdldHRlck1ldGhvZCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgY29kZUdldHRlck1ldGhvZCA9IGVudW1DbGFzcy5nZXRNZXRob2QoY29kZUdldHRlck1ldGhvZE5hbWUpOwogICAgICAgICAgICBjb2RlVHlwZSA9IGNvZGVHZXR0ZXJNZXRob2QuZ2V0UmV0dXJuVHlwZSgpOwogICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBpZ25vcmUpIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhY2tUcmFjZUVsZW1lbnRbXSBzdGFja1RyYWNlID0gZXJyb3IuZ2V0U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBMaXN0PFN0YWNrVHJhY2VFbGVtZW50PiBmaWx0ZXJlZCA9IG5ldyBBcnJheUxpc3Q8PihzdGFja1RyYWNlLmxlbmd0aCk7CiAgICAgICAgICAgIGZvciAoU3RhY2tUcmFjZUVsZW1lbnQgZWxlbWVudCA6IHN0YWNrVHJhY2UpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBjbGFzc05hbWUgPSBlbGVtZW50LmdldENsYXNzTmFtZSgpOwogICAgICAgICAgICAgICAgaWYgKGNsYXNzTmFtZS5zdGFydHNXaXRoKCJjb20uYWxzYy5jb21tb24uaW50ZXJjZXB0b3IuaHNmIikKICAgICAgICAgICAgICAgICAgICB8fCBjbGFzc05hbWUuc3RhcnRzV2l0aCgiY29tLnRhb2Jhby5oc2YiKQogICAgICAgICAgICAgICAgICAgIHx8IGNsYXNzTmFtZS5zdGFydHNXaXRoKCJjb20uZ29vZ2xlLmNvbW1vbi51dGlsLmNvbmN1cnJlbnQiKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmlsdGVyZWQuYWRkKGVsZW1lbnQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVycm9yLnNldFN0YWNrVHJhY2UoZmlsdGVyZWQudG9BcnJheShFTVBUWV9TVEFDS19UUkFDRV9BUlJBWSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQ29uc3RyYWludFZpb2xhdGlvbkJ1aWxkZXIgY3ZCdWlsZGVyID0gY29udGV4dC5idWlsZENvbnN0cmFpbnRWaW9sYXRpb25XaXRoVGVtcGxhdGUoCiAgICAgICAgICAgICAgICBjb250ZXh0LmdldERlZmF1bHRDb25zdHJhaW50TWVzc2FnZVRlbXBsYXRlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>/*.append(x.getRootBeanClass().getSimpleName())
-                .append('.')*/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
