@@ -127,6 +127,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/EchoServiceTestConfiguration.java" timestamp="1590928272747">
+        <mark key="[" line="15" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1590919259970">
         <mark key="[" line="0" column="1" />
       </file>
@@ -148,7 +151,10 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/BaseLoggingRpcFilter.java" timestamp="1590924659065" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/BaseLoggingRpcFilter.java" timestamp="1590928102074">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/TestRpcValidationServerFilter.java" timestamp="1590921097447">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -174,9 +180,6 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Jackson.java" timestamp="1590916784805">
-        <mark key="[" line="63" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/HsfRpcException.java" timestamp="1590924925297">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="36" />
@@ -187,12 +190,7 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="54" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/ConstraintValidatorContext.java" timestamp="1590918947937">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="17" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcFilterAutoConfiguration.java" timestamp="1590928057288" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionClientFilter.java" timestamp="1590924596126">
         <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="10" />
@@ -328,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yQ29kZSA9IGNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIEkgKyB0b0pzb24obWV0aG9kQXJncykK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -346,7 +344,7 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBIc2ZScGNFeGNlcHRpb24oU3RyaW5nIGNvZGUsIFN0cmluZyBtZXNzYWdlLCBUaHJvd2FibGUgY2F1c2UsIGJvb2xlYW4gd3JpdGFibGVTdGFja1RyYWNlKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UsIHRydWUsIHdyaXRhYmxlU3RhY2tUcmFjZSk7CiAgICAgICAgdGhpcy5lcnJvckNvZGUgPSBjb2RlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIEkgKyB0b0pzb24obWV0aG9kQXJncykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yQ29kZSA9IGNvZGU7Cg==</text>
