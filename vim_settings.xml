@@ -127,86 +127,122 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/Boot.java" timestamp="1590983701302">
-        <mark key="[" line="77" column="61" />
-        <mark key="]" line="77" column="61" />
-        <mark key="^" line="77" column="61" />
-        <mark key="." line="77" column="60" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-event-bus-metaq/src/test/java/com/alsc/saas/gw/event/metaq/MetaqEventBusTest.java" timestamp="1590995361271">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1590983783976" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/HttpRequest.java" timestamp="1590979277592">
-        <mark key="[" line="205" column="19" />
-        <mark key="]" line="205" column="18" />
-        <mark key="^" line="205" column="18" />
-        <mark key="." line="205" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-process/pom.xml" timestamp="1590994499530">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590982837308">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1590995176874">
+        <mark key="[" line="131" column="44" />
+        <mark key="]" line="131" column="54" />
+        <mark key="^" line="131" column="54" />
+        <mark key="." line="131" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/okhttp/OkHttpRequest.java" timestamp="1590979586917">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-template/pom.xml" timestamp="1590994520350">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/AsyncHttpRequest.java" timestamp="1590983536674">
-        <mark key="[" line="81" column="15" />
-        <mark key="]" line="73" column="18" />
-        <mark key="^" line="73" column="18" />
-        <mark key="." line="73" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HttpExecutor.java" timestamp="1590995451050">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/Http.java" timestamp="1590978966066">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-log/pom.xml" timestamp="1590994478005">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/reactornetty/ReactorNettyHttp.java" timestamp="1590978801609">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="45" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="55" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/pom.xml" timestamp="1590995268509">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="45" />
+        <mark key="^" line="37" column="45" />
+        <mark key="." line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/src/test/java/com/alsc/saas/gw/http/client/keruyun/HttpGwClientTest.java" timestamp="1590982810546" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/test/java/com/alsc/common/http/OkHttpClientTest.java" timestamp="1590979023963">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-event-bus/pom.xml" timestamp="1590994876244">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/src/test/resources/application.yml" timestamp="1590981075245">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/pom.xml" timestamp="1590995039723">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="21" />
       </file>
-      <file name="/Dummy.java" timestamp="1590979217288">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-doc-spring-boot-starter/pom.xml" timestamp="1590994660954">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-hsf/pom.xml" timestamp="1590994940745">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-event-bus/src/test/java/com/alsc/saas/gw/event/SpringEventDistributorTest.java" timestamp="1590995323056">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/pom.xml" timestamp="1590995074010">
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="28" />
+        <mark key="^" line="56" column="28" />
+        <mark key="." line="56" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/pom.xml" timestamp="1590994896227">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-event-bus-metaq/pom.xml" timestamp="1590994888487">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/apollo/ApolloWatchAutoConfiguration.java" timestamp="1590995384858">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590995484156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/README.MD" timestamp="1590982820613">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/pom.xml" timestamp="1590995297880">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590982845231">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-session/pom.xml" timestamp="1590994544799">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/test/java/com/alsc/common/http/ReactorNettyHttpTest.java" timestamp="1590983400712">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/AbstractHttpRequest.java" timestamp="1590979460447">
-        <mark key="^" line="239" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/README.MD" timestamp="1590979631704" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/reactornetty/ReactorNettyHttpRequest.java" timestamp="1590983242867">
-        <mark key="[" line="144" column="66" />
-        <mark key="]" line="144" column="65" />
-        <mark key="^" line="144" column="65" />
-        <mark key="." line="144" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/pom.xml" timestamp="1590995065252">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="27" />
       </file>
     </filemarks>
     <jumps>
