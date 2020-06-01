@@ -127,23 +127,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/Boot.java" timestamp="1590983701302">
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="61" />
+        <mark key="^" line="77" column="61" />
+        <mark key="." line="77" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/HttpRequest.java" timestamp="1590979277592">
         <mark key="[" line="205" column="19" />
         <mark key="]" line="205" column="18" />
         <mark key="^" line="205" column="18" />
         <mark key="." line="205" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcFilterProperties.java" timestamp="1590933061721">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="55" />
-        <mark key="^" line="18" column="55" />
-        <mark key="." line="18" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1590982837308">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/okhttp/OkHttpRequest.java" timestamp="1590979586917">
         <mark key="[" line="32" column="12" />
         <mark key="]" line="32" column="18" />
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/AsyncHttpRequest.java" timestamp="1590983536674">
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="73" column="18" />
+        <mark key="^" line="73" column="18" />
+        <mark key="." line="73" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/Http.java" timestamp="1590978966066">
         <mark key="[" line="23" column="12" />
@@ -163,17 +175,12 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="55" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/src/test/java/com/alsc/saas/gw/http/client/keruyun/HttpGwClientTest.java" timestamp="1590982810546" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/test/java/com/alsc/common/http/OkHttpClientTest.java" timestamp="1590979023963">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/HttpClient.java" timestamp="1590978337517">
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/src/test/resources/application.yml" timestamp="1590981075245">
         <mark key="[" line="1" column="10" />
@@ -184,39 +191,27 @@
       <file name="/Dummy.java" timestamp="1590979217288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/AbstractRpcValidationServerFilter.java" timestamp="1590932728728">
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="28" column="54" />
-        <mark key="^" line="28" column="54" />
-        <mark key="." line="28" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/README.MD" timestamp="1590980949898">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/README.MD" timestamp="1590982820613">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/apache/ApacheHttp.java" timestamp="1590978425314">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="44" />
+      <file name="/Dummy.txt" timestamp="1590982845231">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/okhttp/OkHttp.java" timestamp="1590978437086">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/EchoServiceTest.java" timestamp="1590932928918">
-        <mark key="[" line="24" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/test/java/com/alsc/common/http/ReactorNettyHttpTest.java" timestamp="1590983400712">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/AbstractHttpRequest.java" timestamp="1590979460447">
         <mark key="^" line="239" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/README.MD" timestamp="1590979631704" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/reactornetty/ReactorNettyHttpRequest.java" timestamp="1590978828264">
-        <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-        <mark key="." line="33" column="68" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/common/http/impl/reactornetty/ReactorNettyHttpRequest.java" timestamp="1590983242867">
+        <mark key="[" line="144" column="66" />
+        <mark key="]" line="144" column="65" />
+        <mark key="^" line="144" column="65" />
+        <mark key="." line="144" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -325,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIDxUPiBUIHN1Ym1pdEZvcihDbGFzczxUPiBjbGF6eikgdGhyb3dzIEh0dHBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBzdWJtaXRGb3IoKChUeXBlKWNsYXp6KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOaPkOS6pOivt+axgizmnJ/mnJvov5Tlm55KU09O5qC85byP55qE5paH5pys5ZON5bqULOS8muiHquWKqOi9rOaNouS4uuaMh+Wumuexu+Wei+eahOWvueixoQogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiDmnJ/mnJvnmoTnsbvlnosKICAgICAqIEBwYXJhbSA8VD4gICDmnJ/mnJvnmoTnu5PmnpznsbvlnosKICAgICAqIEByZXR1cm4g5pyf5pyb57G75Z6L55qE5a+56LGhCiAgICAgKiBAdGhyb3dzIEh0dHBFeGNlcHRpb24g5Lu75L2V6ZSZ6K+v5YyF6KOF5Li66K+l5byC5bi457G75Z6L5oqb5Ye6CiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCA8VD4gVCBzdWJtaXRGb3IoQ2xhc3M8VD4gY2xhenopIHRocm93cyBIdHRwRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gYXN5bmNTdWJtaXRGb3IoY2xhenopLmJsb2NrKCk7CiAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -343,37 +338,37 @@
         <text encoding="base64">XDxqYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VibWl0KHJlc3AgLT4gewogICAgICAgICAgICBIdHRwRW50aXR5IGVudGl0eSA9IHJlc3AuZ2V0RW50aXR5KCk7CiAgICAgICAgICAgIENvbnRlbnRUeXBlIGNvbnRlbnRUeXBlID0gQ29udGVudFR5cGUuZ2V0KGVudGl0eSk7CiAgICAgICAgICAgIENoYXJzZXQgY2hhcnNldCA9IGNvbnRlbnRUeXBlLmdldENoYXJzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIEpzb24udG9PYmplY3QoCiAgICAgICAgICAgICAgICBlbnRpdHkuZ2V0Q29udGVudCgpLAogICAgICAgICAgICAgICAgY2hhcnNldCAhPSBudWxsID8gY2hhcnNldCA6IFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgsCiAgICAgICAgICAgICAgICBjbGF6eik7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOaPkOS6pOivt+axgizmnJ/mnJvov5Tlm55KU09O5qC85byP55qE5paH5pys5ZON5bqULOS8muiHquWKqOi9rOaNouS4uuaMh+Wumuexu+Wei+eahOWvueixoQogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiDmnJ/mnJvnmoTnsbvlnosKICAgICAqIEBwYXJhbSA8VD4gICDmnJ/mnJvnmoTnu5PmnpznsbvlnosKICAgICAqIEByZXR1cm4g5pyf5pyb57G75Z6L55qE5a+56LGhCiAgICAgKiBAdGhyb3dzIEh0dHBFeGNlcHRpb24g5Lu75L2V6ZSZ6K+v5YyF6KOF5Li66K+l5byC5bi457G75Z6L5oqb5Ye6CiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCA8VD4gVCBzdWJtaXRGb3IoQ2xhc3M8VD4gY2xhenopIHRocm93cyBIdHRwRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gYXN5bmNTdWJtaXRGb3IoY2xhenopLmJsb2NrKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIDxUPiBUIHN1Ym1pdEZvcihDbGFzczxUPiBjbGF6eikgdGhyb3dzIEh0dHBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBzdWJtaXRGb3IoKChUeXBlKWNsYXp6KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VibWl0KHJlc3AgLT4gewogICAgICAgICAgICBIdHRwRW50aXR5IGVudGl0eSA9IHJlc3AuZ2V0RW50aXR5KCk7CiAgICAgICAgICAgIENvbnRlbnRUeXBlIGNvbnRlbnRUeXBlID0gQ29udGVudFR5cGUuZ2V0KGVudGl0eSk7CiAgICAgICAgICAgIENoYXJzZXQgY2hhcnNldCA9IGNvbnRlbnRUeXBlLmdldENoYXJzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIEpzb24udG9PYmplY3QoCiAgICAgICAgICAgICAgICBlbnRpdHkuZ2V0Q29udGVudCgpLAogICAgICAgICAgICAgICAgY2hhcnNldCAhPSBudWxsID8gY2hhcnNldCA6IFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgsCiAgICAgICAgICAgICAgICBjbGF6eik7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIDxUPiBUIHN1Ym1pdEZvcihDbGFzczxUPiBjbGF6eikgdGhyb3dzIEh0dHBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBzdWJtaXRGb3IoKChUeXBlKWNsYXp6KSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VibWl0KHJlc3AgLT4gewogICAgICAgICAgICBIdHRwRW50aXR5IGVudGl0eSA9IHJlc3AuZ2V0RW50aXR5KCk7CiAgICAgICAgICAgIENvbnRlbnRUeXBlIGNvbnRlbnRUeXBlID0gQ29udGVudFR5cGUuZ2V0KGVudGl0eSk7CiAgICAgICAgICAgIENoYXJzZXQgY2hhcnNldCA9IGNvbnRlbnRUeXBlLmdldENoYXJzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIEpzb24udG9PYmplY3QoCiAgICAgICAgICAgICAgICBlbnRpdHkuZ2V0Q29udGVudCgpLAogICAgICAgICAgICAgICAgY2hhcnNldCAhPSBudWxsID8gY2hhcnNldCA6IFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgsCiAgICAgICAgICAgICAgICBjbGF6eik7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
