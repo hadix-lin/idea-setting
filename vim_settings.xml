@@ -127,6 +127,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1591083352624">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/MemberInfoReporter.java" timestamp="1591066630656">
+        <mark key="[" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueue.java" timestamp="1591082796589" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" timestamp="1591090729293" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueueServiceInstance.java" timestamp="1591083311188">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591066417909">
+        <mark key="[" line="29" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/TargetConfig.java" timestamp="1591066274821">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ReportAutoConfiguration.java" timestamp="1591064239299">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="56" />
@@ -145,36 +171,14 @@
       <file name="$USER_HOME$/docker/kafka/docker-compose.yml" timestamp="1591082262070">
         <mark key="[" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Boot.java" timestamp="1591005472797">
-        <mark key="[" line="56" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1591083352624">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/MemberInfoReporter.java" timestamp="1591066630656">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1591091157160">
+        <mark key="[" line="170" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ReporterProperties.java" timestamp="1591064354045">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="27" />
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueue.java" timestamp="1591082796589" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueueServiceInstance.java" timestamp="1591083311188">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591066417909">
-        <mark key="[" line="29" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1591005548882">
-        <mark key="[" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/src/main/resources/META-INF/spring.factories" timestamp="1591005824723">
         <mark key="[" line="3" column="48" />
@@ -184,12 +188,6 @@
       </file>
       <file name="/fragment.java" timestamp="1591005894860">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/TargetConfig.java" timestamp="1591066274821">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="25" />
       </file>
     </filemarks>
     <jumps>
