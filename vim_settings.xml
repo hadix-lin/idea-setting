@@ -127,13 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591066237510" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1591004595031">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="20" column="66" />
-        <mark key="^" line="20" column="66" />
-        <mark key="." line="20" column="65" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ReportAutoConfiguration.java" timestamp="1591064239299">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="56" />
@@ -146,18 +139,17 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591078302034">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-boot-spring-boot-2x-starter/2.0.0-SNAPSHOT/common-boot-spring-boot-2x-starter-2.0.0-SNAPSHOT.jar!/META-INF/spring.factories" timestamp="1591004731169">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="57" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/pos/common-boot/1.2.1-SNAPSHOT/common-boot-1.2.1-20200513.080348-1.jar!/META-INF/spring.factories" timestamp="1591005616274" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/src/main/resources/META-INF/spring.factories" timestamp="1591005824723">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="48" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Boot.java" timestamp="1591005472797">
+        <mark key="[" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/Boot.java" timestamp="1591005391609">
         <mark key="[" line="60" column="43" />
@@ -165,8 +157,8 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1591005548882">
-        <mark key="[" line="12" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/MemberInfoReporter.java" timestamp="1591066630656">
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ReporterProperties.java" timestamp="1591064354045">
         <mark key="[" line="19" column="26" />
@@ -174,35 +166,38 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-boot-core/2.0.0-SNAPSHOT/common-boot-core-2.0.0-SNAPSHOT-sources.jar!/com/alsc/common/diamond/DiamondWatchAutoConfiguration.java" timestamp="1591066561496" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1591066201900" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/MemberInfoReporter.java" timestamp="1591066630656">
-        <mark key="[" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLauncher.java" timestamp="1591066307766" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591066417909">
-        <mark key="[" line="29" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/TargetConfig.java" timestamp="1591066274821">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591005894870">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/Boot.java" timestamp="1591005472797">
-        <mark key="[" line="56" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591004630922">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591066417909">
+        <mark key="[" line="29" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1591005548882">
+        <mark key="[" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/src/main/resources/META-INF/spring.factories" timestamp="1591005824723">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1591004595031">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="20" column="66" />
+        <mark key="^" line="20" column="66" />
+        <mark key="." line="20" column="65" />
+      </file>
       <file name="/fragment.java" timestamp="1591005894860">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/TargetConfig.java" timestamp="1591066274821">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="25" />
       </file>
     </filemarks>
     <jumps>
