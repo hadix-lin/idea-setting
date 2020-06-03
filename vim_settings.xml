@@ -161,11 +161,17 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591169779900">
-        <mark key="[" line="330" column="19" />
-        <mark key="]" line="326" column="20" />
-        <mark key="." line="326" column="19" />
-        <mark key="^" line="326" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591172071705">
+        <mark key="[" line="344" column="25" />
+        <mark key="]" line="344" column="25" />
+        <mark key="." line="344" column="24" />
+        <mark key="^" line="344" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/pom.xml" timestamp="1591172178110">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSynchronizer.java" timestamp="1591150863203">
         <mark key="[" line="75" column="26" />
@@ -185,7 +191,6 @@
         <mark key="." line="35" column="4" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591150211241" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1591165620914">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="51" column="17" />
@@ -202,8 +207,8 @@
       <file name="/Dummy.txt" timestamp="1591167679716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1591169523992">
-        <mark key="[" line="107" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1591172288589">
+        <mark key="[" line="93" column="54" />
         <mark key="]" line="108" column="39" />
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="39" />
@@ -342,7 +347,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LWNsaWVudC1odHRwLWtlcnV5dW48L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNC4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -360,7 +365,7 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmFsc2Muc2Fhcy5ndzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LW1xX2FsaXl1bi1vbnM8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLmd3PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYWFzLWd3LWNsaWVudC1odHRwLWtlcnV5dW48L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuNC4wLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
