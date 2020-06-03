@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGxvYWRTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDx1cGxvYWRGaWxlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxzeW5jQXBwXD4=</entry>
         <entry encoding="base64">XDx0YXNrSWRcPg==</entry>
         <entry>hsf</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry encoding="base64">XDxqYXJcPg==</entry>
+        <entry>mq</entry>
+        <entry>gw.mq</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -136,7 +136,8 @@
       <file name="/a.dummy" timestamp="1591157425649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1591151001643">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" timestamp="1591164878258">
+        <mark key="'" line="92" column="0" />
         <mark key="[" line="93" column="2" />
         <mark key="]" line="93" column="2" />
         <mark key="." line="93" column="1" />
@@ -153,8 +154,11 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="65" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/MemberInfoReporter.java" timestamp="1591066630656">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591165532705">
+        <mark key="[" line="326" column="39" />
+        <mark key="]" line="326" column="43" />
+        <mark key="." line="326" column="42" />
+        <mark key="^" line="326" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSynchronizer.java" timestamp="1591150863203">
         <mark key="[" line="75" column="26" />
@@ -162,9 +166,7 @@
         <mark key="^" line="75" column="26" />
         <mark key="." line="75" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueue.java" timestamp="1591082796589" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/logback-spring.xml" timestamp="1591093153472" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" timestamp="1591090729293" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/config/MetaqQueueServiceInstance.java" timestamp="1591156409128">
         <mark key="[" line="35" column="5" />
         <mark key="]" line="35" column="5" />
@@ -172,17 +174,27 @@
         <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591150211241" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1591165620914">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientManager.java" timestamp="1591094151490">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="20" />
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1591165766728">
+        <mark key="'" line="198" column="25" />
+        <mark key="[" line="257" column="64" />
+        <mark key="]" line="257" column="30" />
+        <mark key="^" line="257" column="30" />
+        <mark key="." line="257" column="29" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591151396782">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/docker/kafka/docker-compose.yml" timestamp="1591082262070">
-        <mark key="[" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1591157413906">
         <mark key="[" line="51" column="12" />
@@ -190,11 +202,23 @@
         <mark key="^" line="51" column="12" />
         <mark key="." line="51" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/test/java/com/alsc/saas/gw/mq/KafkaTest.java" timestamp="1591164872437">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1591091248855">
         <mark key="[" line="191" column="48" />
         <mark key="]" line="191" column="29" />
         <mark key="^" line="191" column="29" />
         <mark key="." line="191" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/application.yml" timestamp="1591165001683">
+        <mark key="[" line="258" column="22" />
+        <mark key="]" line="258" column="22" />
+        <mark key="^" line="258" column="22" />
+        <mark key="." line="258" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1591156481410">
         <mark key="[" line="0" column="0" />
@@ -207,23 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/RsocketAcceptor.java" />
-      <jump line="34" column="23" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
-      <jump line="12" column="11" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/server/RouteConstants.java" />
-      <jump line="42" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="173" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="50" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
-      <jump line="123" column="25" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="70" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" />
-      <jump line="35" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" />
-      <jump line="83" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/conn/AbstractConnManager.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
-      <jump line="22" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureConnManager.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/InsecureAcceptor.java" />
       <jump line="23" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureConnManager.java" />
       <jump line="159" column="57" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureAcceptorConnManager.java" />
@@ -290,7 +297,6 @@
       <jump line="143" column="21" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="236" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="245" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
-      <jump line="251" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="43" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/RouteInfoCollector.java" />
       <jump line="61" column="36" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/saas/common/exception/hsf/RpcLoggingClientFilter.java" />
@@ -307,6 +313,24 @@
       <jump line="91" column="18" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" />
       <jump line="8" column="50" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" />
       <jump line="43" column="54" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcExceptionClientFilter.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" />
+      <jump line="46" column="2" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="103" column="62" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="104" column="48" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="128" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="135" column="15" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="188" column="62" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="189" column="48" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="204" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="211" column="15" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="228" column="30" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="244" column="26" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="251" column="15" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="8" column="42" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="28" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="67" column="62" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="68" column="48" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="198" column="25" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,10 +351,10 @@
         <text>StringUtils.join(pieces,&quot;.&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqYXJcPg==</text>
+        <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOaPkOS6pOivt+axgizmnJ/mnJvov5Tlm55KU09O5qC85byP55qE5paH5pys5ZON5bqULOS8muiHquWKqOi9rOaNouS4uuaMh+Wumuexu+Wei+eahOWvueixoQogICAgICoKICAgICAqIEBwYXJhbSBjbGF6eiDmnJ/mnJvnmoTnsbvlnosKICAgICAqIEBwYXJhbSA8VD4gICDmnJ/mnJvnmoTnu5PmnpznsbvlnosKICAgICAqIEByZXR1cm4g5pyf5pyb57G75Z6L55qE5a+56LGhCiAgICAgKiBAdGhyb3dzIEh0dHBFeGNlcHRpb24g5Lu75L2V6ZSZ6K+v5YyF6KOF5Li66K+l5byC5bi457G75Z6L5oqb5Ye6CiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCA8VD4gVCBzdWJtaXRGb3IoQ2xhc3M8VD4gY2xhenopIHRocm93cyBIdHRwRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gYXN5bmNTdWJtaXRGb3IoY2xhenopLmJsb2NrKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgIDxpZD5rZXJ1eXVuLXJlbGVhc2VzPC9pZD4KICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLnNoaXNoaWtlLmNvbS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgIDxpZD5rZXJ1eXVuLXNuYXBzaG90czwvaWQ+CiAgICAgICAgICA8dXJsPmh0dHA6Ly9uZXh1cy5zaGlzaGlrZS5jb20vbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLzwvdXJsPgogICAgICAgIDwvc25hcHNob3RSZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,28 +363,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgPGlkPmtlcnV5dW4uY3JtLW5leHVzLXJlbGVhc2VzPC9pZD4KICAgICAgICA8dXJsPmh0dHA6Ly9uZXh1cy5zaGlzaGlrZS5jb20vbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvcmVsZWFzZXMvPC91cmw+CiAgICAgIDwvcmVwb3NpdG9yeT4KICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICA8aWQ+a2VydXl1bi5jcm0tbmV4dXMtc25hcHNob3RzPC9pZD4KICAgICAgICA8dXJsPmh0dHA6Ly9uZXh1cy5zaGlzaGlrZS5jb20vbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLzwvdXJsPgogICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -369,13 +393,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqYXJcPg==</last-search>
+      <last-search>gw.mq</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqYXJcPg==</last-pattern>
+      <last-pattern>gw.mq</last-pattern>
       <last-replace>^v^m</last-replace>
       <last-substitute encoding="base64">XDxleGNlcHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
