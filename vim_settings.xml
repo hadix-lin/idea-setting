@@ -142,9 +142,6 @@
         <mark key="." line="344" column="24" />
         <mark key="^" line="344" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http-keruyun/pom.xml" timestamp="1591172178110">
-        <mark key="[" line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/AsyncHsfInvoker.java" timestamp="1591274846033" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1591180909869">
         <mark key="[" line="128" column="39" />
@@ -211,12 +208,18 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591275001668">
+      <file name="/Dummy.txt" timestamp="1591276497275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591167679705">
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591276642098">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591276497264">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -325,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e.printStackTrace();</text>
+      <register name="&quot;" type="2">
+        <text>spring.hsf.version=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -347,37 +350,37 @@
         <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIGthZmthQ29uZmlnID0gZ2V0S2Fma2FDb25maWcoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>修正notify不支持动态改变订阅关系导致diamond动态更新失败的问题
-
-1. 仅变更key包含mq同步相关配置时执行mq变更逻辑
-2. NotifySubscriber的不支持操作将抛出异常改为打印警告日志</text>
+        <text>spring.hsf.version=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修正notify不支持动态改变订阅关系导致diamond动态更新失败的问题
+
+1. 仅变更key包含mq同步相关配置时执行mq变更逻辑
+2. NotifySubscriber的不支持操作将抛出异常改为打印警告日志</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0cmFjaW5nVG9vbC4gICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB0cmFjaW5nVG9vbC4gICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZWUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBrZXlzID0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZWUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBrZXlzID0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2luZ1Rvb2wubG9nKElORk8pOwogICAgICAgICAgICBMaXN0PENvbnN1bWVyUmVjb3JkPFN0cmluZywgYnl0ZVtdPj4gdG9waWNSZWNvcmRzID0gY29uc3VtZXJSZWNvcmRzLnJlY29yZHMocGFydGl0aW9uKTsKICAgICAgICAgICAgTGlzdDxDb250ZW50PiBjb250ZW50cyA9IHRvcGljUmVjb3Jkcy5zdHJlYW0oKS5tYXAociAtPiB7CiAgICAgICAgICAgICAgICBDb250ZW50IGNvbnRlbnQgPSBuZXcgQ29udGVudCgpOwogICAgICAgICAgICAgICAgY29udGVudC5zZXRNc2dJZChyLmtleSgpKTsKICAgICAgICAgICAgICAgIGNvbnRlbnQuc2V0Qm9keShyLnZhbHVlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIGNvbnRlbnQ7CiAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgICAgIE1zZ1JlcSBtc2dSZXEgPSBuZXcgTXNnUmVxKCk7CiAgICAgICAgICAgIG1zZ1JlcS5zZXRDb250ZW50cyhjb250ZW50cyk7CiAgICAgICAgICAgIG1zZ1JlcS5zZXRGcm9tKHN1YnNjcmlwdGlvbi5nZXRRdWV1ZSgpKTsKICAgICAgICAgICAgUmVzdWx0IHJlc3VsdCA9IHN1YnNjcmlwdGlvbi5nZXRIYW5kbGVyKCkuYXBwbHkobXNnUmVxKTsKICAgICAgICAgICAgU3RhdHVzIHN0YXR1cyA9IHJlc3VsdC5nZXRTdGF0dXMoKTsKICAgICAgICAgICAgaWYgKHN0YXR1cyA9PSBTdGF0dXMuU1VDQ0VTUykgewogICAgICAgICAgICAgICAgY29tbWl0KGNvbnN1bWVyLCBwYXJ0aXRpb24sIHRvcGljUmVjb3Jkcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdHJhY2luZ1Rvb2wubG9nKEVORCwgc3RhdHVzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
