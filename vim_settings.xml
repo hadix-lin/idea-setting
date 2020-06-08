@@ -140,25 +140,26 @@
         <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-core/src/main/java/com/alsc/saas/thirdgw/core/manager/BaseAuthProcessor.java" timestamp="1591608564915" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591612904125">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1591608285282">
         <mark key="[" line="229" column="44" />
         <mark key="]" line="229" column="44" />
         <mark key="^" line="229" column="44" />
         <mark key="." line="229" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1591612959279">
+        <mark key="[" line="32" column="113" />
+        <mark key="]" line="32" column="113" />
+        <mark key="^" line="32" column="113" />
+        <mark key="." line="32" column="112" />
+      </file>
       <file name="/Dummy.java" timestamp="1591608508831">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/service/impl/WxPayHttpServiceImpl.java" timestamp="1591589805277">
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="33" />
-        <mark key="^" line="70" column="33" />
-        <mark key="." line="70" column="32" />
-      </file>
-      <file name="/ReporterProperties.java" timestamp="1591582697698" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591413543626">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="307" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1591604629022">
         <mark key="[" line="0" column="0" />
@@ -166,15 +167,28 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-eleme/src/main/java/com/alsc/saas/thirdgw/biz/eleme/processor/ElemeBizInvokeProcessor.java" timestamp="1591608669374" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591607987188">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591613045749">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-core-model/src/main/java/com/alsc/saas/thirdgw/core/model/ThirdAuthDomainModel.java" timestamp="1591608453233" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591613347113" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/base/BaseBizInvokeProcessor.java" timestamp="1591608577567" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClient.java" timestamp="1591613328701">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="1" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/biz/ThirdGwService.java" timestamp="1591609020098" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/DelegatedGwClient.java" timestamp="1591612906905">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+        <mark key="." line="37" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591604612710">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -296,7 +310,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>diamond修正单个文件错误导致其他无法</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -317,7 +331,7 @@
         <text encoding="base64">ICAgICAqIOino+aekGpzb27ovpPlhaXmtYEs5LulVVRGOOino+eggeWtl+espizovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEK</text>
       </register>
       <register name="1" type="2">
-        <text>diamond修正单个文件错误导致其他无法</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -326,25 +340,25 @@
         <text>diamond修正单个文件错误导致其他无法</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC4K</text>
+        <text>diamond修正单个文件错误导致其他无法</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQo=</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIOi9rOaNoumUmeivrwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIOi9rOaNoumUmeivrwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27op6PmnpDplJnor68K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5p6QanNvbui+k+WFpea1gSzovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEKICAgICAqCiAgICAgKiBAcGFyYW0gaW4gICAgICDovpPlhaXmtYEKICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQogICAgICogQHBhcmFtIHR5cGUgICAg55uu5qCH57G75Z6LCiAgICAgKiBAcmV0dXJuIOi9rOaNoue7k+aenAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27op6PmnpDplJnor68K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
