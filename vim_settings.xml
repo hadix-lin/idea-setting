@@ -127,22 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591604629022">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/client/MsgReq.java" timestamp="1591338573529">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-test/src/test/java/com/alsc/saas/gw/transport/Test.java" timestamp="1591329303249">
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" timestamp="1591604233725">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="37" />
@@ -155,22 +139,15 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize-sources.jar!/com/taobao/hsf/invocation/FutureInvocationHandler.java" timestamp="1591408928674">
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="23" />
-        <mark key="^" line="38" column="23" />
-        <mark key="." line="38" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-core/src/main/java/com/alsc/saas/thirdgw/core/manager/BaseAuthProcessor.java" timestamp="1591608564915" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1591608285282">
+        <mark key="[" line="229" column="44" />
+        <mark key="]" line="229" column="44" />
+        <mark key="^" line="229" column="44" />
+        <mark key="." line="229" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/test/java/Test.java" timestamp="1591338516939">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591604612710">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.java" timestamp="1591608508831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/service/impl/WxPayHttpServiceImpl.java" timestamp="1591589805277">
         <mark key="[" line="70" column="33" />
@@ -178,24 +155,44 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="32" />
       </file>
+      <file name="/ReporterProperties.java" timestamp="1591582697698" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591413543626">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="307" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591604629022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-eleme/src/main/java/com/alsc/saas/thirdgw/biz/eleme/processor/ElemeBizInvokeProcessor.java" timestamp="1591608669374" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591607987188">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-core-model/src/main/java/com/alsc/saas/thirdgw/core/model/ThirdAuthDomainModel.java" timestamp="1591608453233" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/base/BaseBizInvokeProcessor.java" timestamp="1591608577567" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize-sources.jar!/com/taobao/hsf/invocation/FutureInvocationHandler.java" timestamp="1591408928674">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591604612710">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonConverter.java" timestamp="1591604184994">
         <mark key="[" line="103" column="13" />
         <mark key="]" line="103" column="5" />
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="4" />
       </file>
-      <file name="/ReporterProperties.java" timestamp="1591582697698" />
-      <file name="/fragment.java" timestamp="1591341666346">
-        <mark key="[" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591413543626">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="307" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/java/com/alsc/common/demo/EchoServiceImpl.java" timestamp="1591341653142">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/fragment.java" timestamp="1591608164243">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
