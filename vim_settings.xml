@@ -143,11 +143,10 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-report/saas-gw-server-report/src/main/java/com/alsc/saas/gw/server/report/ClusterInfoCollector.java" timestamp="1591328745752">
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="42" column="58" />
-        <mark key="^" line="42" column="58" />
-        <mark key="." line="42" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/Json.java" timestamp="1591604233725">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="37" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-rocketmq-optimize-sources.jar!/com/taobao/hsf/invocation/FutureInvocationHelper.java" timestamp="1591597492819" />
       <file name="$MAVEN_REPOSITORY$/com/alsc/crm/alsc-crm-center-client/1.1.1.2020011602/alsc-crm-center-client-1.1.1.2020011602.jar!/com/alsc/crm/center/client/member/service/memsync/QMMemSyncApi.class" timestamp="1591602874919">
@@ -174,18 +173,18 @@
         <mark key="^" line="70" column="33" />
         <mark key="." line="70" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/src/main/java/com/alsc/common/json/JsonConverter.java" timestamp="1591604184994">
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="103" column="5" />
+        <mark key="^" line="103" column="5" />
+        <mark key="." line="103" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-jackson/src/test/java/com/alsc/saas/gw/transport/json/Test.java" timestamp="1591329010812">
         <mark key="[" line="2" column="19" />
       </file>
       <file name="/ReporterProperties.java" timestamp="1591582697698" />
       <file name="/fragment.java" timestamp="1591341666346">
         <mark key="[" line="0" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.14.RELEASE/spring-boot-2.1.14.RELEASE.jar!/org/springframework/boot/logging/LoggingSystemProperties.class" timestamp="1591325281039">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591413543626">
         <mark key="[" line="282" column="0" />
@@ -303,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2stbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+JHtsb21ib2stbWF2ZW4tcGx1Z2luLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgPHBoYXNlPmdlbmVyYXRlLXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgIDxnb2FsPmRlbG9tYm9rPC9nb2FsPgogICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8YWRkT3V0cHV0RGlyZWN0b3J5PmZhbHNlPC9hZGRPdXRwdXREaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8c291cmNlRGlyZWN0b3J5PnNyYy9tYWluL2phdmE8L3NvdXJjZURpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxmb3JtYXRQcmVmZXJlbmNlcz4KICAgICAgICAgICAgICAgICAgPGluZGVudD40PC9pbmRlbnQ+CiAgICAgICAgICAgICAgICAgIDxmaW5hbFBhcmFtcz5za2lwPC9maW5hbFBhcmFtcz4KICAgICAgICAgICAgICAgICAgPGNvbnN0cnVjdG9yUHJvcGVydGllcz5za2lwPC9jb25zdHJ1Y3RvclByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICAgIDxzdXBwcmVzc1dhcm5pbmdzPnNraXA8L3N1cHByZXNzV2FybmluZ3M+CiAgICAgICAgICAgICAgICAgIDxkYW5jZUFyb3VuZElkZUNoZWNrcz5za2lwPC9kYW5jZUFyb3VuZElkZUNoZWNrcz4KICAgICAgICAgICAgICAgICAgPGdlbmVyYXRlRGVsb21ib2tDb21tZW50PnNraXA8L2dlbmVyYXRlRGVsb21ib2tDb21tZW50PgogICAgICAgICAgICAgICAgICA8amF2YUxhbmdBc0ZRTj5za2lwPC9qYXZhTGFuZ0FzRlFOPgogICAgICAgICAgICAgICAgPC9mb3JtYXRQcmVmZXJlbmNlcz4KICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAqIOino+aekGpzb27ovpPlhaXmtYEs5LulVVRGOOino+eggeWtl+espizovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEK</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -321,37 +320,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2stbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+JHtsb21ib2stbWF2ZW4tcGx1Z2luLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgPHBoYXNlPmdlbmVyYXRlLXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgIDxnb2FsPmRlbG9tYm9rPC9nb2FsPgogICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8YWRkT3V0cHV0RGlyZWN0b3J5PmZhbHNlPC9hZGRPdXRwdXREaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8c291cmNlRGlyZWN0b3J5PnNyYy9tYWluL2phdmE8L3NvdXJjZURpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxmb3JtYXRQcmVmZXJlbmNlcz4KICAgICAgICAgICAgICAgICAgPGluZGVudD40PC9pbmRlbnQ+CiAgICAgICAgICAgICAgICAgIDxmaW5hbFBhcmFtcz5za2lwPC9maW5hbFBhcmFtcz4KICAgICAgICAgICAgICAgICAgPGNvbnN0cnVjdG9yUHJvcGVydGllcz5za2lwPC9jb25zdHJ1Y3RvclByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICAgIDxzdXBwcmVzc1dhcm5pbmdzPnNraXA8L3N1cHByZXNzV2FybmluZ3M+CiAgICAgICAgICAgICAgICAgIDxkYW5jZUFyb3VuZElkZUNoZWNrcz5za2lwPC9kYW5jZUFyb3VuZElkZUNoZWNrcz4KICAgICAgICAgICAgICAgICAgPGdlbmVyYXRlRGVsb21ib2tDb21tZW50PnNraXA8L2dlbmVyYXRlRGVsb21ib2tDb21tZW50PgogICAgICAgICAgICAgICAgICA8amF2YUxhbmdBc0ZRTj5za2lwPC9qYXZhTGFuZ0FzRlFOPgogICAgICAgICAgICAgICAgPC9mb3JtYXRQcmVmZXJlbmNlcz4KICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAqIOino+aekGpzb27ovpPlhaXmtYEs5LulVVRGOOino+eggeWtl+espizovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIOi9rOaNoumUmeivrwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuY2xpZW50Lk1zZ1JlcS5QYXlsb2FkOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuY2xpZW50Lk1zZ1JlcTsK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27op6PmnpDplJnor68K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICB9</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5p6QanNvbui+k+WFpea1gSzovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEKICAgICAqCiAgICAgKiBAcGFyYW0gaW4gICAgICDovpPlhaXmtYEKICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQogICAgICogQHBhcmFtIHR5cGUgICAg55uu5qCH57G75Z6LCiAgICAgKiBAcmV0dXJuIOi9rOaNoue7k+aenAogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlZnJlc2hTY29wZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+MjAxOS0wOS1zdGFibGU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text>spring.hsf.version=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuY2xpZW50Lk1zZ1JlcS5QYXlsb2FkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
