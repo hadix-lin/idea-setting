@@ -127,7 +127,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591341657846">
+      <file name="/Dummy.txt" timestamp="1591604629022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -167,6 +167,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/main/resources/application.properties" timestamp="1591604612710">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/service/impl/WxPayHttpServiceImpl.java" timestamp="1591589805277">
         <mark key="[" line="70" column="33" />
         <mark key="]" line="70" column="33" />
@@ -178,9 +183,6 @@
         <mark key="]" line="103" column="5" />
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-jackson/src/test/java/com/alsc/saas/gw/transport/json/Test.java" timestamp="1591329010812">
-        <mark key="[" line="2" column="19" />
       </file>
       <file name="/ReporterProperties.java" timestamp="1591582697698" />
       <file name="/fragment.java" timestamp="1591341666346">
@@ -302,7 +304,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIOino+aekGpzb27ovpPlhaXmtYEs5LulVVRGOOino+eggeWtl+espizovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEK</text>
+        <text>diamond修正单个文件错误导致其他无法</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -323,34 +325,34 @@
         <text encoding="base64">ICAgICAqIOino+aekGpzb27ovpPlhaXmtYEs5LulVVRGOOino+eggeWtl+espizovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQo=</text>
+        <text>diamond修正单个文件错误导致其他无法</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIOi9rOaNoumUmeivrwo=</text>
+        <text>diamond修正单个文件错误导致其他无法</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27op6PmnpDplJnor68K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIOi9rOaNoumUmeivrwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5p6QanNvbui+k+WFpea1gSzovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEKICAgICAqCiAgICAgKiBAcGFyYW0gaW4gICAgICDovpPlhaXmtYEKICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQogICAgICogQHBhcmFtIHR5cGUgICAg55uu5qCH57G75Z6LCiAgICAgKiBAcmV0dXJuIOi9rOaNoue7k+aenAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27ovazmjaLplJnor68K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uIGpzb27op6PmnpDplJnor68K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbHNjLnNhYXMuZ3cuY2xpZW50Lk1zZ1JlcS5QYXlsb2FkOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6Kej5p6QanNvbui+k+WFpea1gSzovazmjaLkuLrmjIflrprnsbvlnovnmoTlr7nosaEKICAgICAqCiAgICAgKiBAcGFyYW0gaW4gICAgICDovpPlhaXmtYEKICAgICAqIEBwYXJhbSBjaGFyc2V0IOWtl+espue8lueggQogICAgICogQHBhcmFtIHR5cGUgICAg55uu5qCH57G75Z6LCiAgICAgKiBAcmV0dXJuIOi9rOaNoue7k+aenAogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
