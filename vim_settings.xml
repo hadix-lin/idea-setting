@@ -128,6 +128,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/DeviceServiceProperties.java" timestamp="1591703944987" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-test/src/test/java/com/alsc/saas/gw/transport/Test.java" timestamp="1591710332788">
+        <mark key="[" line="12" column="90" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591703057498">
         <mark key="[" line="186" column="31" />
         <mark key="]" line="7" column="27" />
@@ -135,6 +141,18 @@
         <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketClientProperties.java" timestamp="1591704656568" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1591710780903">
+        <mark key="[" line="118" column="53" />
+        <mark key="]" line="118" column="53" />
+        <mark key="^" line="118" column="53" />
+        <mark key="." line="118" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/test/java/Test.java" timestamp="1591710628059">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/ConnectSetup.java" timestamp="1591708206133">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -153,11 +171,7 @@
         <mark key="." line="37" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/transaction/TransactionAutoConfiguration.java" timestamp="1591692710393" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/pom.xml" timestamp="1591691166128">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-jackson/src/main/java/com/alsc/saas/gw/transport/json/JsonCborSerializer.java" timestamp="1591710976898" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591704562560">
         <mark key="[" line="18" column="63" />
         <mark key="]" line="18" column="63" />
@@ -181,13 +195,19 @@
         <mark key="^" line="250" column="66" />
         <mark key="." line="250" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/InsecureAutoConfiguration.java" timestamp="1591691874201">
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="29" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/security/impl/AesCryptCodec.java" timestamp="1591710044442">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591708877458">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-transport/saas-gw-transport-jackson/src/test/java/com/alsc/saas/gw/transport/json/Test.java" timestamp="1591710222278">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591710796839">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
