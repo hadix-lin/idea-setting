@@ -127,33 +127,57 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1591673058369" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1591618068837">
-        <mark key="[" line="2501" column="5" />
-        <mark key="]" line="2501" column="5" />
-        <mark key="^" line="2501" column="5" />
-        <mark key="." line="2501" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1591683632670">
+        <mark key="[" line="192" column="21" />
+        <mark key="]" line="192" column="21" />
+        <mark key="^" line="192" column="21" />
+        <mark key="." line="192" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1591670573957">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1591683003604">
+        <mark key="[" line="300" column="38" />
+        <mark key="]" line="300" column="38" />
+        <mark key="^" line="300" column="38" />
+        <mark key="." line="300" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591670245315" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/GwClientFactory.java" timestamp="1591617762743">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/BootConfigurationProperties.java" timestamp="1591685994376">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591676566265">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1591684544432">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/NoConnectionException.java" timestamp="1591615386380">
-        <mark key="[" line="5" column="61" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1591683911210" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/BootProperties.java" timestamp="1591686103262">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591687303202">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/pom.xml" timestamp="1591686624088">
+        <mark key="[" line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/ModuleAutoConfigurationPackages.java" timestamp="1591686696999">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="57" column="37" />
+        <mark key="^" line="57" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591685116896">
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="458" column="12" />
+        <mark key="." line="450" column="0" />
+        <mark key="^" line="449" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-parent/2.2.5.RELEASE/spring-boot-parent-2.2.5.RELEASE.pom" timestamp="1591675810407">
         <mark key="[" line="13" column="28" />
@@ -161,57 +185,39 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591673194161">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="123" column="48" />
-        <mark key="]" line="123" column="57" />
-        <mark key="." line="123" column="56" />
-        <mark key="^" line="123" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-client-hsf/src/main/java/com/alsc/saas/gw/hsf/client/HsfGwClient.java" timestamp="1591684397392">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591673397398">
-        <mark key="'" line="32" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeSpan.java" timestamp="1591684826983">
+        <mark key="[" line="98" column="8" />
+        <mark key="]" line="98" column="17" />
+        <mark key="." line="98" column="16" />
+        <mark key="^" line="98" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClient.java" timestamp="1591613328701">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="1" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1591686583235">
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/DelegatedGwClient.java" timestamp="1591617750826">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="6" />
-        <mark key="^" line="37" column="6" />
-        <mark key="." line="37" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591667628937">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="70" />
-        <mark key="." line="19" column="69" />
-        <mark key="^" line="19" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1591675732239">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591673423117">
+      <file name="/Dummy.txt" timestamp="1591687375539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/spring-boot-starter-parent-2.2.5.RELEASE.pom" timestamp="1591676528011">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/pom.xml" timestamp="1591667795317">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/spring-boot-starter-parent-2.2.5.RELEASE.pom" timestamp="1591682944729">
+        <mark key="[" line="94" column="30" />
+        <mark key="]" line="94" column="30" />
+        <mark key="^" line="94" column="30" />
+        <mark key="." line="94" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-15x-starter/pom.xml" timestamp="1591676766670" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starters/2.2.5.RELEASE/spring-boot-starters-2.2.5.RELEASE.pom" timestamp="1591675795755" />
+      <file name="/fragment.java" timestamp="1591687375526">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-spring-boot-2x-starter/pom.xml" timestamp="1591676006296">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="25" />
@@ -325,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+aGliZXJuYXRlLnZhbGlkYXRvcjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZ0ZhY3Rvcnk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -337,43 +343,43 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>e.printStackTrace();</text>
+        <text encoding="base64">RWFnbGVFeWVDb250ZXh0LnNjb3BlKGFjdGl2ZVNwYW4sIHMgLT4gew==</text>
       </register>
       <register name="/" type="4">
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwcm9qZWN0LnJlcG9ydGluZy5vdXRwdXRFbmNvZGluZz5VVEYtODwvcHJvamVjdC5yZXBvcnRpbmcub3V0cHV0RW5jb2Rpbmc+CiAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgogICAgPHJlc291cmNlLmRlbGltaXRlcj5APC9yZXNvdXJjZS5kZWxpbWl0ZXI+CiAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPiR7amF2YS52ZXJzaW9ufTwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgPHByb2plY3QuYnVpbGQuc291cmNlRW5jb2Rpbmc+VVRGLTg8L3Byb2plY3QuYnVpbGQuc291cmNlRW5jb2Rpbmc+CiAgICA8bWF2ZW4uY29tcGlsZXIudGFyZ2V0PiR7amF2YS52ZXJzaW9ufTwvbWF2ZW4uY29tcGlsZXIudGFyZ2V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxncm91cElkPmNvbS5hbHNjLmNvbW1vbjwvZ3JvdXBJZD4KICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbi1ib290LXNwcmluZy1ib290LTJ4LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+aGliZXJuYXRlLnZhbGlkYXRvcjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZ0ZhY3Rvcnk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgPGRlcGVuZGVuY2llcz4KICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8cGFyZW50PgogICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1wYXJlbnQ8L2FydGlmYWN0SWQ+CiAgICA8dmVyc2lvbj4yLjIuNS5SRUxFQVNFPC92ZXJzaW9uPgogIDwvcGFyZW50Pg==</text>
+        <text encoding="base64">ICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICA8dmVyc2lvbj4yLjIuNS5SRUxFQVNFPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text>增加RsocketGwClient.getConnManager,支持用户自行检查是否存在连接</text>
+        <text encoding="base64">ICA8bW9kdWxlcz4KICAgIDxtb2R1bGU+Y29tbW9uLWJvb3Q8L21vZHVsZT4KICAgIDxtb2R1bGU+Y29tbW9uLWVudW08L21vZHVsZT4KICAgIDxtb2R1bGU+Y29tbW9uLWludGVyY2VwdG9yPC9tb2R1bGU+CiAgICA8bW9kdWxlPmNvbW1vbi1odHRwPC9tb2R1bGU+CiAgICA8bW9kdWxlPmNvbW1vbi12YWxpZGF0aW9uPC9tb2R1bGU+CiAgICA8bW9kdWxlPmNvbW1vbi1kYWw8L21vZHVsZT4KICAgIDxtb2R1bGU+Y29tbW9uLWpzb248L21vZHVsZT4KICA8L21vZHVsZXM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udGFvYmFvLmVhZ2xlZXllLkVhZ2xlRXllLmNvbW1pdFJwY0NvbnRleHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuYW55KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
