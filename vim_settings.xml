@@ -135,6 +135,12 @@
         <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RsocketClientProperties.java" timestamp="1591704656568" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/ConnectSetup.java" timestamp="1591708206133">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="37" column="1" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceTransactionManagerAutoConfiguration.java" timestamp="1591702882222" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591704132956">
         <mark key="'" line="32" column="13" />
@@ -164,22 +170,25 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591691398883">
+      <file name="/Dummy.txt" timestamp="1591706564641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1591706538136">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1591709122426">
+        <mark key="[" line="250" column="66" />
+        <mark key="]" line="250" column="66" />
+        <mark key="^" line="250" column="66" />
+        <mark key="." line="250" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/InsecureAutoConfiguration.java" timestamp="1591691874201">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="40" />
         <mark key="^" line="29" column="40" />
         <mark key="." line="29" column="39" />
+      </file>
+      <file name="/fragment.java" timestamp="1591708877458">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -287,8 +296,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z3cuZGV2aWNlLXNlcnZpY2UuaHNmLnZlcnNpb246IDEuMC4wLkRBSUxZCg==</text>
+      <register name="&quot;" type="4">
+        <text>http://localhost:8080,</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -300,7 +309,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RWFnbGVFeWVDb250ZXh0LnNjb3BlKGFjdGl2ZVNwYW4sIHMgLT4gew==</text>
+        <text>http://localhost:8080,</text>
       </register>
       <register name="/" type="4">
         <text>gw.mq</text>
