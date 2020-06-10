@@ -127,11 +127,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1591757241352">
-        <mark key="[" line="642" column="26" />
-        <mark key="]" line="642" column="26" />
-        <mark key="^" line="642" column="26" />
-        <mark key="." line="642" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/QueueServiceInstance.java" timestamp="1591771747112">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1591768475037">
         <mark key="[" line="23" column="14" />
@@ -139,18 +138,17 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-dal/pom.xml" timestamp="1591757380163">
-        <mark key="[" line="31" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/ConfigUtils.java" timestamp="1591771987652">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/open-parent/pom.xml" timestamp="1591757610639">
-        <mark key="'" line="53" column="1" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="33" />
-        <mark key="^" line="66" column="33" />
-        <mark key="." line="66" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnumValidator.java" timestamp="1591757140185">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/StringToDelegatedKafkaServiceInstance.java" timestamp="1591769797522">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591768302913">
         <mark key="[" line="41" column="14" />
@@ -158,9 +156,21 @@
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/StringToQueueServiceInstanceConverter.java" timestamp="1591769926060">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="78" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="23" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591758279198">
         <mark key="'" line="71" column="0" />
         <mark key="^" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/StringToDelegatedKafkaQueueServiceInstance.java" timestamp="1591770105651">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1591758403334">
         <mark key="[" line="0" column="0" />
@@ -185,17 +195,23 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/spring-cloud-dependencies-Hoxton.SR3.pom" timestamp="1591757226035" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnum.java" timestamp="1591757138609">
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="42" />
-        <mark key="^" line="44" column="42" />
-        <mark key="." line="44" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/DelegatedKafkaProducer.java" timestamp="1591770766762">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedKafkaServiceInstance.java" timestamp="1591768509236">
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/Settable.java" timestamp="1591771906791">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedKafkaServiceInstance.java" timestamp="1591772362565">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591761310678">
         <mark key="[" line="26" column="13" />
@@ -203,17 +219,14 @@
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/pom.xml" timestamp="1591756020324">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="56" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/KeruyunProducer.java" timestamp="1591770173800">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/KeruyunProducer.java" timestamp="1591767652414">
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="51" column="21" />
-        <mark key="^" line="51" column="22" />
+      <file name="/fragment.java" timestamp="1591771723496">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/KeruyunKafkaServiceInstance.java" timestamp="1591760477484">
         <mark key="[" line="0" column="27" />
@@ -328,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25VdGlscy5maW5kRmllbGQodGhpcy5nZXRDbGFzcygpLCBmaWVsZE5hbWUpOwogICAgICAgIGlmIChmaWVsZCA9PSBudWxsKSB7cmV0dXJuO30KICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIFJlZmxlY3Rpb25VdGlscy5zZXRGaWVsZChmaWVsZCwgdGhpcywgdmFsdWUpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -346,37 +359,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2Vycy52YWx1ZXMoKS5mb3JFYWNoKEthZmthUHJvZHVjZXI6OnN0YXJ0KTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u5a6e5L6L55qE5a2X5q615bGe5oCnCiAgICAgKgogICAgICogQHBhcmFtIGZpZWxkTmFtZSDlrZfmrrXlkI0KICAgICAqIEBwYXJhbSB2YWx1ZSAgICAg5YC8CiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25VdGlscy5maW5kRmllbGQodGhpcy5nZXRDbGFzcygpLCBmaWVsZE5hbWUpOwogICAgICAgIGlmIChmaWVsZCA9PSBudWxsKSB7cmV0dXJuO30KICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIFJlZmxlY3Rpb25VdGlscy5zZXRGaWVsZChmaWVsZCwgdGhpcywgdmFsdWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u5a6e5L6L55qE5a2X5q615bGe5oCnCiAgICAgKgogICAgICogQHBhcmFtIGZpZWxkTmFtZQogICAgICogQHBhcmFtIHZhbHVlCiAgICAgKi8KICAgIGRlZmF1bHQgdm9pZCBzZXQoU3RyaW5nIGZpZWxkTmFtZSwgU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgRmllbGQgZmllbGQgPSBSZWZsZWN0aW9uVXRpbHMuZmluZEZpZWxkKHRoaXMuZ2V0Q2xhc3MoKSwgZmllbGROYW1lKTsKICAgICAgICBpZiAoZmllbGQgPT0gbnVsbCkge3JldHVybjt9CiAgICAgICAgZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBSZWZsZWN0aW9uVXRpbHMuc2V0RmllbGQoZmllbGQsIHRoaXMsIHZhbHVlKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZG9TZW5kQXN5bmMoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhbGl5dW4tc2RrLW9zcy52ZXJzaW9uPjIuOC4zPC9hbGl5dW4tc2RrLW9zcy52ZXJzaW9uPgogICAgPGNvbW1vbnMtY29tcHJlc3MudmVyc2lvbj4xLjE4PC9jb21tb25zLWNvbXByZXNzLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOagueaNruWunumZheeahOWIhuWMuuinhOWImeafpeaJvnpvbmUK</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
