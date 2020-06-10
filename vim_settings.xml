@@ -133,16 +133,11 @@
         <mark key="^" line="642" column="26" />
         <mark key="." line="642" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-parent/2.0.0/common-parent-2.0.0.pom" timestamp="1591715647420">
-        <mark key="[" line="244" column="1" />
-        <mark key="]" line="244" column="1" />
-        <mark key="^" line="244" column="1" />
-        <mark key="." line="244" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591754904812">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1591768475037">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-dal/pom.xml" timestamp="1591757380163">
         <mark key="[" line="31" column="56" />
@@ -156,6 +151,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnumValidator.java" timestamp="1591757140185">
         <mark key="'" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591768302913">
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="41" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591758279198">
         <mark key="'" line="71" column="0" />
@@ -178,24 +179,23 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/KeruyunKafkaServiceInstance.java" timestamp="1591767818804">
-        <mark key="[" line="15" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/KeruyunKafkaServiceInstance.java" timestamp="1591768502676">
+        <mark key="[" line="11" column="20" />
         <mark key="]" line="15" column="30" />
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/spring-cloud-dependencies-Hoxton.SR3.pom" timestamp="1591757226035" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/pom.xml" timestamp="1591715095383">
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="69" column="17" />
-        <mark key="^" line="69" column="17" />
-        <mark key="." line="69" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnum.java" timestamp="1591757138609">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="42" />
         <mark key="^" line="44" column="42" />
         <mark key="." line="44" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedKafkaServiceInstance.java" timestamp="1591768509236">
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591761310678">
         <mark key="[" line="26" column="13" />
