@@ -133,18 +133,11 @@
         <mark key="^" line="642" column="26" />
         <mark key="." line="642" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/old.txt" timestamp="1591713899872" />
       <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-parent/2.0.0/common-parent-2.0.0.pom" timestamp="1591715647420">
         <mark key="[" line="244" column="1" />
         <mark key="]" line="244" column="1" />
         <mark key="^" line="244" column="1" />
         <mark key="." line="244" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1591714143924">
-        <mark key="[" line="112" column="17" />
-        <mark key="]" line="112" column="17" />
-        <mark key="^" line="112" column="17" />
-        <mark key="." line="112" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1591754904812">
         <mark key="[" line="9" column="0" />
@@ -153,9 +146,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-dal/pom.xml" timestamp="1591757380163">
         <mark key="[" line="31" column="56" />
-        <mark key="]" line="32" column="20" />
-        <mark key="^" line="32" column="20" />
-        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/open-parent/pom.xml" timestamp="1591757610639">
         <mark key="'" line="53" column="1" />
@@ -164,39 +154,36 @@
         <mark key="^" line="66" column="33" />
         <mark key="." line="66" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1591712512615">
-        <mark key="[" line="118" column="52" />
-        <mark key="]" line="118" column="52" />
-        <mark key="^" line="118" column="52" />
-        <mark key="." line="118" column="51" />
-      </file>
       <file name="$USER_HOME$/Downloads/new.txt" timestamp="1591714974568" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/test/java/Test.java" timestamp="1591713057344">
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-validation/src/main/java/com/alsc/common/validation/constraints/WithinEnumValidator.java" timestamp="1591757140185">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591758271239">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591758279198">
+        <mark key="'" line="71" column="0" />
         <mark key="^" line="8" column="16" />
-        <mark key="." line="73" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591715934093">
+      <file name="/Dummy.txt" timestamp="1591758403334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1591760219545">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/pom.xml" timestamp="1591757696862">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="44" />
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/KeruyunKafkaServiceInstance.java" timestamp="1591760641177">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/spring-cloud-dependencies-Hoxton.SR3.pom" timestamp="1591757226035" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/pom.xml" timestamp="1591715095383">
@@ -211,14 +198,29 @@
         <mark key="^" line="44" column="42" />
         <mark key="." line="44" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591761310678">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="26" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/pom.xml" timestamp="1591756020324">
         <mark key="[" line="53" column="17" />
         <mark key="]" line="56" column="20" />
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1591713584765">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/KeruyunProducer.java" timestamp="1591761581542">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/KeruyunKafkaServiceInstance.java" timestamp="1591760477484">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -327,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -345,31 +347,31 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmZhc3Rqc29uPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuNjgubm9uZWF1dG90eXBlPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVByb2R1Y2Vycy52YWx1ZXMoKS5mb3JFYWNoKEthZmthUHJvZHVjZXI6OnN0YXJ0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiDpu5jorqTmnprkuL7lgLzmlrnms5XlkI0gKi8KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERUZBVUxUX1ZBTF9NRVRIT0RfTkFNRSA9ICJnZXRCeUNvZGUiOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgZG9TZW5kQXN5bmMoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhbGl5dW4tc2RrLW9zcy52ZXJzaW9uPjIuOC4zPC9hbGl5dW4tc2RrLW9zcy52ZXJzaW9uPgogICAgPGNvbW1vbnMtY29tcHJlc3MudmVyc2lvbj4xLjE4PC9jb21tb25zLWNvbXByZXNzLnZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
