@@ -138,11 +138,16 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/ConfigUtils.java" timestamp="1591771987652">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/ConfigUtils.java" timestamp="1591774163663">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/common/keycenter/ConfigCryptService.java" timestamp="1591774238030">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/StringToDelegatedKafkaServiceInstance.java" timestamp="1591769797522">
         <mark key="[" line="5" column="35" />
@@ -162,10 +167,7 @@
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/pom.xml" timestamp="1591758279198">
-        <mark key="'" line="71" column="0" />
-        <mark key="^" line="8" column="16" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591774192576" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/StringToDelegatedKafkaQueueServiceInstance.java" timestamp="1591770105651">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="4" />
@@ -182,12 +184,6 @@
         <mark key="]" line="35" column="34" />
         <mark key="^" line="35" column="34" />
         <mark key="." line="35" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-json/pom.xml" timestamp="1591757696862">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/KeruyunKafkaServiceInstance.java" timestamp="1591768502676">
         <mark key="[" line="11" column="20" />
@@ -341,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25VdGlscy5maW5kRmllbGQodGhpcy5nZXRDbGFzcygpLCBmaWVsZE5hbWUpOwogICAgICAgIGlmIChmaWVsZCA9PSBudWxsKSB7cmV0dXJuO30KICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIFJlZmxlY3Rpb25VdGlscy5zZXRGaWVsZChmaWVsZCwgdGhpcywgdmFsdWUpOwo=</text>
+        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -362,34 +358,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u5a6e5L6L55qE5a2X5q615bGe5oCnCiAgICAgKgogICAgICogQHBhcmFtIGZpZWxkTmFtZSDlrZfmrrXlkI0KICAgICAqIEBwYXJhbSB2YWx1ZSAgICAg5YC8CiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25VdGlscy5maW5kRmllbGQodGhpcy5nZXRDbGFzcygpLCBmaWVsZE5hbWUpOwogICAgICAgIGlmIChmaWVsZCA9PSBudWxsKSB7cmV0dXJuO30KICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIFJlZmxlY3Rpb25VdGlscy5zZXRGaWVsZChmaWVsZCwgdGhpcywgdmFsdWUpOwo=</text>
+        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25VdGlscy5maW5kRmllbGQodGhpcy5nZXRDbGFzcygpLCBmaWVsZE5hbWUpOwogICAgICAgIGlmIChmaWVsZCA9PSBudWxsKSB7cmV0dXJuO30KICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIFJlZmxlY3Rpb25VdGlscy5zZXRGaWVsZChmaWVsZCwgdGhpcywgdmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u5a6e5L6L55qE5a2X5q615bGe5oCnCiAgICAgKgogICAgICogQHBhcmFtIGZpZWxkTmFtZQogICAgICogQHBhcmFtIHZhbHVlCiAgICAgKi8KICAgIGRlZmF1bHQgdm9pZCBzZXQoU3RyaW5nIGZpZWxkTmFtZSwgU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgRmllbGQgZmllbGQgPSBSZWZsZWN0aW9uVXRpbHMuZmluZEZpZWxkKHRoaXMuZ2V0Q2xhc3MoKSwgZmllbGROYW1lKTsKICAgICAgICBpZiAoZmllbGQgPT0gbnVsbCkge3JldHVybjt9CiAgICAgICAgZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBSZWZsZWN0aW9uVXRpbHMuc2V0RmllbGQoZmllbGQsIHRoaXMsIHZhbHVlKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u5a6e5L6L55qE5a2X5q615bGe5oCnCiAgICAgKgogICAgICogQHBhcmFtIGZpZWxkTmFtZQogICAgICogQHBhcmFtIHZhbHVlCiAgICAgKi8KICAgIGRlZmF1bHQgdm9pZCBzZXQoU3RyaW5nIGZpZWxkTmFtZSwgU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgRmllbGQgZmllbGQgPSBSZWZsZWN0aW9uVXRpbHMuZmluZEZpZWxkKHRoaXMuZ2V0Q2xhc3MoKSwgZmllbGROYW1lKTsKICAgICAgICBpZiAoZmllbGQgPT0gbnVsbCkge3JldHVybjt9CiAgICAgICAgZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKICAgICAgICBSZWZsZWN0aW9uVXRpbHMuc2V0RmllbGQoZmllbGQsIHRoaXMsIHZhbHVlKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOagueaNruWunumZheeahOWIhuWMuuinhOWImeafpeaJvnpvbmUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOagueaNruWunumZheeahOWIhuWMuuinhOWImeafpeaJvnpvbmUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
