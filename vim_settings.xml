@@ -127,16 +127,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/MqAutoConfiguration.java" timestamp="1591776051879">
+        <mark key="[" line="34" column="50" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+        <mark key="." line="35" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/QueueServiceInstance.java" timestamp="1591771747112">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1591768475037">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="13" />
+      <file name="/a.dummy" timestamp="1591776969060">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1591775103186">
+        <mark key="[" line="177" column="17" />
+        <mark key="]" line="177" column="32" />
+        <mark key="^" line="177" column="32" />
+        <mark key="." line="177" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/DelegatedProducer.java" timestamp="1591776537412">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+        <mark key="." line="68" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/AbstractProducer.java" timestamp="1591776479999">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="10" />
+        <mark key="^" line="70" column="10" />
+        <mark key="." line="70" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/ConfigUtils.java" timestamp="1591774163663">
         <mark key="[" line="15" column="0" />
@@ -155,47 +176,29 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/MqSyncProperties.java" timestamp="1591768302913">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-        <mark key="." line="41" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/StringToQueueServiceInstanceConverter.java" timestamp="1591769926060">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="78" />
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1591774192576" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/StringToDelegatedKafkaQueueServiceInstance.java" timestamp="1591770105651">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591758403334">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/DelegatedKafkaProducer.java" timestamp="1591776293809">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/pom.xml" timestamp="1591760219545">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="34" />
-        <mark key="^" line="35" column="34" />
-        <mark key="." line="35" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/KeruyunKafkaServiceInstance.java" timestamp="1591768502676">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/DelegatedKafkaProducer.java" timestamp="1591770766762">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="63" />
-        <mark key="^" line="37" column="63" />
-        <mark key="." line="37" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_aliyun-ons/src/main/java/com/alsc/saas/gw/mq/ons/OnsProducer.java" timestamp="1591776947650">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/Settable.java" timestamp="1591771906791">
         <mark key="[" line="18" column="33" />
@@ -203,17 +206,20 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedKafkaServiceInstance.java" timestamp="1591772373557">
-        <mark key="[" line="16" column="67" />
-        <mark key="]" line="16" column="67" />
-        <mark key="^" line="16" column="67" />
-        <mark key="." line="16" column="66" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedKafkaServiceInstance.java" timestamp="1591776910992">
+        <mark key="[" line="31" column="69" />
+        <mark key="]" line="31" column="72" />
+        <mark key="^" line="31" column="72" />
+        <mark key="." line="31" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591761310678">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="26" column="10" />
-        <mark key="." line="26" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/config/DelegatedServiceInstance.java" timestamp="1591776982530">
+        <mark key="[" line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591776253955">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/KeruyunProducer.java" timestamp="1591770173800">
         <mark key="[" line="13" column="20" />
@@ -223,12 +229,6 @@
       </file>
       <file name="/fragment.java" timestamp="1591771723496">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/KeruyunKafkaServiceInstance.java" timestamp="1591760477484">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
       </file>
     </filemarks>
     <jumps>
