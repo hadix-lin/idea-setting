@@ -136,23 +136,23 @@
         <mark key="^" line="252" column="17" />
         <mark key="." line="252" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591866370774">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="43" column="107" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/RequestContext.java" timestamp="1591869861775">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591869507195">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="42" column="56" />
+        <mark key="^" line="42" column="56" />
+        <mark key="." line="42" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1591864601621">
         <mark key="[" line="33" column="35" />
         <mark key="]" line="33" column="35" />
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/pom.xml" timestamp="1591783499123">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1591858088661">
         <mark key="[" line="53" column="65" />
@@ -188,26 +188,31 @@
         <mark key="." line="157" column="57" />
         <mark key="^" line="157" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591866137979">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1591869787638">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="135" column="50" />
-        <mark key="]" line="135" column="58" />
-        <mark key="." line="135" column="57" />
-        <mark key="^" line="135" column="58" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591861431902">
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="78" column="5" />
-        <mark key="^" line="78" column="5" />
-        <mark key="." line="78" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591869726484">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="21" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/InsecureAcceptor.java" timestamp="1591864588047" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/DelegatedGwClient.java" timestamp="1591869587111">
+        <mark key="[" line="27" column="98" />
+        <mark key="]" line="27" column="69" />
+        <mark key="^" line="27" column="69" />
+        <mark key="." line="27" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaProducer.java" timestamp="1591858039226" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1591864710122">
-        <mark key="[" line="47" column="81" />
-        <mark key="]" line="47" column="81" />
-        <mark key="." line="47" column="80" />
-        <mark key="^" line="47" column="81" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1591869661660">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+        <mark key="." line="44" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/server/ProfileConstants.java" timestamp="1591865429274">
         <mark key="[" line="18" column="29" />
@@ -331,7 +336,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmVlZFNldHVwKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAodGhpcykgewogICAgICAgICAgICAgICAgaWYgKG5lZWRTZXR1cCkgewogICAgICAgICAgICAgICAgICAgIGNvbm5lY3RTZXR1cChjb25uLnJlcXVlc3RlcigpKS5ibG9jaygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -349,37 +354,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbigKICAgICAgICAgICAgICAgIFJldHJ5LmFsbEJ1dChHd1NlY3VyaXR5RXhjZXB0aW9uLmNsYXNzKQogICAgICAgICAgICAgICAgICAgIC5maXhlZEJhY2tvZmYoRHVyYXRpb24ub2ZTZWNvbmRzKDEpKSkKICAgICAgICAgICAgLnRpbWVvdXQoY29uZmlnLmdldENvbm5lY3RUaW1lb3V0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dC5nd0NsaWVudElkKFRFU1RfREVWSUNFX0lEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmVlZFNldHVwKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAodGhpcykgewogICAgICAgICAgICAgICAgaWYgKG5lZWRTZXR1cCkgewogICAgICAgICAgICAgICAgICAgIGNvbm5lY3RTZXR1cChjb25uLnJlcXVlc3RlcigpKS5ibG9jaygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLnNldHVwKEluc2VjdXJlR3dDbGllbnRNYW5hZ2VyLlRFU1RfREVWSUNFX0lEKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWNvbm5lY3QoKS5ibG9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcGFuLnNldEJhZ2dhZ2VJdGVtKEd3Q2xpZW50RmFjdG9yeS5HV19DTElFTlRfSUQsIFRFU1RfREVWSUNFX0lEKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uZWN0U2V0dXAoKS5ibG9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9uRXJyb3JSZXN1bWUoR3dTZWN1cml0eUV4Y2VwdGlvbi5jbGFzcywgZXJyb3IgLT4gcmVjb25uZWN0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5UaHJlYWRMb2NhbC5UaHJlYWRMb2NhbE1hcDsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
