@@ -40,7 +40,6 @@
         <entry>set nu</entry>
         <entry>nonu</entry>
         <entry>set nonu</entry>
-        <entry>wq</entry>
         <entry>exit</entry>
         <entry>q</entry>
         <entry>action ShowErrorDescription</entry>
@@ -49,6 +48,7 @@
         <entry>noh</entry>
         <entry>w</entry>
         <entry>action AceAction</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,17 +133,29 @@
         <mark key="." line="202" column="53" />
         <mark key="^" line="202" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1591958157082">
+        <mark key="[" line="30" column="74" />
+        <mark key="]" line="30" column="69" />
+        <mark key="^" line="30" column="69" />
+        <mark key="." line="30" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/test/EchoServiceController.java" timestamp="1591872256253">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591929217078">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="41" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/AccessTokenInnerServiceImpl.java" timestamp="1591874966842">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="69" column="20" />
         <mark key="^" line="69" column="20" />
         <mark key="." line="69" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1591955547672">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="33" column="1" />
-        <mark key="^" line="33" column="1" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591872784653">
         <mark key="[" line="0" column="0" />
@@ -163,12 +175,6 @@
         <mark key="." line="141" column="40" />
         <mark key="^" line="141" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.txt" timestamp="1591871418848">
-        <mark key="[" line="0" column="344" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1591954490250">
         <mark key="[" line="35" column="17" />
         <mark key="]" line="41" column="17" />
@@ -181,18 +187,6 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/test/EchoServiceController.java" timestamp="1591872256253">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="23" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1591929217078">
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="56" />
-        <mark key="^" line="41" column="56" />
-        <mark key="." line="41" column="55" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/RsocketGwClientTest.java" timestamp="1591872325392">
         <mark key="[" line="53" column="46" />
       </file>
@@ -204,7 +198,7 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1591953067783">
         <mark key="'" line="20" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1591872263765">
+      <file name="/fragment.java" timestamp="1591956407144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" timestamp="1591874667789">
@@ -213,9 +207,11 @@
         <mark key="^" line="80" column="13" />
         <mark key="." line="80" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/resources/brandId.json" timestamp="1591956702821">
+        <mark key="'" line="28125" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="74" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="77" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="82" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
@@ -315,12 +311,13 @@
       <jump line="40" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" />
       <jump line="253" column="65" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="20" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" />
+      <jump line="28125" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/resources/brandId.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>客如云增加DelegatedQueueServiceInstance以支持消息分区投递</text>
+        <text encoding="base64">ICAgICAgICBiaXRTZXQuc2V0KDIwMDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwMCk7CiAgICAgICAgYml0U2V0LnNldCg1MDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwKTsKICAgICAgICBiaXRTZXQuc2V0KDEpOwogICAgICAgIGJpdFNldC5zZXQoMTAwKTsKICAgICAgICBiaXRTZXQuc2V0KDE1MDAwMDApOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -341,37 +338,37 @@
         <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dC5nd0NsaWVudElkKFRFU1RfREVWSUNFX0lEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>客如云增加DelegatedQueueServiceInstance以支持消息分区投递</text>
+        <text encoding="base64">ICAgICAgICBiaXRTZXQuc2V0KDIwMDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwMCk7CiAgICAgICAgYml0U2V0LnNldCg1MDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwKTsKICAgICAgICBiaXRTZXQuc2V0KDEpOwogICAgICAgIGJpdFNldC5zZXQoMTAwKTsKICAgICAgICBiaXRTZXQuc2V0KDE1MDAwMDApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRTZXR1cChJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCkgewogICAgICAgICAgICB0aGlzLnNldHVwID0gc2V0dXA7CiAgICAgICAgfQo=</text>
+        <text>客如云增加DelegatedQueueServiceInstance以支持消息分区投递</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRTZXR1cChJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCkgewogICAgICAgICAgICB0aGlzLnNldHVwID0gc2V0dXA7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5zZWN1cmVHd0NsaWVudE1hbmFnZXIgbWFuYWdlcjsK</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmVlZFNldHVwKSB7CiAgICAgICAgICAgIGNvbm4gPSBjb25uTWFuYWdlci5zZXR0bGVkKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29ubiA9IGNvbm5NYW5hZ2VyLmFueSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5zZWN1cmVHd0NsaWVudE1hbmFnZXIgbWFuYWdlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uIGNvbm4gPSBjb25uMTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmVlZFNldHVwKSB7CiAgICAgICAgICAgIGNvbm4gPSBjb25uTWFuYWdlci5zZXR0bGVkKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29ubiA9IGNvbm5NYW5hZ2VyLmFueSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHVzZVNpZ24gPSB0b2tlbiAhPSBudWxsICYmIHNpZ25lciAhPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb25uIGNvbm4gPSBjb25uMTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
