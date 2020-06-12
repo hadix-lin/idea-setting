@@ -182,12 +182,6 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureRsocketGwClient.java" timestamp="1591870805987">
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="63" column="44" />
-        <mark key="^" line="63" column="44" />
-        <mark key="." line="63" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/test/EchoServiceController.java" timestamp="1591872256253">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -209,6 +203,9 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" timestamp="1591953067783">
+        <mark key="'" line="20" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1591872263765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="17" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="71" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="74" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
       <jump line="77" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/test/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplierTest.java" />
@@ -320,6 +316,7 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" />
       <jump line="40" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" />
       <jump line="253" column="65" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
+      <jump line="20" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/GraySupportServiceInstanceListSupplier.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
