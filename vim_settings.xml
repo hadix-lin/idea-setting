@@ -127,18 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1591958157082">
-        <mark key="[" line="30" column="74" />
-        <mark key="]" line="30" column="69" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="30" column="68" />
-      </file>
       <file name="/ChoicesaasAutoConfiguration.java" timestamp="1591961060761" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1592104335759">
-        <mark key="[" line="123" column="3" />
-        <mark key="]" line="129" column="16" />
-        <mark key="^" line="129" column="16" />
-        <mark key="." line="129" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1592106380257">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/java/com/alsc/saas/gw/choicesaas/ChoicesaasAutoConfiguration.java" timestamp="1591961334759">
         <mark key="[" line="22" column="0" />
@@ -324,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>else if(payload instanceof Msg)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -346,34 +339,34 @@
         <text>(Req.Meta)meta, ((HttpReq.Payload)payload)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaXRTZXQuc2V0KDIwMDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwMCk7CiAgICAgICAgYml0U2V0LnNldCg1MDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwKTsKICAgICAgICBiaXRTZXQuc2V0KDEpOwogICAgICAgIGJpdFNldC5zZXQoMTAwKTsKICAgICAgICBiaXRTZXQuc2V0KDE1MDAwMDApOwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctY29udGV4dC1pbmRleGVyPC9hcnRpZmFjdElkPgogICAgICA8b3B0aW9uYWw+dHJ1ZTwvb3B0aW9uYWw+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>客如云增加DelegatedQueueServiceInstance以支持消息分区投递</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRTZXR1cChJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCkgewogICAgICAgICAgICB0aGlzLnNldHVwID0gc2V0dXA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBiaXRTZXQuc2V0KDIwMDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwMCk7CiAgICAgICAgYml0U2V0LnNldCg1MDAwMDApOwogICAgICAgIGJpdFNldC5zZXQoMTAwMDAwKTsKICAgICAgICBiaXRTZXQuc2V0KDEpOwogICAgICAgIGJpdFNldC5zZXQoMTAwKTsKICAgICAgICBiaXRTZXQuc2V0KDE1MDAwMDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>客如云增加DelegatedQueueServiceInstance以支持消息分区投递</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRTZXR1cChJbnNlY3VyZUNvbm5lY3RTZXR1cCBzZXR1cCkgewogICAgICAgICAgICB0aGlzLnNldHVwID0gc2V0dXA7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW5zZWN1cmVHd0NsaWVudE1hbmFnZXIgbWFuYWdlcjsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmVlZFNldHVwKSB7CiAgICAgICAgICAgIGNvbm4gPSBjb25uTWFuYWdlci5zZXR0bGVkKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY29ubiA9IGNvbm5NYW5hZ2VyLmFueSgpOwogICAgICAgIH0K</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>wq</text>
