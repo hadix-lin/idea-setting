@@ -133,6 +133,9 @@
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="48" />
       </file>
+      <file name="/a.dummy" timestamp="1592223030511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/BaseTracingTool.java" timestamp="1592214882366">
         <mark key="[" line="177" column="19" />
         <mark key="]" line="139" column="48" />
@@ -148,32 +151,20 @@
         <mark key="^" line="95" column="5" />
         <mark key="." line="95" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-eleme/src/main/java/com/alsc/saas/thirdgw/biz/eleme/processor/FengNiaoOpenInvokeProcessor.java" timestamp="1592198256505">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/pom.xml" timestamp="1592214246838">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/AccessTokenInnerServiceImpl.java" timestamp="1592198365543">
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="62" column="20" />
-        <mark key="^" line="62" column="20" />
-        <mark key="." line="62" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/ZoneResult.java" timestamp="1592221274472">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/resources/application.yml" timestamp="1592212240882">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1592211491292">
-        <mark key="[" line="39" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1592221066418">
+        <mark key="[" line="40" column="17" />
         <mark key="]" line="39" column="15" />
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="14" />
@@ -190,27 +181,34 @@
         <mark key="^" line="63" column="41" />
         <mark key="." line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/src/test/resources/application.properties" timestamp="1592212263813">
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/src/main/java/com/alsc/saas/thirdgw/common/util/LoggerUtil.java" timestamp="1592198009843" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1592214191771">
         <mark key="[" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1592211504011">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="30" column="39" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1592224160471" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/resources/application.properties" timestamp="1592213141282">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-http/2.0.0/common-http-2.0.0.jar!/com/alsc/common/http/impl/reactornetty/ReactorNettyHttpClient.class" timestamp="1592222914075">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/DelegatedProducer.java" timestamp="1592224488425">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/ZoneService.java" timestamp="1592224243189">
+        <mark key="'" line="39" column="89" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/pom.xml" timestamp="1592213857867">
         <mark key="[" line="53" column="50" />
@@ -218,23 +216,22 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592220840652">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/ConfigProperties.java" timestamp="1592213731981">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="11" column="10" />
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-taobao/src/main/java/com/alsc/saas/thirdgw/biz/taobao/manager/impl/UicManagerImpl.java" timestamp="1592198570655" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" timestamp="1592198450631">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="209" column="5" />
-        <mark key="]" line="209" column="5" />
-        <mark key="^" line="209" column="5" />
-        <mark key="." line="209" column="4" />
+      <file name="/fragment.java" timestamp="1592224254667">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="73" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="19" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="78" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/QueueSyncManager.java" />
@@ -334,12 +331,13 @@
       <jump line="60" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
       <jump line="200" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
       <jump line="236" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
+      <jump line="27" column="89" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/ZoneService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB6b25lU2VydmljZS5pbml0KCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -351,16 +349,16 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>.append(&quot; &quot;)</text>
+        <text>.submitFor(ZoneResult.class)</text>
       </register>
       <register name="/" type="4">
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZFRpbWUtc3RhcnRUaW1lID0gIiArIChlbmRUaW1lIC0gc3RhcnRUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImVycm9yIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB6b25lU2VydmljZS5pbml0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -369,25 +367,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbmRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgWm9uZVNlcnZpY2Ugem9uZVNlcnZpY2UgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9uZXJyb3Jjb24K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHAuZ2V0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRvTG9nTWVzc2FnZShJbnZva2VMb2cgaW52b2tlTG9nKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
@@ -402,7 +400,7 @@
       <last-replace>^v^m</last-replace>
       <last-substitute encoding="base64">XDxleGNlcHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
