@@ -127,12 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/logging/BaseLoggingRpcFilter.java" timestamp="1592127736881">
-        <mark key="[" line="76" column="31" />
-        <mark key="]" line="76" column="31" />
-        <mark key="^" line="76" column="31" />
-        <mark key="." line="76" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/config/KafkaQueueServiceInstance.java" timestamp="1592189495717" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/processor/WechatBizInvokeProcessor.java" timestamp="1592193258711">
         <mark key="[" line="22" column="57" />
@@ -140,13 +134,13 @@
         <mark key="^" line="22" column="57" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/RpcFilterProperties.java" timestamp="1592127414155">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-eleme/src/main/java/com/alsc/saas/thirdgw/biz/eleme/processor/FengNiaoOpenInvokeProcessor.java" timestamp="1592198256505">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/AccessTokenInnerServiceImpl.java" timestamp="1592189756823">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/AccessTokenInnerServiceImpl.java" timestamp="1592198365543">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="62" column="20" />
         <mark key="^" line="62" column="20" />
@@ -168,6 +162,7 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/src/main/java/com/alsc/saas/thirdgw/common/util/LoggerUtil.java" timestamp="1592198009843" />
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/TestDumpStack.java" timestamp="1592128819161">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="11" column="48" />
@@ -197,6 +192,7 @@
         <mark key="^" line="130" column="13" />
         <mark key="." line="130" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-taobao/src/main/java/com/alsc/saas/thirdgw/biz/taobao/manager/impl/UicManagerImpl.java" timestamp="1592198570655" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common-dal/src/main/java/com/alsc/saas/thirdgw/common/dal/config/TddlConfig.java" timestamp="1592190400384">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
@@ -209,35 +205,27 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="47" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/EchoServiceTest.java" timestamp="1592127177890">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/biz/request/ThirdGwCommonRequest.java" timestamp="1592193116493">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="14" />
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" timestamp="1592186688932">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" timestamp="1592198450631">
+        <mark key="'" line="236" column="0" />
         <mark key="[" line="209" column="5" />
         <mark key="]" line="209" column="5" />
         <mark key="^" line="209" column="5" />
         <mark key="." line="209" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/config/ComponentAppInnerConfigServiceImpl.java" timestamp="1592196836726">
-        <mark key="[" line="34" column="70" />
-        <mark key="]" line="34" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/config/ComponentAppInnerConfigServiceImpl.java" timestamp="1592197985536">
+        <mark key="[" line="68" column="42" />
+        <mark key="]" line="73" column="0" />
         <mark key="^" line="34" column="70" />
-        <mark key="." line="34" column="69" />
+        <mark key="." line="73" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/TagSupportQueue.java" />
-      <jump line="17" column="32" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
-      <jump line="23" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="73" column="44" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
       <jump line="19" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/config/BaseTagSupportQueue.java" />
@@ -335,6 +323,9 @@
       <jump line="209" column="11" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-interceptor/src/main/java/com/alsc/common/interceptor/hsf/BaseLoggingRpcFilter.java" />
       <jump line="48" column="41" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-start/src/main/resources/application.properties" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-start/src/main/resources/application.properties" />
+      <jump line="60" column="22" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/ServiceTemplate.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -367,10 +358,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbmRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbmRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -385,20 +376,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRvTG9nTWVzc2FnZShJbnZva2VMb2cgaW52b2tlTG9nKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>private static String getErrorCode(Throwable cause) {
-        String errorCode = &quot;failure&quot;;
-        if (cause instanceof HsfRpcException) {
-            HsfRpcException rpcError = (HsfRpcException)cause;
-            String rpcErrorCode = rpcError.getErrorCode();
-            if (rpcErrorCode != null) {
-                errorCode = rpcErrorCode;
-            }
-        }
-        return errorCode;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRvTG9nTWVzc2FnZShJbnZva2VMb2cgaW52b2tlTG9nKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
