@@ -163,12 +163,7 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1592221066418">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="39" column="15" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="39" column="14" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/pom.xml" timestamp="1592227200051" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/GwClientProperties.java" timestamp="1592225631668">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="3" column="27" />
@@ -215,7 +210,7 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592225645177">
+      <file name="/Dummy.txt" timestamp="1592227223796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -336,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text>修正对spring-boot-1.5的兼容性</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -357,34 +352,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImVycm9yIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text>修正对spring-boot-1.5的兼容性</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZW5zdXJlQnJhbmRJZFRvWm9uZSgpIHsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZW5zdXJlQnJhbmRJZFRvWm9uZSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCLmtojmga/lsZ7mgKfkuK3msqHmnInmib7liLBicmFuZElkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB6b25lU2VydmljZS5pbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCLmtojmga/lsZ7mgKfkuK3msqHmnInmib7liLBicmFuZElkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB6b25lU2VydmljZS5pbml0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
