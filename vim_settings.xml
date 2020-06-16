@@ -170,22 +170,10 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HsfApi.java" timestamp="1592212429996">
-        <mark key="[" line="63" column="41" />
-        <mark key="]" line="63" column="41" />
-        <mark key="^" line="63" column="41" />
-        <mark key="." line="63" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1592214191771">
         <mark key="[" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/test/java/com/alsc/saas/gw/keruyun/BitSetTest.java" timestamp="1592224160471" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/resources/application.properties" timestamp="1592213141282">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="13" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-http/2.0.0/common-http-2.0.0.jar!/com/alsc/common/http/impl/reactornetty/ReactorNettyHttpClient.class" timestamp="1592222914075">
         <mark key="[" line="38" column="53" />
         <mark key="]" line="38" column="53" />
@@ -209,6 +197,11 @@
         <mark key="]" line="30" column="20" />
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1592227363289">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592227223796">
         <mark key="[" line="0" column="0" />
@@ -331,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>修正对spring-boot-1.5的兼容性</text>
+        <text encoding="base64">ICB0bzoga2Fma2E6Ly90b3BpYz10ZXN0MiNpbnN0YW5jZU5hbWU9ZGVsZWdhdGVkLWthZmthCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -343,7 +336,7 @@
         <text encoding="base64">IiBqdXN0IGRlbGV0ZQpubm9yZW1hcCB4ICJfeApubm9yZW1hcCBYICJfWApubm9yZW1hcCBkICJfZApubm9yZW1hcCBkZCAiX2RkCm5ub3JlbWFwIEQgIl9ECnZub3JlbWFwIGQgIl9kCnZub3JlbWFwIGRkICJfZGQKCm5ub3JlbWFwIDxsZWFkZXI+eCAiIngKbm5vcmVtYXAgPGxlYWRlcj5YICIiWApubm9yZW1hcCA8bGVhZGVyPmQgIiJkCm5ub3JlbWFwIDxsZWFkZXI+ZGQgIiJkZApubm9yZW1hcCA8bGVhZGVyPkQgIiJECnZub3JlbWFwIDxsZWFkZXI+ZCAiImQKdm5vcmVtYXAgPGxlYWRlcj5kZCAiImRk</text>
       </register>
       <register name="-" type="4">
-        <text>.submitFor(ZoneResult.class)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>gw.mq</text>
@@ -352,34 +345,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImVycm9yIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>修正对spring-boot-1.5的兼容性</text>
+        <text encoding="base64">ICB0bzoga2Fma2E6Ly90b3BpYz10ZXN0MiNpbnN0YW5jZU5hbWU9ZGVsZWdhdGVkLWthZmthCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text>logging.level.com.alsc.saas.gw.server.InsecureAcceptor: debug</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text>修正对spring-boot-1.5的兼容性</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZW5zdXJlQnJhbmRJZFRvWm9uZSgpIHsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZW5zdXJlQnJhbmRJZFRvWm9uZSgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCLmtojmga/lsZ7mgKfkuK3msqHmnInmib7liLBicmFuZElkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB6b25lU2VydmljZS5pbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
