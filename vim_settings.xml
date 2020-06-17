@@ -143,6 +143,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1592397288394" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-mq_kafka/src/main/java/com/alsc/saas/gw/mq/kafka/KafkaSubscriber.java" timestamp="1592392061200">
         <mark key="[" line="173" column="55" />
         <mark key="]" line="173" column="55" />
@@ -191,9 +192,6 @@
         <mark key="^" line="134" column="25" />
         <mark key="." line="134" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLauncher.java" timestamp="1592376125329">
-        <mark key="[" line="19" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/mq/keruyun/ZoneService.java" timestamp="1592384696409">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="35" column="27" />
@@ -217,6 +215,9 @@
         <mark key="]" line="40" column="32" />
         <mark key="^" line="40" column="32" />
         <mark key="." line="40" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/pom.xml" timestamp="1592397653484">
+        <mark key="[" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/demo/src/test/java/com/alsc/common/demo/test/TestDumpStack.java" timestamp="1592380860532">
         <mark key="[" line="17" column="0" />
@@ -334,7 +335,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -355,34 +356,34 @@
         <text encoding="base64">Z3cubXEuaW5zdGFuY2Uua2Fma2ExOiBrYWZrYTovL2Jvb3RzdHJhcFNlcnZlcnM9MTI3LjAuMC4xOjMyNzc0I2NsaWVudElkPXNhYXMtZ3ctMSNncm91cElkPXNhYXMtZ3ctMQpndy5tcS5pbnN0YW5jZS5rYWZrYTI6IGthZmthOi8vYm9vdHN0cmFwU2VydmVycz0xMjcuMC4wLjE6MzI3NzQjY2xpZW50SWQ9c2Fhcy1ndy0yI2dyb3VwSWQ9c2Fhcy1ndy0yCmd3Lm1xLmluc3RhbmNlLmRlbGVnYXRlZC1rYWZrYTogZGVsZWdhdGVkOi8vd2Rfem9uZT1rYWZrYTEjdGVzdF9hb25lPWthZmthMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0RlYnVnKCJyZXNwIiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dEZWJ1ZygicmVxIiwgcmVxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0RlYnVnKCJyZXNwIiwgcmVzdWx0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dEZWJ1ZygicmVxIiwgcmVxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
