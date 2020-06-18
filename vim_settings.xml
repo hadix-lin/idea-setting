@@ -173,7 +173,7 @@
         <mark key="." line="268" column="54" />
         <mark key="^" line="269" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592470713119">
+      <file name="/Dummy.txt" timestamp="1592471792826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -342,8 +342,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text>BaseGwClient构造函数增加GwClientParoperties参数</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -364,6 +364,12 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBCYXNlR3dDbGllbnQoQmFzZVRyYWNpbmdUb29sIHRyYWNpbmdUb29sLCBTdHJpbmcgY29tcG9uZW50KSB7CiAgICAgICAgdGhpcy50cmFjaW5nVG9vbCA9IHRyYWNpbmdUb29sOwogICAgICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text>BaseGwClient构造函数增加GwClientParoperties参数</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
         <text>kafka消息队列支持分区
 
 1. 修正分区查询结果判断错误
@@ -371,32 +377,26 @@
 3. BaseGwClient增加打印详细日志
 4. 版本号改为1.4.2-SNAPSHOT</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBCYXNlR3dDbGllbnQoQmFzZVRyYWNpbmdUb29sIHRyYWNpbmdUb29sLCBTdHJpbmcgY29tcG9uZW50KSB7CiAgICAgICAgdGhpcy50cmFjaW5nVG9vbCA9IHRyYWNpbmdUb29sOwogICAgICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50OwogICAgfQoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0RlYnVnKCJyZXNwIiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
