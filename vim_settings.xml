@@ -127,6 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/test/java/com/alsc/saas/gw/mq/MetaqSyncTest.java" timestamp="1592535869212">
+        <mark key="[" line="19" column="82" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="20" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-core/pom.xml" timestamp="1592484840078">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="2" />
@@ -139,18 +145,22 @@
         <mark key="^" line="50" column="13" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1592487950803" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1592535574554">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="^" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/target/classes/META-INF/spring-configuration-metadata.json" timestamp="1592486818220">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="34" column="35" />
         <mark key="^" line="34" column="35" />
         <mark key="." line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1592503617441">
-        <mark key="[" line="67" column="31" />
-        <mark key="]" line="71" column="101" />
-        <mark key="^" line="71" column="101" />
-        <mark key="." line="71" column="100" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" timestamp="1592535553637">
+        <mark key="]" line="4" column="101" />
+        <mark key="^" line="4" column="101" />
+        <mark key="." line="4" column="100" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.yml" timestamp="1592486018639">
         <mark key="[" line="11" column="57" />
@@ -164,7 +174,7 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592485122300">
+      <file name="/Dummy.txt" timestamp="1592535577193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -174,12 +184,6 @@
         <mark key="]" line="48" column="25" />
         <mark key="^" line="48" column="25" />
         <mark key="." line="48" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/pom.xml" timestamp="1592484811504">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/InsecureAcceptor.java" timestamp="1592502093719">
         <mark key="[" line="70" column="36" />
@@ -199,6 +203,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/src/main/java/com/alsc/saas/gw/server/DeviceAuthHandler.java" timestamp="1592536693648" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-test/saas-gw-test-http/pom.xml" timestamp="1592484851613">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="15" column="2" />
@@ -210,12 +215,6 @@
       </file>
       <file name="/fragment.java" timestamp="1592497807982">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server-insecure/pom.xml" timestamp="1592484817844">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="2" />
       </file>
     </filemarks>
     <jumps>
