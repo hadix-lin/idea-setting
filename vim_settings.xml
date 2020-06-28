@@ -127,11 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1593337758089">
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="34" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1593340623516">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/pom.xml" timestamp="1593334802440" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AliPayConfiguration.java" timestamp="1593338866241">
@@ -183,23 +183,23 @@
         <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1593337979976" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/test/java/com/alsc/saas/gw/client/utils/DeferredValueTest.java" timestamp="1593333644819">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="12" />
-        <mark key="^" line="55" column="12" />
-        <mark key="." line="55" column="11" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.31.0/opentracing-util-0.31.0-sources.jar!/io/opentracing/util/ThreadLocalScope.java" timestamp="1593339016776">
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="42" />
-        <mark key="^" line="50" column="42" />
-        <mark key="." line="50" column="41" />
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.31.0/opentracing-util-0.31.0-sources.jar!/io/opentracing/util/ThreadLocalScope.java" timestamp="1593340996030">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="13" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="53" column="12" />
       </file>
       <file name="/DiamondWatchAutoConfiguration.java" timestamp="1593337851903" />
-      <file name="/Dummy.txt" timestamp="1593333649542">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593340654770">
+        <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-fengniao/src/main/java/com/alsc/saas/thirdgw/biz/fengniao/paotui/processor/callback/FengNiaoPtThirdAuthCallbackProcessor.java" timestamp="1593340250992">
+        <mark key="[" line="80" column="82" />
+        <mark key="]" line="80" column="82" />
+        <mark key="^" line="80" column="82" />
+        <mark key="." line="80" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/RichEnvironmentChangeEvent.java" timestamp="1593337878265">
         <mark key="[" line="22" column="5" />
@@ -207,11 +207,11 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593337695844">
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="34" />
-        <mark key="^" line="69" column="34" />
-        <mark key="." line="69" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593340577328">
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="105" column="9" />
+        <mark key="^" line="105" column="9" />
+        <mark key="." line="105" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alsc/common/common-http/2.0.1/common-http-2.0.1.jar!/com/alsc/common/http/Http.class" timestamp="1593333951960">
         <mark key="[" line="14" column="18" />
@@ -332,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -353,36 +353,36 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dmVsb2NpdHktc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9yaWdpbmFsQ29udGV4dCAhPSBudWxsCiAgICAgICAgICAgICAgICAmJiBpc0JsYW5rKG9yaWdpbmFsQ29udGV4dC5nZXRSZXN1bHRDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICBFYWdsZUV5ZS5zZXRScGNDb250ZXh0KChPYmplY3Qpb3JpZ2luYWxDb250ZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>修正DeferredValue多线程环境使用拦截器无效问题
 
 1.4.4-SNAPSHOT</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnRlcmNlcHQgOiAiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkgKyAiIDogIiArIG1ldGhvZE5hbWUpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
