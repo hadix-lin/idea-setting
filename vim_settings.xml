@@ -127,23 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1593332883863">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/java/com/alsc/saas/gw/hsf/server/HsfExecutor.java" timestamp="1593329856794">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="60" column="5" />
-        <mark key="^" line="60" column="5" />
-        <mark key="." line="60" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/pom.xml" timestamp="1593326842809">
-        <mark key="[" line="322" column="13" />
-        <mark key="]" line="322" column="13" />
-        <mark key="^" line="322" column="13" />
-        <mark key="." line="322" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1593337758089">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="19" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/pom.xml" timestamp="1593334802440" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.6--2019-09-stable-rocketmq-optimize/eagleeye-core-sdk-1.8.4.6--2019-09-stable-rocketmq-optimize-sources.jar!/com/taobao/eagleeye/EagleEye.java" timestamp="1593331095330">
@@ -152,6 +140,13 @@
         <mark key="^" line="2453" column="5" />
         <mark key="." line="2453" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/processor/WechatMerchantAuthProcessor.java" timestamp="1593337710345">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="29" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1593337979976" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/test/java/com/alsc/saas/gw/client/utils/DeferredValueTest.java" timestamp="1593333644819">
         <mark key="[" line="55" column="33" />
         <mark key="]" line="55" column="12" />
@@ -165,13 +160,13 @@
         <mark key="^" line="113" column="14" />
         <mark key="." line="113" column="13" />
       </file>
+      <file name="/DiamondWatchAutoConfiguration.java" timestamp="1593337851903" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/service/impl/WxPayHttpServiceImpl.java" timestamp="1593333799093">
         <mark key="[" line="151" column="29" />
         <mark key="]" line="151" column="29" />
         <mark key="^" line="151" column="29" />
         <mark key="." line="151" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/AccessTokenInnerServiceImpl.java" timestamp="1593325852063" />
       <file name="/Dummy.txt" timestamp="1593333649542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -186,12 +181,6 @@
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" timestamp="1593331902056">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.6--2019-09-stable-rocketmq-optimize/eagleeye-core-sdk-1.8.4.6--2019-09-stable-rocketmq-optimize-sources.jar!/com/taobao/eagleeye/BaseContext.java" timestamp="1593328963223">
-        <mark key="[" line="153" column="5" />
-        <mark key="]" line="153" column="5" />
-        <mark key="^" line="153" column="5" />
-        <mark key="." line="153" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-start/pom.xml" timestamp="1593335564889">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="68" column="17" />
@@ -203,11 +192,17 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/pom.xml" timestamp="1593325929714">
-        <mark key="[" line="386" column="31" />
-        <mark key="]" line="386" column="31" />
-        <mark key="^" line="386" column="31" />
-        <mark key="." line="386" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/RichEnvironmentChangeEvent.java" timestamp="1593337878265">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593337695844">
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="69" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/json/adapter/WxOpenAuthorizerAccessTokenGsonAdapter.java" timestamp="1593334854889">
         <mark key="[" line="4" column="46" />
