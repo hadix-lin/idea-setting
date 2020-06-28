@@ -139,17 +139,18 @@
         <mark key="^" line="207" column="38" />
         <mark key="." line="207" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AliPayConfiguration.java" timestamp="1593338866241">
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="1" />
-        <mark key="^" line="39" column="1" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/AbstractProducer.java" timestamp="1593352696128">
+        <mark key="e" line="36" column="24" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1593338871772">
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="14" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="43" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1593353956310">
+        <mark key="[" line="164" column="26" />
+        <mark key="]" line="164" column="26" />
+        <mark key="^" line="164" column="26" />
+        <mark key="." line="164" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-eleme/src/main/java/com/alsc/saas/thirdgw/biz/eleme/processor/ElemeBizInvokeProcessor.java" timestamp="1593345415217">
         <mark key="[" line="50" column="34" />
@@ -172,7 +173,6 @@
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/pom.xml" timestamp="1593337979976" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/context/BizInvokeContext.java" timestamp="1593344464665" />
       <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.31.0/opentracing-util-0.31.0-sources.jar!/io/opentracing/util/ThreadLocalScope.java" timestamp="1593340996030">
         <mark key="[" line="53" column="13" />
@@ -183,29 +183,35 @@
       <file name="/Dummy.java" timestamp="1593345757648">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1593353193204">
+        <mark key="[" line="65" column="77" />
+        <mark key="]" line="66" column="9" />
+        <mark key="^" line="66" column="9" />
+        <mark key="." line="66" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/server/MsgExecutor.java" timestamp="1593354836325">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/auth/info/MerchantAuthInfo.java" timestamp="1593344680256" />
-      <file name="/Dummy.txt" timestamp="1593340654770">
-        <mark key="[" line="0" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1593354375393">
+        <mark key="[" line="268" column="58" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="268" column="82" />
+        <mark key="^" line="269" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593353693576">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-fengniao/src/main/java/com/alsc/saas/thirdgw/biz/fengniao/paotui/processor/callback/FengNiaoPtThirdAuthCallbackProcessor.java" timestamp="1593340250992">
-        <mark key="[" line="80" column="82" />
-        <mark key="]" line="80" column="82" />
-        <mark key="^" line="80" column="82" />
-        <mark key="." line="80" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/RichEnvironmentChangeEvent.java" timestamp="1593337878265">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593340577328">
-        <mark key="[" line="105" column="9" />
-        <mark key="]" line="105" column="9" />
-        <mark key="^" line="105" column="9" />
-        <mark key="." line="105" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/client/MsgReq.java" timestamp="1593352786591">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common-dal/src/main/java/com/alsc/saas/thirdgw/common/dal/dataobject/ComponentAppDO.java" timestamp="1593345758410">
         <mark key="[" line="54" column="5" />
@@ -213,11 +219,8 @@
         <mark key="^" line="54" column="5" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/config/ComponentAppInnerConfigServiceImpl.java" timestamp="1593338305538">
-        <mark key="[" line="54" column="93" />
-        <mark key="]" line="54" column="93" />
-        <mark key="^" line="54" column="93" />
-        <mark key="." line="54" column="92" />
+      <file name="/fragment.java" timestamp="1593354806209">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
