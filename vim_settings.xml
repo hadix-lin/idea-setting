@@ -127,30 +127,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeContext.java" timestamp="1593348667686">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="^" line="28" column="9" />
-        <mark key="." line="28" column="8" />
+      <file name="/a.dummy" timestamp="1593415717198">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/AbstractProducer.java" timestamp="1593352696128">
-        <mark key="e" line="36" column="24" />
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="^" line="46" column="34" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AliPayConfiguration.java" timestamp="1593416316742">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AliPayConfiguration.java" timestamp="1593411307564">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="29" column="12" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/utils/NotifyUtils.java" timestamp="1593416865342">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="73" />
+        <mark key="^" line="25" column="73" />
+        <mark key="." line="25" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqSubscriber.java" timestamp="1593353956310">
-        <mark key="[" line="164" column="26" />
-        <mark key="]" line="164" column="26" />
-        <mark key="^" line="164" column="26" />
-        <mark key="." line="164" column="25" />
+      <file name="$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/4.7.1.ALL/alipay-sdk-java-4.7.1.ALL-sources.jar!/com/alipay/api/DefaultAlipayClient.java" timestamp="1593413386887">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="146" column="33" />
+        <mark key="]" line="146" column="33" />
+        <mark key="^" line="146" column="33" />
+        <mark key="." line="146" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-start/pom.xml" timestamp="1593410876224">
         <mark key="[" line="0" column="62" />
@@ -177,7 +174,9 @@
         <mark key="^" line="60" column="41" />
         <mark key="." line="60" column="40" />
       </file>
-      <file name="/MsgExecutor.java" timestamp="1593396431874" />
+      <file name="/Dummy.java" timestamp="1593415036367">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1593397387855">
         <mark key="[" line="33" column="79" />
         <mark key="]" line="35" column="20" />
@@ -185,34 +184,16 @@
         <mark key="." line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/auth/request/MerchantAuthRequest.java" timestamp="1593399715409" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/server/MsgExecutor.java" timestamp="1593354852889">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/auth/info/MerchantAuthInfo.java" timestamp="1593402919838">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="18" />
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1593396034142">
-        <mark key="[" line="268" column="82" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="268" column="82" />
-        <mark key="^" line="269" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593397400470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/client/MsgReq.java" timestamp="1593352786591">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/auth/MerchantAuthServiceImpl.java" timestamp="1593402852509">
         <mark key="[" line="326" column="53" />
@@ -220,11 +201,23 @@
         <mark key="." line="326" column="52" />
         <mark key="^" line="326" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayBizInvokeProcessor.java" timestamp="1593411220570">
-        <mark key="[" line="47" column="56" />
-        <mark key="]" line="48" column="8" />
-        <mark key="^" line="48" column="8" />
-        <mark key="." line="48" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593416753034">
+        <mark key="[" line="142" column="22" />
+        <mark key="]" line="142" column="17" />
+        <mark key="^" line="142" column="17" />
+        <mark key="." line="142" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayBizInvokeProcessor.java" timestamp="1593414910594">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AlipayClientManager.java" timestamp="1593414359601">
+        <mark key="[" line="36" column="73" />
+        <mark key="]" line="36" column="73" />
+        <mark key="." line="36" column="72" />
+        <mark key="^" line="36" column="73" />
       </file>
       <file name="/fragment.java" timestamp="1593399198982">
         <mark key="[" line="0" column="0" />
@@ -233,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$MAVEN_REPOSITORY$/io/jaegertracing/jaeger-core/0.31.0/jaeger-core-0.31.0-sources.jar!/io/jaegertracing/internal/JaegerTracer.java" />
       <jump line="78" column="42" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" />
       <jump line="13" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-trace-jaeger/src/main/java/com/alsc/saas/gw/http/trace/JaegerContextMapper.java" />
       <jump line="43" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-trace/src/main/java/com/alsc/saas/gw/trace/TracingOperator.java" />
@@ -333,12 +325,13 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/BaseGwClient.java" />
       <jump line="21" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-trace-eagleeye/src/main/java/com/alsc/saas/gw/hsf/trace/EagleEyeTracer.java" />
+      <jump line="59" column="4" filename="$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/4.7.1.ALL/alipay-sdk-java-4.7.1.ALL-sources.jar!/com/alipay/api/DefaultAlipayClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFmdGVyKCkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudCBhcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudCA9IHRva2Vucy5nZXQoMCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRva2VucykpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFRoaXJkR3dFeGNlcHRpb24oVGhpcmRHd0Vycm9yQ29kZUVudW0uQVVUSF9JTlZPS0VfRVJST1IsCiAgICAgICAgICAgICAgICAi6I635Y+W5pSv5LuY5a6d5o6I5p2D5Luk54mM6ZSZ6K+vLHJlc3BvbnNlOiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVzcG9uc2UpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -356,37 +349,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFV0aWwuYXNzZXJ0Tm90TnVsbChyZXF1ZXN0KTsKICAgICAgICAgICAgICAgIEFzc2VydFV0aWwuYXNzZXJ0Tm90TnVsbChyZXF1ZXN0LmdldFRoaXJkUGxhdGZvcm1UeXBlRW51bSgpKTsKICAgICAgICAgICAgICAgIEFzc2VydFV0aWwuYXNzZXJ0U3RyaW5nTm90QmxhbmsocmVxdWVzdC5nZXRBdXRoQ29kZSgpKTsKICAgICAgICAgICAgICAgIEFzc2VydFV0aWwuYXNzZXJ0U3RyaW5nTm90QmxhbmsocmVxdWVzdC5nZXRDb21wb25lbnRBcHBDb2RlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBbGlwYXlPcGVuQXV0aFRva2VuQXBwUmVzcG9uc2UgcmVzcG9uc2UgPSBleGVjdXRlQXV0aFJlcXVlc3QoY2xpZW50LCBhdXRoUmVxdWVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFmdGVyKCkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudCBhcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudCA9IHRva2Vucy5nZXQoMCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRva2VucykpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFRoaXJkR3dFeGNlcHRpb24oVGhpcmRHd0Vycm9yQ29kZUVudW0uQVVUSF9JTlZPS0VfRVJST1IsCiAgICAgICAgICAgICAgICAi6I635Y+W5pSv5LuY5a6d5o6I5p2D5Luk54mM6ZSZ6K+vLHJlc3BvbnNlOiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVzcG9uc2UpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlclV0aWwuaW5mbyhMT0dHRVIsICLmiJDlip/ojrflj5bmjojmnYPkv6Hmga8scmVzdWx0PXswfSIsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbGlwYXlPcGVuQXV0aFRva2VuQXBwUmVzcG9uc2UgcmVzcG9uc2UgPSBleGVjdXRlQXV0aFJlcXVlc3QoY2xpZW50LCBhdXRoUmVxdWVzdCk7CiAgICAgICAgTGlzdDxBcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudD4gdG9rZW5zID0gcmVzcG9uc2UuZ2V0VG9rZW5zKCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRva2VucykpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFRoaXJkR3dFeGNlcHRpb24oVGhpcmRHd0Vycm9yQ29kZUVudW0uQVVUSF9JTlZPS0VfRVJST1IsCiAgICAgICAgICAgICAgICAi6I635Y+W5pSv5LuY5a6d5o6I5p2D5Luk54mM6ZSZ6K+vLHJlc3BvbnNlOiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVzcG9uc2UpKTsKICAgICAgICB9CiAgICAgICAgQXBwVG9rZW5FeGNoYW5nZVN1YkVsZW1lbnQgYXBwVG9rZW5FeGNoYW5nZVN1YkVsZW1lbnQgPSB0b2tlbnMuZ2V0KDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFV0aWwuYXNzZXJ0Tm90TnVsbCh0aGlyZFBsYXRmb3JtVHlwZSk7CiAgICAgICAgICAgICAgICBBc3NlcnRVdGlsLmFzc2VydFN0cmluZ05vdEJsYW5rKG91dE1lcmNoYW50SWQpOwogICAgICAgICAgICAgICAgQXNzZXJ0VXRpbC5hc3NlcnRTdHJpbmdOb3RCbGFuayhjb21wb25lbnRBcHBDb2RlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlclV0aWwuaW5mbyhMT0dHRVIsICLmiJDlip/ojrflj5bmjojmnYPkv6Hmga8scmVzdWx0PXswfSIsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbGlwYXlPcGVuQXV0aFRva2VuQXBwUmVzcG9uc2UgcmVzcG9uc2UgPSBleGVjdXRlQXV0aFJlcXVlc3QoYWxpcGF5Q2xpZW50LCBhdXRoUmVxdWVzdCk7CiAgICAgICAgTGlzdDxBcHBUb2tlbkV4Y2hhbmdlU3ViRWxlbWVudD4gdG9rZW5zID0gcmVzcG9uc2UuZ2V0VG9rZW5zKCk7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRva2VucykpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFRoaXJkR3dFeGNlcHRpb24oVGhpcmRHd0Vycm9yQ29kZUVudW0uQVVUSF9JTlZPS0VfRVJST1IsCiAgICAgICAgICAgICAgICAi6I635Y+W5pSv5LuY5a6d5o6I5p2D5Luk54mM6ZSZ6K+vLHJlc3BvbnNlOiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVzcG9uc2UpKTsKICAgICAgICB9CiAgICAgICAgQXBwVG9rZW5FeGNoYW5nZVN1YkVsZW1lbnQgYXBwVG9rZW5FeGNoYW5nZVN1YkVsZW1lbnQgPSB0b2tlbnMuZ2V0KDApOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXV0aEluZm87Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXModGhpcmRBdXRoRG9tYWluTW9kZWwsIGF1dGhJbmZvKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7CiAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJlc3VsdC5zZXRHbXRFbmQoYXBwVG9rZW5FeGNoYW5nZVN1YkVsZW1lbnQuZ2V0RXhwaXJlc0luKCkgPT0gbnVsbAogICAgICAgICAgICAgICAgPyBzZGYucGFyc2UoIjIwOTktMTItMTIiKQogICAgICAgICAgICAgICAgOiBEYXRlVXRpbHMuYWRkU2Vjb25kcyhub3csCiAgICAgICAgICAgICAgICAgICAgTWF0aC50b0ludEV4YWN0KExvbmcucGFyc2VMb25nKGFwcFRva2VuRXhjaGFuZ2VTdWJFbGVtZW50LmdldEV4cGlyZXNJbigpKSkpKTsKICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBUaGlyZEd3RXhjZXB0aW9uKFRoaXJkR3dFcnJvckNvZGVFbnVtLkFVVEhfSU5WT0tFX0VSUk9SLAogICAgICAgICAgICAgICAgIuiOt+WPluaUr+S7mOWuneaOiOadg+S7pOeJjOmUmeivryIgKyBlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICAgICAgfQogICAgICAgIHJlc3VsdC5zZXRHbXRNb2RpZmllZChub3cpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBUaGlyZEF1dGhEb21haW5Nb2RlbCB0aGlyZEF1dGhEb21haW5Nb2RlbCA9IGF1dGhJbmZvQ29yZVNlcnZpY2UuZ2V0QnlPdXRNZXJjaGFudElkKHRoaXJkUGxhdGZvcm1UeXBlLAogICAgICAgICAgICBvdXRNZXJjaGFudElkLCBjb21wb25lbnRBcHBDb2RlKTsKICAgICAgICBpZiAodGhpcmRBdXRoRG9tYWluTW9kZWwgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgZmluYWwgTWVyY2hhbnRBdXRoSW5mbyBhdXRoSW5mbyA9IG5ldyBNZXJjaGFudEF1dGhJbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldEdtdEVuZChnbXRFbmQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
