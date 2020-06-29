@@ -178,11 +178,11 @@
       <file name="/Dummy.java" timestamp="1593345757648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1593353193204">
-        <mark key="[" line="65" column="77" />
-        <mark key="]" line="66" column="9" />
-        <mark key="^" line="66" column="9" />
-        <mark key="." line="66" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-mq_alibaba-inc/src/main/java/com/alsc/saas/gw/mq/metaq/MetaqProducer.java" timestamp="1593397387855">
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-mq/src/main/java/com/alsc/saas/gw/mq/server/MsgExecutor.java" timestamp="1593354852889">
         <mark key="[" line="27" column="33" />
@@ -197,7 +197,7 @@
         <mark key="." line="268" column="82" />
         <mark key="^" line="269" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593353693576">
+      <file name="/Dummy.txt" timestamp="1593397400470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,8 +214,10 @@
         <mark key="^" line="54" column="5" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1593396154398">
+      <file name="/fragment.java" timestamp="1593397226265">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -324,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text>EagleEye.getRpcContext()</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -345,19 +347,19 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dmVsb2NpdHktc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text>EagleEye.getRpcContext()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9yaWdpbmFsQ29udGV4dCAhPSBudWxsCiAgICAgICAgICAgICAgICAmJiBpc0JsYW5rKG9yaWdpbmFsQ29udGV4dC5nZXRSZXN1bHRDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICBFYWdsZUV5ZS5zZXRScGNDb250ZXh0KChPYmplY3Qpb3JpZ2luYWxDb250ZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9yaWdpbmFsQ29udGV4dCAhPSBudWxsCiAgICAgICAgICAgICAgICAmJiBpc0JsYW5rKG9yaWdpbmFsQ29udGV4dC5nZXRSZXN1bHRDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICBFYWdsZUV5ZS5zZXRScGNDb250ZXh0KChPYmplY3Qpb3JpZ2luYWxDb250ZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -366,15 +368,13 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxzYy5zYWFzLnRoaXJkZ3c8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsc2Mtc2Fhcy10aGlyZGd3LWJpei1mZW5nbmlhbzwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>修正DeferredValue多线程环境使用拦截器无效问题
-
-1.4.4-SNAPSHOT</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
