@@ -144,28 +144,40 @@
         <mark key="^" line="31" column="79" />
         <mark key="." line="31" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwLogReceiver.java" timestamp="1593570704272">
-        <mark key="[" line="6" column="76" />
-        <mark key="]" line="6" column="76" />
-        <mark key="^" line="6" column="76" />
-        <mark key="." line="6" column="75" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1593572886064">
+        <mark key="[" line="51" column="3" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593570586513">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwLogReceiver.java" timestamp="1593572941559">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/FileAppender.java" timestamp="1593572585919">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="^" line="38" column="14" />
+        <mark key="." line="38" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" timestamp="1593572584154">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="^" line="29" column="1" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593573123659">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593507056284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.txt" timestamp="1593506220792">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-start/src/main/java/com/alsc/saas/thirdgw/MainController.java" timestamp="1593507026710">
         <mark key="[" line="17" column="0" />
@@ -178,11 +190,17 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/pom.xml" timestamp="1593506480482">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="27" />
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.3.RELEASE/reactor-core-3.3.3.RELEASE-sources.jar!/reactor/core/publisher/MonoEmpty.java" timestamp="1593572835070">
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="61" column="22" />
+        <mark key="^" line="61" column="22" />
+        <mark key="." line="61" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwServerV2.java" timestamp="1593571649337">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="9" />
+        <mark key="^" line="37" column="9" />
+        <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593570509420">
         <mark key="[" line="53" column="1" />
@@ -206,12 +224,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/AlipayClientManager.java" timestamp="1593506445596">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="44" />
-        <mark key="^" line="23" column="44" />
-        <mark key="." line="23" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-client-impl/src/main/java/com/alsc/saas/thirdgw/client/impl/template/CommonOperateCallback.java" timestamp="1593507328716">
         <mark key="[" line="21" column="41" />
@@ -326,7 +338,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldC5yZXF1ZXN0ZXIoKS5yb3V0ZShSb3V0ZUNvbnN0YW50cy5MT0dfVjIpLmRhdGEoZW5jb2RlZCkuc2VuZCgpLnN1YnNjcmliZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBSc29ja2V0UmVnaXN0cnkgcnNvY2tldFJlZ2lzdHJ5Owo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -344,7 +356,7 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmdldC5yZXF1ZXN0ZXIoKS5yb3V0ZShSb3V0ZUNvbnN0YW50cy5MT0dfVjIpLmRhdGEoZW5jb2RlZCkuc2VuZCgpLnN1YnNjcmliZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByb3RlY3RlZCBSc29ja2V0UmVnaXN0cnkgcnNvY2tldFJlZ2lzdHJ5Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmCg==</text>
