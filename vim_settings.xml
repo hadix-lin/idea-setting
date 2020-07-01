@@ -144,11 +144,17 @@
         <mark key="^" line="31" column="79" />
         <mark key="." line="31" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/src/main/java/com/alsc/saas/thirdgw/common/enums/ThirdGwErrorCodeEnum.java" timestamp="1593505658183">
-        <mark key="[" line="325" column="5" />
-        <mark key="]" line="325" column="5" />
-        <mark key="^" line="325" column="5" />
-        <mark key="." line="325" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/GwLogReceiver.java" timestamp="1593570704272">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="76" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593570586513">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1593507056284">
         <mark key="[" line="0" column="0" />
@@ -178,20 +184,11 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="27" />
       </file>
-      <file name="/" timestamp="1593505422394">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1593505512106">
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="22" />
-        <mark key="^" line="61" column="22" />
-        <mark key="." line="61" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593511124625">
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="38" column="51" />
-        <mark key="^" line="38" column="51" />
-        <mark key="." line="38" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/logging/RsocketAppender.java" timestamp="1593570509420">
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/server/RouteConstants.java" timestamp="1593510947831">
         <mark key="[" line="21" column="17" />
@@ -199,7 +196,7 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" timestamp="1593520699629">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" timestamp="1593570163457">
         <mark key="[" line="36" column="98" />
         <mark key="]" line="36" column="98" />
         <mark key="^" line="36" column="98" />
@@ -329,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRhcmdldC5yZXF1ZXN0ZXIoKS5yb3V0ZShSb3V0ZUNvbnN0YW50cy5MT0dfVjIpLmRhdGEoZW5jb2RlZCkuc2VuZCgpLnN1YnNjcmliZSgpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -347,37 +344,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ09NUE9ORU5UX0FQUF9DT0RFX1NBQVMuZXF1YWxzKGNvZGUpKSB7CiAgICAgICAgICAgIHJldHVybiBzYWFzQWxpcGF5Q2xpZW50OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHRhcmdldC5yZXF1ZXN0ZXIoKS5yb3V0ZShSb3V0ZUNvbnN0YW50cy5MT0dfVjIpLmRhdGEoZW5jb2RlZCkuc2VuZCgpLnN1YnNjcmliZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEFsaXBheS5jb20gSW5jLiBDb3B5cmlnaHQgKGMpIDIwMDQtMjAxOSBBbGwgUmlnaHRzIFJlc2VydmVkLgogKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">LyoqCiAqIEFsaXBheS5jb20gSW5jLiBDb3B5cmlnaHQgKGMpIDIwMDQtMjAxOSBBbGwgUmlnaHRzIFJlc2VydmVkLgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAUmVzcG9uc2VCb2R5Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBAUmVzcG9uc2VCb2R5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVkaXJlY3RVcmwgPSBhbGlwYXlQcm9wZXJ0aWVzLmdldFJlZGlyZWN0VXJsKCk7Cg==</text>
+        <text encoding="base64">ICBAUmVzcG9uc2VCb2R5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVkaXJlY3RVcmwgPSBhbGlwYXlQcm9wZXJ0aWVzLmdldFJlZGlyZWN0VXJsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBbGlwYXlDbGllbnQgZ2V0U2Fhc0FsaXBheUNsaWVudCgpIHsKICAgICAgICByZXR1cm4gc2Fhc0FsaXBheUNsaWVudDsKICAgIH0K</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
