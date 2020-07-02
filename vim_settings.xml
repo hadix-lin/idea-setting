@@ -127,6 +127,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593689273484">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" timestamp="1593691773505">
+        <mark key="[" line="43" column="73" />
+        <mark key="]" line="43" column="73" />
+        <mark key="^" line="43" column="73" />
+        <mark key="." line="43" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1593672360475">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/pom.xml" timestamp="1593689218937">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="32" column="17" />
@@ -139,14 +156,28 @@
         <mark key="." line="224" column="59" />
         <mark key="^" line="224" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/security/CodecUtils.java" timestamp="1593681584044" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1593680427830">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/client/AsyncClientHttpRequestInterceptor.java" timestamp="1593675558434">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="1" />
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-common/src/main/java/com/alsc/saas/gw/utils/SpringContext.java" timestamp="1593682672576" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunTraceExchangeFilterFunction.java" timestamp="1593674780682">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1593691601588">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/src/main/resources/logback-spring.xml" timestamp="1593675630145">
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="35" />
@@ -157,6 +188,12 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/pom.xml" timestamp="1593683883850">
+        <mark key="[" line="372" column="37" />
+        <mark key="]" line="372" column="37" />
+        <mark key="^" line="372" column="37" />
+        <mark key="." line="372" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptor.java" timestamp="1593683385996">
         <mark key="[" line="77" column="52" />
@@ -184,34 +221,6 @@
         <mark key="]" line="58" column="47" />
         <mark key="^" line="58" column="47" />
         <mark key="." line="58" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593689273484">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1593672360475">
-        <mark key="[" line="63" column="30" />
-        <mark key="]" line="63" column="30" />
-        <mark key="^" line="63" column="30" />
-        <mark key="." line="63" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http/src/main/java/com/alsc/saas/gw/http/server/HttpGwProxyPort.java" timestamp="1593680427830">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunTraceExchangeFilterFunction.java" timestamp="1593674780682">
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/pom.xml" timestamp="1593683883850">
-        <mark key="[" line="372" column="37" />
-        <mark key="]" line="372" column="37" />
-        <mark key="^" line="372" column="37" />
-        <mark key="." line="372" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -320,9 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>使用InsecureTrustManagerFactory替代TrustAnyTrustManager
-
-1.4.5-SNAPSHOT</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -343,36 +350,36 @@
         <text>RouteRegistry.</text>
       </register>
       <register name="1" type="2">
-        <text>使用InsecureTrustManagerFactory替代TrustAnyTrustManager
-
-1.4.5-SNAPSHOT</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bnppcAogICAgICAgICAgICAgICAgICBzcmM9IiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9LyR7cHJvamVjdC5idWlsZC5maW5hbE5hbWV9LiR7cHJvamVjdC5wYWNrYWdpbmd9IgogICAgICAgICAgICAgICAgICBkZXN0PSIke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS9hbHNjLXNhYXMtZ3ciLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>使用InsecureTrustManagerFactory替代TrustAnyTrustManager
+
+1.4.5-SNAPSHOT</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlclJvdXRlVGFyZ2V0KGNsdXN0ZXJOYW1lLCB0YXJnZXRDb25maWcsIHJlcXVlc3RlciwgbGF1bmNoZXJTZXR1cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwogICAgQEV2ZW50TGlzdGVuZXIKICAgIHB1YmxpYyB2b2lkIG9uUm91dGVSZWdpc3RyeUNoYW5nZWQoUm91dGVSZWdpc3RyeS5DaGFuZ2VkRXZlbnQgZXZlbnQpewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclJvdXRlVGFyZ2V0KGNsdXN0ZXJOYW1lLCB0YXJnZXRDb25maWcsIHJlcXVlc3RlciwgbGF1bmNoZXJTZXR1cCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwogICAgQEV2ZW50TGlzdGVuZXIKICAgIHB1YmxpYyB2b2lkIG9uUm91dGVSZWdpc3RyeUNoYW5nZWQoUm91dGVSZWdpc3RyeS5DaGFuZ2VkRXZlbnQgZXZlbnQpewoKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBBc3luYwogICAgQEV2ZW50TGlzdGVuZXIKICAgIHB1YmxpYyB2b2lkIG9uUm91dGVSZWdpc3RyeUNoYW5nZWQoUm91dGVSZWdpc3RyeS5DaGFuZ2VkRXZlbnQgZXZlbnQpewoKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlclJvdXRlVGFyZ2V0KGNsdXN0ZXJOYW1lLCB0YXJnZXRDb25maWcsIHJlcXVlc3RlciwgbGF1bmNoZXJTZXR1cCk7Cg==</text>
+        <text encoding="base64">ICAgIEBBc3luYwogICAgQEV2ZW50TGlzdGVuZXIKICAgIHB1YmxpYyB2b2lkIG9uUm91dGVSZWdpc3RyeUNoYW5nZWQoUm91dGVSZWdpc3RyeS5DaGFuZ2VkRXZlbnQgZXZlbnQpewoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
