@@ -127,11 +127,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" timestamp="1594039368984">
+        <mark key="[" line="125" column="17" />
+        <mark key="]" line="125" column="17" />
+        <mark key="." line="125" column="16" />
+        <mark key="^" line="125" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/base/BaseCallbackProcessor.java" timestamp="1594038311136" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-client/src/main/java/com/alsc/saas/thirdgw/client/enums/IdentityTypeEnum.java" timestamp="1594035144209">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.txt" timestamp="1594038053653" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/pom.xml" timestamp="1594039540372">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-databus/databus-start/src/main/java/com/alsc/databus/config/ShardingDataSourceConfig.java" timestamp="1594035813427">
+        <mark key="[" line="61" column="47" />
+        <mark key="]" line="61" column="47" />
+        <mark key="^" line="61" column="47" />
+        <mark key="." line="61" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/pom.xml" timestamp="1594034038883">
         <mark key="[" line="27" column="52" />
@@ -139,51 +159,41 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alsc/saas/thirdgw/alsc-saas-thirdgw-client/1.0.0/alsc-saas-thirdgw-client-1.0.0-sources.jar!/com/alsc/saas/thirdgw/client/auth/MerchantAuthService.java" timestamp="1594024734360">
-        <mark key="[" line="40" column="1" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-databus/databus-common/databus-client/src/main/java/com/alsc/databus/order/model/PayInfo.java" timestamp="1594035314459">
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/processor/base/BaseWechatBizInvokeProcessor.java" timestamp="1594029155931">
-        <mark key="[" line="132" column="42" />
-        <mark key="]" line="132" column="42" />
-        <mark key="^" line="132" column="42" />
-        <mark key="." line="132" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/resources/application-daily_test.yml" timestamp="1594026323168">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-databus/databus-common/databus-client/src/main/java/com/alsc/databus/order/model/PayInfo.java" timestamp="1594030128042">
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="40" column="42" />
-        <mark key="^" line="40" column="42" />
-        <mark key="." line="40" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/msg/MessageHandler.java" timestamp="1594027366227">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayCallbackProcessor.java" timestamp="1594035251719">
-        <mark key="[" line="5" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayCallbackProcessor.java" timestamp="1594035870486">
+        <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/AlipayCallbackProcessor.java" timestamp="1594037088851">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="52" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/BaseAlipayCallbackProcessor.java" timestamp="1594040184274">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="^" line="71" column="24" />
+        <mark key="." line="71" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/AlipayDirectCallbackProcessor.java" timestamp="1594040574539">
+        <mark key="[" line="35" column="60" />
+        <mark key="]" line="35" column="66" />
+        <mark key="^" line="35" column="66" />
+        <mark key="." line="35" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-web/src/main/java/com/alsc/saas/thirdgw/web/controller/ExternalController.java" timestamp="1594034357487">
         <mark key="[" line="137" column="30" />
         <mark key="]" line="137" column="30" />
         <mark key="." line="137" column="29" />
         <mark key="^" line="137" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-client-http/pom.xml" timestamp="1594025681786" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/msg/MsgHandler.java" timestamp="1594027200242">
-        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-databus/databus-brp/src/main/java/com/alsc/databus/brp/BrpConfiguration.java" timestamp="1594029897490">
         <mark key="[" line="11" column="13" />
@@ -192,9 +202,13 @@
         <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-web/src/main/java/com/alsc/saas/thirdgw/web/controller/AlipayController.java" timestamp="1594034072820" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/enums/HttpTypeEnum.java" timestamp="1594028533149" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-databus/alsc-databus-service/src/main/resources/application-module.properties" timestamp="1594029344909" />
-      <file name="/Dummy.txt" timestamp="1594033762094">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json5" timestamp="1594040571513">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594036301781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,13 +219,14 @@
         <mark key="^" line="264" column="38" />
         <mark key="." line="264" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-databus/alsc-databus-service/src/main/java/com/alsc/databus/order/OrderModuleConfiguration.java" timestamp="1594029646014" />
-      <file name="/fragment.java" timestamp="1594030283324">
+      <file name="$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/4.7.1.ALL/alipay-sdk-java-4.7.1.ALL-sources.jar!/com/alipay/api/AlipayClient.java" timestamp="1594037035587">
+        <mark key="'" line="10" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1594036301758">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/client/InsecureLaunchConnManager.java" />
       <jump line="10" column="12" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="65" column="4" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-choicesaas/pom.xml" />
@@ -311,12 +326,13 @@
       <jump line="128" column="45" filename="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-fengniao/src/main/java/com/alsc/saas/thirdgw/biz/fengniao/paotui/processor/FengNiaoPtInvokeProcessor.java" />
       <jump line="75" column="17" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.12.0/okhttp-3.12.0.jar!/okhttp3/internal/platform/Platform.class" />
       <jump line="224" column="0" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.12.0/okhttp-3.12.0.jar!/okhttp3/internal/platform/Platform.class" />
+      <jump line="10" column="17" filename="$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/4.7.1.ALL/alipay-sdk-java-4.7.1.ALL-sources.jar!/com/alipay/api/AlipayClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFyYW1zID0gQml6SW52b2tlQ29udGV4dC5ERUZBVUxUX0NBTExCQUNLX1BBUkFNUzsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldENhbGxiYWNrUGFyYW1zKGpzb25TdHIpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -334,40 +350,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5lZWRBdXRoVG9rZW4ocmVxdWVzdCkpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBhdXRoVG9rZW4gPSBhY2Nlc3NUb2tlbkNvcmVTZXJ2aWNlLmdldEJ5T3V0TWVyY2hhbnRJZCh0aGlyZFBsYXRmb3JtVHlwZSwKICAgICAgICAgICAgICAgICAgICBvdXRNZXJjaGFudElkLCBjb21wb25lbnRBcHBDb2RlKTsKICAgICAgICAgICAgICAgIGJpekludm9rZUNvbnRleHQuc2V0QWNjZXNzVG9rZW4oYXV0aFRva2VuKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQWxpcGF5Q2xpZW50TWFuYWdlciBhbGlwYXlDbGllbnRNYW5hZ2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFyYW1zID0gQml6SW52b2tlQ29udGV4dC5ERUZBVUxUX0NBTExCQUNLX1BBUkFNUzsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldENhbGxiYWNrUGFyYW1zKGpzb25TdHIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>StringUtils.isBlank(needAuthToken) || Boolean.TRUE.equals(
-                toBooleanObject(needAuthToken))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhuZWVkQXV0aFRva2VuKSB8fCBCb29sZWFuLlRSVUUuZXF1YWxzKEJvb2xlYW5VdGlscy50b0Jvb2xlYW5PYmplY3QobmVlZEF1dGhUb2tlbikpKQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBkb1Byb2Nlc3MoQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgcmV0dXJuCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZG9Qcm9jZXNzKGNvbnRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>修正追踪日志错误
-
-仅在END时打印追踪上下文信息</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQgPT0gVHJhY2VFdmVudC5FTkQpIHsKICAgICAgICAgICAgbG9nLmFwcGVuZChkZWZhdWx0SWZOdWxsKGhhc0Vycm9yLCBmYWxzZSkgPyAiTiIgOiAiWSIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZy5hcHBlbmQoTF8pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBkb1Byb2Nlc3MoQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBMXzsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZG9Qcm9jZXNzKGNvbnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
