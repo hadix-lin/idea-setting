@@ -127,17 +127,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1594106097397">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1594124248925">
         <mark key="'" line="42" column="33" />
-        <mark key="[" line="205" column="1" />
-        <mark key="]" line="205" column="1" />
-        <mark key="^" line="205" column="1" />
-        <mark key="." line="205" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1594107012896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/base/BaseCallbackProcessor.java" timestamp="1594106723582" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/processor/WechatBizInvokeProcessor.java" timestamp="1594119187831">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="14" />
@@ -145,11 +143,6 @@
         <mark key="." line="17" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.8.RELEASE/spring-boot-2.2.8.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1594115762820" />
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1594106249904">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-wechat/src/main/java/com/alsc/saas/thirdgw/biz/wechat/pay/BaseWxPayBizInvokeProcessor.java" timestamp="1594121187230" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/AlipayDirectCallbackProcessor.java" timestamp="1594107282100">
         <mark key="[" line="63" column="15" />
@@ -157,11 +150,14 @@
         <mark key="^" line="63" column="15" />
         <mark key="." line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/AbstractSecureConnManager.java" timestamp="1594122151456">
-        <mark key="[" line="58" column="1" />
-        <mark key="]" line="58" column="1" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/AbstractSecureConnManager.java" timestamp="1594124806562">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="23" />
+        <mark key="." line="50" column="22" />
+        <mark key="^" line="50" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.2.7.RELEASE/spring-messaging-5.2.7.RELEASE-sources.jar!/org/springframework/messaging/rsocket/DefaultRSocketRequester.java" timestamp="1594123609472">
+        <mark key="'" line="313" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/java/com/alsc/saas/gw/keruyun/KeruyunHttpProxyPort.java" timestamp="1594121926885">
         <mark key="[" line="32" column="78" />
@@ -179,17 +175,23 @@
         <mark key="^" line="268" column="54" />
         <mark key="." line="268" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/rsocket/rsocket-core/1.0.1/rsocket-core-1.0.1-sources.jar!/io/rsocket/core/RSocketRequester.java" timestamp="1594123617917">
+        <mark key="[" line="145" column="15" />
+        <mark key="]" line="145" column="15" />
+        <mark key="^" line="145" column="15" />
+        <mark key="." line="145" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/RichEnvironmentChangeEvent.java" timestamp="1594114859115">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1594122507576">
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="91" column="34" />
-        <mark key="." line="91" column="33" />
-        <mark key="^" line="91" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1594123812029">
+        <mark key="[" line="85" column="77" />
+        <mark key="]" line="85" column="77" />
+        <mark key="." line="85" column="76" />
+        <mark key="^" line="85" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1594114195225">
         <mark key="[" line="75" column="26" />
@@ -220,12 +222,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1594120850688">
+      <file name="/fragment.java" timestamp="1594123097163">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-http/saas-gw-server-http-keruyun/src/main/resources/application.yml" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/pom.xml" />
       <jump line="9" column="46" filename="$USER_HOME$/Documents/Projects/alsc-pos-common/common-http/src/main/java/com/alsc/tool/http/AsyncHttpRequest.java" />
       <jump line="28" column="8" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/test/java/com/alsc/saas/gw/rsocket/client/InsecureGwClientFactory.java" />
@@ -325,6 +326,7 @@
       <jump line="231" column="2" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" />
       <jump line="42" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.2.7.RELEASE/spring-messaging-5.2.7.RELEASE-sources.jar!/org/springframework/messaging/rsocket/RSocketStrategies.java" />
       <jump line="42" column="33" filename="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" />
+      <jump line="313" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.2.7.RELEASE/spring-messaging-5.2.7.RELEASE-sources.jar!/org/springframework/messaging/rsocket/DefaultRSocketRequester.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,8 +349,8 @@
       <register name="/" type="4">
         <text>gw.mq</text>
       </register>
-      <register name="0" type="4">
-        <text>key2ForText</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6L+e5o6l5YWz6ZetIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -357,32 +359,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJlQ2hlY2soQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIucHJlQ2hlY2soY29udGV4dCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZG9Qcm9jZXNzKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxID0gY29udGV4dC5nZXRIdHRwUmVxdWVzdCgpOwogICAgICAgIFN0cmluZyBub3RpZnlUeXBlID0gcmVxLmdldFBhcmFtZXRlcihLRVlfTk9USUZZX1RZUEUpOwogICAgICAgIGlmICghZXF1YWxzQW55SWdub3JlQ2FzZShOT1RJRllfVFlQRV9PUEVOX0FQUF9BVVRIX05PVElGWSwgbm90aWZ5VHlwZSkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBTdHJpbmcgYml6Q29udGVudCA9IHJlcS5nZXRQYXJhbWV0ZXIoS0VZX0JJWl9DT05URU5UKTsKICAgICAgICBPcGVuQXBwQXV0aE5vdGlmeSBvcGVuQXBwQXV0aE5vdGlmeSA9IEpTT04ucGFyc2VPYmplY3QoYml6Q29udGVudCwgT3BlbkFwcEF1dGhOb3RpZnkuY2xhc3MpOwogICAgICAgIHZhbCBkZXRhaWwgPSBvcGVuQXBwQXV0aE5vdGlmeS5nZXREZXRhaWwoKTsKICAgICAgICBUaGlyZEF1dGhEb21haW5Nb2RlbCBhdXRoSW5mbyA9IG5ldyBUaGlyZEF1dGhEb21haW5Nb2RlbCgpOwogICAgICAgIGF1dGhJbmZvLnNldEF1dGhvcml6ZXJBY2Nlc3NUb2tlbihkZXRhaWwuZ2V0QXBwQXV0aFRva2VuKCkpOwogICAgICAgIGF1dGhJbmZvLnNldENvbXBvbmVudEFwcENvZGUoY29udGV4dC5nZXRDb21wb25lbnRBcHBDb2RlKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFRoaXJkUGxhdGZvcm1UeXBlKGNvbnRleHQuZ2V0VGhpcmRQbGF0Zm9ybVR5cGVFbnVtKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFN0YXR1cyhBdXRoU3RhdHVzRW51bS5BVVRIT1JJWkVEKTsKICAgICAgICBhdXRoSW5mby5zZXRSZWZyZXNoQWNjZXNzVG9rZW4oZGV0YWlsLmdldEFwcFJlZnJlc2hUb2tlbigpKTsKICAgICAgICBhdXRoSW5mby5zZXRPdXRNZXJjaGFudElkKGRldGFpbC5nZXRVc2VySWQoKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210RW5kKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpICsgZGV0YWlsLmdldEV4cGlyZXNJbigpKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210Q3JlYXRlKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpKSk7CiAgICAgICAgYXV0aEluZm9Db3JlU2VydmljZS51cGRhdGVHd0F1dGhJbmZvKGF1dGhJbmZvKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJlQ2hlY2soQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIucHJlQ2hlY2soY29udGV4dCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>ExternalController.routeAuth改进判断是否需要authToken的代码</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>ExternalController.routeAuth改进判断是否需要authToken的代码</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZG9Qcm9jZXNzKGNvbnRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJldHJ5V2hlbigKICAgICAgICAgICAgICAgIFJldHJ5LmJhY2tvZmYoTG9uZy5NQVhfVkFMVUUsIER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKGVycm9yIC0+ICEoZXJyb3IgaW5zdGFuY2VvZiBHd1NlY3VyaXR5RXhjZXB0aW9uKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxID0gY29udGV4dC5nZXRIdHRwUmVxdWVzdCgpOwogICAgICAgIFN0cmluZyBub3RpZnlUeXBlID0gcmVxLmdldFBhcmFtZXRlcihLRVlfTk9USUZZX1RZUEUpOwogICAgICAgIGlmICghZXF1YWxzQW55SWdub3JlQ2FzZShOT1RJRllfVFlQRV9PUEVOX0FQUF9BVVRIX05PVElGWSwgbm90aWZ5VHlwZSkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBTdHJpbmcgYml6Q29udGVudCA9IHJlcS5nZXRQYXJhbWV0ZXIoS0VZX0JJWl9DT05URU5UKTsKICAgICAgICBPcGVuQXBwQXV0aE5vdGlmeSBvcGVuQXBwQXV0aE5vdGlmeSA9IEpTT04ucGFyc2VPYmplY3QoYml6Q29udGVudCwgT3BlbkFwcEF1dGhOb3RpZnkuY2xhc3MpOwogICAgICAgIHZhbCBkZXRhaWwgPSBvcGVuQXBwQXV0aE5vdGlmeS5nZXREZXRhaWwoKTsKICAgICAgICBUaGlyZEF1dGhEb21haW5Nb2RlbCBhdXRoSW5mbyA9IG5ldyBUaGlyZEF1dGhEb21haW5Nb2RlbCgpOwogICAgICAgIGF1dGhJbmZvLnNldEF1dGhvcml6ZXJBY2Nlc3NUb2tlbihkZXRhaWwuZ2V0QXBwQXV0aFRva2VuKCkpOwogICAgICAgIGF1dGhJbmZvLnNldENvbXBvbmVudEFwcENvZGUoY29udGV4dC5nZXRDb21wb25lbnRBcHBDb2RlKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFRoaXJkUGxhdGZvcm1UeXBlKGNvbnRleHQuZ2V0VGhpcmRQbGF0Zm9ybVR5cGVFbnVtKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFN0YXR1cyhBdXRoU3RhdHVzRW51bS5BVVRIT1JJWkVEKTsKICAgICAgICBhdXRoSW5mby5zZXRSZWZyZXNoQWNjZXNzVG9rZW4oZGV0YWlsLmdldEFwcFJlZnJlc2hUb2tlbigpKTsKICAgICAgICBhdXRoSW5mby5zZXRPdXRNZXJjaGFudElkKGRldGFpbC5nZXRVc2VySWQoKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210RW5kKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpICsgZGV0YWlsLmdldEV4cGlyZXNJbigpKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210Q3JlYXRlKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpKSk7CiAgICAgICAgYXV0aEluZm9Db3JlU2VydmljZS51cGRhdGVHd0F1dGhJbmZvKGF1dGhJbmZvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text>增加可以传递客如云鉴权信息的通用请求接口
-
-1. 追踪日志结果改为仅END事件打印
-2. EchoServiceImpl根据参数值控制行为,便于测试
-3. logback-spring.xml删除日志中的PEER_TRACE_ID</text>
+        <text>ExternalController.routeAuth改进判断是否需要authToken的代码</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
