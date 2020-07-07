@@ -138,6 +138,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-config/src/main/java/com/alsc/saas/thirdgw/biz/config/base/BaseCallbackProcessor.java" timestamp="1594106723582" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.8.RELEASE/spring-boot-2.2.8.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1594115762820" />
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureLaunchConnManager.java" timestamp="1594106249904">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -149,23 +150,17 @@
         <mark key="^" line="63" column="15" />
         <mark key="." line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwServer.java" timestamp="1594096250378">
-        <mark key="[" line="138" column="14" />
-        <mark key="]" line="138" column="15" />
-        <mark key="^" line="138" column="15" />
-        <mark key="." line="138" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/diamond/DiamondWatchAutoConfiguration.java" timestamp="1594114875942">
+        <mark key="[" line="128" column="43" />
+        <mark key="]" line="128" column="43" />
+        <mark key="^" line="128" column="43" />
+        <mark key="." line="128" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/rsocket/rsocket-core/1.0.1/rsocket-core-1.0.1-sources.jar!/io/rsocket/SocketAcceptor.java" timestamp="1594102628905">
-        <mark key="[" line="32" column="3" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/pom.xml" timestamp="1594096032360">
-        <mark key="[" line="70" column="1" />
-        <mark key="]" line="70" column="1" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-pos-common/common-boot/common-boot-core/src/main/java/com/alsc/common/boot/RichEnvironmentChangeEvent.java" timestamp="1594114859115">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/openAppAuthNotify.java" timestamp="1594102949582">
         <mark key="[" line="2" column="14" />
@@ -173,25 +168,25 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/route/RouteMonitor.java" timestamp="1594097341113">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="42" />
-        <mark key="^" line="22" column="42" />
-        <mark key="." line="22" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureLaunchConnManager.java" timestamp="1594102683382">
         <mark key="[" line="84" column="86" />
         <mark key="]" line="84" column="86" />
         <mark key="." line="84" column="85" />
         <mark key="^" line="84" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/SecureAcceptConnManager.java" timestamp="1594096395821">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="61" column="61" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client/src/main/java/com/alsc/saas/gw/client/HttpApi.java" timestamp="1594114195225">
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="26" />
+        <mark key="^" line="75" column="26" />
+        <mark key="." line="75" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/open_app_auth_notify.java" timestamp="1594102887411" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/ValidGwServerValidator.java" timestamp="1594115344771">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="15" />
+        <mark key="^" line="54" column="15" />
+        <mark key="." line="54" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/AlipayCallbackProcessor.java" timestamp="1594106954818">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="22" />
@@ -204,6 +199,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1594115280143">
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/OpenAppAuthNotify.java" timestamp="1594104483217">
         <mark key="[" line="38" column="27" />
         <mark key="]" line="38" column="38" />
@@ -214,12 +215,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/BaseGwProxy.java" timestamp="1594096347070">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="106" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/processor/AlipayAuthProcessor.java" timestamp="1594102810340">
         <mark key="[" line="84" column="58" />
