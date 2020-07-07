@@ -127,11 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1594124248925">
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-client-rsocket/src/main/java/com/alsc/saas/gw/rsocket/conn/InsecureAcceptorConnManager.java" timestamp="1594126453767">
         <mark key="'" line="42" column="33" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="73" column="33" />
+        <mark key="]" line="73" column="29" />
+        <mark key="." line="73" column="28" />
+        <mark key="^" line="73" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1594107012896">
         <mark key="[" line="0" column="0" />
@@ -150,11 +151,11 @@
         <mark key="^" line="63" column="15" />
         <mark key="." line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/AbstractSecureConnManager.java" timestamp="1594124806562">
-        <mark key="[" line="50" column="23" />
-        <mark key="]" line="50" column="23" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/conn/AbstractSecureConnManager.java" timestamp="1594126408586">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="35" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.2.7.RELEASE/spring-messaging-5.2.7.RELEASE-sources.jar!/org/springframework/messaging/rsocket/DefaultRSocketRequester.java" timestamp="1594123609472">
         <mark key="'" line="313" column="0" />
@@ -167,6 +168,12 @@
         <mark key="]" line="128" column="43" />
         <mark key="^" line="128" column="43" />
         <mark key="." line="128" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-common/src/main/java/com/alsc/saas/thirdgw/common/config/HttpConfigBean.java" timestamp="1594126151248">
+        <mark key="[" line="95" column="37" />
+        <mark key="]" line="95" column="37" />
+        <mark key="^" line="95" column="37" />
+        <mark key="." line="95" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-hsf/saas-gw-server-hsf/src/main/resources/application.yml" timestamp="1594120712048">
         <mark key="'" line="231" column="2" />
@@ -204,12 +211,6 @@
         <mark key="]" line="54" column="15" />
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/alsc-saas-thirdgw/alsc-saas-thirdgw-biz-alipay/src/main/java/com/alsc/saas/thirdgw/biz/alipay/callback/AlipayCallbackProcessor.java" timestamp="1594106954818">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/alsc-saas-gw/saas-gw-server/src/main/java/com/alsc/saas/gw/server/config/GwServerProperties.java" timestamp="1594115280143">
         <mark key="[" line="45" column="58" />
@@ -332,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KGNsb3NlRXZlbnQtPnsKICAgICAgICAgICAgICAgIHJlbW92ZShjb25uKTsKICAgICAgICAgICAgICAgIGRvT25Db25uQ2xvc2UoY29ubik7CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="i" type="4">
         <text>x</text>
@@ -350,37 +351,37 @@
         <text>gw.mq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6L+e5o6l5YWz6ZetIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZShyZXF1ZXN0ZXIpOwogICAgICAgICAgICAgICAgZG9PbkNvbm5lY3Rpb25DbG9zZShzZXR1cCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KGNsb3NlRXZlbnQtPnsKICAgICAgICAgICAgICAgIHJlbW92ZShjb25uKTsKICAgICAgICAgICAgICAgIGRvT25Db25uQ2xvc2UoY29ubik7CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25OZXh0KGNsb3NlRXZlbnQtPnsKICAgICAgICAgICAgICAgIHJlbW92ZShyZXF1ZXN0ZXIpOwogICAgICAgICAgICAgICAgZG9PbkNvbm5lY3Rpb25DbG9zZShzZXR1cCk7CiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8uZG9GaW5hbGx5KHNpZy0+ewogICAgICAgICAgICAvLyAgICBTeXN0ZW0ub3V0LnByaW50bG4oIui/nuaOpeWFs+mXrSIpOwogICAgICAgICAgICAvL30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8uZG9PbkVycm9yKGVycm9yLT57CiAgICAgICAgICAgIC8vICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6L+e5o6l5YWz6ZetIik7CiAgICAgICAgICAgIC8vICAgIGVycm9yLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAvL30pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJlQ2hlY2soQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIucHJlQ2hlY2soY29udGV4dCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZG9Qcm9jZXNzKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxID0gY29udGV4dC5nZXRIdHRwUmVxdWVzdCgpOwogICAgICAgIFN0cmluZyBub3RpZnlUeXBlID0gcmVxLmdldFBhcmFtZXRlcihLRVlfTk9USUZZX1RZUEUpOwogICAgICAgIGlmICghZXF1YWxzQW55SWdub3JlQ2FzZShOT1RJRllfVFlQRV9PUEVOX0FQUF9BVVRIX05PVElGWSwgbm90aWZ5VHlwZSkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBTdHJpbmcgYml6Q29udGVudCA9IHJlcS5nZXRQYXJhbWV0ZXIoS0VZX0JJWl9DT05URU5UKTsKICAgICAgICBPcGVuQXBwQXV0aE5vdGlmeSBvcGVuQXBwQXV0aE5vdGlmeSA9IEpTT04ucGFyc2VPYmplY3QoYml6Q29udGVudCwgT3BlbkFwcEF1dGhOb3RpZnkuY2xhc3MpOwogICAgICAgIHZhbCBkZXRhaWwgPSBvcGVuQXBwQXV0aE5vdGlmeS5nZXREZXRhaWwoKTsKICAgICAgICBUaGlyZEF1dGhEb21haW5Nb2RlbCBhdXRoSW5mbyA9IG5ldyBUaGlyZEF1dGhEb21haW5Nb2RlbCgpOwogICAgICAgIGF1dGhJbmZvLnNldEF1dGhvcml6ZXJBY2Nlc3NUb2tlbihkZXRhaWwuZ2V0QXBwQXV0aFRva2VuKCkpOwogICAgICAgIGF1dGhJbmZvLnNldENvbXBvbmVudEFwcENvZGUoY29udGV4dC5nZXRDb21wb25lbnRBcHBDb2RlKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFRoaXJkUGxhdGZvcm1UeXBlKGNvbnRleHQuZ2V0VGhpcmRQbGF0Zm9ybVR5cGVFbnVtKCkpOwogICAgICAgIGF1dGhJbmZvLnNldFN0YXR1cyhBdXRoU3RhdHVzRW51bS5BVVRIT1JJWkVEKTsKICAgICAgICBhdXRoSW5mby5zZXRSZWZyZXNoQWNjZXNzVG9rZW4oZGV0YWlsLmdldEFwcFJlZnJlc2hUb2tlbigpKTsKICAgICAgICBhdXRoSW5mby5zZXRPdXRNZXJjaGFudElkKGRldGFpbC5nZXRVc2VySWQoKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210RW5kKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpICsgZGV0YWlsLmdldEV4cGlyZXNJbigpKSk7CiAgICAgICAgYXV0aEluZm8uc2V0R210Q3JlYXRlKG5ldyBEYXRlKGRldGFpbC5nZXRBdXRoVGltZSgpKSk7CiAgICAgICAgYXV0aEluZm9Db3JlU2VydmljZS51cGRhdGVHd0F1dGhJbmZvKGF1dGhJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>ExternalController.routeAuth改进判断是否需要authToken的代码</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJlQ2hlY2soQml6SW52b2tlQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIucHJlQ2hlY2soY29udGV4dCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
