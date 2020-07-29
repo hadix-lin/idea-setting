@@ -4,21 +4,21 @@
       <mapping pattern="Dockerfile_*" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="nothing" type="PLAIN_TEXT" />
       <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping pattern="dir_holder" type="PLAIN_TEXT" />
-      <mapping pattern="nothing" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
-      <mapping ext="release-1157028027" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rpcfilter" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="release-1157028027" type="PLAIN_TEXT" />
       <mapping ext="jsonconverter" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
-      <mapping ext="plugins" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
       <removed_mapping pattern="Dockerfile_sls_base" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
