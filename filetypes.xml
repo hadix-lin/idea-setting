@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile_*" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -16,22 +16,19 @@
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="factories" type="spring.factories" />
-      <removed_mapping pattern="Dockerfile_sls_base" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile_base" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern="Dockerfile_project" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile_production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Dockerfile_base" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile_production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile_project" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile_sls_base" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dockerfile_staging" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="DockerFile" type="Flow" />
     </extensionMap>
