@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile_*" type="Dockerfile" />
       <mapping pattern="DockerFile" type="Flow" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="nothing" type="PLAIN_TEXT" />
