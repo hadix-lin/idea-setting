@@ -115,6 +115,7 @@
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ShowReformatFileDialog" />
   <action id="SplitVertically">
