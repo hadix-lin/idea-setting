@@ -1,5 +1,130 @@
 <application>
   <component name="MetricsReloaded">
     <option name="selectedProfile" value="Lines of code metrics" />
+    <layout>
+      <profile name="Lines of code metrics">
+        <metrics_layout>
+          <tables>
+            <table category="Method">
+              <table_layout />
+            </table>
+            <table category="Class">
+              <table_layout />
+            </table>
+            <table category="Interface">
+              <table_layout />
+            </table>
+            <table category="Package">
+              <table_layout>
+                <column_order>
+                  <c>package</c>
+                  <c>LOC</c>
+                  <c>LOC(rec)</c>
+                  <c>LOCp</c>
+                  <c>LOCp(rec)</c>
+                  <c>LOCt</c>
+                  <c>LOCt(rec)</c>
+                </column_order>
+                <column_widths>
+                  <w>239</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Module">
+              <table_layout>
+                <column_order>
+                  <c>module</c>
+                  <c>L(CSS)</c>
+                  <c>L(Groovy)</c>
+                  <c>L(HTML)</c>
+                  <c>L(J)</c>
+                  <c>L(JSP)</c>
+                  <c>L(KT)</c>
+                  <c>L(XML)</c>
+                  <c>LOC</c>
+                  <c>LOCp</c>
+                  <c>LOCt</c>
+                  <c>NCLOC</c>
+                  <c>NCLOCp</c>
+                  <c>NCLOCt</c>
+                </column_order>
+                <column_widths>
+                  <w>216</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="FileType">
+              <table_layout>
+                <column_order>
+                  <c>file type</c>
+                  <c>LOC</c>
+                  <c>NCLOC</c>
+                </column_order>
+                <column_widths>
+                  <w>240</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Project">
+              <table_layout>
+                <column_order>
+                  <c>project</c>
+                  <c>L(CSS)</c>
+                  <c>L(Groovy)</c>
+                  <c>L(HTML)</c>
+                  <c>L(J)</c>
+                  <c>L(JSP)</c>
+                  <c>L(KT)</c>
+                  <c>L(XML)</c>
+                  <c>LOC</c>
+                  <c>LOCp</c>
+                  <c>LOCt</c>
+                  <c>NCLOC</c>
+                  <c>NCLOCp</c>
+                  <c>NCLOCt</c>
+                </column_order>
+                <column_widths>
+                  <w>105</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+          </tables>
+        </metrics_layout>
+      </profile>
+    </layout>
   </component>
 </application>
