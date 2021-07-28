@@ -6,10 +6,10 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="nothing" type="PLAIN_TEXT" />
-      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping pattern="dir_holder" type="PLAIN_TEXT" />
+      <mapping pattern="nothing" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rpcfilter" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
