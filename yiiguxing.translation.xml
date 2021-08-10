@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平均分配资源" />
+      <item value="平均分配" />
+      <item value="期望平均值" />
+      <item value="期望均值" />
+      <item value="期望jp vi" />
+      <item value="期望的" />
+      <item value="期望" />
+      <item value="assign" />
+      <item value="assignment" />
       <item value="贡献支持linux的代码" />
       <item value="contributes the codes support linux" />
       <item value="释放" />
@@ -23,17 +32,24 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1628585058876" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="56f98996c246b52e" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
