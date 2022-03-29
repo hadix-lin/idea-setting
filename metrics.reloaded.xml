@@ -6,13 +6,58 @@
         <metrics_layout>
           <tables>
             <table category="Method">
-              <table_layout />
+              <table_layout>
+                <column_order>
+                  <c>method</c>
+                  <c>CLOC</c>
+                  <c>JLOC</c>
+                  <c>LOC</c>
+                  <c>NCLOC</c>
+                  <c>RLOC</c>
+                </column_order>
+                <column_widths>
+                  <w>500</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                </column_widths>
+              </table_layout>
             </table>
             <table category="Class">
-              <table_layout />
+              <table_layout>
+                <column_order>
+                  <c>class</c>
+                  <c>CLOC</c>
+                  <c>JLOC</c>
+                  <c>LOC</c>
+                </column_order>
+                <column_widths>
+                  <w>500</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                </column_widths>
+              </table_layout>
             </table>
             <table category="Interface">
-              <table_layout />
+              <table_layout>
+                <column_order>
+                  <c>interface</c>
+                  <c>CLOC</c>
+                  <c>JLOC</c>
+                  <c>LOC</c>
+                  <c>NCLOC</c>
+                </column_order>
+                <column_widths>
+                  <w>472</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                  <w>100</w>
+                </column_widths>
+              </table_layout>
             </table>
             <table category="Package">
               <table_layout>
@@ -24,9 +69,27 @@
                   <c>LOCp(rec)</c>
                   <c>LOCt</c>
                   <c>LOCt(rec)</c>
+                  <c>CLOC</c>
+                  <c>CLOC(rec)</c>
+                  <c>JLOC</c>
+                  <c>JLOC(rec)</c>
+                  <c>NCLOC</c>
+                  <c>NCLOCp</c>
+                  <c>NCLOCp(rec)</c>
+                  <c>NCLOCt</c>
+                  <c>NCLOCt(rec)</c>
                 </column_order>
                 <column_widths>
-                  <w>239</w>
+                  <w>408</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
                   <w>75</w>
                   <w>75</w>
                   <w>75</w>
@@ -40,11 +103,9 @@
               <table_layout>
                 <column_order>
                   <c>module</c>
-                  <c>L(CSS)</c>
                   <c>L(Groovy)</c>
                   <c>L(HTML)</c>
                   <c>L(J)</c>
-                  <c>L(JSP)</c>
                   <c>L(KT)</c>
                   <c>L(XML)</c>
                   <c>LOC</c>
@@ -53,10 +114,10 @@
                   <c>NCLOC</c>
                   <c>NCLOCp</c>
                   <c>NCLOCt</c>
+                  <c>JLOC</c>
                 </column_order>
                 <column_widths>
                   <w>216</w>
-                  <w>75</w>
                   <w>75</w>
                   <w>75</w>
                   <w>75</w>
@@ -90,11 +151,9 @@
               <table_layout>
                 <column_order>
                   <c>project</c>
-                  <c>L(CSS)</c>
                   <c>L(Groovy)</c>
                   <c>L(HTML)</c>
                   <c>L(J)</c>
-                  <c>L(JSP)</c>
                   <c>L(KT)</c>
                   <c>L(XML)</c>
                   <c>LOC</c>
@@ -103,6 +162,8 @@
                   <c>NCLOC</c>
                   <c>NCLOCp</c>
                   <c>NCLOCt</c>
+                  <c>CLOC</c>
+                  <c>JLOC</c>
                 </column_order>
                 <column_widths>
                   <w>105</w>
