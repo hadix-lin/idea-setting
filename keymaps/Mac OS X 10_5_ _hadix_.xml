@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
   <action id="CheckinProject" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="ConvertJavaToKotlin" />
   <action id="EditorCutLineEnd" />
   <action id="EditorLineEnd">
@@ -118,6 +121,9 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ShowReformatFileDialog" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift meta l" />
