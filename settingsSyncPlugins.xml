@@ -638,6 +638,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="de.endrullis.idea.postfixtemplates">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="gherkin">
           <value>
             <PluginData>
