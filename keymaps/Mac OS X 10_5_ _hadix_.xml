@@ -41,6 +41,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
