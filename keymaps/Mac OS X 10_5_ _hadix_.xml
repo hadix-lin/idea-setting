@@ -23,6 +23,7 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
@@ -45,8 +46,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -64,6 +67,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="shift meta i" />
@@ -80,6 +86,9 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="shift meta alt h" />
   </action>
@@ -134,6 +143,14 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ShowReformatFileDialog" />
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift meta alt u" />
+  </action>
+  <action id="ShowUmlDiagram" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
