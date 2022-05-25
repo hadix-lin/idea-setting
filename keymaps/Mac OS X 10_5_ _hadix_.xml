@@ -44,6 +44,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
