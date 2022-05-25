@@ -158,6 +158,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="StringManipulation.Group.Main">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
