@@ -263,5 +263,10 @@
       <single-file value="true" />
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd")))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>select</display-name>
+      <single-file value="false" />
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
   </component>
 </application>
