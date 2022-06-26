@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
     <option name="JD_KEEP_INVALID_TAGS" value="false" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
     <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
     <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
     <option name="JD_KEEP_EMPTY_RETURN" value="false" />
@@ -14,8 +15,11 @@
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
+      <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
