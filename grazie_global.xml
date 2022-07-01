@@ -133,6 +133,15 @@
         <option value="LanguageTool.EN.BELATED" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="&quot;" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
