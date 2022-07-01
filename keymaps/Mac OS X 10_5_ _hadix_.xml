@@ -189,6 +189,9 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl meta v" />
   </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift ctrl meta v" />
   </action>
