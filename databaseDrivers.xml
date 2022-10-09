@@ -37,6 +37,9 @@
         <url>file://$USER_HOME$/Library/Preferences/IntelliJIdea13/jdbc-drivers/ojdbc6-11.2.0.3.jar</url>
       </library>
     </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.39.2" />
+    </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="false" />
     </driver>
